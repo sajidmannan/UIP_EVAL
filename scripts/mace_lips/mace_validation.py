@@ -4,32 +4,13 @@ import pytorch_lightning as pl
 import torch
 import wandb
 import numpy as np
-from e3nn.o3 import Irreps
-from mace.modules import ScaleShiftMACE
-from mace.modules.blocks import RealAgnosticResidualInteractionBlock
-from pytorch_lightning.loggers import WandbLogger
-from pytorch_lightning.callbacks import (
-    StochasticWeightAveraging,
-    LearningRateMonitor,
-    Callback,
-    ModelCheckpoint,
-)
-from torch.optim.swa_utils import AveragedModel, get_ema_multi_avg_fn
-from torch import nn
 
-from matsciml.common.types import AbstractGraph, BatchDict, DataDict
-from matsciml.datasets import LiPSDataset
 from matsciml.datasets.transforms import (
     PeriodicPropertiesTransform,
     PointCloudToGraphTransform,
 )
 from matsciml.lightning.data_utils import MatSciMLDataModule
 from matsciml.models.base import ForceRegressionTask
-from matsciml.models.pyg.mace import MACEWrapper
-from matsciml.lightning.callbacks import (
-    ExponentialMovingAverageCallback,
-    ManualGradientClip,
-)
 
 pl.seed_everything(215125)
 torch.set_float32_matmul_precision("medium")
