@@ -12,6 +12,20 @@ from matsciml.datasets.transforms import (
 from matsciml.lightning.data_utils import MatSciMLDataModule
 from matsciml.models.base import ForceRegressionTask
 
+"""
+This script acts as an intermediate step for validating the trained
+MACE model on LiPS.
+
+We download the uploaded checkpoint with the lowest validation force
+error, load the checkpoint into a `ForceRegressionTask`, then
+run through the validation set with the same loading pipeline. The
+saved checkpoint weights correspond to the exponential moving averaged
+ones.
+
+After going through the full validation set, we push the predicted
+and ground truth values to the initialized `wandb` run.
+"""
+
 pl.seed_everything(215125)
 torch.set_float32_matmul_precision("medium")
 
@@ -54,6 +68,7 @@ val_loader = dm.val_dataloader()
 
 
 def to(data, device):
+    """Simple utility function to move things to correct device"""
     new_dict = {}
     for key, value in data.items():
         if hasattr(value, "to"):
@@ -72,14 +87,17 @@ for index, batch in enumerate(val_loader):
     # make sure we don't contaminate
     task.zero_grad(True)
     batch = to(batch, task.device)
+    # run forward pass
     outputs = task(batch)
     energies = outputs["energy"].detach().cpu().numpy()
     forces = outputs["force"].detach().cpu().numpy()
     pred_energies.append(energies)
     pred_forces.append(forces)
+    # save the ground truth labels as well
     true_energies.append(batch["targets"]["energy"].cpu().numpy())
     true_forces.append(batch["targets"]["force"].cpu().numpy())
 
+# create a wandb artifact object to stash the results to
 infer_art = wandb.Artifact(name="mace-uip-validation", type="result")
 
 for array, name in zip(
@@ -89,6 +107,7 @@ for array, name in zip(
     output_path = artifact_dir.joinpath(name).with_suffix(".npy")
     array = np.vstack(array)
     np.save(output_path, array)
+    # somewhat annoyingly, this omits the file extension when pushed
     infer_art.add_file(local_path=output_path, name=name)
 
 run.log_artifact(infer_art)
