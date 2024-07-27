@@ -1,3 +1,3 @@
 [submodule "matsciml"]
 	path = matsciml
-	url = git@github.com:IntelLabs/matsciml.git
+	url = https://github.com/IntelLabs/matsciml.git
