@@ -1,0 +1,47 @@
+encoder_class:
+  class_path: matsciml.models.pyg.mace.MACEWrapper
+encoder_kwargs:
+  mace_module:
+    class_instance: mace.modules.ScaleShiftMACE
+  MLP_irreps:
+    class_path: e3nn.o3.Irreps
+    init_args:
+      irreps: "16x0e"
+  hidden_irreps:
+    class_path: e3nn.o3.Irreps
+    init_args:
+       irreps: "128x0e + 128x1o"
+  atom_embedding_dim: 128
+  atomic_inter_scale: 0.610558
+  atomic_inter_shift: 0.0
+  avg_num_neighbors: 25.18898391
+  correlation: 3
+  gate:
+    class_path: torch.nn.SiLU
+  interaction_cls:
+    class_instance: mace.modules.blocks.RealAgnosticResidualInteractionBlock
+  interaction_cls_first:
+    class_instance: mace.modules.blocks.RealAgnosticResidualInteractionBlock
+  max_ell: 3
+  num_atom_embedding: 100
+  num_bessel: 8
+  num_interactions: 2
+  num_polynomial_cutoff: 5.0
+  r_max: 6.0
+  radial_type: bessel
+  distance_transform: None
+output_kwargs:
+  lazy: False
+  input_dim: 640
+  hidden_dim: 640
+transforms:
+  - class_path: matsciml.datasets.transforms.PeriodicPropertiesTransform
+    init_args:
+      cutoff_radius: 6.0
+      adaptive_cutoff: True
+  - class_path: matsciml.datasets.transforms.PointCloudToGraphTransform
+    init_args:
+      backend: pyg
+      node_keys:
+        - "pos"
+        - "atomic_numbers"

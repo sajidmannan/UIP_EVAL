@@ -1,0 +1,20 @@
+encoder_class:
+  class_path: matsciml.models.pyg.EGNN
+encoder_kwargs:
+  hidden_dim: 512
+  output_dim: 128
+output_kwargs:
+  lazy: False
+  input_dim: 512
+  hidden_dim: 512
+transforms:
+  - class_path: matsciml.datasets.transforms.PeriodicPropertiesTransform
+    init_args:
+      cutoff_radius: 6.0
+      adaptive_cutoff: True
+  - class_path: matsciml.datasets.transforms.PointCloudToGraphTransform
+    init_args:
+      backend: pyg
+      node_keys:
+        - "pos"
+        - "atomic_numbers"

@@ -1,0 +1,7 @@
+model: egnn_pyg
+dataset:
+  lips:
+    - task: ForceRegressionTask
+      targets:
+       - energy
+       - force

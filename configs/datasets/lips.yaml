@@ -1,0 +1,17 @@
+dataset: LiPSDataset
+debug:
+  batch_size: 4
+  num_workers: 0
+experiment:
+  batch_size: 16
+  num_workers: 8
+  test_split: '/datasets-alt/molecular-data/lips/test'
+  train_path: '/datasets-alt/molecular-data/lips/train'
+  val_split: '/datasets-alt/molecular-data/lips/val'
+target_keys:
+- energy
+- force
+task_args:
+  task_loss_scaling:
+    energy: 1.0
+    force: 10.0
