@@ -18,20 +18,20 @@ callbacks:
   - class_path: pytorch_lightning.callbacks.EarlyStopping
     init_args:
       patience: 5
-      monitor: val_force_epoch
+      monitor: val_denoise_epoch
       mode: min
       verbose: True
       check_finite: False
   - class_path: pytorch_lightning.callbacks.ModelCheckpoint
     init_args:
-      monitor: val_force_epoch
+      monitor: val_denoise_epoch
       save_top_k: 3
   - class_path: matsciml.lightning.callbacks.GradientCheckCallback
-    #- class_path: pytorch_lightning.callbacks.StochasticWeightAveraging
-    #  init_args:
-    #    swa_lrs: 0.01
-    #    swa_epoch_start: 60
-    #    annealing_epochs: 200
+  - class_path: pytorch_lightning.callbacks.StochasticWeightAveraging
+    init_args:
+      swa_lrs: 0.01
+      swa_epoch_start: 0.2
+      annealing_epochs: 50
   - class_path: matsciml.lightning.callbacks.ExponentialMovingAverageCallback
     init_args:
       decay: 0.99
@@ -43,7 +43,6 @@ callbacks:
     init_args:
       logging_interval: step
 loggers:
-  - class_path: pytorch_lightning.loggers.CSVLogger # can omit init_args['save_dir'] for auto directory
   - class_path: pytorch_lightning.loggers.WandbLogger
     init_args:
       log_model: "all"
@@ -52,6 +51,5 @@ loggers:
       mode: "online"
       name: null
       tags:
-        - production
-        - training
+        - pretraining
         - noisy-nodes

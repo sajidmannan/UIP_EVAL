@@ -5,13 +5,17 @@ encoder_kwargs:
   cutoff: 6.0
   average_frame_embeddings: False
   pred_as_dict: False
-  hidden_dim: 128
-  out_dim: 128
+  hidden_channels: 256
+  output_dim: 1
   tag_hidden_channels: 0
+  lr: 0.0001
 output_kwargs:
   lazy: False
-  input_dim: 128
-  hidden_dim: 128
+  input_dim: 256
+  hidden_dim: 256
+  num_hidden: 2
+  activation:
+    class_path: torch.nn.SiLU
 transforms:
   - class_path: matsciml.datasets.transforms.PeriodicPropertiesTransform
     init_args:
@@ -23,6 +27,9 @@ transforms:
       node_keys:
         - "pos"
         - "atomic_numbers"
+  - class_path: matsciml.datasets.transforms.pretraining.NoisyPositions
+    init_args:
+      scale: 0.005
   - class_path: matsciml.datasets.transforms.FrameAveraging
     init_args:
       frame_averaging: 3D

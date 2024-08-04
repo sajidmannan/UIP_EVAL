@@ -6,6 +6,11 @@ encoder_kwargs:
   num_rbf: 32
   max_n: 3
   max_l: 3
+  units: 64
+  rbf_type: "SphericalBessel"
+  activation_type: swish
+  cutoff: 6.0
+  is_intensive: true
 output_kwargs:
   lazy: False
   input_dim: 64
@@ -13,12 +18,14 @@ output_kwargs:
 transforms:
   - class_path: matsciml.datasets.transforms.PeriodicPropertiesTransform
     init_args:
-      cutoff_radius: 6.5
+      cutoff_radius: 6.0
       adaptive_cutoff: True
   - class_path: matsciml.datasets.transforms.PointCloudToGraphTransform
     init_args:
       backend: dgl
-      cutoff_dist: 20.0
       node_keys:
         - "pos"
         - "atomic_numbers"
+  - class_path: matsciml.datasets.transforms.pretraining.NoisyPositions
+    init_args:
+      scale: 0.005

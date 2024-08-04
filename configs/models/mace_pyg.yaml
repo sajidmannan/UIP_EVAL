@@ -45,3 +45,6 @@ transforms:
       node_keys:
         - "pos"
         - "atomic_numbers"
+  - class_path: matsciml.datasets.transforms.pretraining.NoisyPositions
+    init_args:
+      scale: 0.005

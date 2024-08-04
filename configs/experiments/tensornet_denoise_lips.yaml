@@ -1,0 +1,6 @@
+model: tensornet_dgl
+dataset:
+  lips:
+    - task: NodeDenoisingTask
+      targets:
+        - null

@@ -1,0 +1,7 @@
+model: mace_pyg
+dataset:
+  mptraj:
+    - task: ForceRegressionTask
+      targets:
+       - energy
+       - force

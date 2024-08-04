@@ -1,0 +1,5 @@
+model: mace_pyg
+dataset:
+  lips:
+    - task: NodeDenoisingTask
+      targets: null

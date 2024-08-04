@@ -1,0 +1,5 @@
+model: faenet_pyg
+dataset:
+  lips:
+    - task: NodeDenoisingTask
+      targets: null

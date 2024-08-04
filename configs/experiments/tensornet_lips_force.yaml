@@ -1,0 +1,7 @@
+model: tensornet_dgl
+dataset:
+  lips:
+    - task: ForceRegressionTask
+      targets:
+       - energy
+       - force

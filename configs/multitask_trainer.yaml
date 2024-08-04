@@ -18,20 +18,15 @@ callbacks:
   - class_path: pytorch_lightning.callbacks.EarlyStopping
     init_args:
       patience: 5
-      monitor: val_force_epoch
+      monitor: val.force
       mode: min
       verbose: True
       check_finite: False
   - class_path: pytorch_lightning.callbacks.ModelCheckpoint
     init_args:
-      monitor: val_force_epoch
+      monitor: val.force
       save_top_k: 3
   - class_path: matsciml.lightning.callbacks.GradientCheckCallback
-    #- class_path: pytorch_lightning.callbacks.StochasticWeightAveraging
-    #  init_args:
-    #    swa_lrs: 0.01
-    #    swa_epoch_start: 60
-    #    annealing_epochs: 200
   - class_path: matsciml.lightning.callbacks.ExponentialMovingAverageCallback
     init_args:
       decay: 0.99
@@ -55,3 +50,4 @@ loggers:
         - production
         - training
         - noisy-nodes
+        - multitask

@@ -1,0 +1,7 @@
+model: faenet_pyg
+dataset:
+  mptraj:
+    - task: ForceRegressionTask
+      targets:
+       - energy
+       - force
