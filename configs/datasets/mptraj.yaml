@@ -6,8 +6,10 @@ experiment:
   batch_size: 16
   num_workers: 8
   #test_split: '/datasets-alt/molecular-data/mat_traj/mp-traj-full/test'
-  #  val_split: '/datasets-alt/molecular-data/mat_traj/mp-traj-full/val'
-  train_path: '/store/nosnap/scratch/mptraj-processing/train'
+  val_split: '/datasets-alt/molecular-data/mat_traj/mp-traj-full/val'
+  train_path: '/datasets-alt/molecular-data/mat_traj/mp-traj-full/train'
+  #train_path: '/store/nosnap/scratch/mptraj-processing/train'
+  #val_split: '/store/nosnap/scratch/mptraj-processing/test'
 target_keys:
 - energy
 - force
