@@ -1,13 +1,12 @@
 import argparse
 import os
 import random
-import sys
 import time
 
 import numpy as np
 import torch
 from ase import Atoms, units
-from ase.io import read, write
+from ase.io import read
 from ase.md import MDLogger
 from ase.md.langevin import Langevin
 
@@ -18,7 +17,6 @@ from ase.optimize import (
     BFGS,  # Import BFGS optimizer
     FIRE,
 )
-from loguru import logger
 from mace.calculators import MACECalculator
 from matsciml.preprocessing.atoms_to_graphs import *
 from tqdm import tqdm
@@ -26,7 +24,6 @@ from tqdm import tqdm
 from checkpoint import *
 from checkpoint import multitask_from_checkpoint
 
-# sys.path.append("/home/civil/phd/cez218288/scratch/mace_v_0.3.5/mace")  # Path to mace directory relative to MDBENCHGNN Folder
 from Utils import *
 
 
