@@ -198,7 +198,7 @@ def write_xyz(Filepath,atoms):
     for i in range(R.shape[0]):
         f.write("\n"+str(species[i])+"\t"+str(R[i,0])+"\t"+str(R[i,1])+"\t"+str(R[i,2]))
 
-def Symmetricize_replicate(curr_atoms, max_atoms, box_lengths):
+def symmetricize_replicate(curr_atoms, max_atoms, box_lengths):
     replication=[1,1,1]
     atom_count=curr_atoms
     lengths=box_lengths
@@ -241,7 +241,7 @@ def get_partial_rdfs(Traj,r_max=6.0,dr=0.01):
 
 def get_partial_rdfs_smoothened(inp_atoms,perturb=10,noise_std=0.01,max_atoms=300,r_max=6.0,dr=0.01):
     atoms=inp_atoms.copy()
-    replication_factors,_=Symmetricize_replicate(len(atoms), max_atoms=max_atoms, box_lengths=atoms.get_cell_lengths_and_angles()[:3])
+    replication_factors,_=symmetricize_replicate(len(atoms), max_atoms=max_atoms, box_lengths=atoms.get_cell_lengths_and_angles()[:3])
     atoms=replicate_system(atoms,replication_factors)
     Traj=[perturb_config(atoms,noise_std) for k in range(perturb)]
     return get_partial_rdfs(Traj,r_max=r_max,dr=dr)
@@ -269,7 +269,7 @@ def get_initial_rdf(inp_atoms,perturb=10,noise_std=0.01,max_atoms=300,replicate=
     #write_xyz(f"StabilityXYZData2/{Structid}.xyz",atoms.get_positions(),atoms.get_chemical_symbols(),atoms.get_cell())
     if replicate:
         n_atoms=len(atoms)
-        replication_factors,size=Symmetricize_replicate(len(atoms), max_atoms=max_atoms, box_lengths=atoms.get_cell_lengths_and_angles()[:3])
+        replication_factors,size=symmetricize_replicate(len(atoms), max_atoms=max_atoms, box_lengths=atoms.get_cell_lengths_and_angles()[:3])
         atoms=replicate_system(atoms,replication_factors)
     rmax=min(r_max,min_height(atoms.get_cell())/2.7)
     #atoms.rattle(0.01)

@@ -2,6 +2,7 @@ import argparse
 import os
 import random
 import time
+from pathlib import Path
 
 import numpy as np
 import torch
@@ -11,6 +12,7 @@ from ase.md import MDLogger
 from ase.md.langevin import Langevin
 
 # torch.set_default_dtype(torch.float64)
+from ase import Atoms
 from ase.md.nptberendsen import NPTBerendsen
 from ase.md.velocitydistribution import MaxwellBoltzmannDistribution
 from ase.optimize import (
@@ -27,7 +29,7 @@ from checkpoint import multitask_from_checkpoint
 from Utils import *
 
 
-def get_density(atoms):
+def get_density(atoms: Atoms) -> float:
     amu_to_grams = 1.66053906660e-24  # 1 amu = 1.66053906660e-24 grams
     angstrom_to_cm = 1e-8  # 1 Å = 1e-8 cm
     mass_amu = atoms.get_masses().sum()
@@ -41,13 +43,13 @@ def get_density(atoms):
     return density
 
 
-def write_xyz(Filepath, atoms):
+def write_xyz(filepath: str | Path, atoms: Atoms) -> None:
     """Writes ovito xyz file"""
     R = atoms.get_positions()
     species = atoms.get_atomic_numbers()
     cell = atoms.get_cell()
 
-    with open(Filepath, "w") as f:
+    with open(filepath, "w") as f:
         f.write(str(R.shape[0]) + "\n")
         flat_cell = cell.flatten()
         f.write(
@@ -66,7 +68,7 @@ def write_xyz(Filepath, atoms):
             )
 
 
-def replicate_system(atoms, replicate_factors):
+def replicate_system(atoms: Atoms, replicate_factors: np.ndarray) -> Atoms:
     """
     Replicates the given ASE Atoms object according to the specified replication factors.
     """
@@ -95,7 +97,7 @@ def replicate_system(atoms, replicate_factors):
     return new_atoms
 
 
-def Symmetricize_replicate(curr_atoms, max_atoms, box_lengths):
+def symmetricize_replicate(curr_atoms: int, max_atoms: int, box_lengths: np.ndarray):
     replication = [1, 1, 1]
     atom_count = curr_atoms
     lengths = box_lengths
@@ -108,7 +110,7 @@ def Symmetricize_replicate(curr_atoms, max_atoms, box_lengths):
     # Create new Atoms object
 
 
-def minimize_structure(atoms, fmax=0.05, steps=10):
+def minimize_structure(atoms: Atoms, fmax: float = 0.05, steps: int = 10) -> Atoms:
     """
     Perform energy minimization on the given ASE Atoms object using the FIRE optimizer.
 
@@ -143,14 +145,14 @@ config = TestArgs()
 
 
 def run_simulation(
-    calculator,
-    atoms,
-    pressure=0.000101325,
-    temperature=298,
-    timestep=0.1,
-    steps=10,
-    SimDir="./",
-):  ##pressure=0.000101325 GPa
+    calculator: Calculator,
+    atoms: Atoms,
+    pressure: float = 0.000101325,   # GPa
+    temperature: float = 298,
+    timestep: float = 0.1,
+    steps: int = 10,
+    SimDir: str | Path = Path.cwd(),
+):
     # Define the temperature and pressure
     init_conf = atoms
     init_conf.set_calculator(calculator)
@@ -197,7 +199,7 @@ def run_simulation(
     dyn.attach(write_frame, interval=config.trajdump_interval)
 
     counter = 0
-    for k in tqdm(range(steps)):
+    for k in tqdm(range(steps), desc="Running dynamics integration.", total=steps):
         dyn.run(1)
         counter += 1
 
@@ -224,10 +226,10 @@ def main(args, config):
     import pandas as pd
     from tqdm import tqdm
 
-    Dirs = os.listdir(cif_files_dir)
+    dirs = os.listdir(cif_files_dir)
     # for k in range(len(Dirs)):
     #     print(k,Dirs[k])
-    folder = Dirs[args.index]
+    folder = dirs[args.index]
     print("readong_folder number:", folder)
 
     # List to hold the data
@@ -245,7 +247,7 @@ def main(args, config):
             atoms = read(file_path)
 
             # Replicate_system
-            replication_factors, size = Symmetricize_replicate(
+            replication_factors, size = symmetricize_replicate(
                 len(atoms),
                 max_atoms=config.max_atoms,
                 box_lengths=atoms.get_cell_lengths_and_angles()[:3],
@@ -259,9 +261,9 @@ def main(args, config):
             # Calculate density and cell lengths and angles
             density = get_density(atoms)
             cell_lengths_and_angles = atoms.get_cell_lengths_and_angles().tolist()
-            SimDir = os.path.join(config.results_dir, f"{args.index}_Simulation_{file}")
-            print("SIMDIR:", SimDir)
-            os.makedirs(SimDir, exist_ok=True)
+            sim_dir = os.path.join(config.results_dir, f"{args.index}_Simulation_{file}")
+            print("SIMDIR:", sim_dir)
+            os.makedirs(sim_dir, exist_ok=True)
             avg_density, avg_angles, avg_lattice_parameters = run_simulation(
                 calculator,
                 atoms,
@@ -269,7 +271,7 @@ def main(args, config):
                 temperature=Temp,
                 timestep=config.timestep,
                 steps=config.runsteps,
-                SimDir=SimDir,
+                SimDir=sim_dir,
             )
             print(avg_density)
             # Append the results to the data list
@@ -301,7 +303,7 @@ def main(args, config):
             df = pd.DataFrame(data, columns=columns)
 
             # Save the DataFrame to a CSV file
-            df.to_csv(os.path.join(SimDir, f"Data.csv"), index=False)
+            df.to_csv(os.path.join(sim_dir, f"Data.csv"), index=False)
             # print(f"Data saved to {output_file}")
             # except:
             #     print("filename", file_path)
