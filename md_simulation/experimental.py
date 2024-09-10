@@ -1,31 +1,33 @@
-from ase.md.langevin import Langevin
-from ase.io import read, write
-import numpy as np
-import time
-import os
-import torch
-import sys
 import argparse
-from ase.optimize import BFGS  # Import BFGS optimizer
+import os
+import random
+import sys
+import time
 
-# sys.path.append("/home/civil/phd/cez218288/scratch/mace_v_0.3.5/mace")  # Path to mace directory relative to MDBENCHGNN Folder
-from Utils import *
-from ase import units
-from mace.calculators import MACECalculator
-from tqdm import tqdm
+import numpy as np
+import torch
+from ase import Atoms, units
+from ase.io import read, write
+from ase.md import MDLogger
+from ase.md.langevin import Langevin
 
 # torch.set_default_dtype(torch.float64)
 from ase.md.nptberendsen import NPTBerendsen
-
 from ase.md.velocitydistribution import MaxwellBoltzmannDistribution
-from ase import Atoms
-from ase.optimize import FIRE
-import random
+from ase.optimize import (
+    BFGS,  # Import BFGS optimizer
+    FIRE,
+)
 from loguru import logger
-from ase.md import MDLogger
-from checkpoint import *
+from mace.calculators import MACECalculator
 from matsciml.preprocessing.atoms_to_graphs import *
+from tqdm import tqdm
+
+from checkpoint import *
 from checkpoint import multitask_from_checkpoint
+
+# sys.path.append("/home/civil/phd/cez218288/scratch/mace_v_0.3.5/mace")  # Path to mace directory relative to MDBENCHGNN Folder
+from Utils import *
 
 
 def get_density(atoms):
