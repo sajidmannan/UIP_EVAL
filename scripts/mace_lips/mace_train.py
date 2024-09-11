@@ -3,25 +3,26 @@ import torch
 from e3nn.o3 import Irreps
 from mace.modules import ScaleShiftMACE
 from mace.modules.blocks import RealAgnosticResidualInteractionBlock
-from pytorch_lightning.loggers import WandbLogger
-from pytorch_lightning.callbacks import (
-    StochasticWeightAveraging,
-    LearningRateMonitor,
-    ModelCheckpoint,
-)
-from torch import nn
-
 from matsciml.datasets.transforms import (
     PeriodicPropertiesTransform,
     PointCloudToGraphTransform,
 )
 from matsciml.lightning.data_utils import MatSciMLDataModule
-fom matsciml.models.base import ForceRegressionTask
-from matsciml.models.pyg.mace import MACEWrapper
+from pytorch_lightning.callbacks import (
+    LearningRateMonitor,
+    ModelCheckpoint,
+    StochasticWeightAveraging,
+)
+from pytorch_lightning.loggers import WandbLogger
+from torch import nn
+
+from matsciml.models.base import ForceRegressionTask
 from matsciml.lightning.callbacks import (
     ExponentialMovingAverageCallback,
     ManualGradientClip,
 )
+from matsciml.models.pyg.mace import MACEWrapper
+
 """
 This script is used to reproduce the MACE training run on the
 full LiPS dataset using the matsciml pipeline.
