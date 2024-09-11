@@ -1,11 +1,9 @@
 from __future__ import annotations
 
 from pathlib import Path
-from typing import Union
 
-import torch
 import base
-from base import *
+import torch
 from base import MultiTaskLitModule
 
 
@@ -33,7 +31,7 @@ def multitask_from_checkpoint(ckpt_path: str | Path) -> MultiTaskLitModule:
     assert ckpt_path.exists(), f"Checkpoint file not found; passed {ckpt_path}"
     ckpt_data = torch.load(ckpt_path)
     hparams = ckpt_data["hyper_parameters"]
-    
+
     print("using our base")
     tasks = []
     for key, subdict in hparams["subtask_hparams"].items():

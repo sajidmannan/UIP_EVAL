@@ -1,9 +1,14 @@
 from __future__ import annotations
 
+from matsciml.lightning.callbacks import (
+    ExponentialMovingAverageCallback,
+    ManualGradientClip,
+)
+from pytorch_lightning.callbacks import StochasticWeightAveraging
 
 """
 This script is not intended to work entirely, but
-shows the key elements needed for training (for 
+shows the key elements needed for training (for
 the Intel folks, "BKM").
 
 These are:
@@ -22,15 +27,10 @@ means that logged values are not necessarily directly comparable
 between training and validation, or rather, validation should be
 outperforming training.
 """
-from pytorch_lightning.callbacks import StochasticWeightAveraging
-
-from matsciml.models.losses import AtomWeightedMSE
-from matsciml.lightning.callbacks import ExponentialMovingAverageCallback, ManualGradientClip
-
 
 # pass into trainer configuration
 callbacks = [
     StochasticWeightAveraging(swa_lrs=1e-2, swa_epoch_start=1),
     ExponentialMovingAverageCallback(decay=0.99),
-    ManualGradientClip(value=10., algorithm="norm")
+    ManualGradientClip(value=10.0, algorithm="norm"),
 ]

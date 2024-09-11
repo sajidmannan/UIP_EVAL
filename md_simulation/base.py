@@ -11,16 +11,15 @@ from warnings import warn
 
 import pytorch_lightning as pl
 import torch
-from einops import reduce
-from torch import Tensor, nn
-from torch.optim import AdamW, Optimizer, lr_scheduler
 import torchmetrics
-
+from einops import reduce
 from matsciml.common import package_registry
 from matsciml.common.registry import registry
 from matsciml.common.types import AbstractGraph, BatchDict, DataDict, Embeddings
 from matsciml.models.common import OutputHead
 from matsciml.modules.normalizer import Normalizer
+from torch import Tensor, nn
+from torch.optim import AdamW, Optimizer, lr_scheduler
 
 if package_registry["dgl"]:
     import dgl
@@ -1657,7 +1656,7 @@ class ForceRegressionTask(BaseTaskModule):
         batch: dict[str, torch.Tensor | dgl.DGLGraph | dict[str, torch.Tensor]],
     ) -> dict[str, torch.Tensor]:
         # for ease of use, this task will always compute forces
-        del batch['embeddings']
+        del batch["embeddings"]
         with dynamic_gradients_context(True, self.has_rnn):
             # first ensure that positions tensor is backprop ready
             if "graph" in batch:
@@ -1666,19 +1665,19 @@ class ForceRegressionTask(BaseTaskModule):
                 # the DGL case
                 if hasattr(graph, "ndata"):
                     pos: torch.Tensor = graph.ndata.get("pos")
-                    
+
                     # for frame averaging
                     fa_rot = graph.ndata.get("fa_rot", None)
                     fa_pos = graph.ndata.get("fa_pos", None)
-                    graph.ndata['pos'] = pos
+                    graph.ndata["pos"] = pos
                 else:
                     # otherwise assume it's PyG
                     pos: torch.Tensor = graph.pos
-                    
+
                     # for frame averaging
                     fa_rot = getattr(graph, "fa_rot", None)
                     fa_pos = getattr(graph, "fa_pos", None)
-                    cell = getattr(graph,"cell",None)
+                    cell = getattr(graph, "cell", None)
             else:
                 graph = None
                 # assume point cloud otherwise
@@ -1693,33 +1692,33 @@ class ForceRegressionTask(BaseTaskModule):
             if isinstance(pos, torch.Tensor):
                 pos.requires_grad_(True)
                 displacement = torch.zeros(
-                            (1, 3, 3),
-                            dtype=pos.dtype,
-                            device=pos.device,
-                            )   
+                    (1, 3, 3),
+                    dtype=pos.dtype,
+                    device=pos.device,
+                )
 
                 displacement.requires_grad_(True)
                 symmetric_displacement = 0.5 * (
                     displacement + displacement.transpose(-1, -2)
                 )  # From https://github.com/mir-group/nequip
-                pos=pos+torch.einsum(
+                pos = pos + torch.einsum(
                     "be,bec->bc",
                     pos,
                     symmetric_displacement,
                 )
                 if "graph" in batch:
-                    graph.pos=pos
+                    graph.pos = pos
                 if hasattr(graph, "ndata"):
-                    graph.ndata['pos'] = pos
-               
-                if(fa_pos is not None):
+                    graph.ndata["pos"] = pos
+
+                if fa_pos is not None:
                     for k in range(len(fa_pos)):
                         fa_pos[0].requires_grad_(True)
-                        fa_pos[0]=fa_pos[0]+torch.einsum(
+                        fa_pos[0] = fa_pos[0] + torch.einsum(
                             "be,bec->bc",
                             pos,
                             symmetric_displacement,
-                            )
+                        )
 
             elif isinstance(pos, list):
                 [p.requires_grad_(True) for p in pos]
@@ -1735,10 +1734,10 @@ class ForceRegressionTask(BaseTaskModule):
                 embeddings = batch.get("embeddings")
             else:
                 embeddings = self.encoder(batch)
-                
+
             natoms = batch.get("natoms", None)
             outputs = self.process_embedding(
-                embeddings, pos,displacement,cell, fa_rot, fa_pos, natoms, graph
+                embeddings, pos, displacement, cell, fa_rot, fa_pos, natoms, graph
             )
         return outputs
 
@@ -1747,14 +1746,14 @@ class ForceRegressionTask(BaseTaskModule):
         embeddings: Embeddings,
         pos: torch.Tensor,
         displacement: torch.Tensor,
-        cell :torch.Tensor,
+        cell: torch.Tensor,
         fa_rot: None | torch.Tensor = None,
         fa_pos: None | torch.Tensor = None,
         natoms: None | torch.Tensor = None,
         graph: None | AbstractGraph = None,
     ) -> dict[str, torch.Tensor]:
         outputs = {}
-        
+
         # compute node-level contributions to the energy
         node_energies = self.output_heads["energy"](embeddings.point_embedding)
         # figure out how we're going to reduce node level energies
@@ -1767,6 +1766,7 @@ class ForceRegressionTask(BaseTaskModule):
                     return dgl.readout_nodes(
                         graph, "node_energies", op=self.embedding_reduction_type
                     )
+
             else:
                 # assumes a batched pyg graph
                 batch = graph.batch
@@ -1779,6 +1779,7 @@ class ForceRegressionTask(BaseTaskModule):
                         dim=-2,
                         reduce=self.embedding_reduction_type,
                     )
+
         else:
 
             def readout(node_energies: torch.Tensor):
@@ -1787,14 +1788,18 @@ class ForceRegressionTask(BaseTaskModule):
                 )
 
         def energy_and_force(
-            pos: torch.Tensor,displacement: torch.Tensor,cell: torch.Tensor, node_energies: torch.Tensor, readout: Callable
+            pos: torch.Tensor,
+            displacement: torch.Tensor,
+            cell: torch.Tensor,
+            node_energies: torch.Tensor,
+            readout: Callable,
         ) -> tuple[torch.Tensor, torch.Tensor]:
             # we sum over points and keep dimension as 1
             energy = readout(node_energies)
             if energy.ndim == 1:
                 energy.unsqueeze(-1)
             # now use autograd for force calculation
-            
+
             # force = (
             #     -1
             #     * torch.autograd.grad(
@@ -1804,8 +1809,6 @@ class ForceRegressionTask(BaseTaskModule):
             #         create_graph=True,
             #     )[0]
             # )
-            
-           
 
             forces, virials = torch.autograd.grad(
                 outputs=[energy],  # [n_graphs, ]
@@ -1814,7 +1817,7 @@ class ForceRegressionTask(BaseTaskModule):
                 create_graph=True,  # Create graph for second derivative
                 allow_unused=True,
             )
-            
+
             cell = cell.view(-1, 3, 3)
             volume = torch.einsum(
                 "zi,zi->z",
@@ -1823,21 +1826,21 @@ class ForceRegressionTask(BaseTaskModule):
             ).unsqueeze(-1)
             stress = virials / volume.view(-1, 1, 1)
 
-
-
-            return energy, -1*forces , stress
+            return energy, -1 * forces, stress
 
         # not using frame averaging
         if fa_pos is None:
-            energy, force, stress = energy_and_force(pos,displacement,cell, node_energies, readout)
+            energy, force, stress = energy_and_force(
+                pos, displacement, cell, node_energies, readout
+            )
         else:
             energy = []
             force = []
-            stress=[]
+            stress = []
             for idx, pos in enumerate(fa_pos):
                 frame_embedding = node_energies[:, idx, :]
                 frame_energy, frame_force, frame_stress = energy_and_force(
-                    pos,displacement,cell, frame_embedding, readout
+                    pos, displacement, cell, frame_embedding, readout
                 )
                 force.append(frame_force)
                 energy.append(frame_energy.unsqueeze(-1))
@@ -1865,7 +1868,7 @@ class ForceRegressionTask(BaseTaskModule):
             # energy - [batch size, num frames, 1]
             force = torch.cat(all_forces, dim=1)
             energy = torch.cat(energy, dim=1)
-            stress= torch.cat(stress,dim=1)
+            stress = torch.cat(stress, dim=1)
         # reduce outputs to what are expected shapes
         outputs["force"] = reduce(
             force,
@@ -1881,11 +1884,11 @@ class ForceRegressionTask(BaseTaskModule):
             self.embedding_reduction_type,
             d=1,
         )
-       
+
         # this ensures that we get a scalar value for every node
         # representing the energy contribution
         outputs["node_energies"] = node_energies
-        outputs["stress"]=stress
+        outputs["stress"] = stress
         return outputs
 
     def _get_targets(

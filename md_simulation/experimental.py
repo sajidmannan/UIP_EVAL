@@ -1,32 +1,23 @@
 import argparse
 import os
 import random
-import time
 from pathlib import Path
 
 import numpy as np
 import torch
-from ase import Atoms, units
+from ase import Atoms, units, Calculator
 from ase.io import read
 from ase.md import MDLogger
-from ase.md.langevin import Langevin
 
 # torch.set_default_dtype(torch.float64)
-from ase import Atoms
 from ase.md.nptberendsen import NPTBerendsen
 from ase.md.velocitydistribution import MaxwellBoltzmannDistribution
-from ase.optimize import (
-    BFGS,  # Import BFGS optimizer
-    FIRE,
-)
-from mace.calculators import MACECalculator
-from matsciml.preprocessing.atoms_to_graphs import *
-from tqdm import tqdm
+from ase.optimize import FIRE
 
-from checkpoint import *
 from checkpoint import multitask_from_checkpoint
 
-from Utils import *
+from tqdm import tqdm
+from Utils import ASEcalculator
 
 
 def get_density(atoms: Atoms) -> float:
@@ -147,7 +138,7 @@ config = TestArgs()
 def run_simulation(
     calculator: Calculator,
     atoms: Atoms,
-    pressure: float = 0.000101325,   # GPa
+    pressure: float = 0.000101325,  # GPa
     temperature: float = 298,
     timestep: float = 0.1,
     steps: int = 10,
@@ -215,16 +206,13 @@ def run_simulation(
 
 
 def main(args, config):
-    start_time = time.time()
     Loaded_model = multitask_from_checkpoint(config.model_path)
     calculator = ASEcalculator(Loaded_model, config.model_name)
     # calculator = MACECalculator(model_paths=config.model_path, device=config.device, default_dtype='float64')
     # calculator.model.double()  # Change model weights type to double precision (hack to avoid error)
-    model_name = "mace"
     cif_files_dir = config.input_dir
     # output_file = config.out_dir
     import pandas as pd
-    from tqdm import tqdm
 
     dirs = os.listdir(cif_files_dir)
     # for k in range(len(Dirs)):
@@ -261,7 +249,9 @@ def main(args, config):
             # Calculate density and cell lengths and angles
             density = get_density(atoms)
             cell_lengths_and_angles = atoms.get_cell_lengths_and_angles().tolist()
-            sim_dir = os.path.join(config.results_dir, f"{args.index}_Simulation_{file}")
+            sim_dir = os.path.join(
+                config.results_dir, f"{args.index}_Simulation_{file}"
+            )
             print("SIMDIR:", sim_dir)
             os.makedirs(sim_dir, exist_ok=True)
             avg_density, avg_angles, avg_lattice_parameters = run_simulation(
@@ -303,7 +293,7 @@ def main(args, config):
             df = pd.DataFrame(data, columns=columns)
 
             # Save the DataFrame to a CSV file
-            df.to_csv(os.path.join(sim_dir, f"Data.csv"), index=False)
+            df.to_csv(os.path.join(sim_dir, "Data.csv"), index=False)
             # print(f"Data saved to {output_file}")
             # except:
             #     print("filename", file_path)
