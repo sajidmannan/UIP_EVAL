@@ -1142,6 +1142,44 @@ class BaseTaskModule(pl.LightningModule):
             normalizers[key] = Normalizer(mean=mean, std=std, device=self.device)
         return normalizers
 
+    def predict(self, batch: BatchDict) -> dict[str, torch.Tensor]:
+        """
+        Implements what is effectively the 'inference' logic of the task,
+        where run the forward pass on a batch of samples, and if normalizers
+        were used for training, we also apply the inverse operation to get
+        values in the right scale.
+
+        Not to be confused with `predict_step`, which is used by Lightning as
+        part of the prediction workflow. Since there is no one-size-fits-all
+        inference workflow we can define, this provides a convenient function
+        for users to call as a replacement.
+
+        Parameters
+        ----------
+        batch : BatchDict
+            Batch of samples to pass to the model.
+
+        Returns
+        -------
+        dict[str, torch.Tensor]
+            Output dictionary as provided by the forward pass, but if
+            normalizers are available for a given task, we apply the
+            inverse norm on the value.
+        """
+        # use EMA weights instead if they are available
+        if hasattr(self, "ema_module"):
+            wrapper = self.ema_module
+        else:
+            wrapper = self
+        outputs = wrapper(batch)
+        if self.uses_normalizers:
+            for key in self.task_keys:
+                if key in self.normalizers:
+                    # apply the inverse transform if provided
+                    outputs[key] = self.normalizers[key].denorm(outputs[key])
+        return outputs
+
+
     @classmethod
     def from_pretrained_encoder(cls, task_ckpt_path: str | Path, **kwargs):
         """
@@ -1656,7 +1694,7 @@ class ForceRegressionTask(BaseTaskModule):
         batch: dict[str, torch.Tensor | dgl.DGLGraph | dict[str, torch.Tensor]],
     ) -> dict[str, torch.Tensor]:
         # for ease of use, this task will always compute forces
-        del batch["embeddings"]
+        #del batch["embeddings"]
         with dynamic_gradients_context(True, self.has_rnn):
             # first ensure that positions tensor is backprop ready
             if "graph" in batch:
@@ -1890,6 +1928,42 @@ class ForceRegressionTask(BaseTaskModule):
         outputs["node_energies"] = node_energies
         outputs["stress"] = stress
         return outputs
+   
+    def predict(self, batch: BatchDict) -> dict[str, torch.Tensor]:
+        """
+        Similar to the base method, but we make two minor modifications to
+        the denormalization logic as we want to potentially apply the same
+        energy normalization rescaling to the forces and node-level energies.
+
+        Parameters
+        ----------
+        batch : BatchDict
+            Batch of samples to evaluate on.
+
+        Returns
+        -------
+        dict[str, torch.Tensor]
+            Output dictionary as provided by the forward call. For this task in
+            particular, we may also apply the energy rescaling to forces and
+            node energies if separate keys for them are not provided.
+        """
+        output = super().predict(batch)
+        
+        # for forces, in the event that a dedicated normalizer wasn't provided
+        # but we have an energy normalizer, we apply the same factors to the force
+        if self.uses_normalizers:
+            if "force" not in self.normalizers and "energy" in self.normalizers:
+
+                # for force only std is used to rescale
+                output["force"] = output["force"] * self.normalizers["energy"].std
+                output["stress"] = output["stress"] * self.normalizers["energy"].std
+            if "node_energies" not in self.normalizers and "energy" in self.normalizers:
+                output["node_energies"] = self.normalizers["energy"].denorm(
+                    output["node_energies"]
+                )
+        # print('ye walla use krna hai')       
+        return output
+    
 
     def _get_targets(
         self,

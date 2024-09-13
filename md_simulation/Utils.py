@@ -130,6 +130,17 @@ def minimize_structure(atoms, fmax=0.05, steps=50):
     return atoms
 
 
+def to(data, device):
+    """Simple utility function to move things to correct device"""
+    new_dict = {}
+    for key, value in data.items():
+        if hasattr(value, "to"):
+            new_dict[key] = value.to(device)
+        else:
+            new_dict[key] = value
+    return new_dict
+
+
 def min_height(cell_matrix):
     """
     Calculate the perpendicular heights in three directions given a 3x3 cell matrix.
@@ -397,10 +408,11 @@ class ASEcalculator(Calculator):
         batch = self.convAtomstoBatch(atoms)
 
         # predict + extract data
-        out = self.model.forward(batch)
-        energy = out["regression0"]["corrected_total_energy"].detach().cpu().item()
-        forces = out["force_regression0"]["force"].detach().cpu().numpy()
-        stress = out["force_regression0"]["stress"].squeeze(0).detach().cpu().numpy()
+        out = self.model.predict(to(batch,self.model.device))
+        #out = self.model.forward(batch)
+        energy = out['energy'].detach().cpu().item()
+        forces = out["force"].detach().cpu().numpy()
+        stress = out["stress"].squeeze(0).detach().cpu().numpy()
         # store results
         E = energy
         stress = np.array(

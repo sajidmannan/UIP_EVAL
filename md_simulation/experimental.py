@@ -2,10 +2,12 @@ import argparse
 import os
 import random
 from pathlib import Path
-
+from typing import Union
 import numpy as np
 import torch
-from ase import Atoms, units, Calculator
+from ase import Atoms, units
+
+from ase.calculators.calculator import Calculator
 from ase.io import read
 from ase.md import MDLogger
 
@@ -18,6 +20,9 @@ from checkpoint import multitask_from_checkpoint
 
 from tqdm import tqdm
 from Utils import ASEcalculator
+from base import ForceRegressionTask
+
+
 
 
 def get_density(atoms: Atoms) -> float:
@@ -34,7 +39,7 @@ def get_density(atoms: Atoms) -> float:
     return density
 
 
-def write_xyz(filepath: str | Path, atoms: Atoms) -> None:
+def write_xyz(filepath: Union[str , Path], atoms: Atoms) -> None:
     """Writes ovito xyz file"""
     R = atoms.get_positions()
     species = atoms.get_atomic_numbers()
@@ -120,11 +125,11 @@ def minimize_structure(atoms: Atoms, fmax: float = 0.05, steps: int = 10) -> Ato
 
 class TestArgs:
     runsteps = 50000
-    model_name = "tensornet"  ##[mace, faenet, tensornet]
-    model_path = "/home/m3rg2000/Simulation/checkpoints-2024/epoch=4-step=4695_tensornet_force_r.ckpt"
+    model_name = "mace"  ##[mace, faenet, tensornet]
+    model_path="/home/civil/phd/cez218288/scratch/Universal_potential/No_SAM/lightning_logs/version_0/checkpoints/epoch=99-step=109400.ckpt"
     timestep = 1.0
-    results_dir = "/home/m3rg2000/Universal_matscimal/Sim_output"
-    input_dir = "/home/m3rg2000/Universal_matscimal/Data/exp_1"
+    results_dir="/home/civil/phd/cez218288/scratch/Universal_potential/Sim_output"
+    input_dir="/home/civil/phd/cez218288/scratch/Universal_potential/Data/exp_1"
     device = "cuda"
     max_atoms = 100  # Replicate upto max_atoms (Min. will be max_atoms/2) (#Won't reduce if more than max_atoms)
     trajdump_interval = 10
@@ -142,7 +147,7 @@ def run_simulation(
     temperature: float = 298,
     timestep: float = 0.1,
     steps: int = 10,
-    SimDir: str | Path = Path.cwd(),
+    SimDir: Union[str , Path]= Path.cwd(),
 ):
     # Define the temperature and pressure
     init_conf = atoms
@@ -206,7 +211,7 @@ def run_simulation(
 
 
 def main(args, config):
-    Loaded_model = multitask_from_checkpoint(config.model_path)
+    Loaded_model = ForceRegressionTask.load_from_checkpoint(config.model_path).to(config.device)
     calculator = ASEcalculator(Loaded_model, config.model_name)
     # calculator = MACECalculator(model_paths=config.model_path, device=config.device, default_dtype='float64')
     # calculator.model.double()  # Change model weights type to double precision (hack to avoid error)
