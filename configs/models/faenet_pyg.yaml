@@ -29,7 +29,8 @@ transforms:
         - "atomic_numbers"
   - class_path: matsciml.datasets.transforms.pretraining.NoisyPositions
     init_args:
-      scale: 0.005
+      scale: 0.1
+      normalize: true
   - class_path: matsciml.datasets.transforms.FrameAveraging
     init_args:
       frame_averaging: 3D
