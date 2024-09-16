@@ -1,0 +1,5 @@
+model: faenet_pyg
+dataset:
+  mptraj:
+    - task: NodeDenoisingTask
+      targets: null
