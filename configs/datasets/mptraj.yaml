@@ -5,15 +5,16 @@ debug:
 experiment:
   batch_size: 16
   num_workers: 8
-  #test_split: '/datasets-alt/molecular-data/mat_traj/mp-traj-full/test'
-  val_split: '/datasets-alt/molecular-data/mat_traj/mp-traj-full/val'
-  train_path: '/datasets-alt/molecular-data/mat_traj/mp-traj-full/train'
-  #train_path: '/store/nosnap/scratch/mptraj-processing/train'
-  #val_split: '/store/nosnap/scratch/mptraj-processing/test'
+  train_path: '/datasets-alt/molecular-data/mat_traj/aug_2024_processed/mptraj-processing/train'
+  val_split: 0.1
+  test_split: '/datasets-alt/molecular-data/mat_traj/aug_2024_processed/mptraj-processing/test'
 target_keys:
-- energy
-- force
+  - energy
+  - force
 task_args:
+  normalize_kwargs:
+    energy_mean: -201.55001831
+    energy_std: 203.40841674
   task_loss_scaling:
     energy: 1.0
     force: 10.0
