@@ -30,7 +30,7 @@ encoder_kwargs:
   r_max: 6.0
   radial_type: bessel
   distance_transform: None
-  atomic_energies:
+  atomic_energies:   # these values are obtained by running mace preprocessing
      - 1.0
      - -3.1021542646441627
      - 1.0
