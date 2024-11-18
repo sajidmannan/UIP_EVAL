@@ -30,6 +30,7 @@ encoder_kwargs:
   r_max: 6.0
   radial_type: bessel
   distance_transform: None
+  disable_forces: false  # needed to use MACE forces
   atomic_energies:   # these values are obtained by running mace preprocessing
      - 1.0
      - -3.1021542646441627
