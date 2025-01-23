@@ -635,9 +635,9 @@ def process_file(file_handler, calculator, system_name: str, xyz_file_path: str,
     )
 
     counter = 0
-    window_size = 100  # Size of the trajectory window for RDF calculation
+    window_size = 1000  # Size of the trajectory window for RDF calculation
 
-    for structure in structures[:300]:
+    for structure in structures:
         try:
             densities.append(calculator.calculate_density(structure))
             lattice_params.append(structure.get_cell_lengths_and_angles())
