@@ -1,3 +1,8 @@
+
+Post_processing/analysis.py
+Post_processing/debug.py
+debug_items/
+k8/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

@@ -1,0 +1,25 @@
+CHGNet:
+  "Cell Parameter a (\xC5)": 0.8
+  "Cell Parameter b (\xC5)": 0.84
+  "Cell Parameter c (\xC5)": 0.86
+  "Density (g/cm\xB3)": 0.36
+M3GNet:
+  "Cell Parameter a (\xC5)": 0.73
+  "Cell Parameter b (\xC5)": 0.81
+  "Cell Parameter c (\xC5)": 0.96
+  "Density (g/cm\xB3)": 0.33
+MACE:
+  "Cell Parameter a (\xC5)": 0.99
+  "Cell Parameter b (\xC5)": 0.99
+  "Cell Parameter c (\xC5)": 0.99
+  "Density (g/cm\xB3)": 0.94
+MatterSim:
+  "Cell Parameter a (\xC5)": 0.9836797815525026
+  "Cell Parameter b (\xC5)": 0.9816311598387564
+  "Cell Parameter c (\xC5)": 0.9897393833662446
+  "Density (g/cm\xB3)": 0.9256503934432373
+Orb:
+  "Cell Parameter a (\xC5)": 0.9847718776508136
+  "Cell Parameter b (\xC5)": 0.9846474877431685
+  "Cell Parameter c (\xC5)": 0.9911557407891393
+  "Density (g/cm\xB3)": 0.9025541122940566

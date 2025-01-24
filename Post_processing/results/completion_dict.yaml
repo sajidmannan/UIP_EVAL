@@ -1,0 +1,15 @@
+CHGNet:
+  completed_simulations: 172
+  total_folders: 2464
+M3GNet:
+  completed_simulations: 1988
+  total_folders: 2679
+MACE:
+  completed_simulations: 2371
+  total_folders: 2681
+MatterSim:
+  completed_simulations: 2557
+  total_folders: 2680
+Orb:
+  completed_simulations: 2679
+  total_folders: 2684
