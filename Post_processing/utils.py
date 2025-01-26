@@ -1,27 +1,30 @@
+import csv
 import os
-import pandas as pd
-import sys
-from datetime import datetime
-import torch
-import numpy as np
-from joblib import Parallel, delayed
-import h5py
-from tqdm import tqdm
-import matplotlib.pyplot as plt
-from sklearn.metrics import r2_score
 import re
-from ase.geometry.analysis import Analysis
+import sys
+import uuid
+from datetime import datetime
 from typing import List, Tuple
+from warnings import filterwarnings
+
+import h5py
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+import torch
 from ase import io
 from ase.atoms import Atoms
-from warnings import filterwarnings
+from ase.geometry.analysis import Analysis
+from joblib import Parallel, delayed
+from sklearn.metrics import r2_score
+from tqdm import tqdm
 
 # Suppress warnings
 filterwarnings('ignore')
 
 
 # Function to find missing CSV files
-def find_missing_csv_files_v8(root_folder, model_name):
+def find_missing_csv_files_v8(root_folder, model_name, results_folder):
     """
     Combines all Data.csv files from .cif subdirectories under the given root folder.
     Generates a combined CSV and reports missing or unreadable files.
@@ -87,10 +90,10 @@ def find_missing_csv_files_v8(root_folder, model_name):
 
     if df_list:
         combined_df = pd.concat(df_list, ignore_index=True)
-        combined_df.to_csv(f"{model_name}.csv", index=False)
+        combined_df.to_csv(f"{results_folder}/{model_name}/{model_name}.csv", index=False)
 
-        with open(f"fraction_complete_{model_name}.txt", 'w') as file:
-            file.write(f"{model_name}\t Total .cif folders found: {len(all_cif_paths)}" +
+        with open(f"{results_folder}/{model_name}/fraction_complete_{model_name}.txt", 'w') as file:
+            file.write(f"{results_folder}/{model_name}\t Total .cif folders found: {len(all_cif_paths)}" +
                        f"\t\tSuccessfully read Data.csv: {len(successfully_read_csvs)}")
 
         return combined_df, missing_csv_dirs, unreadable_csv_dirs
@@ -135,8 +138,9 @@ class FileHandler:
     Handles file searching and reading operations.
     """
 
-    def __init__(self, root_folder: str):
+    def __init__(self, root_folder: str, incoming_uuid: str):
         self.root_folder = root_folder
+        self.uuid = incoming_uuid
 
     def find_xyz_files(self) -> List[Tuple[str, str]]:
         xyz_files = []
@@ -166,8 +170,7 @@ class FileHandler:
 
         return xyz_files, log_files
 
-    @staticmethod
-    def safe_read_xyz(file_path: str) -> List[Atoms]:
+    def safe_read_xyz(self, file_path: str) -> List[Atoms]:
         """
         Safely reads an XYZ file.
 
@@ -181,9 +184,12 @@ class FileHandler:
             with open(file_path, "rb") as f:
                 content = f.read()
             decoded_content = content.decode("utf-8", errors="ignore")
-            with open("temporary.xyz", "w") as temp_file:
+            temp_file_name = f"./temp_file_dir/temporary_{self.uuid}.xyz"
+            with open(temp_file_name, "w") as temp_file:
                 temp_file.write(decoded_content)
-            return io.read("temporary.xyz", index=":")
+            atoms = io.read(temp_file_name, index=":")
+            os.remove(temp_file_name) 
+            return atoms
         except Exception as e:
             print(f"Error reading {file_path}: {e}")
             return []
@@ -209,7 +215,6 @@ class FileHandler:
         except Exception as e:
             print(f"Error reading log file {log_path}: {e}")
         return data
-
 
 class PropertyCalculator:
     """Class for performing property calculations on atomic structures."""
@@ -609,7 +614,6 @@ def get_rdf(Traj, r_max=6.0, dr=0.01):
     return x, y
 
 
-import csv
 def process_file(file_handler, calculator, system_name: str, xyz_file_path: str, log_file_path: str):
     """Process a single XYZ and log file to extract properties."""
     densities = []
