@@ -181,14 +181,14 @@ class FileHandler:
             List[Atoms]: List of atomic structures.
         """
         try:
-            with open(file_path, "rb") as f:
-                content = f.read()
-            decoded_content = content.decode("utf-8", errors="ignore")
-            temp_file_name = f"./temp_file_dir/temporary_{self.uuid}.xyz"
-            with open(temp_file_name, "w") as temp_file:
-                temp_file.write(decoded_content)
-            atoms = io.read(temp_file_name, index=":")
-            os.remove(temp_file_name) 
+            # with open(file_path, "rb") as f:
+            #     content = f.read()
+            # decoded_content = content.decode("utf-8", errors="ignore")
+            # temp_file_name = f"./temp_file_dir/temporary_{self.uuid}.xyz"
+            # with open(temp_file_name, "w") as temp_file:
+            #     temp_file.write(decoded_content)
+            atoms = io.read(file_path, index=":")
+            # os.remove(temp_file_name) 
             return atoms
         except Exception as e:
             print(f"Error reading {file_path}: {e}")
@@ -297,7 +297,7 @@ class XYZAnalyzer:
 
         # Read the XYZ file and compute densities
         structures = self.file_handler.safe_read_xyz(xyz_file_path)
-        print(len(structures))
+        # print(len(structures))
 
         for structure in structures:
             try:
@@ -639,7 +639,7 @@ def process_file(file_handler, calculator, system_name: str, xyz_file_path: str,
     )
 
     counter = 0
-    window_size = 1000  # Size of the trajectory window for RDF calculation
+    window_size = 100  # Size of the trajectory window for RDF calculation
 
     for structure in structures:
         try:
