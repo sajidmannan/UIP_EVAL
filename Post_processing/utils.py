@@ -24,7 +24,7 @@ filterwarnings('ignore')
 
 
 # Function to find missing CSV files
-def find_missing_csv_files_v8(root_folder, model_name, results_folder):
+def find_missing_csv_files_v8(root_folder, model_name, results_folder, model_completions_intersection):
     """
     Combines all Data.csv files from .cif subdirectories under the given root folder.
     Generates a combined CSV and reports missing or unreadable files.
@@ -50,6 +50,15 @@ def find_missing_csv_files_v8(root_folder, model_name, results_folder):
 
         if subdir.startswith('.'):
             hidden_folders.append(subdir_path)
+            continue
+
+        try:
+            exp_index = int(subdir)
+        except:
+            exp_index = -1
+            pass
+
+        if exp_index not in model_completions_intersection[model_name]:
             continue
 
         if os.path.isdir(subdir_path):
@@ -614,7 +623,7 @@ def get_rdf(Traj, r_max=6.0, dr=0.01):
     return x, y
 
 
-def process_file(file_handler, calculator, system_name: str, xyz_file_path: str, log_file_path: str):
+def process_file(file_handler, calculator, system_name: str, xyz_file_path: str, log_file_path: str, model_name: str):
     """Process a single XYZ and log file to extract properties."""
     densities = []
     lattice_params = []
@@ -623,10 +632,30 @@ def process_file(file_handler, calculator, system_name: str, xyz_file_path: str,
     bond_error = dict()
     time_temp_data = []
 
+    # Read data from Simulation_thermo.log file.
+    time_temp_data = file_handler.read_log_for_temperature(log_file_path)
     # Read the XYZ file and compute densities
     structures = file_handler.safe_read_xyz(xyz_file_path)
+
     if not structures:
         return [], [], [], [], {}, []
+
+
+    # Due to some experiments logging structures for every single step up to the first 
+    # vs every 10 steps, we need to ensure our datastructure matches the expected format 
+    # of having one structure every 10 picoseconds. 
+
+    # if len(structures)>=101:
+    #     if len(structures) == len(time_temp_data[::10])-100 or len(structures)>5_001:
+    #         structures = [structures[0]] + structures[101:]
+    # else:
+    #     structures = [structures[0]] 
+    if "mace" not in model_name:
+        if len(structures)>=101:
+            structures = [structures[0]] + structures[101:]
+        else:
+            structures = [structures[0]] 
+
 
     # Calculate initial RDF
     _, initial_rdf = get_initial_rdf(
@@ -689,8 +718,6 @@ def process_file(file_handler, calculator, system_name: str, xyz_file_path: str,
             print(f"Error processing structure {counter} in {system_name}: {e}")
 
         counter += 1
-
-    time_temp_data = file_handler.read_log_for_temperature(log_file_path)
 
     return densities, lattice_params, temperature, rdf_error, time_temp_data, bond_error
 
