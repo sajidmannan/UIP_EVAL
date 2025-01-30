@@ -8,8 +8,11 @@ MACE:
   completed_simulations: 2141
   total_folders: 2396
 MatterSim:
-  completed_simulations: 2557
-  total_folders: 2680
+  completed_simulations: 2291
+  total_folders: 2396
 Orb:
-  completed_simulations: 2679
-  total_folders: 2684
+  completed_simulations: 2395
+  total_folders: 2396
+SevenNet:
+  completed_simulations: 1983
+  total_folders: 2151
