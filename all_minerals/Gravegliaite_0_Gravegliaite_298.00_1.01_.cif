@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Gravegliaite'
+loop_
+_publ_author_name
+'Basso R'
+'Lucchetti G'
+'Palenzona A'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 197 
+_journal_year 1991
+_journal_page_first 97
+_journal_page_last 106
+_publ_section_title
+;
+ Gravegliaite, MnSO3*3H2O, a new mineral from Val Graveglia
+ (Northern Apennines, Italy)
+;
+_database_code_amcsd 0011006
+_chemical_compound_source 'Gambatesa mine, Val Graveglia, Northern Apennines, Italy'
+_chemical_formula_sum 'Mn S O6 H6'
+_cell_length_a 9.763
+_cell_length_b 5.635
+_cell_length_c 9.558
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 525.829
+_exptl_crystal_density_diffrn      2.388
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Mn   0.22360   0.25000   0.06220   0.01482
+S   0.93440   0.25000   0.90990   0.01279
+O1   0.08920   0.25000   0.88240   0.02571
+O2   0.11850   0.53480   0.17160   0.02343
+O3   0.36860   0.25000   0.23670   0.02888
+O4   0.36380   0.50560   0.95070   0.01786
+H3A   0.44500   0.25000   0.29400 ?
+H3B   0.28400   0.25000   0.30500 ?
+H4A   0.35800   0.50500   0.85900 ?
+H4B   0.35800   0.64400   0.95000 ?

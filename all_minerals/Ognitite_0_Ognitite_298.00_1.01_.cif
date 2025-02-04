@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Ognitite'
+loop_
+_publ_author_name
+'Barkov A Y'
+'Bindi L'
+'Tamura N'
+'Shvedov G I'
+'Winkler B'
+'Stan C V'
+'Morgenroth W'
+'Martin R F'
+'Zaccarini F'
+'Stanley C J'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 83 
+_journal_year 2019
+_journal_page_first 695
+_journal_page_last 703
+_publ_section_title
+;
+ Ognitite, NiBiTe, a new mineral species, and Co-rich maucherite from
+ the Ognit ultramafic complex, Eastern Sayans, Russia
+;
+_database_code_amcsd 0020948
+_chemical_compound_source 'Ognit ultramafic complex, Eastern Sayans, Russia'
+_chemical_formula_sum 'Ni Bi.98 Te'
+_cell_length_a 3.9280
+_cell_length_b 3.9280
+_cell_length_c 5.3850
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 71.955
+_exptl_crystal_density_diffrn      9.025
+_symmetry_space_group_name_H-M 'P 3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ni   0.00000   0.00000   0.00020   1.00000   0.02830
+Bi   0.33333   0.66667   0.72947   0.98000   0.04990
+Te   0.66667   0.33333   0.22670   1.00000   0.02950
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni 0.02670 0.02670 0.03100 0.01340 0.00000 0.00000
+Bi 0.04360 0.04360 0.06250 0.02180 0.00000 0.00000
+Te 0.03310 0.03310 0.02240 0.01660 0.00000 0.00000

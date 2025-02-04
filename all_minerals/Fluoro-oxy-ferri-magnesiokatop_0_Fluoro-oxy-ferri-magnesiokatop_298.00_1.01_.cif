@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Fluoro-oxy-ferri-magnesiokatophorite'
+loop_
+_publ_author_name
+'Hawthorne F C'
+'Ungaretti L'
+'Oberti R'
+'Bottazzi P'
+'Czamanske G K'
+_journal_name_full 'American Mineralogist'
+_journal_volume 78 
+_journal_year 1993
+_journal_page_first 733
+_journal_page_last 745
+_publ_section_title
+;
+ Li: an important component in igneous alkali amphiboles
+ Sample: A(1), magnesio-ferri-fluor-oxy-katophorite
+;
+_database_code_amcsd 0001586
+_chemical_compound_source 'Questa caldera, New Mexico'
+_chemical_formula_sum 'O22.6 F1.4 (Si7.584 Al.416) Mg3.24 Fe1.22 Ti.05 Mn.43 Li.06 Na2.104 Ca.25 K.148'
+_cell_length_a 9.795
+_cell_length_b 17.993
+_cell_length_c 5.280
+_cell_angle_alpha 90
+_cell_angle_beta 104.53
+_cell_angle_gamma 90
+_cell_volume 900.792
+_exptl_crystal_density_diffrn      3.133
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+O1   0.11250   0.08600   0.21850   1.00000   0.00735
+O2   0.11830   0.16840   0.72570   1.00000   0.00887
+O3   0.10280   0.00000   0.71210   0.30000   0.01127
+F   0.10280   0.00000   0.71210   0.70000   0.01127
+O4   0.36250   0.24940   0.79500   1.00000   0.01178
+O5   0.34920   0.13340   0.09470   1.00000   0.01178
+O6   0.34600   0.11980   0.58860   1.00000   0.01026
+O7   0.34140   0.00000   0.29560   1.00000   0.01229
+SiT1   0.28340   0.08450   0.29730   0.94800   0.00595
+AlT1   0.28340   0.08450   0.29730   0.05200   0.00595
+SiT2   0.28960   0.17080   0.80410   0.94800   0.00583
+AlT2   0.28960   0.17080   0.80410   0.05200   0.00583
+MgM1   0.00000   0.08390   0.50000   0.64000   0.01039
+Fe3+M1   0.00000   0.08390   0.50000   0.26500   0.01039
+TiM1   0.00000   0.08390   0.50000   0.02500   0.01039
+MnM1   0.00000   0.08390   0.50000   0.07000   0.01039
+MgM2   0.00000   0.17920   0.00000   0.59500   0.00773
+Fe3+M2   0.00000   0.17920   0.00000   0.27500   0.00773
+MnM2   0.00000   0.17920   0.00000   0.13000   0.00773
+LiM3   0.00000   0.00000   0.00000   0.06000   0.00633
+MgM3   0.00000   0.00000   0.00000   0.77000   0.00633
+Fe3+M3   0.00000   0.00000   0.00000   0.14000   0.00633
+MnM3   0.00000   0.00000   0.00000   0.03000   0.00633
+NaM4   0.00000   0.27670   0.50000   0.87500   0.01305
+CaM4   0.00000   0.27670   0.50000   0.12500   0.01305
+KA   0.00000   0.50000   0.00000   0.06800   0.08840
+NaA   0.00000   0.50000   0.00000   0.16400   0.08840
+KAm   0.04690   0.50000   0.11170   0.02900   0.04559
+NaAm   0.04690   0.50000   0.11170   0.06900   0.04559
+KA2   0.00000   0.48330   0.00000   0.01100   0.05015
+NaA2   0.00000   0.48330   0.00000   0.02600   0.05015

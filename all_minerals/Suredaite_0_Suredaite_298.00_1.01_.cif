@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Suredaite'
+loop_
+_publ_author_name
+'Paar W H'
+'Miletich R'
+'Topa D'
+'Criddle A J'
+'De Brodtkorb M K'
+'Amthauer G'
+'Tippelt G'
+_journal_name_full 'American Mineralogist'
+_journal_volume 85 
+_journal_year 2000
+_journal_page_first 1066
+_journal_page_last 1075
+_publ_section_title
+;
+ Suredaite, PbSnS3, a new mineral species, from the Pirquitas Ag-Sn deposit,
+ NW-Argentina: Mineralogy and crystal structure
+;
+_database_code_amcsd 0002474
+_chemical_formula_sum 'Pb.92 Sn1.07 Fe.01 S3'
+_cell_length_a 8.8221
+_cell_length_b 3.7728
+_cell_length_c 14.0076
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 466.229
+_exptl_crystal_density_diffrn      5.904
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+PbA   0.50300   0.75000   0.17050   0.92000
+SnA   0.50300   0.75000   0.17050   0.08000
+SnB   0.16550   0.25000   0.05210   0.99000
+FeB   0.16550   0.25000   0.05210   0.01000
+S1  -0.01140   0.75000   0.10620   1.00000
+S2   0.33940   0.75000  -0.00660   1.00000
+S3   0.28550   0.25000   0.21320   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+PbA 0.04298 0.01940 0.03380 0.00000 -0.00063 0.00000
+SnA 0.04298 0.01940 0.03380 0.00000 -0.00063 0.00000
+SnB 0.01459 0.01608 0.01392 0.00000 0.00125 0.00000
+FeB 0.01459 0.01608 0.01392 0.00000 0.00125 0.00000
+S1 0.02484 0.01226 0.01491 0.00000 -0.00876 0.00000
+S2 0.00473 0.02235 0.01292 0.00000 -0.00376 0.00000
+S3 0.02957 0.01082 0.01590 0.00000 -0.01252 0.00000

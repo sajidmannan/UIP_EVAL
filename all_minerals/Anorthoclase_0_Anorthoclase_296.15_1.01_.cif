@@ -1,0 +1,84 @@
+data_global
+_chemical_name_mineral 'Anorthoclase'
+loop_
+_publ_author_name
+'Harlow G E'
+_journal_name_full 'American Mineralogist'
+_journal_volume 67 
+_journal_year 1982
+_journal_page_first 975
+_journal_page_last 996
+_publ_section_title
+;
+ The anorthoclase structures: The effects of temperature and composition
+ Grande Calderira, Or = 32.5, T = 23 deg C
+ feldspar
+;
+_database_code_amcsd 0000874
+_chemical_compound_source 'Grande Calderira, Azores'
+_chemical_formula_sum '(Al Si3) (Na.667 K.333) O8'
+_cell_length_a 8.290
+_cell_length_b 12.966
+_cell_length_c 7.151
+_cell_angle_alpha 91.18
+_cell_angle_beta 116.31
+_cell_angle_gamma 90.14
+_cell_volume 688.819
+_exptl_crystal_density_diffrn      2.580
+_symmetry_space_group_name_H-M 'C 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al1   0.00850   0.17530   0.22070   0.25000
+Si1   0.00850   0.17530   0.22070   0.75000
+Al2   0.00690   0.81800   0.22520   0.25000
+Si2   0.00690   0.81800   0.22520   0.75000
+Al3   0.69540   0.11400   0.33540   0.25000
+Si3   0.69540   0.11400   0.33540   0.75000
+Al4   0.69410   0.88150   0.34650   0.25000
+Si4   0.69410   0.88150   0.34650   0.75000
+Na   0.27500   0.00130   0.13660   0.66700
+K   0.27500   0.00130   0.13660   0.33300
+O1   0.00160   0.13880   0.99470   1.00000
+O2   0.60560   0.99720   0.28280   1.00000
+O3   0.82330   0.12790   0.21800   1.00000
+O4   0.82270   0.85740   0.23290   1.00000
+O5   0.02330   0.30120   0.26180   1.00000
+O6   0.02410   0.69160   0.24210   1.00000
+O7   0.18970   0.12040   0.40040   1.00000
+O8   0.18830   0.87250   0.41250   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 0.01566 0.01447 0.01061 -0.00195 0.00675 0.00000
+Si1 0.01566 0.01447 0.01061 -0.00195 0.00675 0.00000
+Al2 0.01483 0.01277 0.01061 0.00342 0.00627 0.00084
+Si2 0.01483 0.01277 0.01061 0.00342 0.00627 0.00084
+Al3 0.01427 0.00936 0.01352 0.00000 0.00627 0.00084
+Si3 0.01427 0.00936 0.01352 0.00000 0.00627 0.00084
+Al4 0.01510 0.00936 0.01311 0.00146 0.00651 0.00042
+Si4 0.01510 0.00936 0.01311 0.00146 0.00651 0.00042
+Na -0.00392 0.05533 0.02892 0.00098 -0.00169 -0.02188
+K -0.00392 0.05533 0.02892 0.00098 -0.00169 -0.02188
+O1 0.03468 0.02554 0.02018 0.00293 0.01472 0.00168
+O2 0.02406 0.01532 0.02580 0.00049 0.00772 0.00084
+O3 0.02657 0.03490 0.03287 -0.00488 0.01809 0.00210
+O4 0.02629 0.03320 0.03142 0.00537 0.01713 -0.00084
+O5 0.02462 0.01873 0.02538 -0.00146 0.01061 -0.00126
+O6 0.02350 0.01702 0.02455 0.00146 0.00724 0.00168
+O7 0.02517 0.02128 0.01810 0.00293 0.00555 0.00337
+O8 0.02406 0.02298 0.01976 -0.00146 0.00531 -0.00295

@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Matildite'
+loop_
+_publ_author_name
+'Geller S'
+'Wernick J H'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 12 
+_journal_year 1959
+_journal_page_first 46
+_journal_page_last 54
+_publ_section_title
+;
+ Ternary semiconducting compounds with sodium chloride-like structure: AgSbSe2,
+ AgSbTe2, AgBiS2, AgBiSe2
+ Sample: after annealing at 152 deg C for 15 days
+;
+_database_code_amcsd 0009218
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ag Bi S2'
+_cell_length_a 4.07
+_cell_length_b 4.07
+_cell_length_c 19.06
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 273.428
+_exptl_crystal_density_diffrn      6.941
+_symmetry_space_group_name_H-M 'P -3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,-x+y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+  '-x,-y,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  'x-y,x,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ag1   0.00000   0.00000   0.00000
+Ag2   0.33333   0.66667   0.67200
+Bi1   0.00000   0.00000   0.50000
+Bi2   0.33333   0.66667   0.16300
+S1   0.00000   0.00000   0.25300
+S2   0.33333   0.66667   0.92600
+S3   0.33333   0.66667   0.40600

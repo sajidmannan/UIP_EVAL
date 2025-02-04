@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Monazite-(Sm)'
+loop_
+_publ_author_name
+'Ni Y'
+'Hughes J M'
+'Mariano A N'
+_journal_name_full 'American Mineralogist'
+_journal_volume 80 
+_journal_year 1995
+_journal_page_first 21
+_journal_page_last 26
+_publ_section_title
+;
+ Crystal chemistry of the monazite and xenotime structures
+;
+_database_code_amcsd 0001703
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Sm P O4'
+_cell_length_a 6.6818
+_cell_length_b 6.8877
+_cell_length_c 6.3653
+_cell_angle_alpha 90
+_cell_angle_beta 103.86
+_cell_angle_gamma 90
+_cell_volume 284.416
+_exptl_crystal_density_diffrn      5.729
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Sm   0.28153   0.15638   0.09813   0.00289
+P   0.30340   0.16180   0.61300   0.00317
+O1   0.24990   0.00200   0.44050   0.00722
+O2   0.38220   0.33410   0.50080   0.00722
+O3   0.47480   0.10250   0.81020   0.00709
+O4   0.12170   0.21250   0.71130   0.00722

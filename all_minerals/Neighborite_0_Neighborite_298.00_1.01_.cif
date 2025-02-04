@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Neighborite'
+loop_
+_publ_author_name
+'Zhao Y S'
+'Parise J B'
+'Wang Y'
+'Kusaba K'
+'Vaughan M T'
+'Weidner D J'
+'Kikegawa T'
+'Chen J'
+'Shimomura O'
+_journal_name_full 'American Mineralogist'
+_journal_volume 79 
+_journal_year 1994
+_journal_page_first 615
+_journal_page_last 621
+_publ_section_title
+;
+ High-pressure crystal chemistry of neighborite, NaMgF3: an angle-dispersive
+ diffraction study using monochromatic synchrotron X-radiation
+ P = room pressure
+;
+_database_code_amcsd 0001664
+_chemical_formula_sum 'Na Mg F3'
+_cell_length_a 5.3603
+_cell_length_b 5.4884
+_cell_length_c 7.666
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 225.530
+_exptl_crystal_density_diffrn      3.071
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Na   0.98510   0.04550   0.25000   0.04200
+Mg   0.00000   0.50000   0.00000   0.02600
+F1   0.08800   0.47400   0.25000   0.03300
+F2   0.70220   0.29460   0.04800   0.03200

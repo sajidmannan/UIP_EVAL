@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Christite'
+loop_
+_publ_author_name
+'Brown K L'
+'Dickson F W'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 144 
+_journal_year 1976
+_journal_page_first 367
+_journal_page_last 376
+_publ_section_title
+;
+ The crystal structure of synthetic christite, HgTlAsS3
+;
+_database_code_amcsd 0010787
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Tl Hg As S3'
+_cell_length_a 6.113
+_cell_length_b 16.188
+_cell_length_c 6.111
+_cell_angle_alpha 90
+_cell_angle_beta 96.71
+_cell_angle_gamma 90
+_cell_volume 600.585
+_exptl_crystal_density_diffrn      6.371
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Tl   0.16330   0.45039   0.33660
+Hg   0.07930   0.25013   0.92070
+As   0.57590   0.39160   0.92540
+S1   0.20460   0.39170   0.85870
+S2   0.14190   0.24080   0.35590
+S3   0.14210   0.10770   0.79620
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl 0.02790 0.03820 0.03500 0.00250 0.00730 -0.00380
+Hg 0.03030 0.02940 0.04070 -0.00330 0.00010 -0.00270
+As 0.01950 0.02210 0.03090 -0.00180 0.00590 0.00220
+S1 0.01800 0.03200 0.02900 0.00200 -0.00500 -0.00300
+S2 0.01900 0.03100 0.02400 -0.00400 0.00200 0.00400
+S3 0.01900 0.02200 0.03300 0.00100 -0.00100 0.00200

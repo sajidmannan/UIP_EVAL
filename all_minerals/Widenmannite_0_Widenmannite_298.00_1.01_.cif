@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Widenmannite'
+loop_
+_publ_author_name
+'Plasil J'
+'Palatinus L'
+'Rohlicek J'
+'Houdkovaq L'
+'Klementova M'
+'Golias V'
+'Skacha P'
+_journal_name_full 'American Mineralogist'
+_journal_volume 99 
+_journal_year 2014
+_journal_page_first 276
+_journal_page_last 282
+_publ_section_title
+;
+ Crystal structure of lead uranyl carbonate mineral widenmannite:
+ Precession electron-diffraction and synchrotron powder-diffraction study
+ Note: data collected at synchrotron
+;
+_database_code_amcsd 0020039
+_chemical_compound_source 'Brezove Hory deposit, Pribram ore district, Czech Republic'
+_chemical_formula_sum 'Pb.926 U.5 O4.926 C H'
+_cell_length_a 4.9770
+_cell_length_b 9.3869
+_cell_length_c 8.9597
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 418.585
+_exptl_crystal_density_diffrn      6.390
+_symmetry_space_group_name_H-M 'P m m n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,1/2+y,-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb1   0.50000   0.74140   0.17230   0.92600   0.05600
+U1   0.50000   0.50000   0.57470   0.92600   0.01200
+O1   1.00000   0.50000   0.56700   1.00000   0.00200
+O2   0.77500   0.50000   0.35000   1.00000   0.00200
+O3   0.50000   0.69200   0.57600   0.92600   0.00200
+C1   1.00000   0.50000   0.42200   1.00000   0.00200
+O4   0.27200   0.50000   0.81800   1.00000   0.00200
+C2   0.50000   0.50000   0.89100   1.00000   0.00200
+O5   0.50000   0.50000   0.03600   1.00000   0.00200
+O6   0.50000   0.81600  -0.07800   1.00000   0.00200
+U2   0.50000   0.00000   0.89300   0.07400   0.07000
+H1   0.50000   0.89479  -0.11729   1.00000   0.00230
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.08700 0.03800 0.04400 0.00000 0.00000 -0.00800

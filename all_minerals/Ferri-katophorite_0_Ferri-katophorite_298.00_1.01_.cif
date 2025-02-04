@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Ferri-katophorite'
+loop_
+_publ_author_name
+'Pushcharovsky D Y'
+'Lebedeva Y S'
+'Pekov I V'
+'Ferraris G'
+'Novakova A A'
+'Ivaldi G'
+_journal_name_full 'Crystallography Reports'
+_journal_volume 48 
+_journal_year 2003
+_journal_page_first 16
+_journal_page_last 23
+_publ_section_title
+;
+ Crystal structure of magnesioferrikatophorite
+;
+_database_code_amcsd 0012382
+_chemical_compound_source 'Turiy Cape, Kola Peninsula, Russia'
+_chemical_formula_sum 'Na2.05 K.13 Mg2.7 Fe2.1 Ti.17 Mn.02 Ca.82 Si7.16 Al.84 O23.71 F.29 H1.47'
+_cell_length_a 9.875
+_cell_length_b 18.010
+_cell_length_c 5.309
+_cell_angle_alpha 90
+_cell_angle_beta 104.39
+_cell_angle_gamma 90
+_cell_volume 914.576
+_exptl_crystal_density_diffrn      3.222
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NaAm   0.50000   0.00000   0.00000   0.56000   0.10040
+KAm   0.50000   0.00000   0.00000   0.13000   0.10040
+NaA2   0.44870   0.00000   0.88028   0.15500   0.03390
+MgM1   0.00000   0.08874   0.50000   0.70500   0.00870
+FeM1   0.00000   0.08874   0.50000   0.21000   0.00870
+TiM1   0.00000   0.08874   0.50000   0.08500   0.00870
+FeM2   0.00000   0.18063   0.00000   0.65500   0.00960
+MgM2   0.00000   0.18063   0.00000   0.34500   0.00960
+MgM3   0.00000   0.00000   0.00000   0.60000   0.00700
+FeM3   0.00000   0.00000   0.00000   0.37000   0.00700
+MnM3   0.00000   0.00000   0.00000   0.02000   0.00700
+NaM4   0.00000   0.27810   0.50000   0.59000   0.01500
+CaM4   0.00000   0.27810   0.50000   0.41000   0.01500
+Si1   0.28009   0.08562   0.29680   0.79000   0.00750
+Al1   0.28009   0.08562   0.29680   0.21000   0.00750
+Si2   0.28894   0.17158   0.80490   1.00000   0.00680
+O1   0.10980   0.08820   0.21440   1.00000   0.00950
+O2   0.11940   0.17110   0.73130   1.00000   0.01060
+O-H3   0.10840   0.00000   0.71080   0.73500   0.01010
+F3   0.10840   0.00000   0.71080   0.14500   0.01010
+O3   0.10840   0.00000   0.71080   0.12000   0.01010
+O4   0.36400   0.24950   0.79480   1.00000   0.01240
+O5   0.34940   0.13230   0.09270   1.00000   0.01530
+O6   0.34270   0.11760   0.59320   1.00000   0.01370
+O7   0.33840   0.00000   0.28670   1.00000   0.01490

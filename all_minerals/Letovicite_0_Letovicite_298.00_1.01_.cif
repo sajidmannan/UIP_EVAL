@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Letovicite'
+loop_
+_publ_author_name
+'Leclaire A'
+'Ledesert M'
+'Monier J'
+'Daoud A'
+'Damak M'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 41 
+_journal_year 1985
+_journal_page_first 209
+_journal_page_last 213
+_publ_section_title
+;
+ Structure du disulfate acide de triammonium. Une redetermination.
+ Relations des chaines de liaisons hydrogene avec la morphologie et la
+ conductivite eletrique
+ _cod_database_code 1001784
+;
+_database_code_amcsd 0009806
+_chemical_formula_sum 'S2 N3 O8 H13'
+_cell_length_a 15.435
+_cell_length_b 5.865
+_cell_length_c 10.1696
+_cell_angle_alpha 90
+_cell_angle_beta 101.829
+_cell_angle_gamma 90
+_cell_volume 901.065
+_exptl_crystal_density_diffrn      1.823
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+S1   0.11418   0.21828   0.46135   1.00000
+N1   0.50000   0.23039   0.25000   1.00000
+N2   0.19893   0.27573   0.15266   1.00000
+O1   0.01415   0.18463   0.44256   1.00000
+O2   0.15024   0.22318   0.60589   1.00000
+O3   0.12909   0.43451   0.39838   1.00000
+O4   0.14906   0.02625   0.39784   1.00000
+H1  -0.00100   0.04700   0.47900   0.50000
+H2   0.47600   0.15000   0.19100   1.00000
+H3   0.46100   0.30400   0.27600   1.00000
+H4   0.18600   0.28400   0.22800   1.00000
+H5   0.19300   0.15300   0.11300   1.00000
+H6   0.25700   0.31000   0.16400   1.00000
+H7   0.17500   0.38900   0.11200   1.00000

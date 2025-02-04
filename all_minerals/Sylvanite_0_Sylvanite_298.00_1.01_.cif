@@ -1,0 +1,40 @@
+data_global
+_chemical_name_mineral 'Sylvanite'
+loop_
+_publ_author_name
+'Tunell G'
+_journal_name_full 'American Mineralogist'
+_journal_volume 26 
+_journal_year 1941
+_journal_page_first 457
+_journal_page_last 477
+_publ_section_title
+;
+ The atomic arrangement of sylvanite
+;
+_database_code_amcsd 0000029
+_chemical_formula_sum 'Au Ag Te4'
+_cell_length_a 8.94
+_cell_length_b 4.48
+_cell_length_c 14.59
+_cell_angle_alpha 90
+_cell_angle_beta 145.43
+_cell_angle_gamma 90
+_cell_volume 331.566
+_exptl_crystal_density_diffrn      8.166
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Au   0.00000   0.00000   0.00000
+Ag   0.00000   0.43300   0.25000
+Te1   0.29800   0.03100   0.99900
+Te2   0.27700   0.42500   0.23500

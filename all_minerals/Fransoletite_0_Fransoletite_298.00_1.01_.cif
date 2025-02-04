@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Fransoletite'
+loop_
+_publ_author_name
+'Kampf A R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 77 
+_journal_year 1992
+_journal_page_first 848
+_journal_page_last 856
+_publ_section_title
+;
+ Beryllophosphate chains in the structures of fransoletite, parafransoletite, and
+ ehrleite and some general comments on beryllophosphate linkages
+;
+_database_code_amcsd 0001531
+_chemical_formula_sum 'Ca3 Be2 P4 O20 H10'
+_cell_length_a 7.3482
+_cell_length_b 15.0522
+_cell_length_c 7.0685
+_cell_angle_alpha 90
+_cell_angle_beta 96.519
+_cell_angle_gamma 90
+_cell_volume 776.768
+_exptl_crystal_density_diffrn      2.532
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.63650   0.19680   0.95080   0.00975
+Ca2   0.00000   0.00000   0.00000   0.01570
+Be   0.63280   0.21050   0.44810   0.00760
+P1   0.97410   0.15140   0.64700   0.00684
+P2   0.29030   0.15200   0.23220   0.00583
+O1   0.92720   0.14300   0.85060   0.01140
+O-h2   0.09930   0.06900   0.61140   0.01393
+O3   0.09050   0.23590   0.63860   0.01267
+O4   0.80280   0.14860   0.49590   0.00633
+O5   0.34510   0.17110   0.03460   0.01267
+O6   0.15610   0.22840   0.26520   0.01393
+O7   0.18860   0.06350   0.24360   0.01267
+O8   0.45580   0.14650   0.38500   0.01013
+OW1   0.52340   0.06310   0.75150   0.01393
+OW2   0.73900   0.06250   0.14450   0.01520
+H   0.10800   0.06300   0.48400   0.04053
+H1a   0.42500   0.08800   0.71000   0.04053
+H1b   0.58100   0.02300   0.75600   0.04053
+H2a   0.76100   0.08600   0.24400   0.04053
+H2b   0.71800   0.99700   0.12100   0.04053

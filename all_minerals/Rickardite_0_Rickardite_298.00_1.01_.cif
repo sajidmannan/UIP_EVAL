@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Rickardite'
+loop_
+_publ_author_name
+'Forman S A'
+'Peacock M A'
+_journal_name_full 'American Mineralogist'
+_journal_volume 34 
+_journal_year 1949
+_journal_page_first 441
+_journal_page_last 451
+_publ_section_title
+;
+ Crystal structure of rickardite, Cu4-xTe2
+;
+_database_code_amcsd 0000047
+_chemical_formula_sum 'Cu1.4 Te'
+_cell_length_a 3.98
+_cell_length_b 3.98
+_cell_length_c 6.12
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 96.943
+_exptl_crystal_density_diffrn      7.419
+_symmetry_space_group_name_H-M 'P 4/n m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-y,1/2-x,z'
+  'y,x,-z'
+  'y,-x,-z'
+  '1/2-y,1/2+x,z'
+  'x,-y,z'
+  '1/2-x,1/2+y,-z'
+  '1/2+x,1/2+y,-z'
+  '-x,-y,z'
+  '1/2+y,1/2+x,z'
+  '-y,-x,-z'
+  '-y,x,-z'
+  '1/2+y,1/2-x,z'
+  '-x,y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu1   0.00000   0.00000   0.00000   1.00000
+Cu2   0.00000   0.50000   0.27000   0.40000
+Te   0.00000   0.50000   0.71500   1.00000

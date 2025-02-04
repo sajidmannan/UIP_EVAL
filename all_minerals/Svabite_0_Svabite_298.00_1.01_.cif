@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Svabite'
+loop_
+_publ_author_name
+'Baikie T'
+'Mercier P H J'
+'Elcombe M M'
+'Kim J Y'
+'Le Page Y'
+'Mitchell L D'
+'White T J'
+'Whitfield P S'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 63 
+_journal_year 2007
+_journal_page_first 251
+_journal_page_last 256
+_publ_section_title
+;
+ Triclinic apatites
+;
+_database_code_amcsd 0009953
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca5 As3 O12 F'
+_cell_length_a 9.6841
+_cell_length_b 9.6906
+_cell_length_c 6.9815
+_cell_angle_alpha 90.623
+_cell_angle_beta 88.869
+_cell_angle_gamma 120.371
+_cell_volume 565.156
+_exptl_crystal_density_diffrn      3.738
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca1   0.23400   0.99000   0.24900
+Ca2   0.00500   0.25100   0.26200
+Ca3   0.77000   0.76700   0.24500
+Ca4   0.34500   0.65300   0.00300
+Ca5   0.34300   0.68100   0.49900
+As1   0.39800   0.37400   0.26100
+As2   0.62800   0.02400   0.23900
+As3   0.97500   0.60600   0.24300
+O1   0.31100   0.48000   0.27500
+O2   0.51000   0.82700   0.24300
+O3   0.17300   0.68100   0.22600
+O4   0.60400   0.47500   0.27700
+O5   0.53000   0.12400   0.22000
+O6   0.87800   0.40700   0.27400
+O7   0.35100   0.26300   0.06300
+O8   0.77400   0.07900   0.07200
+O9   0.90500   0.63900   0.04000
+O10   0.66900   0.76600   0.55200
+O11   0.27400   0.90700   0.55500
+O12   0.06800   0.30100   0.58400
+F   0.00700   0.00700   0.24500

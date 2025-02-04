@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Nyerereite'
+loop_
+_publ_author_name
+'McKie D'
+'Frankis E J'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 145 
+_journal_year 1977
+_journal_page_first 73
+_journal_page_last 95
+_publ_section_title
+;
+ Nyerereite: A new volcanic carbonate mineral from Oldoinyo Lengai, Tanzania
+ Note: low-temperature polymorph that inverted from the high-temperature polymorph
+ Note: only half of the O atoms have been located
+;
+_database_code_amcsd 0010790
+_chemical_compound_source 'Oldoinyo Lengai, Tanzania'
+_chemical_formula_sum 'Ca Na1.64 K.36 C2 O3'
+_cell_length_a 5.044
+_cell_length_b 8.809
+_cell_length_c 12.743
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 566.205
+_exptl_crystal_density_diffrn      1.922
+_symmetry_space_group_name_H-M 'C m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca   0.00000   0.98000   0.00000   1.00000
+Na1   0.00000   0.32000   0.82000   0.64000
+K1   0.00000   0.32000   0.82000   0.36000
+Na2   0.00000   0.32000   0.12000   1.00000
+C1   0.00000   0.35000   0.51000   1.00000
+C2   0.00000   0.99000   0.23000   1.00000
+O1   0.22000   0.28000   0.52000   1.00000
+O2   0.00000   0.49000   0.49000   1.00000

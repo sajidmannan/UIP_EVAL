@@ -1,0 +1,83 @@
+data_global
+_chemical_name_mineral 'Watkinsonite'
+loop_
+_publ_author_name
+'Topa D'
+'Makovicky E'
+'Sejkora J'
+'Dittrich H'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 48 
+_journal_year 2010
+_journal_page_first 1109
+_journal_page_last 1118
+_publ_section_title
+;
+ The crystal structure of watkinsonite, Cu2PbBi4Se8,
+ from the Zalesi uranium deposit, Czech Republic
+;
+_database_code_amcsd 0017825
+_chemical_compound_source 'Zalesi uranium deposit, Czech Republic'
+_chemical_formula_sum 'Cu1.68 Ag.32 Pb Bi4 Se8'
+_cell_length_a 12.952
+_cell_length_b 4.1523
+_cell_length_c 15.155
+_cell_angle_alpha 90
+_cell_angle_beta 108.931
+_cell_angle_gamma 90
+_cell_volume 770.959
+_exptl_crystal_density_diffrn      7.823
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu1   0.37880   0.25000   0.90090   0.68000   0.08800
+Ag1   0.38600   0.25000   0.90060   0.32000   0.07900
+Cu2   0.47134   0.25000   0.53715   1.00000   0.02580
+Pb   0.23691   0.25000   0.33139   1.00000   0.02880
+Bi1   0.04295   0.25000   0.88759   1.00000   0.01670
+Bi2   0.56525   0.25000   0.29021   1.00000   0.01610
+Bi3   0.70545   0.25000   0.90960   1.00000   0.01730
+Bi4   0.92454   0.25000   0.37818   1.00000   0.02130
+Se1   0.12568   0.25000   0.50967   1.00000   0.01410
+Se2   0.13530   0.25000   0.11562   1.00000   0.01520
+Se3   0.30144   0.25000   0.73696   1.00000   0.01890
+Se4   0.43836   0.25000   0.06837   1.00000   0.01850
+Se5   0.61451   0.25000   0.70857   1.00000   0.01610
+Se6   0.63573   0.25000   0.48096   1.00000   0.01510
+Se7   0.80926   0.25000   0.11716   1.00000   0.01550
+Se8   0.95263   0.25000   0.69674   1.00000   0.01360
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.06000 0.18400 0.02500 0.00000 0.02100 0.00000
+Ag1 0.10900 0.09700 0.00700 0.00000 -0.01200 0.00000
+Cu2 0.03000 0.01200 0.03700 0.00000 0.01400 0.00000
+Pb 0.02550 0.01740 0.04380 0.00000 0.01170 0.00000
+Bi1 0.01760 0.01260 0.01890 0.00000 0.00430 0.00000
+Bi2 0.01520 0.01280 0.01930 0.00000 0.00420 0.00000
+Bi3 0.01550 0.01200 0.02240 0.00000 0.00340 0.00000
+Bi4 0.01870 0.01670 0.02570 0.00000 0.00310 0.00000
+Se1 0.01260 0.01300 0.01600 0.00000 0.00400 0.00000
+Se2 0.01270 0.01400 0.01700 0.00000 0.00300 0.00000
+Se3 0.01370 0.01300 0.03000 0.00000 0.00700 0.00000
+Se4 0.01730 0.01400 0.02600 0.00000 0.00900 0.00000
+Se5 0.01500 0.01200 0.02100 0.00000 0.00600 0.00000
+Se6 0.01350 0.01200 0.01800 0.00000 0.00200 0.00000
+Se7 0.01320 0.01300 0.02000 0.00000 0.00400 0.00000
+Se8 0.01360 0.01100 0.01500 0.00000 0.00300 0.00000

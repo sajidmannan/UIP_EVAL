@@ -1,0 +1,92 @@
+data_global
+_chemical_name_mineral 'Kilchoanite'
+loop_
+_publ_author_name
+'Galuskin E V'
+'Gfeller F'
+'Savelyeva V B'
+'Armbruster T'
+'Lazic B'
+'Galuskina I O'
+'Tobbens D M'
+'Zadov A E'
+'Dzierzanowski P'
+'Pertsev N N'
+'Gazeev V M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 97 
+_journal_year 2012
+_journal_page_first 503
+_journal_page_last 512
+_publ_section_title
+;
+ Pavlovskyite Ca8(SiO4)2(Si3O10): a new mineral of altered silicate-carbonate
+ xenoliths from the two Russian type localities, Birkhin massif,
+ Baikal Lake area and Upper Chegem caldera, North Caucasus
+;
+_database_code_amcsd 0018882
+_chemical_compound_source 'Birkhin massif, Baikal Lake area, North Caucasus, Russia'
+_chemical_formula_sum 'Ca3 Si2 O7'
+_cell_length_a 11.4525
+_cell_length_b 5.08670
+_cell_length_c 21.9963
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1281.404
+_exptl_crystal_density_diffrn      2.990
+_symmetry_space_group_name_H-M 'I m m 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,+z'
+  'x,y,1/2-z'
+  '1/2+x,1/2+y,-z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.01150   0.00000   0.00000   0.00918
+Ca2   0.31064   0.99909   0.25000   0.00740
+Ca3   0.03527   0.00353   0.16822   0.00937
+Ca4   0.24187   0.49751   0.10408   0.00734
+Si1   0.12152   0.42774   0.25000   0.00589
+Si2   0.43213   0.94159   0.10033   0.00624
+Si3   0.26486   0.00000   0.00000   0.00626
+O1   0.18816   0.29836   0.19132   0.00859
+O2   0.99064   0.29350   0.25000   0.00872
+O3   0.12178   0.74750   0.25000   0.00947
+O4   0.36993   0.80255   0.15865   0.00880
+O5   0.05900   0.69266   0.09191   0.00949
+O6   0.35498   0.81255   0.04103   0.00821
+O7   0.42751   0.25721   0.09613   0.00901
+O8   0.18431   0.17820   0.04188   0.01153
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.00699 0.01065 0.00991 0.00000 0.00000 0.00053
+Ca2 0.00655 0.00839 0.00727 0.00055 0.00000 0.00000
+Ca3 0.01124 0.00687 0.01001 0.00010 -0.00375 -0.00149
+Ca4 0.00696 0.00721 0.00783 -0.00073 0.00062 -0.00018
+Si1 0.00658 0.00511 0.00598 -0.00013 0.00000 0.00000
+Si2 0.00661 0.00527 0.00685 0.00017 -0.00017 0.00003
+Si3 0.00650 0.00613 0.00616 0.00000 0.00000 -0.00015
+O1 0.00980 0.00870 0.00730 0.00040 0.00130 0.00000
+O2 0.00640 0.00910 0.01060 -0.00040 0.00000 0.00000
+O3 0.01180 0.00610 0.01050 0.00030 0.00000 0.00000
+O4 0.01040 0.00890 0.00700 -0.00100 0.00140 0.00000
+O5 0.00690 0.00910 0.01250 -0.00090 0.00070 -0.00100
+O6 0.00970 0.00750 0.00740 -0.00010 -0.00190 0.00030
+O7 0.00960 0.00610 0.01130 0.00030 -0.00110 -0.00010
+O8 0.00890 0.01250 0.01320 -0.00010 0.00080 -0.00550

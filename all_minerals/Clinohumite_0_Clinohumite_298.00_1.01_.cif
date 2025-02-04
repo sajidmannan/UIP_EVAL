@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Clinohumite'
+loop_
+_publ_author_name
+'Ottolini L'
+'Camara F'
+'Bigi S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 85 
+_journal_year 2000
+_journal_page_first 89
+_journal_page_last 102
+_publ_section_title
+;
+ An investigation of matrix effects in the analysis of fluorine in humite-group
+ minerals by EMPA, SIMS, and SREF
+ Sample: Chum HV-41 n.3
+;
+_database_code_amcsd 0002338
+_chemical_formula_sum 'Si4 Mg9 O16.96 F1.04 H.92'
+_cell_length_a 4.7396
+_cell_length_b 10.2328
+_cell_length_c 13.6439
+_cell_angle_alpha 100.843
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 649.907
+_exptl_crystal_density_diffrn      3.184
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Si1   0.07341   0.06624   0.38934   1.00000   0.00405
+Si2   0.07655   0.17672   0.83514   1.00000   0.00393
+Mg1A   0.50000   0.00000   0.50000   1.00000   0.00646
+Mg1B   0.49760   0.94628   0.27423   1.00000   0.00633
+Mg25   0.00935   0.14043   0.17024   1.00000   0.00633
+Mg26   0.50894   0.25023   0.38823   1.00000   0.00621
+Mg3   0.49291   0.87778   0.04305   1.00000   0.00659
+O11   0.73319   0.06451   0.38810   1.00000   0.00481
+O12   0.27818   0.41946   0.38781   1.00000   0.00532
+O13   0.22349   0.11244   0.29321   1.00000   0.00545
+O14   0.22232   0.15885   0.48631   1.00000   0.00557
+O21   0.23585   0.32291   0.16289   1.00000   0.00507
+O22   0.77862   0.96886   0.16249   1.00000   0.00545
+O23   0.72435   0.27998   0.26271   1.00000   0.00532
+O24   0.72776   0.22658   0.07007   1.00000   0.00570
+F5   0.26193   0.04644   0.05568   0.52000   0.00849
+O5   0.26193   0.04644   0.05568   0.48000   0.00849
+H   0.08400   0.00100   0.02100   0.46000   0.05509

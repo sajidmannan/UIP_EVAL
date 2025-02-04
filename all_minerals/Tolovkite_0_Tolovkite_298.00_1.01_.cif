@@ -1,0 +1,40 @@
+data_global
+_chemical_name_mineral 'Tolovkite'
+loop_
+_publ_author_name
+'Bayliss P'
+_journal_name_full 'American Mineralogist'
+_journal_volume 74 
+_journal_year 1989
+_journal_page_first 1168
+_journal_page_last 1176
+_publ_section_title
+;
+ Crystal chemistry and crystallography of some minerals within the pyrite group
+;
+_database_code_amcsd 0001275
+_chemical_formula_sum 'Ir Sb S'
+_cell_length_a 6.025
+_cell_length_b 6.025
+_cell_length_c 6.025
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 218.711
+_exptl_crystal_density_diffrn     10.509
+_symmetry_space_group_name_H-M 'P c a 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,-y,z'
+  '1/2-x,y,1/2+z'
+  '-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ir  -0.00670   0.26120   0.00220   0.00253
+Sb   0.37760   0.62760   0.37760   0.00507
+S   0.62240   0.87240   0.62240   0.01013

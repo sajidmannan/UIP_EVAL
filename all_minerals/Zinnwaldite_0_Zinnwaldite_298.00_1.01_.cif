@@ -1,0 +1,85 @@
+data_global
+_chemical_name_mineral 'Zinnwaldite'
+loop_
+_publ_author_name
+'Guggenheim S'
+'Bailey S W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 62 
+_journal_year 1977
+_journal_page_first 1158
+_journal_page_last 1167
+_publ_section_title
+;
+ The refinement of zinnwaldite-1M in subgroup symmetry
+ Note: the sample is from the Sadisdorf Mine dump, East Germany
+;
+_database_code_amcsd 0000604
+_chemical_formula_sum 'K.9 Na.05 Al1.908 Fe.93 Ti.01 Mn.05 Li.67 Mg.01 Si3.092 O10 F2'
+_cell_length_a 5.296
+_cell_length_b 9.140
+_cell_length_c 10.096
+_cell_angle_alpha 90
+_cell_angle_beta 100.83
+_cell_angle_gamma 90
+_cell_volume 479.997
+_exptl_crystal_density_diffrn      2.994
+_symmetry_space_group_name_H-M 'C 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K   0.00000   0.50280   0.00000   0.90000
+Na   0.00000   0.50280   0.00000   0.05000
+Al1   0.00000  -0.00690   0.50000   1.00000
+Fe2   0.00000   0.32170   0.50000   0.16000
+Ti2   0.00000   0.32170   0.50000   0.01000
+Fe2   0.00000   0.32170   0.50000   0.77000
+Mn2   0.00000   0.32170   0.50000   0.05000
+Li6   0.50000   0.16310   0.50000   0.67000
+Mg6   0.50000   0.16310   0.50000   0.01000
+Si1   0.07450   0.16880   0.22760   0.77300
+Al1   0.07450   0.16880   0.22760   0.22700
+Si2   0.58440   0.33230   0.22750   0.77300
+Al2   0.58440   0.33230   0.22750   0.22700
+O1   0.02890  -0.00020   0.17200   1.00000
+O2   0.32480   0.23500   0.17250   1.00000
+O22   0.81770   0.26410   0.15970   1.00000
+O3   0.11550   0.17480   0.39390   1.00000
+O33   0.66390   0.32710   0.39280   1.00000
+F   0.10890   0.47150   0.39890   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.02481 0.02031 0.02690 0.00000 0.00340 0.00000
+Na 0.02481 0.02031 0.02690 0.00000 0.00340 0.00000
+Al1 0.00918 0.00381 0.01176 0.00000 0.00340 0.00000
+Fe2 0.00685 0.00593 0.00847 0.00000 0.00157 0.00000
+Ti2 0.00685 0.00593 0.00847 0.00000 0.00157 0.00000
+Fe2 0.00685 0.00593 0.00847 0.00000 0.00157 0.00000
+Mn2 0.00685 0.00593 0.00847 0.00000 0.00157 0.00000
+Li6 0.00685 0.00508 0.01146 0.00000 0.00000 0.00000
+Mg6 0.00685 0.00508 0.01146 0.00000 0.00000 0.00000
+Si1 0.00726 0.00423 0.00797 0.00072 0.00078 -0.00092
+Al1 0.00726 0.00423 0.00797 0.00072 0.00078 -0.00092
+Si2 0.00603 0.00381 0.01096 0.00048 0.00157 0.00000
+Al2 0.00603 0.00381 0.01096 0.00048 0.00157 0.00000
+O1 0.02769 0.00889 0.01494 0.00000 0.00052 -0.00092
+O2 0.01713 0.02243 0.01445 -0.00747 0.00496 -0.00230
+O22 0.01604 0.01947 0.01544 0.00674 0.00261 0.00321
+O3 0.00918 0.00804 0.00946 0.00265 0.00209 -0.00046
+O33 0.00795 0.00931 0.01096 0.00048 0.00078 0.00000
+F 0.01480 0.01058 0.01594 -0.00169 0.00235 0.00230

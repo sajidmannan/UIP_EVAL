@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Torbernite'
+loop_
+_publ_author_name
+'Locock A J'
+'Burns P C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 41 
+_journal_year 2003
+_journal_page_first 489
+_journal_page_last 502
+_publ_section_title
+;
+ Crystal structures and synthesis of the copper-dominant members of the autunite
+ and meta-autunite groups: Torbernite, zeunerite, metatorbernite and metazeunerite
+;
+_database_code_amcsd 0005830
+_chemical_formula_sum 'U2 P2 Cu O24 H24'
+_cell_length_a 7.0267
+_cell_length_b 7.0267
+_cell_length_c 20.807
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1027.335
+_exptl_crystal_density_diffrn      3.264
+_symmetry_space_group_name_H-M 'P 4/n n c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,1/2+z'
+  'y,x,1/2-z'
+  '1/2+y,-x,-z'
+  '1/2-y,x,z'
+  '1/2+x,-y,1/2+z'
+  '1/2-x,y,1/2-z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  '1/2+y,1/2+x,1/2+z'
+  '1/2-y,1/2-x,1/2-z'
+  '-y,1/2+x,-z'
+  'y,1/2-x,z'
+  '-x,1/2+y,1/2+z'
+  'x,1/2-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+U   0.25000   0.25000   0.45840   0.01000
+P   0.25000  -0.25000   0.50000   0.01100
+Cu   0.25000   0.25000   0.25000   0.02200
+O1   0.25000   0.25000   0.37280   0.01700
+O2   0.25000   0.25000   0.54290   0.02100
+OW3   0.25000  -0.02220   0.25000   0.03600
+O4   0.21940  -0.07620   0.45650   0.01600
+OW5   0.02050  -0.16670   0.33910   0.02500
+H1  -0.06700  -0.10300   0.31300   0.05000
+H2   0.05400  -0.14300   0.38100   0.05000
+H3   0.18500  -0.10700   0.27800   0.05000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U 0.00900 0.00900 0.01300 0.00000 0.00000 0.00000
+P 0.00800 0.00800 0.01600 0.00000 0.00000 0.00000
+Cu 0.01800 0.01800 0.02800 0.00000 0.00000 0.00000
+O1 0.01900 0.01900 0.01200 0.00000 0.00000 0.00000
+O2 0.02400 0.02400 0.01700 0.00000 0.00000 0.00000
+OW3 0.04900 0.02000 0.04000 0.00000 0.02100 0.00000
+O4 0.01600 0.00900 0.02200 0.00100 -0.00300 0.00200
+OW5 0.02700 0.02600 0.02300 -0.00200 0.00200 0.00300

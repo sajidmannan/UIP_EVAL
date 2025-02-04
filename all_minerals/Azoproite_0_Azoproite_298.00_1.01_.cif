@@ -1,0 +1,91 @@
+data_global
+_chemical_name_mineral 'Azoproite'
+loop_
+_publ_author_name
+'Biryukov Y P'
+'Zinnatullin A L'
+'Levashova I O'
+'Shablinskii A P'
+'Cherosov M A'
+'Bubnova R S'
+'Vagizov F G'
+'Krzhizhanovskaya M G'
+'Filatov S K'
+'Shilovskikh V V'
+'Pekov I V'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 78 
+_journal_year 2022
+_journal_page_first 809
+_journal_page_last 816
+_publ_section_title
+;
+ X-ray diffraction and Mossbauer spectroscopy study of oxoborate azoproite
+ (Mg,Fe2+)2(Fe3+,Ti,Mg,Al)O2(BO3): an in situ temperature-dependent investigation
+ (5 <= T <= 1650 K)
+;
+_database_code_amcsd 0021213
+_chemical_compound_source 'Tazheran massif, Siberia, Russia'
+_chemical_formula_sum 'Fe.45 Ti.3 Al.1 Mg2.15 B O5'
+_cell_length_a 9.2460
+_cell_length_b 12.2731
+_cell_length_c 3.0092
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 341.475
+_exptl_crystal_density_diffrn      3.604
+_symmetry_space_group_name_H-M 'P b a m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  'x,y,-z'
+  '-x,-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Fe4   0.73794   0.38401   0.50000   0.40000   0.00900
+Ti4   0.73794   0.38401   0.50000   0.30000   0.00900
+Al4   0.73794   0.38401   0.50000   0.10000   0.00900
+Mg2   0.50000   0.00000   0.50000   1.00000   0.01370
+Mg3   0.00090   0.28056   0.00000   0.95000   0.01620
+Fe3*   0.00090   0.28056   0.00000   0.05000   0.01620
+Mg4   0.73794   0.38401   0.50000   0.20000   0.00900
+Mg1   0.00000   0.00000   0.00000   1.00000   0.00300
+B   0.27350   0.36080   0.50000   1.00000   0.00820
+O1   0.85030   0.04230   0.50000   1.00000   0.00900
+O2   0.38320   0.07570   0.00000   1.00000   0.01090
+O3   0.62480   0.14200   0.50000   1.00000   0.00970
+O4   0.10890   0.14320   0.00000   1.00000   0.01010
+O5   0.34950   0.26280   0.50000   1.00000   0.00930
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe4 0.00870 0.00920 0.00910 0.00100 0.00000 0.00000
+Ti4 0.00870 0.00920 0.00910 0.00100 0.00000 0.00000
+Al4 0.00870 0.00920 0.00910 0.00100 0.00000 0.00000
+Mg2 0.01240 0.01410 0.01460 0.00130 0.00000 0.00000
+Mg3 0.01570 0.01550 0.01740 -0.00080 0.00000 0.00000
+Fe3' 0.01570 0.01550 0.01740 -0.00080 0.00000 0.00000
+Mg4 0.00870 0.00920 0.00910 0.00100 0.00000 0.00000
+Mg1 0.00440 0.00200 0.00260 -0.00010 0.00000 0.00000
+B 0.00700 0.01020 0.00720 0.00240 0.00000 0.00000
+O1 0.00830 0.00960 0.00900 -0.00020 0.00000 0.00000
+O2 0.00790 0.01030 0.01460 0.00050 0.00000 0.00000
+O3 0.00850 0.00980 0.01070 0.00090 0.00000 0.00000
+O4 0.00940 0.00670 0.01410 0.00070 0.00000 0.00000
+O5 0.00880 0.00770 0.01140 -0.00050 0.00000 0.00000

@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Terlinguaite'
+loop_
+_publ_author_name
+'Aurivillius K'
+'Folkmarson L'
+_journal_name_full 'Acta Chemica Scandinavica'
+_journal_volume 22 
+_journal_year 1968
+_journal_page_first 2529
+_journal_page_last 2540
+_publ_section_title
+;
+ The crystal structure of terlinguaite Hg4O2Cl2
+;
+_database_code_amcsd 0011911
+_chemical_compound_source 'Terlingua, Texas, USA'
+_chemical_formula_sum 'Hg2 O Cl'
+_cell_length_a 19.515
+_cell_length_b 5.915
+_cell_length_c 9.478
+_cell_angle_alpha 90
+_cell_angle_beta 143.81
+_cell_angle_gamma 90
+_cell_volume 646.002
+_exptl_crystal_density_diffrn      9.308
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Hg1   0.25000   0.25000   0.00000 ?
+Hg2   0.00000   0.59100   0.25000 ?
+Hg3   0.04900   0.19460   0.20160 ?
+O   0.07900   0.17900   0.72200   0.00722
+Cl   0.19460   0.29500   0.24400   0.01646
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 0.01480 0.01188 0.01634 -0.00069 0.02516 -0.00117
+Hg2 0.01951 0.00904 0.02031 0.00000 0.03398 0.00000
+Hg3 0.02691 0.01081 0.02618 0.00104 0.04639 -0.00235

@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Lulzacite'
+loop_
+_publ_author_name
+'Leone P'
+'Palvadeau P'
+'Moelo Y'
+_journal_name_full 'Chimie de l'etat Solide et Cristallochimie'
+_journal_volume 3 
+_journal_year 2000
+_journal_page_first 301
+_journal_page_last 308
+_publ_section_title
+;
+ Structure cristalline d'un nouvel hydroxyphosphate naturel de strontium,
+ fer et aluminium (lulzacite), Sr2Fe(Fe0,63Mg0,37)2Al4(PO4)4(OH)10
+;
+_database_code_amcsd 0018779
+_chemical_compound_source 'Saint-Aubin-des-Chateaux, Loire-Atlantique, France'
+_chemical_formula_sum '(Sr1.92 Ba.08) (P3.92 V.08) Fe2.26 Al4 Mg.74 O26 H4'
+_cell_length_a 5.457
+_cell_length_b 9.131
+_cell_length_c 9.769
+_cell_angle_alpha 108.47
+_cell_angle_beta 91.72
+_cell_angle_gamma 97.44
+_cell_volume 456.500
+_exptl_crystal_density_diffrn      3.553
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Sr   0.14060   0.77380   0.41720   0.96000   0.02000
+Ba   0.14060   0.77380   0.41720   0.04000   0.02000
+P1   0.22920   0.67790   0.76430   0.98000   0.01000
+V1   0.22920   0.67790   0.76430   0.02000   0.01000
+P2   0.30180   0.07170   0.72470   0.98000   0.01000
+V2   0.30180   0.07170   0.72470   0.02000   0.01000
+FeM1   0.00000   0.50000   0.00000   1.00000   0.01200
+AlM2   0.50000   0.00000   0.00000   1.00000   0.01000
+AlM3   0.50000   0.50000   0.50000   1.00000   0.01000
+FeM4   0.23780   0.12520   0.27470   0.63000   0.00500
+MgM4   0.23780   0.12520   0.27470   0.37000   0.00500
+AlM5   0.51260   0.57500   0.16270   1.00000   0.01000
+O1   0.54080   0.20150   0.15990   1.00000   0.01100
+O2   0.22100   0.53540   0.82030   1.00000   0.01200
+O3   0.01260   0.25860   0.20340   1.00000   0.01400
+O4   0.26180   0.62330   0.59950   1.00000   0.01400
+O5   0.68710   0.76070   0.28420   1.00000   0.01200
+O6   0.05140   0.98480   0.64450   1.00000   0.01300
+O7   0.49010   0.00680   0.35390   1.00000   0.01600
+O8   0.31070   0.08300   0.88550   1.00000   0.01200
+O9   0.23470   0.67500   0.14690   1.00000   0.01200
+O10   0.36670   0.52160   0.32100   1.00000   0.01000
+O11   0.33700   0.40040   0.00940   1.00000   0.01100
+O12   0.22250   0.94500   0.08420   1.00000   0.01300
+O13   0.71700   0.68200   0.53220   1.00000   0.00500
+H1   0.23500   0.45000   0.28000   1.00000 ?
+H2   0.09600   0.91500   0.03000   1.00000 ?

@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Luzonite'
+loop_
+_publ_author_name
+'Marumo F'
+'Nowacki W'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 124 
+_journal_year 1967
+_journal_page_first 1
+_journal_page_last 8
+_publ_section_title
+;
+ A refinement of the crystal structure of luzonite, Cu3AsS4
+;
+_database_code_amcsd 0010631
+_chemical_compound_source 'Cerro de Pasco, Peru'
+_chemical_formula_sum 'Cu3 (As.685 Sb.315) S4'
+_cell_length_a 5.332
+_cell_length_b 5.332
+_cell_length_c 10.570
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 300.507
+_exptl_crystal_density_diffrn      4.515
+_symmetry_space_group_name_H-M 'I -4 2 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu1   0.00000   0.50000   0.25000   1.00000   0.02001
+Cu2   0.00000   0.00000   0.50000   1.00000   0.02001
+As   0.00000   0.00000   0.00000   0.68500   0.00697
+Sb   0.00000   0.00000   0.00000   0.31500   0.00697
+S   0.24420   0.24420   0.12480   1.00000   0.01267
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.01967 0.01967 0.02060 0.00000 0.00000 0.00000
+Cu2 0.01999 0.01999 0.01992 0.00000 0.00000 0.00000
+As 0.00635 0.00635 0.00809 0.00000 0.00000 0.00000
+Sb 0.00635 0.00635 0.00809 0.00000 0.00000 0.00000
+S 0.01246 0.01246 0.01313 0.00006 -0.00011 -0.00011

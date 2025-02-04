@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Hoelite'
+loop_
+_publ_author_name
+'Prakash A'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 22 
+_journal_year 1967
+_journal_page_first 439
+_journal_page_last 440
+_publ_section_title
+;
+ Refinement of the crystal structure of anthraquinone
+;
+_database_code_amcsd 0009309
+_chemical_formula_sum 'C7 O H4'
+_cell_length_a 15.810
+_cell_length_b 3.942
+_cell_length_c 7.895
+_cell_angle_alpha 90
+_cell_angle_beta 102.72
+_cell_angle_gamma 90
+_cell_volume 479.964
+_exptl_crystal_density_diffrn      1.441
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+C1   0.13140   0.41700   0.39850 ?
+C2   0.05070   0.27100   0.34060 ?
+C3   0.02770   0.13900   0.17420 ?
+C4   0.08500   0.15500   0.06160 ?
+C5   0.16620   0.29600   0.12150 ?
+C6   0.18940   0.42700   0.28940 ?
+C7   0.06050   0.01400  -0.11570 ?
+O8   0.11090   0.02300  -0.21190 ?
+H1   0.14500   0.51400   0.51900   0.04433
+H2   0.00700   0.24500   0.41600   0.04433
+H5   0.20700   0.32300   0.03600   0.04433
+H6   0.24600   0.56500   0.33700   0.04433
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C1 0.60245 0.50383 0.48675 0.09239 -0.01203 -0.03999
+C2 0.55425 0.60223 0.41464 0.12627 0.15042 -0.02461
+C3 0.38557 0.34087 0.50177 0.06776 0.18051 0.00000
+C4 0.31327 0.38417 0.49877 0.10163 0.24669 0.04921
+C5 0.39762 0.51013 0.65801 -0.05852 0.31889 0.07075
+C6 0.51811 0.48651 0.63398 0.04928 -0.19254 -0.16764
+C7 0.39762 0.51957 0.45670 0.12627 0.30686 0.07536
+O8 0.53016 1.18321 0.51379 -0.34186 0.48737 -0.29221

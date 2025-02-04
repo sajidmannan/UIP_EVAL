@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Chalcocyanite'
+loop_
+_publ_author_name
+'Wildner M'
+'Giester G'
+_journal_name_full 'Mineralogy and Petrology'
+_journal_volume 39 
+_journal_year 1988
+_journal_page_first 201
+_journal_page_last 209
+_publ_section_title
+;
+ Crystal structure refinements of synthetic
+ chalcocyanite (CuSO4) and zincosite (ZnSO4)
+;
+_database_code_amcsd 0014619
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Cu S O4'
+_cell_length_a 8.409
+_cell_length_b 6.709
+_cell_length_c 4.833
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 272.658
+_exptl_crystal_density_diffrn      3.888
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu   0.00000   0.00000   0.00000   0.00970
+S   0.18363   0.25000   0.44979   0.00710
+O1   0.12930   0.25000   0.73530   0.01170
+O2   0.36460   0.25000   0.43850   0.00920
+O3   0.13280   0.06740   0.30830   0.01110
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.00920 0.00890 0.01080 0.00160 -0.00360 -0.00270
+S 0.00620 0.00820 0.00700 0.00000 -0.00030 0.00000
+O1 0.01120 0.01520 0.00890 0.00000 0.00370 0.00000
+O2 0.00370 0.00960 0.01430 0.00000 0.00000 0.00000
+O3 0.01030 0.00980 0.01310 -0.00060 -0.00410 -0.00220

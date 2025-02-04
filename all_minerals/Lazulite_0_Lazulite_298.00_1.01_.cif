@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Lazulite'
+loop_
+_publ_author_name
+'Lindberg M L'
+'Christ C L'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 12 
+_journal_year 1959
+_journal_page_first 695
+_journal_page_last 697
+_publ_section_title
+;
+ Crystal structures of the isostructural minerals lazulite,
+ scorzalite and barbosalite
+;
+_database_code_amcsd 0009233
+_chemical_formula_sum 'Mg Al2 P2 O10 H2'
+_cell_length_a 7.16
+_cell_length_b 7.26
+_cell_length_c 7.24
+_cell_angle_alpha 90
+_cell_angle_beta 120.67
+_cell_angle_gamma 90
+_cell_volume 323.703
+_exptl_crystal_density_diffrn      3.101
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Mg   0.00000   0.00000   0.00000   0.00760
+Al   0.73200   0.26600   0.00400   0.00760
+P   0.25000   0.11300   0.74900   0.00760
+O1   0.22200   0.00000   0.90100   0.00760
+O2   0.28600   0.00000   0.58900   0.00760
+O3   0.04800   0.25300   0.13000   0.00760
+O4   0.44300   0.24400   0.37700   0.00760
+O-H5   0.75400   0.13500   0.74900   0.00760

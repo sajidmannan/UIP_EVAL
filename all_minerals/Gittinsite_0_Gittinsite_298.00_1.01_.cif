@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Gittinsite'
+loop_
+_publ_author_name
+'Roelofsen-Ahl J N'
+'Peterson R C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 27 
+_journal_year 1989
+_journal_page_first 703
+_journal_page_last 708
+_publ_section_title
+;
+ Gittinsite: A modification of the thortveitite structure
+;
+_database_code_amcsd 0005233
+_chemical_formula_sum 'Zr Ca Si2 O7'
+_cell_length_a 6.852
+_cell_length_b 8.659
+_cell_length_c 4.686
+_cell_angle_alpha 90
+_cell_angle_beta 101.69
+_cell_angle_gamma 90
+_cell_volume 272.260
+_exptl_crystal_density_diffrn      3.653
+_symmetry_space_group_name_H-M 'C 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zr   0.00000   0.31400   0.50000
+Ca   0.00000   0.70630   0.50000
+Si   0.21230   0.99200   0.91870
+O1   0.00000   0.93870   0.00000
+O2   0.37340   0.00000   0.21960
+O3   0.18850   0.15490   0.74050
+O4   0.26400   0.85390   0.71030
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zr 0.01030 0.00990 0.00960 0.00000 0.00150 0.00000
+Ca 0.01790 0.01040 0.02700 0.00000 -0.01400 0.00000
+Si 0.01280 0.01260 0.00860 0.00200 -0.00100 -0.00100
+O1 0.01300 0.02900 0.02700 0.00000 0.00700 0.00000
+O2 0.01600 0.01600 0.01200 0.00100 -0.00800 0.00200
+O3 0.03000 0.01200 0.01500 0.00100 -0.00600 0.00100
+O4 0.02100 0.01600 0.01300 -0.00400 0.00500 -0.00900

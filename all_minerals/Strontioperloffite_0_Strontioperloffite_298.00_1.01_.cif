@@ -1,0 +1,88 @@
+data_global
+_chemical_name_mineral 'Strontioperloffite'
+loop_
+_publ_author_name
+'Elliott P'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 31 
+_journal_year 2019
+_journal_page_first 549
+_journal_page_last 555
+_publ_section_title
+;
+ Strontioperloffite, SrMn22+Fe32+PO43+OH3, a new bjarebyite-group mineral
+ from the Spring Creek mine, South Australia, Australia
+;
+_database_code_amcsd 0020864
+_chemical_compound_source 'Spring Creek mine, South Australia, Australia'
+_chemical_formula_sum '(Sr.6 Ba.38 Na.02) Mn1.86 Fe2.08 Ca.04 Al.02 P3 O15 H3'
+_cell_length_a 9.1830
+_cell_length_b 12.349
+_cell_length_c 5.0081
+_cell_angle_alpha 90
+_cell_angle_beta 100.23
+_cell_angle_gamma 90
+_cell_volume 558.894
+_exptl_crystal_density_diffrn      3.932
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+SrXa   0.54362   0.75000   0.74599   0.60000   0.01600
+BaXa   0.54362   0.75000   0.74599   0.38000   0.01600
+NaXa   0.54362   0.75000   0.74599   0.02000   0.01600
+MnM1b   0.29762   0.10879   0.20357   0.93000   0.01270
+FeM1b   0.29762   0.10879   0.20357   0.05000   0.01270
+CaM1b   0.29762   0.10879   0.20357   0.02000   0.01270
+FeM2c   0.09407   0.39843   0.13251   0.99000   0.01200
+AlM2c   0.09407   0.39843   0.13251   0.01000   0.01200
+P1   0.16260   0.75000   0.67960   1.00000   0.01140
+P2   0.33912   0.44189   0.70950   1.00000   0.01220
+O1   0.28070   0.75000   0.93740   1.00000   0.01700
+O2   0.24100   0.75000   0.43420   1.00000   0.01200
+O3   0.06460   0.64870   0.67530   1.00000   0.01410
+O4   0.37840   0.55380   0.61280   1.00000   0.01650
+O5   0.26350   0.45680   0.96360   1.00000   0.01610
+O6   0.23480   0.38120   0.48130   1.00000   0.01830
+O7   0.47440   0.36810   0.79880   1.00000   0.01620
+O-h8   0.13690   0.25000   0.00250   1.00000   0.01590
+O-h9   0.06290   0.56010   0.19280   1.00000   0.01300
+H8   0.12700   0.25000   0.18900   1.00000   0.04000
+H9   0.05300   0.58400   0.36400   1.00000   0.04000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+SrXa 0.01360 0.02030 0.01340 0.00000 0.00030 0.00000
+BaXa 0.01360 0.02030 0.01340 0.00000 0.00030 0.00000
+NaXa 0.01360 0.02030 0.01340 0.00000 0.00030 0.00000
+MnM1b 0.01180 0.01270 0.01330 0.00040 0.00130 0.00020
+FeM1b 0.01180 0.01270 0.01330 0.00040 0.00130 0.00020
+CaM1b 0.01180 0.01270 0.01330 0.00040 0.00130 0.00020
+FeM2c 0.01110 0.01360 0.01090 0.00020 0.00130 0.00040
+AlM2c 0.01110 0.01360 0.01090 0.00020 0.00130 0.00040
+P1 0.01000 0.01400 0.01000 0.00000 0.00120 0.00000
+P2 0.01090 0.01500 0.01060 0.00030 0.00140 0.00020
+O1 0.01500 0.02300 0.01200 0.00000 0.00020 0.00000
+O2 0.01500 0.01000 0.01000 0.00000 0.00030 0.00000
+O3 0.01330 0.01530 0.01400 0.00010 0.00290 0.00180
+O4 0.01640 0.01740 0.01610 0.00480 0.00390 0.00020
+O5 0.01400 0.01800 0.01710 0.00020 0.00520 0.00160
+O6 0.02060 0.01880 0.01330 0.00120 0.00300 0.00220
+O7 0.01200 0.01400 0.02230 0.00220 0.00250 0.00150
+O-h8 0.02100 0.00900 0.01900 0.00000 0.00600 0.00000
+O-h9 0.01310 0.01360 0.01160 0.00170 0.00000 0.00190

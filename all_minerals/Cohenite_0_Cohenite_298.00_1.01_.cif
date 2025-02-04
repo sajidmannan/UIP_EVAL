@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Cohenite'
+loop_
+_publ_author_name
+'Herbstein F H'
+'Smuts J'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 17 
+_journal_year 1964
+_journal_page_first 1331
+_journal_page_last 1332
+_publ_section_title
+;
+ Comparison of X-ray and neutron-diffraction refinements
+ of the structure of cementite Fe3C
+;
+_database_code_amcsd 0019097
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Fe3 C'
+_cell_length_a 5.090
+_cell_length_b 6.748
+_cell_length_c 4.523
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 155.353
+_exptl_crystal_density_diffrn      7.677
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fed   0.18600   0.06300   0.32800
+Fec   0.03600   0.25000   0.85200
+C   0.89000   0.25000   0.45000

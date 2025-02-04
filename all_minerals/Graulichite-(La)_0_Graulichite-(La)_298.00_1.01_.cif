@@ -1,0 +1,91 @@
+data_global
+_chemical_name_mineral 'Graulichite-(La)'
+loop_
+_publ_author_name
+'Biagioni C'
+'Ciriotti M E'
+'Favreau G'
+'Mauro D'
+'Zaccarini F'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 34 
+_journal_year 2022
+_journal_page_first 365
+_journal_page_last 374
+_publ_section_title
+;
+ Graulichite-(La), LaFe3+3(AsO4)2(OH)6, a new addition to the alunite supergroup
+ from the Patte d'Oie mine, Bou Skour mining district, Morocco
+;
+_database_code_amcsd 0021068
+_chemical_compound_source 'Patte d'Oie mine, Bou Skour, Morocco'
+_chemical_formula_sum '(La.43 Ce.25 Ca.11 Sr.1 Pb.06 K.05) (Fe2.37 Al.45 Cu.18) (As.86 P.48 S.66) O14 H6'
+_cell_length_a 7.252
+_cell_length_b 7.252
+_cell_length_c 16.77
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 763.799
+_exptl_crystal_density_diffrn      3.970
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  'y,x,-z'
+  '2/3+y,1/3+x,1/3-z'
+  '1/3+y,2/3+x,2/3-z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-x,-x+y,-z'
+  '2/3-x,1/3-x+y,1/3-z'
+  '1/3-x,2/3-x+y,2/3-z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  'x-y,-y,-z'
+  '2/3+x-y,1/3-y,1/3-z'
+  '1/3+x-y,2/3-y,2/3-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+LaA   0.00000   0.00000   0.00000   0.43000   0.03000
+CeA   0.00000   0.00000   0.00000   0.25000   0.03000
+CaA   0.00000   0.00000   0.00000   0.11000   0.03000
+SrA   0.00000   0.00000   0.00000   0.10000   0.03000
+PbA   0.00000   0.00000   0.00000   0.06000   0.03000
+KA   0.00000   0.00000   0.00000   0.05000   0.03000
+FeB   0.50000   0.50000   0.50000   0.79000   0.01500
+AlB   0.50000   0.50000   0.50000   0.15000   0.01500
+CuB   0.50000   0.50000   0.50000   0.06000   0.01500
+AsX   0.00000   0.00000   0.31630   0.43000   0.02000
+PX   0.00000   0.00000   0.31630   0.24000   0.02000
+SX   0.00000   0.00000   0.31630   0.33000   0.02000
+O1   0.00000   0.00000   0.41500   1.00000   0.02500
+O2   0.21900  -0.21900  -0.05200   1.00000   0.02500
+O-H   0.12000  -0.12000   0.13200   1.00000   0.02500

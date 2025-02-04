@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Hematophanite'
+loop_
+_publ_author_name
+'Rouse R C'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 39 
+_journal_year 1973
+_journal_page_first 49
+_journal_page_last 53
+_publ_section_title
+;
+ Hematophanite, a derivative of the perovskite structure
+;
+_database_code_amcsd 0014458
+_chemical_compound_source 'Langban, Sweden'
+_chemical_formula_sum 'Pb4 Fe3 O8 Cl'
+_cell_length_a 3.92
+_cell_length_b 3.92
+_cell_length_c 15.31
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 235.260
+_exptl_crystal_density_diffrn      8.186
+_symmetry_space_group_name_H-M 'P 4 m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  '-y,x,z'
+  'x,-y,z'
+  '-x,-y,z'
+  'y,x,z'
+  'y,-x,z'
+  '-x,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.00000   0.00000   0.00000   0.00532
+Pb2   0.00000   0.00000   0.23700   0.01203
+Pb3   0.00000   0.00000   0.50100   0.00709
+Pb4   0.00000   0.00000   0.74500   0.01393
+Fe1   0.50000   0.50000   0.36300   0.00633
+Fe2   0.50000   0.50000   0.61900   0.00633
+Fe3   0.50000   0.50000   0.87000   0.00633
+O1   0.50000   0.00000   0.33900   0.01773
+O2   0.50000   0.50000   0.47800   0.01089
+O3   0.50000   0.00000   0.60700   0.05066
+O4   0.50000   0.50000   0.74700   0.02026
+O5   0.50000   0.00000   0.91500   0.00367
+Cl   0.50000   0.50000   0.12100   0.02533

@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Sewardite'
+loop_
+_publ_author_name
+'Roberts A C'
+'Cooper M A'
+'Hawthorne F C'
+'Criddle A J'
+'Stirling J A R'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 40 
+_journal_year 2002
+_journal_page_first 1191
+_journal_page_last 1198
+_publ_section_title
+;
+ Sewardite, CaFe2(AsO4)2(OH)2, the Ca-analogue of carminite,
+ from Tsumeb, Namibia: Description and crystal structure
+;
+_database_code_amcsd 0005788
+_chemical_compound_source 'Tsumeb, Namibia'
+_chemical_formula_sum 'Ca Fe2 As2 O10 H2'
+_cell_length_a 16.461
+_cell_length_b 7.434
+_cell_length_c 12.131
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1484.484
+_exptl_crystal_density_diffrn      4.149
+_symmetry_space_group_name_H-M 'C c c m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,y,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,1/2-z'
+  '1/2+x,1/2-y,1/2-z'
+  'x,y,-z'
+  '1/2+x,1/2+y,-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.00000   0.00000   0.25000   0.01850
+Ca2   0.25000   0.75000   0.00000   0.01010
+Fe   0.37896   0.13210   0.13404   0.00560
+As1   0.04504   0.74470   0.00000   0.00540
+As2   0.21374   0.00000   0.25000   0.00480
+O1   0.01440   0.22460   0.11190   0.00500
+O2   0.08850   0.52900   0.00000   0.00600
+O3   0.12190  -0.11400   0.00000   0.01200
+O4   0.15110   0.17770   0.23890   0.01100
+O5   0.27200  -0.01500   0.13780   0.00500
+O-H6   0.17110   0.23300   0.00000   0.00500
+O-H7   0.42430   0.00000   0.25000   0.01700

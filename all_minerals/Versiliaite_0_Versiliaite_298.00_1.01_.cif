@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Versiliaite'
+loop_
+_publ_author_name
+'Mellini M'
+'Merlino S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 64 
+_journal_year 1979
+_journal_page_first 1235
+_journal_page_last 1242
+_publ_section_title
+;
+ Versiliaite and apuanite: Derivative structures related to schafarzikite
+;
+_database_code_amcsd 0000750
+_chemical_formula_sum 'Fe5 Sb5.9 Zn.5 As.6 S.8 O16'
+_cell_length_a 8.492
+_cell_length_b 8.326
+_cell_length_c 11.938
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 844.069
+_exptl_crystal_density_diffrn      5.339
+_symmetry_space_group_name_H-M 'P b a m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  'x,y,-z'
+  '-x,-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe(1)   0.30840   0.31930   0.00000   0.75000
+Sb(1)   0.30840   0.31930   0.00000   0.25000
+Fe(2)   0.00000   0.50000   0.37520   1.00000
+Fe(3)   0.00000   0.50000   0.12390   0.75000
+Zn(3)   0.00000   0.50000   0.12390   0.25000
+Sb(1)   0.17110   0.16710   0.24500   0.90000
+As(1)   0.17110   0.16710   0.24500   0.10000
+Sb(2)   0.33030   0.32920   0.50000   0.90000
+As(2)   0.33030   0.32920   0.50000   0.10000
+S   0.50000   0.50000   0.00000   0.80000
+O(1)   0.36100   0.09930   0.50000   1.00000
+O(2)   0.40030   0.13600   0.24380   1.00000
+O(3)   0.32340   0.81760   0.37640   1.00000
+O(4)   0.18550   0.34280   0.13570   1.00000
+O(5)   0.60700   0.89150   0.00000   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe(1) 0.01534 0.01896 0.01083 0.00752 0.00000 0.00000
+Sb(1) 0.01534 0.01896 0.01083 0.00752 0.00000 0.00000
+Fe(2) 0.00256 0.00457 0.00505 0.00000 0.00000 0.00000
+Fe(3) 0.00365 0.00351 0.00650 0.00107 0.00000 0.00000
+Zn(3) 0.00365 0.00351 0.00650 0.00107 0.00000 0.00000
+Sb(1) 0.00219 0.00176 0.00505 0.00107 -0.00103 0.00000
+As(1) 0.00219 0.00176 0.00505 0.00107 -0.00103 0.00000
+Sb(2) 0.00219 0.00527 0.00722 0.00143 0.00000 0.00000
+As(2) 0.00219 0.00527 0.00722 0.00143 0.00000 0.00000
+S 0.00694 0.01124 0.02527 -0.00179 0.00000 0.00000
+O(1) 0.00585 0.00527 0.01588 0.00251 0.00000 0.00000
+O(2) 0.00438 0.00457 0.01372 0.00179 -0.00051 0.00352
+O(3) 0.01096 0.01018 0.01444 -0.00143 -0.00411 0.00554
+O(4) 0.00585 0.01124 0.01083 0.00752 -0.00051 -0.00201
+O(5) 0.00548 0.00702 0.01227 0.00394 0.00000 0.00000

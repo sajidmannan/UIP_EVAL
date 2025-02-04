@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Wurtzite-10H'
+loop_
+_publ_author_name
+'Evans H T'
+'McKnight E T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 44 
+_journal_year 1959
+_journal_page_first 1210
+_journal_page_last 1218
+_publ_section_title
+;
+ New wurtzite polytypes from Joplin, Missouri
+;
+_database_code_amcsd 0000088
+_chemical_formula_sum 'Zn5 S5'
+_cell_length_a 3.824
+_cell_length_b 3.824
+_cell_length_c 31.20
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 395.113
+_exptl_crystal_density_diffrn      4.096
+_symmetry_space_group_name_H-M 'P 63 m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1   0.00000   0.00000   0.00000
+Zn2   0.00000   0.00000   0.30000
+Zn3   0.33333   0.66667   0.10000
+Zn4   0.33333   0.66667   0.40000
+Zn5   0.33333   0.66667   0.70000
+S1   0.00000   0.00000   0.07500
+S2   0.00000   0.00000   0.37500
+S3   0.33333   0.66667   0.17500
+S4   0.33333   0.66667   0.47500
+S5   0.33333   0.66667   0.77500

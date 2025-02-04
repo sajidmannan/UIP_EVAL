@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Bonazziite'
+loop_
+_publ_author_name
+'Bonazzi P'
+'Bindi L'
+'Pratesi G'
+'Menchetti S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 91 
+_journal_year 2006
+_journal_page_first 1323
+_journal_page_last 1330
+_publ_section_title
+;
+ Light-induced changes in molecular arsenic sulfides: State of the art and
+ new evidence by single-crystal X-ray diffraction
+ Sample: B2-0
+;
+_database_code_amcsd 0004217
+_chemical_formula_sum 'As S'
+_cell_length_a 9.958
+_cell_length_b 9.311
+_cell_length_c 8.867
+_cell_angle_alpha 90
+_cell_angle_beta 102.57
+_cell_angle_gamma 90
+_cell_volume 802.433
+_exptl_crystal_density_diffrn      3.542
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+As1  -0.00187  -0.20545   0.05489   0.02920
+As2  -0.16022  -0.40157   0.12611   0.02860
+S1   0.00000  -0.05400   0.25000   0.03400
+S2   0.00000  -0.55360   0.25000   0.03630
+S3  -0.20120  -0.30400   0.34030   0.03500
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 0.03480 0.03390 0.01880 0.00540 0.00600 0.00670
+As2 0.02360 0.03170 0.02640 0.00050 -0.00360 -0.00650
+S1 0.04430 0.02260 0.03460 0.00000 0.00760 0.00000
+S2 0.03610 0.02190 0.04500 0.00000 -0.00430 0.00000
+S3 0.02620 0.04930 0.03180 -0.00440 0.01170 -0.00640

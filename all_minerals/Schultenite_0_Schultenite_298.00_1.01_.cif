@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Schultenite'
+loop_
+_publ_author_name
+'Wilson C C'
+'Cox P J'
+'Stewart N S'
+_journal_name_full 'Journal of Crystallographic and Spectroscopic Research'
+_journal_volume 21 
+_journal_year 1991
+_journal_page_first 589
+_journal_page_last 593
+_publ_section_title
+;
+ Structure and disorder in schultenite, lead hydrogen arsenate
+;
+_database_code_amcsd 0013023
+_chemical_formula_sum 'Pb H As O4'
+_cell_length_a 4.930
+_cell_length_b 6.772
+_cell_length_c 5.859
+_cell_angle_alpha 90
+_cell_angle_beta 96.07
+_cell_angle_gamma 90
+_cell_volume 194.512
+_exptl_crystal_density_diffrn      5.927
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb   0.00000   0.20270   0.25000   1.00000 ?
+H   0.48400   0.52450   0.48800   0.50000   0.03040
+As   0.50000   0.79660   0.25000   1.00000 ?
+O1   0.35910   0.64940   0.44330   1.00000 ?
+O2   0.24920   0.93180   0.10890   1.00000 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb 0.01216 0.01216 0.01431 0.00000 0.00101 0.00000
+As 0.00874 0.00811 0.01089 0.00000 0.00013 0.00000
+O1 0.01735 0.01571 0.01469 0.00355 0.01393 0.00747
+O2 0.00950 0.01735 0.00798 0.00431 0.00152 0.00089

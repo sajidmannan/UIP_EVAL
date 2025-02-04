@@ -1,0 +1,84 @@
+data_global
+_chemical_name_mineral 'Lukechangite-(Ce)'
+loop_
+_publ_author_name
+'Grice J D'
+'Chao G Y'
+_journal_name_full 'American Mineralogist'
+_journal_volume 82 
+_journal_year 1997
+_journal_page_first 1255
+_journal_page_last 1260
+_publ_section_title
+;
+ Lukechangite-(Ce), a new rare-earth-fluorocarbonate mineral from
+ Mont Saint-Hilaire, Quebec
+ Note: U(1,2) for Na1, O1, O2 and F changed to match symmetry constraints.
+ Note: U(2,3) for O2 changed to match symmetry constraints.
+;
+_database_code_amcsd 0001952
+_chemical_formula_sum 'Na3 Ce2 C4 O12 F'
+_cell_length_a 5.0612
+_cell_length_b 5.0612
+_cell_length_c 22.820
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 506.236
+_exptl_crystal_density_diffrn      3.990
+_symmetry_space_group_name_H-M 'P 63/m m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x,-x+y,-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+  'x-y,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Nal   0.33333   0.66667   0.47770
+Na2   0.00000   0.00000   0.25000
+Ce   0.66667   0.33333   0.35447
+C1   0.00000   0.00000   0.43580
+C2   0.33333   0.66667   0.32390
+O1   0.28960   0.14480   0.43750
+O2   0.18705   0.37410   0.32410
+F   0.66667   0.33333   0.25000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nal 0.02650 0.02650 0.02390 0.01325 0.00000 0.00000
+Na2 0.02760 0.02760 0.00830 0.01380 0.00000 0.00000
+Ce 0.00920 0.00920 0.00470 0.00460 0.00000 0.00000
+C1 0.01230 0.01230 0.01210 0.00610 0.00000 0.00000
+C2 0.00980 0.00980 0.00740 0.00490 0.00000 0.00000
+O1 0.01270 0.07830 0.01160 0.00635 0.00020 0.00010
+O2 0.01590 0.01050 0.01980 0.00525 -0.00050 -0.00100
+F 0.02770 0.02770 0.01170 0.01385 0.00000 0.00000

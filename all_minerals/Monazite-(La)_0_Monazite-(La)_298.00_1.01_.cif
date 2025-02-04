@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Monazite-(La)'
+loop_
+_publ_author_name
+'Ni Y'
+'Hughes J M'
+'Mariano A N'
+_journal_name_full 'American Mineralogist'
+_journal_volume 80 
+_journal_year 1995
+_journal_page_first 21
+_journal_page_last 26
+_publ_section_title
+;
+ Crystal chemistry of the monazite and xenotime structures
+;
+_database_code_amcsd 0001699
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'La P O4'
+_cell_length_a 6.8313
+_cell_length_b 7.0705
+_cell_length_c 6.5034
+_cell_angle_alpha 90
+_cell_angle_beta 103.27
+_cell_angle_gamma 90
+_cell_volume 305.732
+_exptl_crystal_density_diffrn      5.081
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+La   0.28154   0.16033   0.10068   0.00372
+P   0.30470   0.16390   0.61210   0.00418
+O1   0.25030   0.00770   0.44770   0.00988
+O2   0.37990   0.33150   0.49640   0.00773
+O3   0.47480   0.10710   0.80180   0.00798
+O4   0.12770   0.21680   0.71010   0.00836

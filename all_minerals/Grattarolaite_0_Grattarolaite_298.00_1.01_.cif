@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Grattarolaite'
+loop_
+_publ_author_name
+'Modaressi A'
+'Courtois A'
+'Gerardin R'
+'Malaman B'
+'Gleitzer C'
+_journal_name_full 'Journal of Solid State Chemistry'
+_journal_volume 47 
+_journal_year 1983
+_journal_page_first 245
+_journal_page_last 255
+_publ_section_title
+;
+ Fe3PO7, un cas de coordinence 5 du fer trivalent, etude structurale et magnetique
+;
+_database_code_amcsd 0013505
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Fe3 P O7'
+_cell_length_a 8.006
+_cell_length_b 8.006
+_cell_length_c 6.863
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 380.957
+_exptl_crystal_density_diffrn      4.060
+_symmetry_space_group_name_H-M 'R 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Fe   0.79700  -0.79700   0.74250   0.00519
+P   0.00000   0.00000   0.00000   0.00405
+O1   0.00000   0.00000   0.22890   0.00937
+O2   0.54090  -0.54090   0.84860   0.00684
+O3   0.56300  -0.56300   0.27000   0.01343
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe 0.00570 0.00430 0.00530 0.00220 0.00060 0.00120
+P 0.00480 0.00480 0.00240 0.00240 0.00000 0.00000
+O1 0.01170 0.01170 0.00470 0.00590 0.00000 0.00000
+O2 0.00800 0.00420 0.00720 0.00210 0.00000 -0.00010
+O3 0.01470 0.01390 0.01160 0.00700 -0.00290 -0.00580

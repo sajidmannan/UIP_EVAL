@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Fluorphosphohedyphane'
+loop_
+_publ_author_name
+'Kampf A R'
+'Housley R M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 96 
+_journal_year 2011
+_journal_page_first 423
+_journal_page_last 429
+_publ_section_title
+;
+ Fluorphosphohedyphane, Ca2Pb3(PO4)3F, the first apatite supergroup mineral
+ with essential Pb and F
+;
+_database_code_amcsd 0018322
+_chemical_compound_source 'Blue Bell claims, near Baker, San Bernardino County, California, USA'
+_chemical_formula_sum 'Ca2.354 Pb2.646 P3 O12 F'
+_cell_length_a 9.6402
+_cell_length_b 9.6402
+_cell_length_c 7.0121
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 564.353
+_exptl_crystal_density_diffrn      5.570
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.33333   0.66667   0.00460   1.00000   0.00850
+Pb2   0.23960   0.00873   0.25000   0.88200   0.01180
+Ca2   0.23960   0.00873   0.25000   0.11800   0.01180
+P   0.41830   0.38800   0.25000   1.00000   0.00990
+O1   0.35920   0.50780   0.25000   1.00000   0.01600
+O2   0.60470   0.47310   0.25000   1.00000   0.01600
+O3   0.36100   0.27800   0.07330   1.00000   0.01880
+F   0.00000   0.00000   0.50000   1.00000   0.05700
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.00930 0.00930 0.00680 0.00470 0.00000 0.00000
+Pb2 0.00990 0.00940 0.01490 0.00380 0.00000 0.00000
+Ca2 0.00990 0.00940 0.01490 0.00380 0.00000 0.00000
+P 0.01010 0.00760 0.01200 0.00430 0.00000 0.00000
+O1 0.02000 0.01400 0.01600 0.01100 0.00000 0.00000
+O2 0.01100 0.01600 0.02400 0.00700 0.00000 0.00000
+O3 0.02900 0.01600 0.01700 0.01400 -0.00700 -0.00500
+F 0.04800 0.04800 0.07600 0.02400 0.00000 0.00000

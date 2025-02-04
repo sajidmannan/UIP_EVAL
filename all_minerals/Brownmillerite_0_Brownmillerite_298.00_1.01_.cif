@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Brownmillerite'
+loop_
+_publ_author_name
+'Redhammer G J'
+'Tippelt G'
+'Roth G'
+'Amthauer G'
+_journal_name_full 'American Mineralogist'
+_journal_volume 89 
+_journal_year 2004
+_journal_page_first 405
+_journal_page_last 420
+_publ_section_title
+;
+ Structural variations in the brownmillerite series Ca2(Fe2-xAlx)O5:
+ Single-crystal X-ray diffraction at 25 deg C and high temperature
+ X-ray powder diffraction (25 C <= T <= 1000 C)
+ Sample: bht55_1
+;
+_database_code_amcsd 0003433
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca2 (Fe1.448 Al.552) O5'
+_cell_length_a 5.3808
+_cell_length_b 14.6131
+_cell_length_c 5.5911
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 439.629
+_exptl_crystal_density_diffrn      3.866
+_symmetry_space_group_name_H-M 'I m m 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,1/2+y,-z'
+  '1/2+x,+y,1/2-z'
+  'x,1/2-y,z'
+  '1/2+x,-y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca   0.49099   0.10817   0.02643   1.00000   0.00640
+FeM   0.00101   0.00000   0.00000   0.86200   0.00320
+AlM   0.00101   0.00000   0.00000   0.13800   0.00320
+FeT   0.95260   0.25000   0.92990   0.58600   0.00270
+AlT   0.95260   0.25000   0.92990   0.41400   0.00270
+O1   0.25000   0.98580   0.25320   1.00000   0.00610
+O2   0.02470   0.14270   0.06990   1.00000   0.00890
+O3   0.60970   0.25000   0.86850   1.00000   0.00740

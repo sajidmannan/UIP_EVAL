@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Plumboselite'
+loop_
+_publ_author_name
+'Kampf A R'
+'Mills S J'
+'Pinch W W'
+_journal_name_full 'Mineralogy and Petrology'
+_journal_volume 101 
+_journal_year 2011
+_journal_page_first 75
+_journal_page_last 80
+_publ_section_title
+;
+ Plumboselite, Pb3O2(SeO3), a new oxidation-zone mineral from Tsumeb, Namibia
+;
+_database_code_amcsd 0018379
+_chemical_compound_source 'Tsumeb, Namibia'
+_chemical_formula_sum 'Pb3 Se O5'
+_cell_length_a 10.5384
+_cell_length_b 10.7452
+_cell_length_c 5.7577
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 651.986
+_exptl_crystal_density_diffrn      7.952
+_symmetry_space_group_name_H-M 'C m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.00000   0.88160   0.81400   0.02040
+Pb2   0.24794   0.11233   0.81250   0.01990
+Se   0.50000   0.86980   0.86520   0.02400
+O1   0.13800   1.00000   0.04800   0.02900
+O2   0.50000   0.72300   0.76500   0.01500
+O3   0.62400   0.93000   0.71700   0.02800
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.01970 0.01620 0.02500 0.00000 0.00000 -0.00700
+Pb2 0.02000 0.02070 0.01900 -0.00530 0.00600 0.00200

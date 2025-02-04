@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Magnesiotaramite'
+loop_
+_publ_author_name
+'Hawthorne F C'
+'Oberti R'
+'Sardone N'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 34 
+_journal_year 1996
+_journal_page_first 577
+_journal_page_last 593
+_publ_section_title
+;
+ Sodium at the A site in clinoamphiboles: the effects of composition
+ on patterns of order
+ Sample: A5 - G230F N.3
+;
+_database_code_amcsd 0005490
+_chemical_formula_sum 'Si6.24 Al2.88 Mg2.94 Fe.9 Ti.04 Ca1.06 Na2.94 H2 O24'
+_cell_length_a 9.772
+_cell_length_b 17.853
+_cell_length_c 5.310
+_cell_angle_alpha 90
+_cell_angle_beta 104.83
+_cell_angle_gamma 90
+_cell_volume 895.522
+_exptl_crystal_density_diffrn      3.236
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+SiT1   0.28100   0.08700   0.30220   0.78000   0.00545
+AlT1   0.28100   0.08700   0.30220   0.22000   0.00545
+SiT2   0.29200   0.17410   0.81570   0.78000   0.00519
+AlT2   0.29200   0.17410   0.81570   0.22000   0.00519
+MgM1   0.00000   0.08990   0.50000   0.91000   0.00684
+FeM1   0.00000   0.08990   0.50000   0.09000   0.00684
+AlM2   0.00000   0.17810   0.00000   0.56000   0.00684
+TiM2   0.00000   0.17810   0.00000   0.02000   0.00684
+FeM2   0.00000   0.17810   0.00000   0.25000   0.00684
+MgM2   0.00000   0.17810   0.00000   0.17000   0.00684
+MgM3   0.00000   0.00000   0.00000   0.78000   0.00621
+FeM3   0.00000   0.00000   0.00000   0.22000   0.00621
+CaM4   0.00000   0.28040   0.50000   0.53000   0.00950
+NaM4   0.00000   0.28040   0.50000   0.47000   0.00950
+NaAm   0.03040   0.50000   0.08060   0.22000   0.03964
+NaA2   0.00000   0.47350   0.00000   0.78000   0.03141
+H   0.19810   0.00000   0.76820   1.00000   0.01697
+O1   0.10480   0.09180   0.21150   1.00000   0.00887
+O2   0.11920   0.17370   0.74310   1.00000   0.00798
+O-h3   0.10950   0.00000   0.70930   1.00000   0.00912
+O4   0.36850   0.25250   0.79570   1.00000   0.00925
+O5   0.35370   0.13980   0.10860   1.00000   0.01102
+O6   0.34240   0.11760   0.60950   1.00000   0.01140
+O7   0.33820   0.00000   0.27630   1.00000   0.01368

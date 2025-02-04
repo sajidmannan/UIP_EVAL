@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Microsommite'
+loop_
+_publ_author_name
+'Bonaccorsi E'
+'Comodi P'
+'Merlino S'
+_journal_name_full 'Physics and Chemistry of Minerals'
+_journal_volume 22 
+_journal_year 1995
+_journal_page_first 367
+_journal_page_last 374
+_publ_section_title
+;
+ Thermal behaviour of davyne-group minerals
+ Sample: T = 293 K
+;
+_database_code_amcsd 0007925
+_chemical_formula_sum 'Ca Cl1.12 Na2.01 K.99 S.44 O13.76 Si3 Al3'
+_cell_length_a 12.784
+_cell_length_b 12.784
+_cell_length_c 5.346
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 756.647
+_exptl_crystal_density_diffrn      2.476
+_symmetry_space_group_name_H-M 'P 63'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x-y,x,1/2+z'
+  '-y,x-y,z'
+  '-x,-y,1/2+z'
+  '-x+y,-x,z'
+  'y,-x+y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca   0.33333   0.66667   0.07500   1.00000   0.01380
+Cl   0.36210   0.68100   0.25300   0.33333   0.05200
+Na   0.15170   0.30890   0.30700   0.50000   0.02900
+K   0.21930   0.11250   0.79800   0.33000   0.04000
+Na   0.21930   0.11250   0.79800   0.17000   0.04000
+S1   0.00000   0.00000   0.30000   0.44000   0.03300
+OA1   0.00000   0.00000   0.58700   0.22000   0.08000
+OA2   0.00000   0.00000   0.01300   0.22000   0.08000
+OB1   0.06300   0.11600   0.18700   0.22000   0.08000
+OB2   0.05200   0.12100   0.40300   0.22000   0.06000
+Cl*   0.09700   0.09000   0.08000   0.04000   0.08000
+Si   0.32780   0.40980   0.78250   1.00000   0.00690
+Al   0.06960   0.40990   0.78060   1.00000   0.00730
+O1   0.21170   0.42530   0.74700   1.00000   0.01900
+O2   0.10670   0.55990   0.77400   1.00000   0.01800
+O3  -0.02290   0.31780   0.53600   1.00000   0.01800
+O4   0.00370   0.33260   0.05300   1.00000   0.01200

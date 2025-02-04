@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Alleghanyite'
+loop_
+_publ_author_name
+'Francis C A'
+_journal_name_full 'American Mineralogist'
+_journal_volume 70 
+_journal_year 1985
+_journal_page_first 182
+_journal_page_last 185
+_publ_section_title
+;
+ Crystal structure refinement of magnesian alleghanyite
+;
+_database_code_amcsd 0000968
+_chemical_compound_source 'Sterling mine, Ogdensburg, New Jersey, USA'
+_chemical_formula_sum 'Mg1.947 Mn2.869 Zn.184 Si2 O9.06 (F.94 H1.06)'
+_cell_length_a 4.815
+_cell_length_b 10.574
+_cell_length_c 8.083
+_cell_angle_alpha 108.74
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 389.719
+_exptl_crystal_density_diffrn      3.724
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+MgM1   0.50000   0.00000   0.50000   0.13500   0.00494
+MnM1   0.50000   0.00000   0.50000   0.86500   0.00494
+MgM2   0.01070   0.17180   0.30730   0.09800   0.00418
+MnM2   0.01070   0.17180   0.30730   0.90200   0.00418
+MgM3   0.48970   0.88410   0.07600   0.80800   0.00431
+MnM3   0.48970   0.88410   0.07600   0.10000   0.00431
+ZnM3   0.48970   0.88410   0.07600   0.09200   0.00431
+Si   0.07570   0.14450   0.70900   1.00000   0.00342
+O1   0.78220   0.99460   0.29060   1.00000   0.00633
+O2   0.71860   0.24460   0.12450   1.00000   0.00697
+O3   0.21350   0.16980   0.53740   1.00000   0.00722
+O4   0.26320   0.85500   0.28900   1.00000   0.00697
+O-H   0.26140   0.05270   0.09190   0.53000   0.00773
+F   0.26140   0.05270   0.09190   0.47000   0.00773

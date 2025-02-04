@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Zinkosite'
+loop_
+_publ_author_name
+'Kokkoros P A'
+'Rentzeperis P J'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 11 
+_journal_year 1958
+_journal_page_first 361
+_journal_page_last 364
+_publ_section_title
+;
+ The crystal structure of the anhydrous sulphates of copper and zinc
+;
+_database_code_amcsd 0009208
+_chemical_formula_sum 'Zn S O4'
+_cell_length_a 8.58
+_cell_length_b 6.73
+_cell_length_c 4.77
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 275.436
+_exptl_crystal_density_diffrn      3.893
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn   0.00000   0.00000   0.00000
+S   0.18600   0.25000   0.45800
+O1   0.13000   0.25000   0.75000
+O2   0.36700   0.25000   0.45800
+O3   0.13000   0.07200   0.31900

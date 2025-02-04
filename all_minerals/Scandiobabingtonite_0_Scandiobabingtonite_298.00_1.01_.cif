@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Scandiobabingtonite'
+loop_
+_publ_author_name
+'Orlandi P'
+'Pasero M'
+'Vezzalini G'
+_journal_name_full 'American Mineralogist'
+_journal_volume 83 
+_journal_year 1998
+_journal_page_first 1330
+_journal_page_last 1334
+_publ_section_title
+;
+ Scandiobabingtonite, a new mineral from the Baveno pegmatite, Piedmont, Italy
+;
+_database_code_amcsd 0002052
+_chemical_compound_source '"Montecatini" granite quarry, near Baveno, Novara, Piedmont, Italy'
+_chemical_formula_sum 'Ca1.71 Na.25 Fe.68 Mn.32 Sc.91 Sn.04 Si5 (O15 H)'
+_cell_length_a 7.536
+_cell_length_b 11.734
+_cell_length_c 6.748
+_cell_angle_alpha 91.70
+_cell_angle_beta 93.86
+_cell_angle_gamma 104.53
+_cell_volume 575.643
+_exptl_crystal_density_diffrn      3.213
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.78580   0.94290   0.14450   0.85500   0.01241
+Na1   0.78580   0.94290   0.14450   0.12500   0.01241
+Ca2   0.23440   0.52230   0.29990   0.85500   0.01292
+Na2   0.23440   0.52230   0.29990   0.12500   0.01292
+Fe1   0.59150   0.64480   0.06150   0.65000   0.00899
+Mn1   0.59150   0.64480   0.06150   0.32000   0.00899
+Sc2   0.04570   0.23550   0.18710   0.91000   0.00760
+Sn2   0.04570   0.23550   0.18710   0.04000   0.00760
+Fe2   0.04570   0.23550   0.18710   0.03000   0.00760
+Si1   0.29060   0.05380   0.34080   1.00000   0.00836
+Si2   0.46350   0.31550   0.42610   1.00000   0.00760
+Si3   0.80700   0.44730   0.21290   1.00000   0.00773
+Si4   0.98900   0.71480   0.30710   1.00000   0.00735
+Si5   0.32920   0.83860   0.10740   1.00000   0.00836
+O-H1   0.19930   0.98980   0.53420   1.00000   0.01621
+O2   0.13150   0.07730   0.18360   1.00000   0.01178
+O3   0.43460   0.17330   0.43210   1.00000   0.01140
+O4   0.32300   0.34160   0.24780   1.00000   0.01013
+O5   0.54740   0.62230   0.36180   1.00000   0.01064
+O6   0.68070   0.37330   0.37640   1.00000   0.01077
+O7   0.96700   0.38640   0.15890   1.00000   0.01089
+O8   0.67670   0.47440   0.03110   1.00000   0.01254
+O9   0.92590   0.57100   0.33670   1.00000   0.01013
+O10   0.86940   0.75340   0.12420   1.00000   0.01064
+O11   0.01950   0.21840   0.48430   1.00000   0.01279
+O12   0.20340   0.73950   0.24640   1.00000   0.01064
+O13   0.51060   0.80030   0.05770   1.00000   0.01267
+O14   0.79920   0.13800   0.07950   1.00000   0.01153
+O15   0.39770   0.96810   0.23110   1.00000   0.01368

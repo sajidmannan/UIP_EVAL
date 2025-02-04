@@ -1,0 +1,91 @@
+data_global
+_chemical_name_mineral 'Rapidcreekite'
+loop_
+_publ_author_name
+'Onac B P'
+'Effenberger H S'
+'Wynn J G'
+'Povara I'
+_journal_name_full 'American Mineralogist'
+_journal_volume 98 
+_journal_year 2013
+_journal_page_first 1302
+_journal_page_last 1309
+_publ_section_title
+;
+ Rapidcreekite in the sulfuric acid weathering environment of Diana Cave, Romania
+;
+_database_code_amcsd 0019905
+_chemical_compound_source 'Diana Cave, Romania'
+_chemical_formula_sum 'Ca2 S C O11 H8'
+_cell_length_a 15.524
+_cell_length_b 19.218
+_cell_length_c 6.161
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1838.074
+_exptl_crystal_density_diffrn      2.228
+_symmetry_space_group_name_H-M 'P b c n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,-z'
+  '-x,1/2-y,z'
+  '1/2-x,y,1/2+z'
+  '1/2+x,-y,1/2-z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.33400   0.28951   0.20090   0.01712
+Ca2   0.32754   0.05333   0.18898   0.01655
+S   0.16871   0.41931   0.02690   0.01621
+C   0.19103   0.17345   0.43370   0.01650
+O1   0.22452   0.35836   0.04875   0.02500
+O2   0.21343   0.23291   0.35720   0.02040
+O3   0.38966   0.40374   0.34196   0.02390
+O4   0.37085   0.17133   0.07484   0.01910
+O5   0.22870   0.11704   0.38274   0.02430
+O6   0.28117   0.48285   0.48411   0.02280
+O7   0.11778   0.43255   0.22415   0.02420
+OW1   0.08933   0.23878   0.01070   0.02740
+OW2   0.04803   0.32244   0.46600   0.02960
+OW3   0.07520   0.02078   0.39580   0.02520
+OW4   0.43354   0.09068   0.46750   0.02880
+H1   0.04140   0.23900   0.03300   0.04500
+H2   0.11820   0.24400   0.11600   0.04500
+H3   0.00300   0.33370   0.48500   0.04500
+H4   0.06230   0.35980   0.40200   0.04500
+H5   0.03720   0.01930   0.42700   0.04500
+H6   0.09060  -0.01380   0.33800   0.04500
+H7   0.49140   0.10120   0.42500   0.04500
+H8   0.43700   0.09170   0.55300   0.04500
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.01787 0.01618 0.01733 -0.00035 -0.00016 -0.00086
+Ca2 0.01821 0.01593 0.01552 0.00052 0.00018 0.00084
+S 0.01788 0.01490 0.01584 -0.00009 0.00004 -0.00090
+C 0.01750 0.01800 0.01400 -0.00010 -0.00070 0.00000
+O1 0.02780 0.02020 0.02680 0.00690 -0.00300 0.00060
+O2 0.02350 0.01660 0.02120 -0.00190 0.00300 0.00200
+O3 0.02540 0.02290 0.02350 -0.00110 0.00630 -0.00390
+O4 0.01930 0.01930 0.01870 -0.00090 -0.00340 0.00040
+O5 0.02990 0.01910 0.02390 0.00480 0.00930 0.00120
+O6 0.02550 0.01860 0.02430 0.00450 -0.00500 -0.00120
+O7 0.02770 0.02320 0.02170 -0.00290 0.00700 -0.00310
+OW1 0.02690 0.03180 0.02350 -0.00400 0.00000 0.00070
+OW2 0.02430 0.03080 0.03360 0.00040 -0.00490 0.00610
+OW3 0.02470 0.02740 0.02360 -0.00060 -0.00040 -0.00410
+OW4 0.02500 0.03340 0.02800 -0.00180 -0.00400 0.00300

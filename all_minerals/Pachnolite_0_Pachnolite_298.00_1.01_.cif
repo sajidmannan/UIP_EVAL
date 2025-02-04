@@ -1,0 +1,82 @@
+data_global
+_chemical_name_mineral 'Pachnolite'
+loop_
+_publ_author_name
+'Hawthorne F C'
+'Ferguson R B'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 21 
+_journal_year 1983
+_journal_page_first 561
+_journal_page_last 566
+_publ_section_title
+;
+ The crystal structure of pachnolite
+;
+_database_code_amcsd 0005195
+_chemical_formula_sum 'Al Ca Na F6 O H2'
+_cell_length_a 12.117
+_cell_length_b 10.414
+_cell_length_c 15.680
+_cell_angle_alpha 90
+_cell_angle_beta 90.37
+_cell_angle_gamma 90
+_cell_volume 1978.562
+_exptl_crystal_density_diffrn      2.982
+_symmetry_space_group_name_H-M 'F 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2+z'
+  '1/2+x,1/2+y,z'
+  '1/4+x,-y,1/4+z'
+  '1/4+x,1/2-y,3/4+z'
+  '3/4+x,-y,3/4+z'
+  '3/4+x,1/2-y,1/4+z'
+  '3/4-x,y,1/4-z'
+  '3/4-x,1/2+y,3/4-z'
+  '1/4-x,y,3/4-z'
+  '1/4-x,1/2+y,1/4-z'
+  '1/2-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+  '-x,-y,1/2-z'
+  '-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Al   0.34562   0.12590   0.37241 ?
+Ca1   0.37500   0.17360   0.12500 ?
+Ca2   0.37500   0.56940   0.12500 ?
+Na   0.62920   0.12740  -0.00400 ?
+F1   0.05420  -0.00090   0.13960 ?
+F2   0.25990  -0.00930   0.10140 ?
+F3   0.31450   0.11380   0.26020 ?
+F4   0.37920   0.14300   0.48520 ?
+F5   0.19820   0.25050   0.10390 ?
+F6  -0.00920   0.25300   0.13410 ?
+O   0.39300   0.37530   0.03490 ?
+H1   0.35100   0.37100   0.00000   0.01267
+H2   0.46100   0.36000   0.02700   0.01267
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al 0.00647 0.00989 0.00710 0.00032 0.00058 0.00041
+Ca1 0.00699 0.01071 0.00947 0.00000 0.00125 0.00000
+Ca2 0.00699 0.01049 0.00760 0.00000 0.00058 0.00000
+Na 0.01770 0.02181 0.02354 0.00377 0.00279 0.00132
+F1 0.01116 0.01549 0.01943 0.00294 0.00144 -0.00141
+F2 0.01547 0.01582 0.01781 -0.00524 0.00520 -0.00141
+F3 0.01971 0.02170 0.00810 -0.00479 -0.00058 0.00041
+F4 0.02194 0.02022 0.00822 -0.00153 -0.00067 -0.00099
+F5 0.01019 0.01610 0.01843 0.00364 -0.00183 -0.00190
+F6 0.01264 0.01637 0.02640 -0.00678 0.00318 -0.00256
+O 0.01711 0.01753 0.01133 0.00019 0.00010 -0.00083

@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Lizardite-1T'
+loop_
+_publ_author_name
+'Gregorkiewitz M'
+'Lebech B'
+'Mellini M'
+'Viti C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 81 
+_journal_year 1996
+_journal_page_first 1111
+_journal_page_last 1116
+_publ_section_title
+;
+ Hydrogen positions and thermal expansion in lizardite-1T from Elba: A
+ low-temperature study using Rietveld refinement of neutron diffraction data
+ T = 8 K
+;
+_database_code_amcsd 0001834
+_chemical_formula_sum 'Si2 Mg3 H6 O9'
+_cell_length_a 5.3267
+_cell_length_b 5.3267
+_cell_length_c 7.2539
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 178.246
+_exptl_crystal_density_diffrn      2.600
+_symmetry_space_group_name_H-M 'P 3 1 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x-y,-y,z'
+  '-y,x-y,z'
+  'y,x,z'
+  '-x+y,-x,z'
+  '-x,-x+y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Si   0.33333   0.66667   0.07000   0.02000
+Mg   0.32400   0.00000   0.44700   0.02000
+H3   0.64600   0.00000   0.71500   0.07800
+H4   0.04600   0.04600   0.17200   0.07800
+O1   0.33333   0.66667   0.29200   0.00200
+O2   0.50700   0.00000  -0.01400   0.08800
+O3   0.66500   0.00000   0.58700   0.00200
+O4   0.00000   0.00000   0.29100   0.00200

@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Darapiosite'
+loop_
+_publ_author_name
+'Ferraris G'
+'Prencipe M'
+'Puatov L A'
+'Sokolova E V'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 37 
+_journal_year 1999
+_journal_page_first 769
+_journal_page_last 774
+_publ_section_title
+;
+ The crystal structure of darapiosite and a comparison
+ with Li- and Zn-bearing minerals of the milarite group
+;
+_database_code_amcsd 0005605
+_chemical_formula_sum '(Mn1.46 Zr.28 Y.22 Mg.04) Na1.22 K1.36 Si12 (Li1.53 Zn1.14 Fe.33) O30'
+_cell_length_a 10.262
+_cell_length_b 10.262
+_cell_length_c 14.307
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1304.798
+_exptl_crystal_density_diffrn      2.871
+_symmetry_space_group_name_H-M 'P 6/m c c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,-z'
+  'x-y,x,z'
+  '-y,-x,1/2+z'
+  'y,x,1/2-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'x,x-y,1/2+z'
+  '-x,-x+y,1/2-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,-z'
+  'y,-x+y,z'
+  '-x+y,y,1/2+z'
+  'x-y,-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+MnA   0.33333   0.66667   0.25000   0.73000   0.01170
+ZrA   0.33333   0.66667   0.25000   0.14000   0.01170
+YA   0.33333   0.66667   0.25000   0.11000   0.01170
+MgA   0.33333   0.66667   0.25000   0.02000   0.01170
+NaB   0.33333   0.66667   0.00000   0.61000   0.06900
+KB   0.33333   0.66667   0.00000   0.18000   0.06900
+KC   0.00000   0.00000   0.25000   1.00000   0.02360
+SiT1   0.10900   0.34665   0.11042   1.00000   0.01220
+LiT2   0.00000   0.50000   0.25000   0.51000   0.01220
+ZnT2   0.00000   0.50000   0.25000   0.38000   0.01220
+FeT2   0.00000   0.50000   0.25000   0.11000   0.01220
+O1   0.12500   0.38570   0.00000   1.00000   0.02830
+O2   0.21420   0.27430   0.13550   1.00000   0.02220
+O3   0.15300   0.49460   0.16870   1.00000   0.01760

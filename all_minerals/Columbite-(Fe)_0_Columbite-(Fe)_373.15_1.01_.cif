@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Columbite-(Fe)'
+loop_
+_publ_author_name
+'Wenger M'
+'Armbruster T'
+'Geiger C A'
+_journal_name_full 'American Mineralogist'
+_journal_volume 76 
+_journal_year 1991
+_journal_page_first 1897
+_journal_page_last 1904
+_publ_section_title
+;
+ Cation distribution in partially ordered columbite from the Kings Mountain
+ pegmatite, North Carolina
+ sample NCP5, T = 100 K
+;
+_database_code_amcsd 0001435
+_chemical_formula_sum '(Nb.501 Ta.166 Fe.333) O2'
+_cell_length_a 14.189
+_cell_length_b 5.727
+_cell_length_c 5.120
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 416.053
+_exptl_crystal_density_diffrn      6.093
+_symmetry_space_group_name_H-M 'P b c n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NbA   0.00000   0.33280   0.25000   0.34600   0.01583
+TaA   0.00000   0.33280   0.25000   0.11500   0.01583
+FeA   0.00000   0.33280   0.25000   0.53900   0.01583
+NbB   0.16456   0.17114   0.74730   0.57800   0.01339
+TaB   0.16456   0.17114   0.74730   0.19200   0.01339
+FeB   0.16456   0.17114   0.74730   0.23000   0.01339
+O1   0.09200   0.11000   0.07600   1.00000   0.01456
+O2   0.42160   0.11700   0.09000   1.00000   0.01393
+O3   0.75600   0.11910   0.08400   1.00000   0.01456
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+NbA 0.01550 0.01650 0.01540 0.00000 0.00070 0.00000
+TaA 0.01550 0.01650 0.01540 0.00000 0.00070 0.00000
+FeA 0.01550 0.01650 0.01540 0.00000 0.00070 0.00000
+NbB 0.01570 0.01310 0.01140 -0.00030 0.00020 0.00070
+TaB 0.01570 0.01310 0.01140 -0.00030 0.00020 0.00070
+FeB 0.01570 0.01310 0.01140 -0.00030 0.00020 0.00070
+O1 0.01600 0.01200 0.01500 -0.00200 -0.00100 0.00100
+O2 0.01500 0.01300 0.01400 0.00000 0.00100 -0.00400
+O3 0.01700 0.01200 0.01500 0.00200 0.00300 -0.00200

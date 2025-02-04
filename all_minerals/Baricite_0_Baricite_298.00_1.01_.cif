@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Baricite'
+loop_
+_publ_author_name
+'Takagi S'
+'Mathew M'
+'Brown W E'
+_journal_name_full 'American Mineralogist'
+_journal_volume 71 
+_journal_year 1986
+_journal_page_first 1229
+_journal_page_last 1233
+_publ_section_title
+;
+ Crystal structures of bobierrite and synthetic Mg3(PO4)2.8H2O
+;
+_database_code_amcsd 0001049
+_chemical_formula_sum 'Mg3 P2 O16'
+_cell_length_a 10.034
+_cell_length_b 13.407
+_cell_length_c 4.657
+_cell_angle_alpha 90
+_cell_angle_beta 105.09
+_cell_angle_gamma 90
+_cell_volume 604.884
+_exptl_crystal_density_diffrn      2.146
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mg1   0.00000   0.00000   0.00000
+Mg2   0.00000   0.39054   0.00000
+P   0.31452   0.00000   0.38430
+O1   0.15750   0.00000   0.37090
+O2   0.39470   0.00000   0.71440
+O3   0.34550   0.09560   0.23030
+OW1   0.40130   0.38660   0.19160
+OW2   0.10100   0.27870   0.28020
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 0.00720 0.01010 0.00660 0.00000 0.00120 0.00000
+Mg2 0.01010 0.00920 0.00840 0.00000 0.00300 0.00000
+P 0.00780 0.01040 0.00710 0.00000 0.00260 0.00000
+O1 0.00900 0.01730 0.00950 0.00000 0.00310 0.00000
+O2 0.01130 0.01290 0.00860 0.00000 0.00260 0.00000
+O3 0.01240 0.01250 0.01110 0.00050 0.00410 0.00080
+OW1 0.01400 0.01960 0.01350 0.00070 0.00370 -0.00240
+OW2 0.02500 0.01670 0.01470 0.00200 0.00420 0.00110

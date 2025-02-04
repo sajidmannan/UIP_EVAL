@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Topaz-OH'
+loop_
+_publ_author_name
+'Kanzaki M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 95 
+_journal_year 2010
+_journal_page_first 1349
+_journal_page_last 1352
+_publ_section_title
+;
+ Crystal structure of a new high-pressure polymorph of topaz-OH
+ P = 14 GPa, T = 1400 C
+;
+_database_code_amcsd 0017560
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Al.68 Si.32 O2 H.68'
+_cell_length_a 4.72318
+_cell_length_b 8.91480
+_cell_length_c 2.77276
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 116.750
+_exptl_crystal_density_diffrn      3.415
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+AlT   0.58760   0.44020   0.25000   0.01000   0.01630
+SiT   0.58760   0.44020   0.25000   0.20000   0.01630
+AlOc1   0.58120   0.85870   0.25000   0.60000   0.02130
+SiOc1   0.58120   0.85870   0.25000   0.11000   0.02130
+AlOc2   0.57900   0.62980   0.25000   0.07000   0.01630
+SiOc2   0.57900   0.62980   0.25000   0.01000   0.01630
+O1   0.58910   0.24820   0.25000   0.66000   0.02820
+O-H1   0.58910   0.24820   0.25000   0.34000   0.02820
+O2   0.23650   0.50980   0.25000   0.66000   0.03340
+O-H2   0.23650   0.50980   0.25000   0.34000   0.03340

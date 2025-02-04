@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Edenharterite'
+loop_
+_publ_author_name
+'Balic-Zunic T'
+'Engel P'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 165 
+_journal_year 1983
+_journal_page_first 261
+_journal_page_last 269
+_publ_section_title
+;
+ Crystal structure of synthetic PbTlAs3S6
+;
+_database_code_amcsd 0010861
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Pb Tl As3 S6'
+_cell_length_a 47.453
+_cell_length_b 15.476
+_cell_length_c 5.847
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 4293.935
+_exptl_crystal_density_diffrn      5.128
+_symmetry_space_group_name_H-M 'F d d 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2+z'
+  '1/2+x,1/2+y,z'
+  '1/4+x,1/4-y,1/4+z'
+  '1/4+x,3/4-y,3/4+z'
+  '3/4+x,1/4-y,3/4+z'
+  '3/4+x,3/4-y,1/4+z'
+  '1/4-x,1/4+y,1/4+z'
+  '1/4-x,3/4+y,3/4+z'
+  '3/4-x,1/4+y,3/4+z'
+  '3/4-x,3/4+y,1/4+z'
+  '-x,1/2-y,1/2+z'
+  '-x,-y,+z'
+  '1/2-x,1/2-y,+z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb   0.12226   0.02562   0.00000
+Tl   0.03043   0.29550   0.18610
+As1   0.03380   0.01170   0.11510
+As2   0.07577   0.09670   0.55650
+As3   0.08313   0.30280   0.76670
+S1   0.08070   0.14240   0.19500
+S2   0.08130   0.38430   0.45200
+S3   0.00450   0.39380   0.61200
+S4   0.04680   0.20670   0.67400
+S5   0.12140   0.22010   0.70200
+S6   0.04020   0.49680   0.99600
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb 0.02167 0.01808 0.01489 0.00037 0.00028 -0.00092
+Tl 0.03765 0.03191 0.02650 -0.00409 0.00281 -0.00413
+As1 0.01825 0.01577 0.01732 -0.00074 -0.00141 -0.00092
+As2 0.01711 0.01213 0.01559 0.00223 -0.00281 0.00046
+As3 0.02167 0.01335 0.01559 0.00112 0.00281 -0.00321
+S1 0.02510 0.02305 0.01559 -0.00372 0.00000 -0.00229
+S2 0.02167 0.01941 0.01732 0.00000 -0.00141 0.00458
+S3 0.01939 0.01335 0.02944 -0.00372 0.00000 -0.00458
+S4 0.01825 0.01577 0.02078 0.00372 0.00281 0.00000
+S5 0.02167 0.01577 0.01732 -0.00372 -0.00141 -0.00229
+S6 0.03422 0.02063 0.02252 -0.00744 -0.00703 0.00458

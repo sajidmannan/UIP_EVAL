@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Srilankite'
+loop_
+_publ_author_name
+'Troitzsch U'
+'Christy A G'
+'Ellis D J'
+_journal_name_full 'Physics and Chemistry of Minerals'
+_journal_volume 32 
+_journal_year 2005
+_journal_page_first 504
+_journal_page_last 514
+_publ_section_title
+;
+ The crystal structure of disordered (Zr,Ti)O2 solid solution
+ Sample: XTi = 0.425
+;
+_database_code_amcsd 0008983
+_chemical_formula_sum '(Zr.575 Ti.425) O2'
+_cell_length_a 4.8495
+_cell_length_b 5.4635
+_cell_length_c 5.0462
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 133.700
+_exptl_crystal_density_diffrn      5.206
+_symmetry_space_group_name_H-M 'P b c n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+ZrM   0.00000   0.20150   0.25000   0.57500
+TiM   0.00000   0.20150   0.25000   0.42500
+O   0.27000   0.39900   0.42900   1.00000

@@ -1,0 +1,90 @@
+data_global
+_chemical_name_mineral 'Koenenite'
+loop_
+_publ_author_name
+'Allmann R'
+'Lohse H N'
+'Hellner E'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 126 
+_journal_year 1968
+_journal_page_first 7
+_journal_page_last 22
+_publ_section_title
+;
+ Die kristallstruktur des koenenits, eine doppelschichtstruktur mit zwei
+ inkommensurablen teilgittern
+ Note: one of two substructures in koenenite
+;
+_database_code_amcsd 0010653
+_chemical_formula_sum '(Na.667 Ca.222 Mg.111) Cl2'
+_cell_length_a 4.072
+_cell_length_b 4.072
+_cell_length_c 32.64
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 468.701
+_exptl_crystal_density_diffrn      1.040
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  'y,x,-z'
+  '2/3+y,1/3+x,1/3-z'
+  '1/3+y,2/3+x,2/3-z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-x,-x+y,-z'
+  '2/3-x,1/3-x+y,1/3-z'
+  '1/3-x,2/3-x+y,2/3-z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  'x-y,-y,-z'
+  '2/3+x-y,1/3-y,1/3-z'
+  '1/3+x-y,2/3-y,2/3-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na   0.00000   0.00000   0.00000   0.66700   0.02913
+Ca   0.00000   0.00000   0.00000   0.22200   0.02913
+Mg   0.00000   0.00000   0.00000   0.11100   0.02913
+Cl   0.66667   0.33333   0.04636   1.00000   0.04559
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na 0.02660 0.02660 0.04177 0.01330 0.00000 0.00000
+Ca 0.02660 0.02660 0.04177 0.01330 0.00000 0.00000
+Mg 0.02660 0.02660 0.04177 0.01330 0.00000 0.00000
+Cl 0.04813 0.04813 0.04053 0.02406 0.00000 0.00000

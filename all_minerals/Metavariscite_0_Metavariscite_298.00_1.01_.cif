@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Metavariscite'
+loop_
+_publ_author_name
+'Kniep R'
+'Mootz D'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 29 
+_journal_year 1973
+_journal_page_first 2292
+_journal_page_last 2294
+_publ_section_title
+;
+ Metavariscite - A redetermination of its crystal structure
+;
+_database_code_amcsd 0009488
+_chemical_compound_source 'Utalith Hill, Lucin, Utah, USA'
+_chemical_formula_sum 'Al P O6 H4'
+_cell_length_a 5.178
+_cell_length_b 9.514
+_cell_length_c 8.454
+_cell_angle_alpha 90
+_cell_angle_beta 90.35
+_cell_angle_gamma 90
+_cell_volume 416.466
+_exptl_crystal_density_diffrn      2.520
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al   0.40309   0.32545   0.30626
+P  -0.09105   0.14688   0.18371
+O1   0.16505   0.17902   0.27036
+O2  -0.09291   0.21677   0.02094
+O3  -0.31481   0.20439   0.28127
+O4  -0.11458  -0.01392   0.17227
+OW1   0.11617   0.44767   0.32202
+OW2   0.40410   0.36239   0.07903
+H11   0.13900   0.53000   0.28800
+H12  -0.03700   0.43200   0.33100
+H21   0.27400   0.33400   0.02300
+H22   0.53900   0.36900   0.02300
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al 0.00481 0.00608 0.00430 0.00000 0.00000 0.00013
+P 0.00405 0.00481 0.00342 0.00013 0.00000 -0.00025
+O1 0.00760 0.00937 0.01178 -0.00076 -0.00291 -0.00076
+O2 0.01608 0.01051 0.00557 0.00000 0.00089 0.00089
+O3 0.00874 0.01279 0.00874 0.00304 0.00279 -0.00051
+O4 0.00760 0.00620 0.01140 -0.00013 -0.00101 -0.00038
+OW1 0.00722 0.01013 0.03280 0.00038 0.00203 0.00393
+OW2 0.01836 0.02014 0.00773 -0.00380 -0.00177 -0.00025
+H11 0.01900 0.00886 0.05446 -0.00760 -0.00507 0.00760
+H12 0.01900 0.05066 0.08992 0.03040 -0.00203 0.00000
+H21 0.03166 0.19378 0.02153 0.04686 0.02406 0.05699
+H22 0.07346 0.22164 0.01773 0.11779 0.01393 0.02913

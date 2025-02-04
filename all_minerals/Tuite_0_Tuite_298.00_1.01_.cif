@@ -1,0 +1,93 @@
+data_global
+_chemical_name_mineral 'Tuite'
+loop_
+_publ_author_name
+'Thompson R M'
+'Xie X'
+'Zhai S'
+'Downs R T'
+'Yang H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 98 
+_journal_year 2013
+_journal_page_first 1585
+_journal_page_last 1592
+_publ_section_title
+;
+ A comparison of the Ca3(PO4)2 and CaSiO3 systems, with a new structure refinement
+ of tuite synthesized at 15 GPa and 1300 deg C
+;
+_database_code_amcsd 0020245
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca3 P2 O8'
+_cell_length_a 5.2522
+_cell_length_b 5.2522
+_cell_length_c 18.690
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 446.501
+_exptl_crystal_density_diffrn      3.461
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  'y,x,-z'
+  '2/3+y,1/3+x,1/3-z'
+  '1/3+y,2/3+x,2/3-z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-x,-x+y,-z'
+  '2/3-x,1/3-x+y,1/3-z'
+  '1/3-x,2/3-x+y,2/3-z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  'x-y,-y,-z'
+  '2/3+x-y,1/3-y,1/3-z'
+  '1/3+x-y,2/3-y,2/3-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.00000   0.00000   0.00000   0.01285
+Ca2   0.00000   0.00000   0.20359   0.01001
+P   0.00000   0.00000   0.40508   0.00603
+O1   0.00000   0.00000   0.32372   0.01510
+O2   0.17371   0.34742   0.09950   0.01140
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.01640 0.01640 0.00590 0.00818 0.00000 0.00000
+Ca2 0.01160 0.01160 0.00680 0.00580 0.00000 0.00000
+P 0.00640 0.00640 0.00520 0.00322 0.00000 0.00000
+O1 0.01930 0.01930 0.00660 0.00970 0.00000 0.00000
+O2 0.01400 0.00730 0.01060 0.00360 0.00023 0.00050

@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Krauskopfite'
+loop_
+_publ_author_name
+'Coda A'
+'dal Negro A'
+'Rossi G'
+_journal_name_full 'Atti della Accademia Nazionale dei Lincei'
+_journal_volume 42 
+_journal_year 1967
+_journal_page_first 859
+_journal_page_last 873
+_publ_section_title
+;
+ The crystal structure of krauskopfite
+;
+_database_code_amcsd 0012050
+_chemical_compound_source 'Rush Creek locality, Fresno County, California'
+_chemical_formula_sum 'Ba Si2 O8 H6'
+_cell_length_a 7.837
+_cell_length_b 10.622
+_cell_length_c 8.460
+_cell_angle_alpha 90
+_cell_angle_beta 94.53
+_cell_angle_gamma 90
+_cell_volume 702.049
+_exptl_crystal_density_diffrn      3.099
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ba   0.20617   0.14932   0.12217 ?
+Si1   0.49067   0.38317   0.27346 ?
+Si2   0.70113   0.24619   0.53086 ?
+O1   0.53510   0.28850   0.12730 ?
+O2   0.52050   0.52750   0.21820 ?
+O3   0.30710   0.34940   0.31900 ?
+O4   0.64070   0.36760   0.41750 ?
+O5   0.76590   0.12990   0.43250 ?
+O6   0.85660   0.29260   0.65940 ?
+O7   0.12530   0.11830   0.45870 ?
+O8   0.99300   0.43350   0.32920 ?
+H1   0.11820   0.40010   0.32480   0.03166
+H2   0.94420   0.35330   0.26820   0.03166
+H3   0.99150   0.12200   0.44940   0.03166
+H4   0.16530   0.02750   0.49840   0.03166
+H5   0.81970   0.17610   0.26950   0.03166
+H6   0.59010   0.06630   0.34030   0.03166
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba 0.01670 0.01658 0.01513 -0.00042 0.00067 0.00000
+Si1 0.01268 0.01143 0.01333 0.00000 0.00033 0.00091
+Si2 0.01361 0.01429 0.01081 0.00000 0.00100 0.00182
+O1 0.02721 0.01943 0.01441 0.00000 0.00267 0.00000
+O2 0.02597 0.01829 0.02414 0.00210 -0.00401 0.00272
+O3 0.01948 0.02001 0.02054 0.00210 0.00434 0.00272
+O4 0.02257 0.01315 0.02198 0.00084 0.00067 0.00363
+O5 0.02999 0.02115 0.01910 0.00336 0.00534 0.00227
+O6 0.02164 0.02286 0.01153 0.00168 0.00367 0.00499
+O7 0.02876 0.03029 0.02342 -0.00378 0.00100 0.00182
+O8 0.02628 0.02515 0.02811 0.00084 0.00167 -0.00091

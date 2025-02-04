@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Betekhtinite'
+loop_
+_publ_author_name
+'Dornberger-Schiff K'
+'Hohne E'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 12 
+_journal_year 1959
+_journal_page_first 646
+_journal_page_last 651
+_publ_section_title
+;
+ Die kristallstruktur des betechtinit Pb2(Cu,Fe)21S15
+;
+_database_code_amcsd 0009232
+_chemical_formula_sum 'Pb2 Cu21.332 S15'
+_cell_length_a 3.86
+_cell_length_b 14.67
+_cell_length_c 22.80
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1291.077
+_exptl_crystal_density_diffrn      5.790
+_symmetry_space_group_name_H-M 'I m m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  'x,y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pb   0.00000   0.14700   0.00000   1.00000
+Cu1   0.50000   0.36400   0.06700   1.00000
+Cu2   0.00000   0.50000   0.06400   1.00000
+Cu3   0.00000   0.50000   0.18500   1.00000
+Cu4   0.00000   0.26600   0.14100   1.00000
+Cu5   0.00000   0.09700   0.23300   1.00000
+Cu6   0.50000   0.24800   0.21200   0.50000
+Cu7   0.50000   0.11700   0.16700   0.50000
+Cu8   0.50000   0.03400   0.10100   0.33300
+S1   0.50000   0.22000   0.09600   1.00000
+S2   0.00000   0.37500   0.00000   1.00000
+S3   0.50000   0.50000   0.11700   1.00000
+S4   0.00000   0.36000   0.22200   1.00000
+S5   0.00000   0.00000   0.15000   1.00000
+S6   0.50000   0.00000   0.00000   1.00000

@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Sinjarite'
+loop_
+_publ_author_name
+'Leclaire A'
+'Borel M M'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 33 
+_journal_year 1977
+_journal_page_first 1608
+_journal_page_last 1610
+_publ_section_title
+;
+ Le dichlorure de calcium dihydrate
+;
+_database_code_amcsd 0009590
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca Cl2 O2 H4'
+_cell_length_a 5.893
+_cell_length_b 7.469
+_cell_length_c 12.070
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 531.259
+_exptl_crystal_density_diffrn      1.838
+_symmetry_space_group_name_H-M 'P b c n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca   0.00000   0.21570   0.25000
+Cl  -0.27250   0.45090   0.13800
+O   0.26450   0.21070   0.10820
+H1   0.39900   0.29090   0.09880
+H2   0.24980   0.14610   0.03600

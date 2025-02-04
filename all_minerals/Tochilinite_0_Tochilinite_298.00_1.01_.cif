@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Tochilinite'
+loop_
+_publ_author_name
+'Organova N I'
+'Drits V A'
+'Dmitrik A L'
+_journal_name_full 'Soviet Physics Crystallography'
+_journal_volume 17 
+_journal_year 1973
+_journal_page_first 667
+_journal_page_last 671
+_publ_section_title
+;
+ Structural study of tochilinite. Part I. The isometric variety
+ Note: M-site reported bond lengths are inconsistent with reported structure
+;
+_database_code_amcsd 0015560
+_chemical_formula_sum 'Fe7.45 Mg3.55 S6 (O10 H10)'
+_cell_length_a 5.37
+_cell_length_b 15.65
+_cell_length_c 10.72
+_cell_angle_alpha 90
+_cell_angle_beta 95
+_cell_angle_gamma 90
+_cell_volume 897.486
+_exptl_crystal_density_diffrn      3.200
+_symmetry_space_group_name_H-M 'C 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1   0.00000   0.00000   0.00000   1.00000
+Fe2   0.01170   0.16560   0.00000   1.00000
+Fe3   0.48010   0.16470   0.00000   1.00000
+Fe4   0.48640   0.00000   0.00000   1.00000
+Fe5   0.51170   0.33440   0.00000   1.00000
+Fe6   0.98010   0.33530   0.00000   1.00000
+MgM1   0.17010   0.10010   0.50000   0.71000
+FeM1   0.17010   0.10010   0.50000   0.29000
+MgM2   0.66170   0.00000   0.50000   0.71000
+FeM2   0.66170   0.00000   0.50000   0.29000
+MgM3   0.65800   0.19850   0.50000   0.71000
+FeM3   0.65800   0.19850   0.50000   0.29000
+MgM4   0.67010   0.39990   0.50000   0.71000
+FeM4   0.67010   0.39990   0.50000   0.29000
+MgM5   0.15800   0.30150   0.50000   0.71000
+FeM5   0.15800   0.30150   0.50000   0.29000
+S1   0.26000   0.08800   0.12900   1.00000
+S2   0.74100   0.08000  -0.12900   1.00000
+S3   0.23700   0.24300  -0.12900   1.00000
+S4   0.73700   0.25700   0.12900   1.00000
+S5   0.24100   0.42000   0.12900   1.00000
+S6   0.76000   0.41200  -0.12900   1.00000
+O-H1   0.02700   0.00000   0.59800   1.00000
+O-H2   0.00800   0.20800   0.59800   1.00000
+O-H3   0.36200   0.00000   0.40200   1.00000
+O-H4   0.29900   0.19600   0.40200   1.00000
+O-H5   0.46600   0.09500   0.59800   1.00000
+O-H6   0.83800   0.10200   0.40200   1.00000
+O-H7   0.50800   0.29200   0.59800   1.00000
+O-H8   0.99600   0.40500   0.59800   1.00000
+O-H9   0.79900   0.30400   0.40200   1.00000
+O-H10   0.33800   0.39800   0.40200   1.00000

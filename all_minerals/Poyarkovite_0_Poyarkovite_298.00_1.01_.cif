@@ -1,0 +1,84 @@
+data_global
+_chemical_name_mineral 'Poyarkovite'
+loop_
+_publ_author_name
+'Vasil'ev V I'
+'Pervukhina N V'
+'Romanenko G V'
+'Magarill S A'
+'Borisov S V'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 37 
+_journal_year 1999
+_journal_page_first 119
+_journal_page_last 126
+_publ_section_title
+;
+ New data on the mercury oxide-chloride mineral poyarkovite: The second
+ find, and crystal-structure determination
+;
+_database_code_amcsd 0005596
+_chemical_formula_sum 'Hg3 Cl O'
+_cell_length_a 19.009
+_cell_length_b 9.018
+_cell_length_c 16.848
+_cell_angle_alpha 90
+_cell_angle_beta 110.82
+_cell_angle_gamma 90
+_cell_volume 2699.547
+_exptl_crystal_density_diffrn      9.643
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Hg1   0.66370   0.13010   0.86570   0.01600
+Hg2   0.66350  -0.14760   0.84390   0.02200
+Hg3   0.83490   0.11990   0.97220   0.01400
+Hg4   0.82750   0.12540   0.81980   0.01700
+Hg5   0.90380   0.46200   0.96400   0.01900
+Hg6   0.76670   0.51620   0.89130   0.03300
+Hg7   0.01520   0.13810   0.01160   0.02500
+Hg8   0.93200   0.01440   0.20210   0.03200
+Hg9   0.01110   0.37400   0.17920   0.01500
+Cl1   0.85010   0.81270   0.01850   0.03600
+Cl2   0.96930   0.30660   0.84720   0.01300
+Cl3   0.66730   0.28630   0.71330   0.02300
+O1   0.00980   0.36250   0.05500   0.01300
+O2   0.66640   0.33330   0.90640   0.03000
+O3   0.66770   0.60600   0.81050   0.01800
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 0.01500 0.00800 0.02100 0.00100 0.00300 -0.00100
+Hg2 0.03300 0.01000 0.02200 -0.00100 0.01000 -0.00100
+Hg3 0.01600 0.02100 0.00700 -0.00500 0.00700 0.00200
+Hg4 0.02400 0.02200 0.00800 0.00000 0.00900 -0.00200
+Hg5 0.00800 0.02100 0.02400 -0.00700 0.00100 -0.00500
+Hg6 0.01300 0.05100 0.02500 0.02200 -0.00500 -0.01100
+Hg7 0.02200 0.00900 0.04100 0.00100 0.00800 -0.00200
+Hg8 0.00500 0.05700 0.03200 -0.00800 0.00400 -0.01400
+Hg9 0.01500 0.02400 0.00800 -0.00400 0.00500 -0.00200
+Cl1 0.04000 0.03900 0.03600 -0.00100 0.02400 0.00200
+Cl2 0.02100 0.00500 0.01100 -0.00800 0.00600 -0.00400
+Cl3 0.03500 0.00600 0.02900 -0.00800 0.01200 0.00100
+O1 0.00900 0.02100 0.00700 -0.00500 0.00100 -0.00400
+O2 0.03300 0.03300 0.01900 -0.00400 0.00300 -0.00400
+O3 0.01300 0.01500 0.02700 -0.00900 0.01000 -0.00500

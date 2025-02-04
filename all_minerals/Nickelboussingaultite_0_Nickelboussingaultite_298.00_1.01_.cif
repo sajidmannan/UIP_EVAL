@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Nickelboussingaultite'
+loop_
+_publ_author_name
+'Montgomery H'
+'Lingafelter E C'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 17 
+_journal_year 1964
+_journal_page_first 1478
+_journal_page_last 1479
+_publ_section_title
+;
+ The crystal structure of Tutton's salts. II.
+ Magnesium ammonium sulfate hexahydrate and nickel ammonium sulfate hexahydrate
+;
+_database_code_amcsd 0020239
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'N2 H20 Ni S2 O14'
+_cell_length_a 9.241
+_cell_length_b 12.554
+_cell_length_c 6.243
+_cell_angle_alpha 90
+_cell_angle_beta 106.97
+_cell_angle_gamma 90
+_cell_volume 692.724
+_exptl_crystal_density_diffrn      1.894
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N1   0.13540   0.34520   0.35430
+H1   0.07400   0.30500   0.16800
+H2   0.19200   0.32300   0.39100
+H3   0.08200   0.34700   0.37500
+Ni   0.00000   0.00000   0.00000
+S   0.40740   0.13690   0.73900
+O1   0.41440   0.22720   0.59120
+O2   0.54850   0.07540   0.78830
+O3   0.27890   0.06710   0.62180
+O4   0.38390   0.17740   0.94780
+O5   0.16820   0.10710   0.16390
+O6  -0.16000   0.11000   0.03570
+O7   0.00190  -0.06610   0.29870
+H4   0.13700   0.39900   0.33700
+H5   0.18700   0.09400   0.32300
+H6   0.21400   0.12400   0.11600
+H7  -0.24500   0.08900  -0.05600
+H8  -0.14600   0.18400   0.02300
+H9  -0.08600  -0.05800   0.35200
+H10   0.00400  -0.14300   0.33300

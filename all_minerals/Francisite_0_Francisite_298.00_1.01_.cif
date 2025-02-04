@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Francisite'
+loop_
+_publ_author_name
+'Pring A'
+'Gatehouse B M'
+'Birch W D'
+_journal_name_full 'American Mineralogist'
+_journal_volume 75 
+_journal_year 1990
+_journal_page_first 1421
+_journal_page_last 1425
+_publ_section_title
+;
+ Francisite, Cu3Bi(SeO3)2O2Cl, a new mineral from Iron Monarch, South Australia:
+ Description and crystal structure
+;
+_database_code_amcsd 0001339
+_chemical_formula_sum 'Bi Cu3 Se2 Cl O8'
+_cell_length_a 6.354
+_cell_length_b 9.630
+_cell_length_c 7.220
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 441.785
+_exptl_crystal_density_diffrn      5.420
+_symmetry_space_group_name_H-M 'P m m n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Bi   0.25000   0.25000   0.24160 ?
+Cu1   0.00000   0.00000   0.00000 ?
+Cu2   0.25000   0.25000   0.79220 ?
+Se   0.25000   0.55700   0.60960 ?
+Cl   0.25000   0.75000   0.14880 ?
+O1   0.25000   0.11130   0.99410   0.00740
+O2   0.04090   0.58360   0.75520   0.01570
+O3   0.25000   0.11730   0.58720   0.01690
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi 0.00660 0.00640 0.00820 0.00000 0.00000 0.00000
+Cu1 0.01160 0.00550 0.01230 -0.00870 0.00410 -0.00690
+Cu2 0.03220 0.00610 0.00270 0.00000 0.00000 0.00000
+Se 0.00720 0.00640 0.00920 0.00000 0.00000 0.00080
+Cl 0.04740 0.03450 0.01720 0.00000 0.00000 0.00000

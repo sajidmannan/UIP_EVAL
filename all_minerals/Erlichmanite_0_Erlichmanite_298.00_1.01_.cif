@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Erlichmanite'
+loop_
+_publ_author_name
+'Stingl T'
+'Muller B'
+'Lutz H D'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 202 
+_journal_year 1992
+_journal_page_first 161
+_journal_page_last 162
+_publ_section_title
+;
+ Crystal structure refinement of osmium(II) disulfide, OsS2
+;
+_database_code_amcsd 0011029
+_chemical_formula_sum 'Os S2'
+_cell_length_a 5.6194
+_cell_length_b 5.6194
+_cell_length_c 5.6194
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 177.447
+_exptl_crystal_density_diffrn      9.520
+_symmetry_space_group_name_H-M 'P a -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+z,x,1/2-y'
+  'z,1/2-x,1/2+y'
+  '1/2-z,1/2+x,y'
+  '-z,-x,-y'
+  '1/2+y,1/2-z,-x'
+  '1/2-y,-z,1/2+x'
+  '-y,1/2+z,1/2-x'
+  'y,z,x'
+  'x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,y,1/2-z'
+  '-x,-y,-z'
+  '1/2-z,-x,1/2+y'
+  '-z,1/2+x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'z,x,y'
+  '1/2-y,1/2+z,x'
+  '1/2+y,z,1/2-x'
+  'y,1/2-z,1/2+x'
+  '-y,-z,-x'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Os   0.00000   0.00000   0.00000
+S   0.38616   0.38616   0.38616
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Os 0.00205 0.00205 0.00205 -0.00004 -0.00004 -0.00004
+S 0.00288 0.00288 0.00288 0.00010 0.00010 0.00010

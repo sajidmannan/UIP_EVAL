@@ -1,0 +1,86 @@
+data_global
+_chemical_name_mineral 'Phosphoellenbergerite'
+loop_
+_publ_author_name
+'Raade G'
+'Romming C'
+'Medenbach O'
+_journal_name_full 'Mineralogy and Petrology'
+_journal_volume 62 
+_journal_year 1998
+_journal_page_first 89
+_journal_page_last 101
+_publ_section_title
+;
+ Carbonate-substituted phosphoellenbergerite from Modum, Norway: description and
+ crystal structure
+;
+_database_code_amcsd 0014640
+_chemical_formula_sum 'Mg6.68 P3.32 As.3 C.38 O18.62 H6.92'
+_cell_length_a 12.467
+_cell_length_b 12.467
+_cell_length_c 5.0437
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 678.897
+_exptl_crystal_density_diffrn      2.921
+_symmetry_space_group_name_H-M 'P 63 m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg1   0.42433   0.07821   0.21000   1.00000   0.01000
+Mg21   0.00000   0.00000   0.45330   0.62000   0.01500
+Mg22   0.00000   0.00000   0.34030   0.06000   0.01500
+P1   0.30330   0.15160   0.69110   0.80000   0.01000
+As1   0.30330   0.15160   0.69110   0.10000   0.01000
+P11   0.32600   0.16300   0.69700   0.10000   0.01100
+P2   0.66667   0.33333   0.99340   0.62000   0.00800
+C2   0.66667   0.33333   0.11800   0.38000   0.01100
+O1   0.37870   0.18940   0.42150   1.00000   0.01600
+O2   0.16350   0.08180   0.64930   0.90000   0.02700
+O-H2   0.16350   0.08180   0.64930   0.10000   0.02700
+O3   0.34740   0.07380   0.85210   1.00000   0.01400
+O4   0.79420   0.39710   0.09650   1.00000   0.02000
+O-H5   0.66667   0.33333   0.68300   0.62000   0.02900
+O6   0.95380   0.47690   0.51540   1.00000   0.01000
+H6   0.90300   0.45100   0.60300   1.00000   0.02000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 0.01030 0.01000 0.00920 0.00460 0.00040 0.00070
+Mg21 0.01020 0.01020 0.02450 0.00510 0.00000 0.00000
+Mg22 0.00710 0.00710 0.02950 0.00360 0.00000 0.00000
+P1 0.01390 0.00830 0.00640 0.00690 -0.00040 -0.00020
+As1 0.01390 0.00830 0.00640 0.00690 -0.00040 -0.00020
+P2 0.00620 0.00620 0.01220 0.00310 0.00000 0.00000
+O1 0.02900 0.01400 0.01000 0.01400 0.00600 0.00300
+O2 0.02800 0.02400 0.02200 0.01400 -0.00600 -0.00300
+O-H2 0.02800 0.02400 0.02200 0.01400 -0.00600 -0.00300
+O3 0.01920 0.01230 0.01000 0.01040 -0.00090 0.00020
+O4 0.01370 0.01220 0.02870 0.00690 -0.00630 -0.00310
+O-H5 0.03700 0.03700 0.01400 0.01800 0.00000 0.00000
+O6 0.00980 0.01140 0.01040 0.00490 0.00190 0.00090

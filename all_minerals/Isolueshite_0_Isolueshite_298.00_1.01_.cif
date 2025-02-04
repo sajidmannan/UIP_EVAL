@@ -1,0 +1,107 @@
+data_global
+_chemical_name_mineral 'Isolueshite'
+loop_
+_publ_author_name
+'Krivovichev S V'
+'Chakhmouradian A R'
+'Mitchell R H'
+'Filatov S K'
+'Chukanov N V'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 12 
+_journal_year 2000
+_journal_page_first 597
+_journal_page_last 607
+_publ_section_title
+;
+ Crystal structure of isolueshite and its synthetic compositional analogue
+ Sample: isolueshite
+;
+_database_code_amcsd 0006836
+_chemical_formula_sum '(Na.75 La.19 Ca.06) (Nb.5 Ti.5) O3'
+_cell_length_a 3.909
+_cell_length_b 3.909
+_cell_length_c 3.909
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 59.731
+_exptl_crystal_density_diffrn      4.571
+_symmetry_space_group_name_H-M 'P m -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'z,-x,y'
+  '-y,z,-x'
+  'x,-y,z'
+  '-z,x,-y'
+  'y,-z,x'
+  '-x,y,-z'
+  'x,-z,-y'
+  '-z,y,x'
+  'y,-x,-z'
+  '-x,z,y'
+  'z,-y,-x'
+  '-y,x,z'
+  'x,z,y'
+  '-z,-y,-x'
+  'y,x,z'
+  '-x,-z,-y'
+  'z,y,x'
+  '-y,-x,-z'
+  'z,x,-y'
+  '-y,-z,x'
+  'x,y,-z'
+  '-z,-x,y'
+  'y,z,-x'
+  '-x,-y,z'
+  '-z,x,y'
+  'y,-z,-x'
+  '-x,y,z'
+  'z,-x,-y'
+  '-y,z,x'
+  'x,-y,-z'
+  '-x,z,-y'
+  'z,-y,x'
+  '-y,x,-z'
+  'x,-z,y'
+  '-z,y,-x'
+  'y,-x,z'
+  '-x,-z,y'
+  'z,y,-x'
+  '-y,-x,z'
+  'x,z,-y'
+  '-z,-y,x'
+  'y,x,-z'
+  '-z,-x,-y'
+  'y,z,x'
+  '-x,-y,-z'
+  'z,x,y'
+  '-y,-z,-x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na   0.00000   0.00000   0.00000   0.75000   0.01820
+La   0.00000   0.00000   0.00000   0.19000   0.01820
+Ca   0.00000   0.00000   0.00000   0.06000   0.01820
+Nb   0.50000   0.50000   0.50000   0.50000   0.01340
+Ti   0.50000   0.50000   0.50000   0.50000   0.01340
+O   0.57900   0.00000   0.50000   0.25000   0.02900
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na 0.01820 0.01820 0.01820 0.00000 0.00000 0.00000
+La 0.01820 0.01820 0.01820 0.00000 0.00000 0.00000
+Ca 0.01820 0.01820 0.01820 0.00000 0.00000 0.00000
+Nb 0.01340 0.01340 0.01340 0.00000 0.00000 0.00000
+Ti 0.01340 0.01340 0.01340 0.00000 0.00000 0.00000
+O 0.02500 0.01200 0.05000 0.00000 0.00000 0.00000

@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Isokite'
+loop_
+_publ_author_name
+'Yang H'
+'Zwick J'
+'Downs R T'
+'Costin G'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 63 
+_journal_year 2007
+_journal_page_first i89
+_journal_page_last i90
+_publ_section_title
+;
+ Isokite, CaMg(PO4)F0.8(OH)0.2, isomorphous with titanite
+;
+_database_code_amcsd 0010337
+_chemical_compound_source 'Kjorrestad, near Bamle, Norway'
+_chemical_formula_sum 'Mg Ca P O4.2 (F.8 H.2)'
+_cell_length_a 6.5109
+_cell_length_b 8.7301
+_cell_length_c 6.9046
+_cell_angle_alpha 90
+_cell_angle_beta 112.246
+_cell_angle_gamma 90
+_cell_volume 363.251
+_exptl_crystal_density_diffrn      3.254
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg   0.50000   0.00000   0.50000   1.00000   0.00979
+Ca   0.50000   0.33652   0.25000   1.00000   0.01762
+P   0.00000   0.17921   0.25000   1.00000   0.00759
+O1   0.10910   0.28009   0.13250   1.00000   0.01070
+O2   0.16900   0.07291   0.40920   1.00000   0.01160
+F   0.50000   0.08302   0.25000   0.80000   0.01100
+O-H   0.50000   0.08302   0.25000   0.20000   0.01100
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg 0.01050 0.01030 0.00890 -0.00010 0.00410 0.00130
+Ca 0.01070 0.00830 0.02760 0.00000 0.00030 0.00000
+P 0.00660 0.00730 0.00880 0.00000 0.00290 0.00000
+O1 0.01050 0.01020 0.01280 0.00040 0.00580 0.00230
+O2 0.00950 0.01060 0.01280 -0.00010 0.00230 0.00220
+F 0.01470 0.00980 0.00940 0.00000 0.00530 0.00000
+O-H 0.01470 0.00980 0.00940 0.00000 0.00530 0.00000

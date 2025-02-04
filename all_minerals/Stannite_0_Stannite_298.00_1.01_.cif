@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Stannite'
+loop_
+_publ_author_name
+'Hall S R'
+'Szymanski J T'
+'Stewart J M'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 16 
+_journal_year 1978
+_journal_page_first 131
+_journal_page_last 137
+_publ_section_title
+;
+ Kesterite, Cu2(Zn,Fe)SnS4, and stannite, Cu2(Fe,Zn)SnS4,
+ structurally similar but distinct minerals
+;
+_database_code_amcsd 0005152
+_chemical_formula_sum '(Fe.8 Zn.18 Cd.02) Sn Cu2 S4'
+_cell_length_a 5.449
+_cell_length_b 5.449
+_cell_length_c 10.757
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 319.393
+_exptl_crystal_density_diffrn      4.500
+_symmetry_space_group_name_H-M 'I -4 2 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe   0.00000   0.00000   0.00000   0.80000
+Zn   0.00000   0.00000   0.00000   0.18000
+Cd   0.00000   0.00000   0.00000   0.02000
+Sn   0.50000   0.50000   0.00000   1.00000
+Cu   0.00000   0.50000   0.25000   1.00000
+S   0.75510   0.75510   0.87020   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe 0.01050 0.01050 0.01390 0.00000 0.00000 0.00000
+Zn 0.01050 0.01050 0.01390 0.00000 0.00000 0.00000
+Cd 0.01050 0.01050 0.01390 0.00000 0.00000 0.00000
+Sn 0.00950 0.00950 0.01070 0.00000 0.00000 0.00000
+Cu 0.01900 0.01900 0.02090 0.00000 0.00000 0.00000
+S 0.01180 0.01180 0.01170 -0.00040 0.00030 0.00030

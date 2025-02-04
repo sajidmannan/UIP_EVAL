@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Scheelite'
+loop_
+_publ_author_name
+'Hazen R M'
+'Finger L W'
+'Mariathasan J W E'
+_journal_name_full 'Journal of Physics and Chemistry of Solids'
+_journal_volume 46 
+_journal_year 1985
+_journal_page_first 253
+_journal_page_last 263
+_publ_section_title
+;
+ High-pressure crystal chemistry of scheelite-type tungstates and molybdates
+ Note: P = 0.0001 GPa, in air
+;
+_database_code_amcsd 0013201
+_chemical_formula_sum 'Ca W O4'
+_cell_length_a 5.2429
+_cell_length_b 5.2429
+_cell_length_c 11.3737
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 312.640
+_exptl_crystal_density_diffrn      6.117
+_symmetry_space_group_name_H-M 'I 41/a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '3/4+y,1/4-x,1/4-z'
+  '1/4+y,3/4-x,3/4-z'
+  '3/4-y,1/4+x,1/4+z'
+  '1/4-y,3/4+x,3/4+z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '3/4-y,3/4+x,3/4-z'
+  '1/4-y,1/4+x,1/4-z'
+  '3/4+y,3/4-x,3/4+z'
+  '1/4+y,1/4-x,1/4+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.00000   0.25000   0.62500   0.00735
+W   0.00000   0.25000   0.12500   0.00557
+O   0.15070   0.00860   0.21060   0.00861
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00571 0.00571 0.00983 0.00000 0.00000 0.00000
+W 0.00446 0.00446 0.00852 0.00000 0.00000 0.00000
+O 0.00933 0.00822 0.01180 0.00167 0.00211 0.00211

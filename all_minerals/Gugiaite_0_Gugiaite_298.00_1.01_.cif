@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Gugiaite'
+loop_
+_publ_author_name
+'Yang Z'
+'Fleck M'
+'Pertlik F'
+'Tillmanns E'
+'Tao K'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 2001 
+_journal_year 2001
+_journal_page_first 186
+_journal_page_last 192
+_publ_section_title
+;
+ The crystal structure of natural gugiaite, Ca2BeSi2O7
+ Note, z coordinate of Ca is altered to reproduce reported Ca-O bond lengths
+;
+_database_code_amcsd 0014911
+_chemical_compound_source 'skarn rocks in the Gugia alkaline complex, Liaoning Province, China'
+_chemical_formula_sum 'Ca2 Be Si2 O7'
+_cell_length_a 7.4330
+_cell_length_b 7.4330
+_cell_length_c 4.9970
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 276.082
+_exptl_crystal_density_diffrn      3.096
+_symmetry_space_group_name_H-M 'P -4 21 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-y,1/2-x,z'
+  'y,-x,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,z'
+  '1/2+y,1/2+x,z'
+  '-y,x,-z'
+  '1/2+x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.16376   0.66376  -0.48894   0.01770
+Be   0.00000   0.00000   0.00000   0.00380
+Si   0.35325   0.85325  -0.03960   0.01380
+O1   0.50000   0.00000   0.83590   0.01720
+O2   0.35940   0.85940   0.27860   0.01620
+O3   0.33320   0.41440   0.18160   0.01740
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01860 0.01860 0.01610 -0.00390 -0.00070 -0.00070
+Be 0.00470 0.00470 0.00200 0.00000 0.00000 0.00000
+Si 0.01340 0.01340 0.01450 -0.00040 -0.00030 -0.00030
+O1 0.01720 0.01720 0.01700 -0.00180 0.00000 0.00000
+O2 0.01640 0.01640 0.01580 -0.00060 -0.00010 -0.00010
+O3 0.01350 0.02220 0.01640 -0.00260 -0.00040 0.00260

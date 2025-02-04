@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Suanite'
+loop_
+_publ_author_name
+'Guo G-C'
+'Cheng W-D'
+'Chen J-T'
+'Zhuang H-H'
+'Huang J-S'
+'Zhang Q-E'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 51 
+_journal_year 1995
+_journal_page_first 2469
+_journal_page_last 2471
+_publ_section_title
+;
+ Monoclinic Mg2B2O5
+;
+_database_code_amcsd 0010304
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Mg2 B2 O5'
+_cell_length_a 9.197
+_cell_length_b 3.1228
+_cell_length_c 12.303
+_cell_angle_alpha 90
+_cell_angle_beta 104.26
+_cell_angle_gamma 90
+_cell_volume 342.460
+_exptl_crystal_density_diffrn      2.914
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Mg1   0.10230   0.21330   0.18580   0.00560
+Mg2   0.64400   0.29610   0.89470   0.00650
+B1   0.35730  -0.22800   0.34110   0.00500
+B2   0.16830  -0.65400  -0.06060   0.00500
+O1   0.49570  -0.80200   0.13700   0.00710
+O2   0.25820  -0.27800   0.23810   0.00580
+O3   0.18040   0.22000   0.04630   0.00710
+O4  -0.05350  -0.29100   0.15220   0.00650
+O5   0.30050  -0.42600  -0.06930   0.00690
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 0.00800 0.00600 0.00350 0.00000 0.00180 0.00090
+Mg2 0.00670 0.00700 0.00630 -0.00180 0.00210 -0.00090
+B1 0.00600 0.00700 0.00400 0.00000 0.00300 0.00400
+B2 0.00600 0.00400 0.00600 0.00000 0.00300 -0.00100
+O1 0.00300 0.00800 0.00900 0.00100 0.00200 0.00000
+O2 0.00600 0.00600 0.00500 0.00100 0.00000 0.00200
+O3 0.00900 0.00800 0.00400 -0.00100 0.00100 0.00100
+O4 0.00600 0.00800 0.00400 0.00100 -0.00100 0.00200
+O5 0.00600 0.01100 0.00400 -0.00300 0.00200 0.00000

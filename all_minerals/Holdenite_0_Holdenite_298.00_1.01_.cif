@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Holdenite'
+loop_
+_publ_author_name
+'Moore P B'
+'Araki T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 62 
+_journal_year 1977
+_journal_page_first 513
+_journal_page_last 521
+_publ_section_title
+;
+ Holdenite, a novel cubic close-packed structure
+ Note: sample is from the zinc mines at Franklin, Sussex County, New Jersey, USA
+;
+_database_code_amcsd 0000581
+_chemical_formula_sum 'Mn5.45 Mg.55 Si As2 Zn3 O20 H8'
+_cell_length_a 11.99
+_cell_length_b 31.46
+_cell_length_c 8.697
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 3280.555
+_exptl_crystal_density_diffrn      4.110
+_symmetry_space_group_name_H-M 'A m a 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2-z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '1/2-x,1/2-y,+z'
+  'x,-y,z'
+  'x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,y,1/2+z'
+  '1/2-x,1/2+y,+z'
+  '1/2+x,-y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+  '-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mn1   0.00000   0.10108   0.00000   0.53000   0.01153
+Mg1   0.00000   0.10108   0.00000   0.47000   0.01153
+Mn2   0.00000   0.20493   0.00000   0.92000   0.01001
+Mg2   0.00000   0.20493   0.00000   0.08000   0.01001
+Mn3   0.37353   0.05137   0.21843   1.00000   0.01267
+Mn4   0.36297   0.15428   0.22701   1.00000   0.01064
+Si   0.25000   0.25000   0.11500   1.00000   0.00747
+As   0.12961   0.10069   0.36268   1.00000   0.00811
+Zn1   0.11099   0.00000   0.10650   1.00000   0.01089
+Zn2   0.13073   0.20123   0.36797   1.00000   0.01001
+O1   0.13470   0.25220   0.01420   1.00000   0.01013
+O2   0.24730   0.20630   0.21580   1.00000   0.01127
+O3   0.13460   0.14530   0.47420   1.00000   0.01127
+O4   0.13820   0.05780   0.47610   1.00000   0.01317
+O5   0.00890   0.10100   0.25970   1.00000   0.01254
+O6   0.23960   0.10200   0.24050   1.00000   0.01203
+O-H1   0.25170   0.00000   0.22760   1.00000   0.01127
+O-H2  -0.00340   0.00000   0.27000   1.00000   0.01203
+O-H3   0.11730   0.05110  -0.02470   1.00000   0.01165
+O-H4   0.11130   0.15020  -0.03080   1.00000   0.01153
+O-H5  -0.00920   0.20220   0.25520   1.00000   0.01127

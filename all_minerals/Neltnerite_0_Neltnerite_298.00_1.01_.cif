@@ -1,0 +1,95 @@
+data_global
+_chemical_name_mineral 'Neltnerite'
+loop_
+_publ_author_name
+'de Villiers J P R'
+'Dobson S M'
+'Buseck P R'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 3 
+_journal_year 1991
+_journal_page_first 567
+_journal_page_last 573
+_publ_section_title
+;
+ Refinement of the crystal structure of neltnerite,
+ a member of the bixbyite-braunite group of minerals
+;
+_database_code_amcsd 0006420
+_chemical_formula_sum 'Ca.95 Mn6.05 Si O12'
+_cell_length_a 9.468
+_cell_length_b 9.468
+_cell_length_c 18.862
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1690.847
+_exptl_crystal_density_diffrn      4.640
+_symmetry_space_group_name_H-M 'I 41/a c d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/4-y,3/4-x,3/4+z'
+  '3/4-y,1/4-x,1/4+z'
+  '1/4+y,3/4+x,3/4-z'
+  '3/4+y,1/4+x,1/4-z'
+  '1/4+y,3/4-x,1/4-z'
+  '3/4+y,1/4-x,3/4-z'
+  '1/4-y,3/4+x,1/4+z'
+  '3/4-y,1/4+x,3/4+z'
+  '1/2+x,-y,z'
+  '+x,1/2-y,1/2+z'
+  '1/2-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '1/4+y,1/4+x,1/4+z'
+  '3/4+y,3/4+x,3/4+z'
+  '1/4-y,1/4-x,1/4-z'
+  '3/4-y,3/4-x,3/4-z'
+  '1/4-y,1/4+x,3/4-z'
+  '3/4-y,3/4+x,1/4-z'
+  '1/4+y,1/4-x,3/4+z'
+  '3/4+y,3/4-x,1/4+z'
+  '-x,y,1/2+z'
+  '1/2-x,1/2+y,+z'
+  'x,-y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+CaM1   0.00000   0.25000   0.12500   0.95000   0.00530
+MnM1   0.00000   0.25000   0.12500   0.05000   0.00530
+MnM2   0.00000   0.00000   0.00000   1.00000   0.00450
+MnM3   0.02830   0.00000   0.25000   1.00000   0.00480
+MnM4   0.23750   0.48750   0.12500   1.00000   0.00450
+Si   0.00000   0.25000   0.37500   1.00000   0.00440
+O1   0.15660   0.36420   0.05310   1.00000   0.00640
+O2   0.14220   0.07910   0.05640   1.00000   0.00520
+O3   0.42120   0.13550   0.07480   1.00000   0.00690
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+CaM1 0.00500 0.00500 0.00590 -0.00090 0.00000 0.00000
+MnM1 0.00500 0.00500 0.00590 -0.00090 0.00000 0.00000
+MnM2 0.00440 0.00470 0.00430 -0.00150 -0.00100 -0.00010
+MnM3 0.00370 0.00520 0.00550 0.00000 0.00000 0.00140
+MnM4 0.00450 0.00450 0.00440 -0.00110 0.00030 -0.00030
+Si 0.00370 0.00370 0.00580 0.00000 0.00000 0.00000
+O1 0.00710 0.00480 0.00740 -0.00120 0.00140 -0.00080
+O2 0.00540 0.00540 0.00480 -0.00140 -0.00120 -0.00010
+O3 0.00700 0.00740 0.00640 -0.00090 -0.00120 -0.00180

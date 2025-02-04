@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Homilite'
+loop_
+_publ_author_name
+'Miyawaki R'
+'Nakai I'
+'Nagashima K'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 41 
+_journal_year 1985
+_journal_page_first 13
+_journal_page_last 15
+_publ_section_title
+;
+ Structure of homilite, Ca2.00(Fe0.90Mn0.03)B2.00Si2.00O9.86(OH)0.14
+ Note: anisoB's form ICSD
+;
+_database_code_amcsd 0010002
+_chemical_compound_source 'Stoko, Brevig, Langesundfjord, Norway'
+_chemical_formula_sum 'Ca2 Fe.9 Mn.03 B2 Si2 O10 H.14'
+_cell_length_a 9.786
+_cell_length_b 7.621
+_cell_length_c 4.776
+_cell_angle_alpha 90
+_cell_angle_beta 90.61
+_cell_angle_gamma 90
+_cell_volume 356.170
+_exptl_crystal_density_diffrn      3.450
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca   0.33389   0.10224   0.00685   1.00000   0.00811
+Fe   0.00000   0.00000   0.00000   0.90000   0.00773
+Mn   0.00000   0.00000   0.00000   0.03000   0.00773
+B   0.33820   0.40810   0.45960   1.00000   0.00659
+Si   0.08380   0.26757   0.53051   1.00000   0.00697
+O1   0.03590   0.39910   0.76250   1.00000   0.01051
+O2   0.45530   0.29910   0.32830   1.00000   0.00811
+O3   0.20900   0.33520   0.33040   1.00000   0.00887
+O4   0.14390   0.08630   0.68280   1.00000   0.00836
+O5   0.34110   0.41300   0.75830   0.93000   0.00925
+O-H6   0.34110   0.41300   0.75830   0.07000   0.00925
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00640 0.00950 0.00855 -0.00034 -0.00076 0.00022
+Fe 0.00645 0.00992 0.00670 0.00083 0.00017 0.00039
+Mn 0.00645 0.00992 0.00670 0.00083 0.00017 0.00039
+B 0.00582 0.00736 0.00659 0.00000 -0.00024 -0.00018
+Si 0.00572 0.00780 0.00751 -0.00057 0.00000 -0.00002
+O1 0.00839 0.01118 0.01179 -0.00076 0.00095 -0.00313
+O2 0.00703 0.00912 0.00809 0.00113 -0.00095 -0.00018
+O3 0.00640 0.01177 0.00867 -0.00189 0.00024 0.00000
+O4 0.00820 0.00765 0.00936 0.00038 -0.00095 0.00055
+O5 0.00820 0.01177 0.00786 -0.00038 0.00024 -0.00055
+O-H6 0.00820 0.01177 0.00786 -0.00038 0.00024 -0.00055

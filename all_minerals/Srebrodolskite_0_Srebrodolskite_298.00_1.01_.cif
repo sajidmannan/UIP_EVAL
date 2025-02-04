@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Srebrodolskite'
+loop_
+_publ_author_name
+'Redhammer G J'
+'Tippelt G'
+'Roth G'
+'Amthauer G'
+_journal_name_full 'American Mineralogist'
+_journal_volume 89 
+_journal_year 2004
+_journal_page_first 405
+_journal_page_last 420
+_publ_section_title
+;
+ Structural variations in the brownmillerite series Ca2(Fe2-xAlx)O5:
+ Single-crystal X-ray diffraction at 25 deg C and high temperature
+ X-ray powder diffraction (25 C <= T <= 1000 C)
+ Sample: bx000_1
+;
+_database_code_amcsd 0003425
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca2 Fe2 O5'
+_cell_length_a 5.4268
+_cell_length_b 14.7631
+_cell_length_c 5.5969
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 448.403
+_exptl_crystal_density_diffrn      4.027
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.48080   0.10798   0.02270   0.00730
+FeM   0.00000   0.00000   0.00000   0.00490
+FeT   0.94610   0.25000   0.93403   0.00460
+O1   0.26280   0.98430   0.23700   0.00700
+O2   0.02400   0.14060   0.07350   0.00870
+O3   0.59910   0.25000   0.87410   0.00740

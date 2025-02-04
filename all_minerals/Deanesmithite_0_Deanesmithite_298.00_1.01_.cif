@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Deanesmithite'
+loop_
+_publ_author_name
+'Szymanski J T'
+'Groat L A'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 35 
+_journal_year 1997
+_journal_page_first 765
+_journal_page_last 772
+_publ_section_title
+;
+ The crystal structure of deanesmithite, Hg2Hg3CrO5S2
+;
+_database_code_amcsd 0005526
+_chemical_formula_sum 'Hg5 Cr S2 O5'
+_cell_length_a 8.1287
+_cell_length_b 9.4916
+_cell_length_c 6.8940
+_cell_angle_alpha 100.356
+_cell_angle_beta 110.163
+_cell_angle_gamma 82.981
+_cell_volume 490.125
+_exptl_crystal_density_diffrn      8.125
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Hg1   0.55957   0.08546   0.85556 ?
+Hg2   0.27861   0.97327   0.61713 ?
+Hg3   0.00000   0.00000   0.00000 ?
+Hg4   0.50000   0.50000   0.00000 ?
+Hg5   0.16981   0.65337   0.18197 ?
+Hg6   0.11631   0.66011   0.66080 ?
+Cr   0.37608   0.29969   0.40189 ?
+S1   0.04370   0.81653   0.40826 ?
+S2   0.19375   0.48557   0.88688 ?
+O1   0.49763   0.30035   0.25609   0.03360
+O2   0.51029   0.30784   0.65049   0.01980
+O3   0.26885   0.14737   0.33021   0.02870
+O4   0.81307   0.15391   0.03067   0.01740
+O5   0.23193   0.44113   0.38588   0.03250
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 0.01910 0.03010 0.02790 -0.00720 -0.00080 0.00830
+Hg2 0.02030 0.04430 0.03100 -0.00960 -0.00060 0.00050
+Hg3 0.01850 0.02230 0.01900 0.00010 0.00120 0.00370
+Hg4 0.01600 0.03520 0.03910 0.00010 0.00580 0.00410
+Hg5 0.02380 0.02960 0.02110 -0.00530 0.00710 0.00210
+Hg6 0.03570 0.03330 0.01760 -0.00370 0.00350 0.00350
+Cr 0.01400 0.01900 0.01940 -0.00150 -0.00020 0.00360
+S1 0.01460 0.02670 0.02080 -0.00460 0.00130 0.00140
+S2 0.01750 0.02670 0.02620 -0.00440 0.00550 0.00370

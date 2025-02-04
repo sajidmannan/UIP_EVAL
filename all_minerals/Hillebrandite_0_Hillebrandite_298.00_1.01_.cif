@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Hillebrandite'
+loop_
+_publ_author_name
+'Dai Y S'
+'Post J E'
+_journal_name_full 'American Mineralogist'
+_journal_volume 80 
+_journal_year 1995
+_journal_page_first 841
+_journal_page_last 844
+_publ_section_title
+;
+ Crystal structure of hillebrandite: A natural analogue of calcium silicate
+ hydrate (CSH) phases in Portland cement
+;
+_database_code_amcsd 0001745
+_chemical_formula_sum 'Ca3 Si1.5 O7.5 H2'
+_cell_length_a 3.6389
+_cell_length_b 16.311
+_cell_length_c 11.829
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 702.100
+_exptl_crystal_density_diffrn      2.690
+_symmetry_space_group_name_H-M 'C m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.00000   0.21640   0.06400   1.00000   0.01370
+Ca2   0.50000   0.39920  -0.04790   1.00000   0.01140
+Ca3   0.50000   0.04900   0.18880   1.00000   0.01180
+Si1   0.43000   0.08630  -0.10190   0.50000   0.01100
+Si2   0.50000   0.37270   0.21340   0.50000   0.00800
+O-H1   0.00000   0.30910  -0.08120   1.00000   0.01400
+O2   0.50000   0.12590   0.01980   1.00000   0.01300
+O3   0.50000   0.46370   0.13800   1.00000   0.02400
+O4   0.50000   0.29640   0.12510   1.00000   0.01900
+O5   0.00000   0.48900  -0.11230   1.00000   0.01000
+O-H6   0.00000   0.13700   0.23610   1.00000   0.01300
+O7   0.36400   0.13280  -0.20500   0.50000   0.01400
+O8   0.00000   0.11000  -0.12700   0.50000   0.01400

@@ -1,0 +1,95 @@
+data_global
+_chemical_name_mineral 'Pseudoboleite'
+loop_
+_publ_author_name
+'Giuseppetti G'
+'Mazzi F'
+'Tadini C'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1992 
+_journal_year 1992
+_journal_page_first 113
+_journal_page_last 126
+_publ_section_title
+;
+ The crystal structure of pseudoboleite: Pb31Cu24Cl62(OH)48;
+ its relations with the structures of boleite and cumengeite
+;
+_database_code_amcsd 0014859
+_chemical_compound_source 'Boleo, Baja California, Mexico'
+_chemical_formula_sum 'Pb15.5 Cu12 Cl31 (O24 H24)'
+_cell_length_a 15.24
+_cell_length_b 15.24
+_cell_length_c 30.74
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 7139.598
+_exptl_crystal_density_diffrn      5.099
+_symmetry_space_group_name_H-M 'I 4/m m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,x,-z'
+  '1/2+y,1/2+x,1/2-z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-y,x,z'
+  '1/2-y,1/2+x,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,-x,-z'
+  '1/2-y,1/2-x,1/2-z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'y,-x,z'
+  '1/2+y,1/2-x,1/2+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb1   0.00000   0.27500   0.24210   1.00000   0.02890
+Pb2   0.30420   0.30420   0.15100   1.00000   0.02610
+Pb3   0.00000   0.50000   0.13510   1.00000   0.03080
+Pb4   0.27400   0.50000   0.00000   1.00000   0.03330
+Pb5a   0.00000   0.00000   0.39270   0.68700   0.02810
+Pb5b   0.00000   0.00000   0.37060   0.31300   0.03140
+Pb6   0.15470   0.00000   0.00000   0.47600   0.05660
+Pb7   0.00000   0.00000   0.08370   0.46800   0.07130
+Pb8   0.00000   0.50000   0.00000   0.44900   0.05410
+Pb9   0.00000   0.00000   0.27160   0.63100   0.05270
+Cu1   0.25660   0.09530   0.12670   1.00000   0.02140
+Cu2   0.25650   0.25650   0.04710   1.00000   0.02220
+Cl1   0.37810   0.11610   0.30760   1.00000   0.03090
+Cl2   0.38370   0.38370   0.05920   1.00000   0.03230
+Cl3   0.37800   0.37800   0.43830   1.00000   0.05220
+Cl4   0.35790   0.35790   0.25120   1.00000   0.04100
+Cl5   0.00000   0.17360   0.34020   1.00000   0.04240
+Cl6   0.00000   0.37040   0.43410   1.00000   0.02950
+Cl7   0.32650   0.00000   0.00000   1.00000   0.03300
+Cl8   0.00000   0.00000   0.17390   1.00000   0.03850
+O-H1   0.19120   0.31180   0.09430   1.00000   0.03040
+O-H2   0.31080   0.31080   0.34600   1.00000   0.01830
+O-H3   0.00000   0.33060   0.10510   1.00000   0.02490
+O-H4   0.00000   0.21080   0.16320   1.00000   0.02330
+O-H5   0.20990   0.32930   0.00000   1.00000   0.02740

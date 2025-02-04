@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Katophorite'
+loop_
+_publ_author_name
+'Hawthorne F C'
+'Oberti R'
+'Sardone N'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 34 
+_journal_year 1996
+_journal_page_first 577
+_journal_page_last 593
+_publ_section_title
+;
+ Sodium at the A site in clinoamphiboles: the effects of composition
+ on patterns of order
+ Sample: A7 - D163 N.2
+;
+_database_code_amcsd 0005492
+_chemical_formula_sum 'Si7.24 Al1.98 Mg2.42 Fe1.4 Ti.04 Ca1.12 Na1.58 K.022 H1.74 O23.74 F.26'
+_cell_length_a 9.737
+_cell_length_b 17.875
+_cell_length_c 5.314
+_cell_angle_alpha 90
+_cell_angle_beta 104.64
+_cell_angle_gamma 90
+_cell_volume 894.867
+_exptl_crystal_density_diffrn      3.208
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+SiT1   0.28110   0.08690   0.30040   0.81000   0.00557
+AlT1   0.28110   0.08690   0.30040   0.19000   0.00557
+SiT2   0.29240   0.17380   0.81410   1.00000   0.00583
+MgM1   0.00000   0.09030   0.50000   0.75000   0.00709
+FeM1   0.00000   0.09030   0.50000   0.25000   0.00709
+AlM2   0.00000   0.17840   0.00000   0.61000   0.00697
+TiM2   0.00000   0.17840   0.00000   0.02000   0.00697
+FeM2   0.00000   0.17840   0.00000   0.18000   0.00697
+MgM2   0.00000   0.17840   0.00000   0.19000   0.00697
+MgM3   0.00000   0.00000   0.00000   0.54000   0.00671
+FeM3   0.00000   0.00000   0.00000   0.46000   0.00671
+FeM4   0.00000   0.27970   0.50000   0.02000   0.00975
+CaM4   0.00000   0.27970   0.50000   0.28000   0.00975
+NaM4   0.00000   0.27970   0.50000   0.20000   0.00975
+FeM4*   0.00000   0.25680   0.50000   0.02000   0.02634
+CaM4*   0.00000   0.25680   0.50000   0.28000   0.02634
+NaM4*   0.00000   0.25680   0.50000   0.20000   0.02634
+NaAm   0.04370   0.50000   0.10040   0.16100   0.04344
+KAm   0.04370   0.50000   0.10040   0.00500   0.04344
+NaA2   0.00000   0.47470   0.00000   0.22900   0.03736
+KA2   0.00000   0.47470   0.00000   0.00600   0.03736
+H   0.18800   0.00000   0.75620   0.87000   0.01456
+O1   0.10540   0.09230   0.20940   1.00000   0.00963
+O2   0.11910   0.17430   0.74380   1.00000   0.00861
+O-h3   0.10980   0.00000   0.70850   0.87000   0.01089
+F3   0.10980   0.00000   0.70850   0.13000   0.01089
+O4   0.36940   0.25200   0.79590   1.00000   0.01051
+O5   0.35360   0.13860   0.10530   1.00000   0.01229
+O6   0.34230   0.11880   0.60400   1.00000   0.01178
+O7   0.33720   0.00000   0.28010   1.00000   0.01444

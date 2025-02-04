@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Shattuckite'
+loop_
+_publ_author_name
+'Evans H T'
+'Mrose M E'
+_journal_name_full 'American Mineralogist'
+_journal_volume 62 
+_journal_year 1977
+_journal_page_first 491
+_journal_page_last 502
+_publ_section_title
+;
+ The crystal chemistry of the hydrous copper silicates, shattuckite and
+ plancheite
+ Note: sample is from Ajo, Arizona
+;
+_database_code_amcsd 0000578
+_chemical_formula_sum 'Cu5 Si4 O14 H2'
+_cell_length_a 9.885
+_cell_length_b 19.832
+_cell_length_c 5.3825
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1055.182
+_exptl_crystal_density_diffrn      4.130
+_symmetry_space_group_name_H-M 'P b c a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2-z'
+  '-x,1/2-y,1/2+z'
+  '1/2-x,y,1/2+z'
+  '1/2+x,-y,1/2-z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1   0.50000   0.00000   0.50000
+Cu2   0.33090   0.02547   0.03970
+Cu3   0.25205   0.28125   0.46765
+Si1   0.54485   0.13502   0.21730
+Si2   0.39742   0.15706   0.72650
+O1   0.50540   0.05540   0.19960
+O2   0.34260   0.08050   0.74390
+O3   0.70760   0.15120   0.22030
+O4   0.49130   0.17350   0.97080
+O5   0.49070   0.16700   0.47770
+O6   0.28360   0.21630   0.71930
+O-h7   0.67790   0.02430   0.64260
+H   0.71000   0.43500   0.63000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.00880 0.00790 0.00930 -0.00320 -0.00300 0.00420
+Cu2 0.00950 0.00800 0.00730 -0.00250 -0.00140 0.00200
+Cu3 0.01080 0.00460 0.00660 0.00010 -0.00250 -0.00040
+Si1 0.00620 0.00390 0.00520 -0.00040 0.00140 0.00060
+Si2 0.00640 0.00340 0.00530 0.00010 -0.00020 0.00030
+O1 0.01050 0.00510 0.00670 -0.00380 -0.00290 0.00310
+O2 0.01570 0.00320 0.01190 -0.00290 -0.00220 0.00240
+O3 0.00510 0.00570 0.00830 -0.00240 0.00050 0.00180
+O4 0.01010 0.00730 0.00610 -0.00140 -0.00070 -0.00100
+O5 0.01360 0.00710 0.00690 0.00070 0.00290 -0.00370
+O6 0.01090 0.00510 0.00430 0.00320 -0.00230 -0.00230
+O-h7 0.00910 0.00590 0.00690 -0.00210 0.00160 -0.00020

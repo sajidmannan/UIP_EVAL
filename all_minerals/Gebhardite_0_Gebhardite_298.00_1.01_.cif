@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Gebhardite'
+loop_
+_publ_author_name
+'Klaska R'
+'Gebert W'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 159 
+_journal_year 1982
+_journal_page_first 75
+_journal_page_last 76
+_publ_section_title
+;
+ Polytypie und struktur von gebhardit - Pb8OCl6(As2O5)2
+;
+_database_code_amcsd 0010847
+_chemical_compound_source 'Tsumeb mine, Tsumeb, Namibia'
+_chemical_formula_sum 'Pb8 Cl6 As4 O11'
+_cell_length_a 6.724
+_cell_length_b 11.20
+_cell_length_c 34.19
+_cell_angle_alpha 90
+_cell_angle_beta 85.2
+_cell_angle_gamma 90
+_cell_volume 2565.778
+_exptl_crystal_density_diffrn      6.073
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1   0.74350   0.62830   0.21930
+Pb2   0.79700   0.62940  -0.01220
+Pb3   0.14680   0.37500   0.19140
+Pb4   0.74430   0.12360   0.21970
+Pb5   0.80450   0.12340  -0.00930
+Pb6   0.84270   0.37420   0.30590
+Pb7   0.97940   0.89980   0.59600
+Pb8   0.99010   0.15210   0.10370
+Cl1   0.67840  -0.13390   0.82150
+Cl2   0.36230   0.11590   0.03570
+Cl3   0.49370   0.36820   0.25090
+Cl4   0.33750  -0.13340   0.68170
+Cl5   0.74530  -0.37630   0.89530
+Cl6   0.36000   0.61640   0.03660
+As1   0.75030   0.87180   0.06040
+As2   0.72270   0.37290   0.05520
+As3   0.69830   0.12350   0.65520
+As4   0.72300   0.87590   0.15510
+O1   0.79280   0.36950   0.10160
+O2   0.83450   0.85450   0.11140
+O3   0.10110   0.74110   0.95510
+O4   0.09070   0.25440   0.45660
+O5   0.87840   0.23620   0.67150
+O6   0.84540   0.00000   0.66580
+O7   0.87100   0.73860   0.67500
+O8   0.85140   0.50020   0.66380
+O9   0.86030   0.49910   0.53430
+O10   0.14010   0.99750   0.46290
+O11   0.74670   0.11740   0.88510

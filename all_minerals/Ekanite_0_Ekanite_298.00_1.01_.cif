@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Ekanite'
+loop_
+_publ_author_name
+'Szymanski J T'
+'Owens D R'
+'Roberts A C'
+'Ansell H G'
+'Chao G Y'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 20 
+_journal_year 1982
+_journal_page_first 65
+_journal_page_last 75
+_publ_section_title
+;
+ A mineralogical study and crystal-structure determination of
+ nonmetamict ekanite, ThCa2Si8O20
+ Note: Changed O2-x coordinate to match reported bond lengths
+;
+_database_code_amcsd 0005184
+_chemical_formula_sum '(Th.95 U.05) (Ca1.92 Fe.06 Mn.02) Si8 O20'
+_cell_length_a 7.483
+_cell_length_b 7.483
+_cell_length_c 14.893
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 833.938
+_exptl_crystal_density_diffrn      3.419
+_symmetry_space_group_name_H-M 'I 4 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'y,x,-z'
+  '1/2+y,1/2+x,1/2-z'
+  '-y,x,z'
+  '1/2-y,1/2+x,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  '-y,-x,-z'
+  '1/2-y,1/2-x,1/2-z'
+  'y,-x,z'
+  '1/2+y,1/2-x,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Th   0.00000   0.00000   0.00000   0.95000
+U   0.00000   0.00000   0.00000   0.05000
+Ca   0.50000   0.00000   0.00000   0.96000
+Fe   0.50000   0.00000   0.00000   0.03000
+Mn   0.50000   0.00000   0.00000   0.01000
+Si   0.33350   0.25400   0.14790   1.00000
+O1   0.25440   0.45210   0.12510   1.00000
+O2   0.21240   0.71240   0.25000   1.00000
+O3   0.25530   0.10750   0.08180   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Th 0.01030 0.01030 0.01430 0.00000 0.00000 0.00000
+U 0.01030 0.01030 0.01430 0.00000 0.00000 0.00000
+Ca 0.01580 0.02930 0.02670 0.00000 0.00000 0.00000
+Fe 0.01580 0.02930 0.02670 0.00000 0.00000 0.00000
+Mn 0.01580 0.02930 0.02670 0.00000 0.00000 0.00000
+Si 0.01600 0.01470 0.02200 -0.00050 -0.00070 -0.00150
+O1 0.02620 0.01260 0.05230 0.00250 -0.00130 0.00280
+O2 0.06060 0.06060 0.02070 0.01270 0.00690 0.00690
+O3 0.02300 0.02790 0.02910 -0.00250 -0.00700 -0.00810

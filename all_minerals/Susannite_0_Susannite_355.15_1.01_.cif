@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Susannite'
+loop_
+_publ_author_name
+'Bindi L'
+'Menchetti S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 90 
+_journal_year 2005
+_journal_page_first 1641
+_journal_page_last 1647
+_publ_section_title
+;
+ Structural changes accompanying the phase transformation between leadhillite
+ and susannite: a structural study by means of in situ high-temperature single-
+ crystal X-ray diffraction
+ Sample: Chah Mileh Mine, Anarak District, Esfahan Province, Iran
+ Sample: T = 82 C
+;
+_database_code_amcsd 0003939
+_chemical_formula_sum 'Pb4 S C2 O12'
+_cell_length_a 9.077
+_cell_length_b 9.077
+_cell_length_c 11.611
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 828.485
+_exptl_crystal_density_diffrn      6.475
+_symmetry_space_group_name_H-M 'P 3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,x-y,z'
+  '-x+y,-x,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.66770   0.98810   0.02000   0.03800
+Pb2   0.34810   0.01360   0.81600   0.03600
+Pb3   0.67100   0.94580   0.59200   0.03600
+Pb4   0.66070   0.61170   0.24100   0.03500
+S1   0.66667   0.33333   0.43000   0.04200
+S2   0.33333   0.66667   0.41000   0.05100
+S3   0.00000   0.00000   0.41000   0.05100
+C1   0.00000   0.00000   0.07000   0.02900
+C2   0.33333   0.66667   0.07000   0.03100
+C3   0.66667   0.33333   0.05000   0.03100
+C4   0.33333   0.66667   0.78000   0.03100
+C5   0.00000   0.00000   0.78000   0.03000
+C6   0.66667   0.33333   0.76000   0.02900
+O1   0.66000   0.03000   0.21400   0.05600
+O2   0.36000   0.03000   0.60700   0.05000
+O3   0.86000  -0.14000   0.06000   0.06500
+O4   0.47000  -0.32000   0.06000   0.06800
+O5   0.66000   0.47000   0.04000   0.06800
+O6   0.48000  -0.19000   0.77000   0.06000
+O7   0.99800  -0.14000   0.77000   0.06100
+O8   0.52000   0.33000   0.75000   0.06400
+O9   0.66667   0.33333   0.31000   0.05300
+O10   0.83000   0.38000   0.46000   0.05000
+O11   0.33333   0.66667   0.53000   0.06200
+O12   0.51000   0.76000   0.37000   0.06300
+O13   0.00000   0.00000   0.53000   0.06900
+O14   0.17000   0.11100   0.37000   0.06100

@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Kozoite-(Sm)'
+loop_
+_publ_author_name
+'Tahara T'
+'Nakai I'
+'Miyawaki R'
+'Matsubara S'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 222 
+_journal_year 2007
+_journal_page_first 326
+_journal_page_last 334
+_publ_section_title
+;
+ Crystal chemistry of RE(CO3)OH
+;
+_database_code_amcsd 0019380
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Sm C (O4 H)'
+_cell_length_a 7.1388
+_cell_length_b 4.9151
+_cell_length_c 8.4717
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 297.254
+_exptl_crystal_density_diffrn      5.081
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Sm   0.35839   0.25000   0.66508   0.00868
+C   0.30170   0.25000   0.32280   0.00920
+O-H1   0.03930   0.25000   0.60640   0.01410
+O2   0.29490  -0.25000   0.69700   0.01430
+O3   0.65360  -0.02410   0.61070   0.01110

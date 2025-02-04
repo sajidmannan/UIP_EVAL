@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Wonesite'
+loop_
+_publ_author_name
+'Spear F S'
+'Hazen R M'
+'Rumble D'
+_journal_name_full 'American Mineralogist'
+_journal_volume 66 
+_journal_year 1981
+_journal_page_first 100
+_journal_page_last 105
+_publ_section_title
+;
+ Wonesite: A new rock-forming silicate from the Post Pond Volcanics, Vermont
+;
+_database_code_amcsd 0000804
+_chemical_formula_sum 'Na.55 (Mg2.58 Fe.42) (Si3.2 Al.8) O12'
+_cell_length_a 5.312
+_cell_length_b 9.163
+_cell_length_c 9.825
+_cell_angle_alpha 90
+_cell_angle_beta 103.18
+_cell_angle_gamma 90
+_cell_volume 465.624
+_exptl_crystal_density_diffrn      2.869
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na   0.00000   0.00000   0.00000   0.55000   0.03800
+Mg1   0.00000   0.50000   0.50000   0.86000   0.01013
+Fe1   0.00000   0.50000   0.50000   0.14000   0.01013
+Mg2   0.00000   0.83000   0.50000   0.86000   0.01013
+Fe2   0.00000   0.83000   0.50000   0.14000   0.01013
+Si   0.58000   0.17000   0.22500   0.80000   0.01013
+Al   0.58000   0.17000   0.22500   0.20000   0.01013
+O1   0.82000   0.23000   0.15800   1.00000   0.02153
+O2   0.52000   0.00000   0.15800   1.00000   0.02153
+O3   0.63000   0.17000   0.39300   1.00000   0.01520
+O4   0.13000   0.00000   0.39300   1.00000   0.01520

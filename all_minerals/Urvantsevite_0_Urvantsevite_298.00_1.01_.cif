@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Urvantsevite'
+loop_
+_publ_author_name
+'Zhuravlev N N'
+_journal_name_full 'Soviet Journal of Experimental and Theoretical Physics'
+_journal_volume 5 
+_journal_year 1957
+_journal_page_first 1064
+_journal_page_last 1072
+_publ_section_title
+;
+ Structure of superconductors. X. Thermal, microscopic and x-ray investigation
+ of the bismuth-palladium system
+ Note: high temperature modification
+;
+_database_code_amcsd 0015533
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Pd Bi2'
+_cell_length_a 3.362
+_cell_length_b 3.362
+_cell_length_c 12.983
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 146.747
+_exptl_crystal_density_diffrn     11.867
+_symmetry_space_group_name_H-M 'I 4/m m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,x,-z'
+  '1/2+y,1/2+x,1/2-z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-y,x,z'
+  '1/2-y,1/2+x,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,-x,-z'
+  '1/2-y,1/2-x,1/2-z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'y,-x,z'
+  '1/2+y,1/2-x,1/2+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pd   0.00000   0.00000   0.00000
+Bi   0.00000   0.00000   0.36300

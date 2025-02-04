@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Calcioolivine'
+loop_
+_publ_author_name
+'Zadov A E'
+'Gazeev V M'
+'Pertsev N N'
+'Gurbanov A G'
+'Gobechiya E R'
+'Yamnova N A'
+'Chukanov N V'
+_journal_name_full 'Geology of Ore Deposits'
+_journal_volume 51 
+_journal_year 2009
+_journal_page_first 741
+_journal_page_last 749
+_publ_section_title
+;
+ Calcioolivine, gamma-Ca2SiO4, an old and new mineral species
+ Kabarda-Balkaria Republic, Russia
+;
+_database_code_amcsd 0018297
+_chemical_compound_source 'Mt. Lakargi, Upper Chegem Plateau, northern Caucasus,'
+_chemical_formula_sum 'Ca2 Si O4'
+_cell_length_a 5.074
+_cell_length_b 11.211
+_cell_length_c 6.753
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 384.142
+_exptl_crystal_density_diffrn      2.978
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.00000   0.00000   0.00000   0.04939
+Ca2   0.98900   0.27960   0.25000   0.04813
+Si   0.42970   0.09910   0.25000   0.04306
+O1   0.74100   0.09020   0.25000   0.04559
+O2   0.29500   0.96190   0.25000   0.02153
+O3   0.30000   0.16040   0.05960   0.03293

@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Mariinskite'
+loop_
+_publ_author_name
+'Yamnova N A'
+'Aksenov S M'
+'Pautov L A'
+'Popov M P'
+'Erokhin Y V'
+_journal_name_full 'Crystallography Reports'
+_journal_volume 59 
+_journal_year 2014
+_journal_page_first 30
+_journal_page_last 35
+_publ_section_title
+;
+ Specific features of cation distribution in the crystal structure
+ of mariinskite BeCr2O4 (derivative of olivine-type structure)
+ Note: Sample 1
+;
+_database_code_amcsd 0020027
+_chemical_compound_source 'Mariinskoe deposit (Middle Urals, Russia)'
+_chemical_formula_sum 'Al.32 Cr.71 Be.45 O2'
+_cell_length_a 4.487
+_cell_length_b 5.629
+_cell_length_c 9.732
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 245.804
+_exptl_crystal_density_diffrn      4.410
+_symmetry_space_group_name_H-M 'P 21 21 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2+x,-y,-z'
+  '-x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+AlM1   0.25500   0.50900   0.49900   0.49000   0.00700
+CrM1   0.25500   0.50900   0.49900   0.28000   0.00700
+CrM2   0.25000   0.74000   0.24200   0.67000   0.01100
+AlM2   0.25000   0.74000   0.24200   0.15000   0.01100
+CrM3   0.74600   0.49200   0.50100   0.31000   0.02100
+CrM4   0.24300   0.23300   0.24800   0.16000   0.02900
+Be1   0.83300   0.73800   0.40900   0.65000   0.03100
+Be2   0.15000   0.74900   0.40500   0.25000   0.02000
+O1   0.48800   0.75600   0.41900   1.00000   0.02500
+O2   0.00500   0.75400   0.07300   1.00000   0.01700
+O3   0.50000   0.49100   0.16700   1.00000   0.01700
+O4   0.50600   0.49800   0.65800   1.00000   0.00700

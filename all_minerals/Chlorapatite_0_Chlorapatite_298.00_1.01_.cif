@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Chlorapatite'
+loop_
+_publ_author_name
+'Hughes J M'
+'Cameron M'
+'Crowley K D'
+_journal_name_full 'American Mineralogist'
+_journal_volume 74 
+_journal_year 1989
+_journal_page_first 870
+_journal_page_last 876
+_publ_section_title
+;
+ Structural variations in natural F, OH, and Cl apatites
+;
+_database_code_amcsd 0001258
+_chemical_compound_source 'Kragero, Norway'
+_chemical_formula_sum 'Ca5 P3 O12 Cl.88 F.12'
+_cell_length_a 9.598
+_cell_length_b 9.598
+_cell_length_c 6.776
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 540.587
+_exptl_crystal_density_diffrn      3.187
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1   0.66667   0.33333   0.00270   1.00000
+Ca2   0.00112   0.25763   0.25000   1.00000
+P   0.37359   0.40581   0.25000   1.00000
+O1   0.49020   0.34030   0.25000   1.00000
+O2   0.46540   0.59080   0.25000   1.00000
+O3   0.26550   0.35220   0.06840   1.00000
+Cl   0.00000   0.00000   0.43230   0.44000
+F   0.00000   0.00000   0.25000   0.12000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.01617 0.01617 0.00535 0.00809 0.00000 0.00000
+Ca2 0.01572 0.01841 0.00861 0.00798 0.00000 0.00000
+P 0.01085 0.01155 0.00791 0.00644 0.00000 0.00000
+O1 0.02065 0.02625 0.01256 0.01785 0.00000 0.00000
+O2 0.01715 0.01260 0.02535 0.00700 0.00000 0.00000
+O3 0.02170 0.03955 0.01768 0.02083 -0.00999 -0.01555
+Cl 0.01960 0.01960 0.06280 0.00980 0.00000 0.00000

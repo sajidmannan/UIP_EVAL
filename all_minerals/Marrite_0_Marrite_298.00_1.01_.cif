@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Marrite'
+loop_
+_publ_author_name
+'Wuensch B J'
+'Nowacki W'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 125 
+_journal_year 1967
+_journal_page_first 459
+_journal_page_last 488
+_publ_section_title
+;
+ The crystal structure of marrite, PbAgAsS3
+;
+_database_code_amcsd 0010652
+_chemical_compound_source 'Lengenbach quarry, Binnatal, Switzerland'
+_chemical_formula_sum 'Pb Ag As S3'
+_cell_length_a 7.2705
+_cell_length_b 12.6319
+_cell_length_c 5.9853
+_cell_angle_alpha 90
+_cell_angle_beta 91.228
+_cell_angle_gamma 90
+_cell_volume 549.565
+_exptl_crystal_density_diffrn      5.876
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb   0.33830   0.41110   0.25210
+Ag   0.38820   0.76330   0.18510
+As   0.35570   0.09060   0.27860
+S1   0.14600   0.21450   0.38170
+S2   0.15280   0.62300   0.09260
+S3   0.16580   0.94810   0.28700
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb 0.00857 0.01778 0.01723 0.00000 0.00353 0.00153
+Ag 0.03506 0.03314 0.02775 -0.01628 0.00859 0.00230
+As 0.02248 0.00485 0.00853 -0.00233 0.00353 0.00268
+S1 0.02115 0.00808 0.01959 -0.00279 0.00793 -0.00421
+S2 0.00723 0.02021 0.01433 0.00047 0.00463 -0.00651
+S3 0.03694 0.00728 0.01107 -0.00140 0.00749 0.00000

@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Mikasaite'
+loop_
+_publ_author_name
+'Christidis P C'
+'Rentzeperis P J'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 144 
+_journal_year 1976
+_journal_page_first 341
+_journal_page_last 352
+_publ_section_title
+;
+ The crystal structure of rhombohedral Fe2(SO4)3
+;
+_database_code_amcsd 0010786
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Fe2 S3 O12'
+_cell_length_a 8.2362
+_cell_length_b 8.2362
+_cell_length_c 22.1786
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1302.922
+_exptl_crystal_density_diffrn      3.058
+_symmetry_space_group_name_H-M 'R -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Fe1   0.00000   0.00000   0.14411   0.00342
+Fe2   0.00000   0.00000   0.35070   0.00393
+S   0.29044   0.28818   0.25072   0.00342
+O1   0.19430   0.20480   0.19382   0.00823
+O2   0.22400   0.14560   0.29843   0.00937
+O3   0.49220   0.36340   0.24358   0.00532
+O4   0.25270   0.43930   0.26590   0.00811
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 0.00437 0.00437 0.00266 0.00218 0.00000 0.00000
+Fe2 0.00426 0.00426 0.00339 0.00215 0.00000 0.00000
+S 0.00321 0.00354 0.00357 0.00118 0.00039 -0.00120
+O1 0.00850 0.00940 0.00660 0.00260 -0.00500 -0.00720
+O2 0.00840 0.01010 0.00980 0.00430 0.00710 0.00820
+O3 0.00160 0.00730 0.00700 0.00140 0.00260 -0.00100
+O4 0.00750 0.00520 0.01170 0.00510 -0.00230 -0.00520

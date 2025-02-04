@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Glauconite'
+loop_
+_publ_author_name
+'Drits V A'
+'Zviagina B B'
+'McCarty D K'
+'Salyn A L'
+_journal_name_full 'American Mineralogist'
+_journal_volume 95 
+_journal_year 2010
+_journal_page_first 348
+_journal_page_last 361
+_publ_section_title
+;
+ Factors responsible for crystal-chemical variations in the solid solutions
+ from illite to aluminoceladonite and from glauconite to celadonite
+ Sample Name: 68-69
+;
+_database_code_amcsd 0005026
+_chemical_compound_source 'Baltic region, Russia'
+_chemical_formula_sum 'K Al2 Si4 O12 H2'
+_cell_length_a 5.246
+_cell_length_b 9.076
+_cell_length_c 10.184
+_cell_angle_alpha 90
+_cell_angle_beta 101.1
+_cell_angle_gamma 90
+_cell_volume 475.817
+_exptl_crystal_density_diffrn      2.788
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K   0.00000   0.50000   0.50000
+Al   0.50000   0.16670   0.00000
+Si   0.42090   0.33140   0.27280
+O1   0.36000   0.32140   0.11130
+O2   0.45420   0.50000   0.32780
+O3   0.69290   0.24900   0.33520
+O-H   0.41190   0.00000   0.10920

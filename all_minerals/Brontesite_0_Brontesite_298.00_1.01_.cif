@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Brontesite'
+loop_
+_publ_author_name
+'Demartin F'
+'Gramaccioli C M'
+'Campostrini I'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 47 
+_journal_year 2009
+_journal_page_first 1237
+_journal_page_last 1243
+_publ_section_title
+;
+ Brontesite, (NH4)3PbCl5, a new product of fumarolic activity from La Fossa Crater,
+ Vulcano, Aeolian Islands, Italy
+;
+_database_code_amcsd 0006299
+_chemical_compound_source 'La Fossa Crater, Vulcano, Aeolian Islands, Italy'
+_chemical_formula_sum 'Pb1.09 N2.9 Cl4.86 Br.24 H12'
+_cell_length_a 8.4351
+_cell_length_b 15.7732
+_cell_length_c 8.4446
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1123.542
+_exptl_crystal_density_diffrn      2.779
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb   0.08521   0.25000   0.84823   0.94000   0.02880
+N   0.08521   0.25000   0.84823   0.08000   0.02880
+N1  -0.57060   0.25000   0.15150   0.90000   0.03450
+Pb1  -0.57060   0.25000   0.15150   0.11000   0.03450
+N2  -0.23690   0.45190   0.03750   0.96000   0.04830
+Pb2  -0.23690   0.45190   0.03750   0.02000   0.04830
+Cl1  -0.05060   0.11727   0.67683   0.93000   0.04360
+Br1  -0.05060   0.11727   0.67683   0.12000   0.04360
+Cl2   0.11853   0.37741   0.12905   1.00000   0.03540
+Cl3  -0.21660   0.25000   0.97949   1.00000   0.03240
+H11  -0.50120   0.25000   0.24750   1.00000   0.14000
+H12  -0.49510   0.25000   0.05670   1.00000   0.13000
+H13  -0.61720   0.31120   0.13650   1.00000   0.13000
+H21  -0.28010   0.45040   0.14880   1.00000   0.13000
+H22  -0.13210   0.42470   0.03050   1.00000   0.15000
+H23  -0.24430   0.50820   0.98840   1.00000   0.11000
+H24  -0.31910   0.41290   0.97280   1.00000   0.23000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb 0.02789 0.02904 0.02946 0.00000 -0.00501 0.00000
+N 0.02789 0.02904 0.02946 0.00000 -0.00501 0.00000
+N1 0.03330 0.03540 0.03460 0.00000 -0.00500 0.00000
+Pb1 0.03330 0.03540 0.03460 0.00000 -0.00500 0.00000
+N2 0.05480 0.03480 0.05530 0.00370 0.01170 0.01020
+Pb2 0.05480 0.03480 0.05530 0.00370 0.01170 0.01020
+Cl1 0.04720 0.04480 0.03890 -0.01750 0.00440 -0.01240
+Br1 0.04720 0.04480 0.03890 -0.01750 0.00440 -0.01240
+Cl2 0.03850 0.03060 0.03710 -0.00360 -0.00120 0.00130
+Cl3 0.02850 0.03170 0.03680 0.00000 0.00280 0.00000

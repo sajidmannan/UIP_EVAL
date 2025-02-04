@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Matlockite'
+loop_
+_publ_author_name
+'Nieuwenkamp W'
+'Bijvoet J'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 81 
+_journal_year 1932
+_journal_page_first 469
+_journal_page_last 473
+_publ_section_title
+;
+ Die Kristallstruktur von Bleifluochlorid Pb F Cl
+ _cod_database_code 1011046
+;
+_database_code_amcsd 0017948
+_chemical_formula_sum 'Pb Cl F'
+_cell_length_a 4.09
+_cell_length_b 4.09
+_cell_length_c 7.21
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 120.610
+_exptl_crystal_density_diffrn      7.205
+_symmetry_space_group_name_H-M 'P 4/n m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-y,1/2-x,z'
+  'y,x,-z'
+  'y,-x,-z'
+  '1/2-y,1/2+x,z'
+  'x,-y,z'
+  '1/2-x,1/2+y,-z'
+  '1/2+x,1/2+y,-z'
+  '-x,-y,z'
+  '1/2+y,1/2+x,z'
+  '-y,-x,-z'
+  '-y,x,-z'
+  '1/2+y,1/2-x,z'
+  '-x,y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1   0.00000   0.50000   0.20500
+Cl1   0.00000   0.50000   0.65000
+F1   0.50000   0.50000   0.00000

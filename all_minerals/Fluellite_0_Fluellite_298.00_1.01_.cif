@@ -1,0 +1,94 @@
+data_global
+_chemical_name_mineral 'Fluellite'
+loop_
+_publ_author_name
+'Guy B B'
+'Jeffrey G A'
+_journal_name_full 'American Mineralogist'
+_journal_volume 51 
+_journal_year 1966
+_journal_page_first 1579
+_journal_page_last 1592
+_publ_section_title
+;
+ The crystal structure of fluellite, Al2PO4F2(OH).7H2O
+;
+_database_code_amcsd 0000151
+_chemical_formula_sum 'Al2 P O12 F2 H17.24'
+_cell_length_a 8.546
+_cell_length_b 11.222
+_cell_length_c 21.158
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2029.120
+_exptl_crystal_density_diffrn      2.176
+_symmetry_space_group_name_H-M 'F d d d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2+z'
+  '1/2+x,1/2+y,z'
+  '3/4+x,-y,3/4+z'
+  '3/4+x,1/2-y,1/4+z'
+  '1/4+x,-y,1/4+z'
+  '1/4+x,1/2-y,3/4+z'
+  '3/4-x,y,3/4-z'
+  '3/4-x,1/2+y,1/4-z'
+  '1/4-x,y,1/4-z'
+  '1/4-x,1/2+y,3/4-z'
+  '-x,3/4+y,3/4+z'
+  '-x,1/4+y,1/4+z'
+  '1/2-x,3/4+y,1/4+z'
+  '1/2-x,1/4+y,3/4+z'
+  'x,3/4-y,3/4-z'
+  'x,1/4-y,1/4-z'
+  '1/2+x,3/4-y,1/4-z'
+  '1/2+x,1/4-y,3/4-z'
+  '3/4+x,3/4+y,-z'
+  '3/4+x,1/4+y,1/2-z'
+  '1/4+x,3/4+y,1/2-z'
+  '1/4+x,1/4+y,-z'
+  '3/4-x,3/4-y,z'
+  '3/4-x,1/4-y,1/2+z'
+  '1/4-x,3/4-y,1/2+z'
+  '1/4-x,1/4-y,z'
+  '-x,-y,-z'
+  '-x,1/2-y,1/2-z'
+  '1/2-x,-y,1/2-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Al   0.00000   0.00000   0.00000   1.00000
+P   0.12500   0.12500   0.12500   1.00000
+O1   0.18120   0.90710   0.00330   1.00000
+O2   0.02200   0.04570   0.08340   1.00000
+O3   0.24150   0.99860   0.84140   1.00000
+F   0.12500   0.12500   0.27670   1.00000
+H1   0.16600   0.99300   0.87400   1.00000
+H2   0.28000   0.06000   0.25000   0.81000
+H3   0.29000   0.10000   0.78000   0.75000
+H4   0.22000   0.94000   0.81000   0.25000
+H5   0.21000   0.90000   0.78000   0.75000
+H6   0.34000   0.96000   0.14000   0.50000
+H7   0.28000   0.96000   0.00000   0.25000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al 0.00076 0.00481 0.00594 -0.00088 0.00026 -0.00126
+P 0.00291 0.00658 0.00710 0.00000 0.00000 0.00000
+O1 0.01266 0.01190 0.01519 0.00583 -0.00114 -0.00215
+O2 0.00646 0.01279 0.00848 -0.00063 -0.00089 0.00431
+O3 0.01380 0.02761 0.02293 -0.00684 0.00278 0.00202
+F 0.00089 0.01178 0.00925 0.00849 0.00000 0.00000
+H1 0.02280 0.02280 0.02279 0.00000 0.00000 0.00000

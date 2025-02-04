@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Edgarbaileyite'
+loop_
+_publ_author_name
+'Angel R J'
+'Cressey G'
+'Criddle A J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 75 
+_journal_year 1990
+_journal_page_first 1192
+_journal_page_last 1196
+_publ_section_title
+;
+ Edgarbaileyite, Hg6Si2O7: The crystal structure of the first mercury silicate
+;
+_database_code_amcsd 0001331
+_chemical_formula_sum 'Hg6 Si2 O7'
+_cell_length_a 11.755
+_cell_length_b 7.678
+_cell_length_c 5.991
+_cell_angle_alpha 90
+_cell_angle_beta 111.73
+_cell_angle_gamma 90
+_cell_volume 502.293
+_exptl_crystal_density_diffrn      9.069
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Hg1   0.11400   0.00000   0.04900   0.01976
+Hg2   0.11550   0.24230   0.57890   0.01798
+Si   0.64910   0.00000   0.10500   0.01520
+O1   0.30300   0.00000   0.11300   0.02280
+O2   0.31100   0.16800   0.72800   0.02153
+O3   0.50000   0.00000   0.00000   0.00127
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 0.00906 0.03046 0.02008 0.00000 0.00585 0.00000
+Hg2 0.00967 0.02150 0.02118 0.00085 0.00339 0.00216

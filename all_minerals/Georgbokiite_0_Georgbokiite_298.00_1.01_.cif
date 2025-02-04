@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Georgbokiite'
+loop_
+_publ_author_name
+'Krivovichev S V'
+'Shuvalov R R'
+'Semenova T F'
+'Filatov S K'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 214 
+_journal_year 1999
+_journal_page_first 135
+_journal_page_last 138
+_publ_section_title
+;
+ Crystal chemistry of inorganic compounds based on chains of oxocentered
+ tetrahedra. III. Crystal structure of georgbokiite, Cu5O2(SeO3)2Cl2
+;
+_database_code_amcsd 0011082
+_chemical_compound_source 'Tolbachik volcano, Kamchatka, Russia'
+_chemical_formula_sum 'Cu5 Se2 O8 Cl2'
+_cell_length_a 6.030
+_cell_length_b 13.744
+_cell_length_c 5.562
+_cell_angle_alpha 90
+_cell_angle_beta 95.75
+_cell_angle_gamma 90
+_cell_volume 458.639
+_exptl_crystal_density_diffrn      4.885
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.43040   0.18954   0.55520   0.01770
+Cu2   0.50000   0.00000   0.00000   0.01630
+Cu3   0.25930   0.99640   0.48680   0.01600
+Se   0.06200   0.13521   0.89990   0.01490
+O1   0.50300   0.06180   0.68050   0.01650
+O2   0.22340   0.05960   0.07670   0.01860
+O3   0.02700   0.07280   0.63300   0.01730
+O4   0.24690   0.22160   0.81630   0.01890
+Cl   0.67120   0.17500   0.26570   0.02090
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.02000 0.01710 0.01670 0.00200 0.00540 0.00160
+Cu2 0.01550 0.02060 0.01300 0.00300 0.00280 0.00250
+Cu3 0.01260 0.01910 0.01640 0.00050 0.00170 -0.00260
+Se 0.01340 0.01740 0.01430 0.00090 0.00240 0.00030
+O1 0.01500 0.02000 0.01500 -0.00200 0.00300 0.00000
+O2 0.01200 0.02600 0.01800 0.00200 0.00200 0.00300
+O3 0.01700 0.01700 0.01700 -0.00200 0.00100 -0.00300
+O4 0.02100 0.01900 0.01600 -0.00300 0.00400 0.00300
+Cl 0.02080 0.02390 0.01870 0.00270 0.00530 0.00250

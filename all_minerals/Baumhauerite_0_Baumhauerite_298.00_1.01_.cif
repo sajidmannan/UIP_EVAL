@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Baumhauerite'
+loop_
+_publ_author_name
+'Le Bihan M T'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 14 
+_journal_year 1961
+_journal_page_first 1210
+_journal_page_last 1211
+_publ_section_title
+;
+ Contribution a l'etude structurale des sulfures d'arsenic et de plomb.
+ Structure de la baumhauerite
+;
+_database_code_amcsd 0009265
+_chemical_compound_source 'Binnenthal, Switzerland'
+_chemical_formula_sum 'Pb5 As9 S18'
+_cell_length_a 22.78
+_cell_length_b 8.33
+_cell_length_c 7.90
+_cell_angle_alpha 90
+_cell_angle_beta 97.40
+_cell_angle_gamma 90
+_cell_volume 1486.598
+_exptl_crystal_density_diffrn      5.110
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1   0.23400   0.12500  -0.19200
+Pb2   0.23400   0.62500  -0.19200
+Pb3   0.34150   0.12500   0.34700
+Pb4   0.34150   0.62500   0.34700
+Pb5   0.08450   0.12500   0.09400
+As1   0.39200   0.37500  -0.07500
+As2   0.39200   0.87500  -0.07500
+As3   0.17800   0.37500   0.37000
+As4   0.17800   0.87500   0.37000
+As5   0.05050   0.37500  -0.37500
+As6   0.05050   0.87500  -0.37500
+As7   0.07500   0.62500   0.03000
+As8   0.49300   0.87500   0.29100
+As9   0.49300   0.37500   0.29100
+S1   0.31000   0.37500   0.07500
+S2   0.31000   0.87500   0.07500
+S3   0.00800   0.37500   0.21000
+S4   0.00800   0.87500   0.21000
+S5   0.21600   0.12500   0.22400
+S6   0.21600   0.62500   0.22400
+S7   0.36000   0.12500   0.76000
+S8   0.36000   0.62500   0.76000
+S9   0.26100   0.37500  -0.45500
+S10   0.26100   0.87500  -0.45500
+S11   0.10100   0.12500   0.51500
+S12   0.10100   0.62500   0.51500
+S13   0.12200   0.37500   0.88000
+S14   0.12200   0.87500   0.88000
+S15   0.44200   0.12500   0.15700
+S16   0.44200   0.62500   0.15700
+S17   0.43400   0.37500   0.50500
+S18   0.43400   0.87500   0.50500

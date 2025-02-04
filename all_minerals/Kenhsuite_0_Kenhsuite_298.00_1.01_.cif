@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Kenhsuite'
+loop_
+_publ_author_name
+'Durovic S'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 24 
+_journal_year 1968
+_journal_page_first 1661
+_journal_page_last 1670
+_publ_section_title
+;
+ The crystal structure of gamma-Hg3S2Cl2
+ Sample: one-layer structure used for interatomic functions
+;
+_database_code_amcsd 0009347
+_chemical_formula_sum 'Hg1.5 S Cl'
+_cell_length_a 4.664
+_cell_length_b 16.82
+_cell_length_c 9.081
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 712.391
+_exptl_crystal_density_diffrn      6.870
+_symmetry_space_group_name_H-M 'A m m 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  'x,y,-z'
+  'x,1/2+y,1/2-z'
+  'x,-y,z'
+  'x,1/2-y,1/2+z'
+  'x,-y,-z'
+  'x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Hg1   0.50000   0.12500   0.25000   0.50000
+Hg2   0.22180   0.15140   0.00000   1.00000
+Hg3   0.18970   0.00000   0.27380   1.00000
+S   0.24710   0.14230   0.25960   1.00000
+Cl1a   0.47080   0.00000   0.00000   1.00000
+Cl1b   0.47080   0.00000   0.50000   1.00000
+Cl2a   0.01620   0.00000   0.00000   1.00000
+Cl2b   0.01620   0.00000   0.50000   1.00000

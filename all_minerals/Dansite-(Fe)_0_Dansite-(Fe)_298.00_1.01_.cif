@@ -1,0 +1,118 @@
+data_global
+_chemical_name_mineral 'Dansite-(Fe)'
+loop_
+_publ_author_name
+'Demartin F'
+'Campostrini I'
+'Castellano C'
+'Gramaccioli C M'
+'Russo M'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 76 
+_journal_year 2012
+_journal_page_first 2773
+_journal_page_last 2783
+_publ_section_title
+;
+ D'ansite-(Mn), Na21Mn2+(SO4)10Cl3 and d'ansite-(Fe), Na21Fe2+(SO4)10Cl3,
+ two new minerals from volcanic fumaroles
+;
+_database_code_amcsd 0019748
+_chemical_compound_source 'La Fossa crater, Vulcano, Aeolian Islands, Italy'
+_chemical_formula_sum 'Na21.48 Fe.52 S10 O40 Cl3'
+_cell_length_a 15.882
+_cell_length_b 15.882
+_cell_length_c 15.882
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 4006.043
+_exptl_crystal_density_diffrn      2.636
+_symmetry_space_group_name_H-M 'I -4 3 d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/2-z,x,-y'
+  '-z,1/2+x,1/2-y'
+  '1/2-y,z,-x'
+  '-y,1/2+z,1/2-x'
+  '1/2-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  '1/4+x,3/4-z,1/4-y'
+  '3/4+x,1/4-z,3/4-y'
+  '1/4+z,3/4-y,1/4-x'
+  '3/4+z,1/4-y,3/4-x'
+  '1/4+y,3/4-x,1/4-z'
+  '3/4+y,1/4-x,3/4-z'
+  '1/4+x,1/4+z,1/4+y'
+  '3/4+x,3/4+z,3/4+y'
+  '1/4+z,1/4+y,1/4+x'
+  '3/4+z,3/4+y,3/4+x'
+  '1/4+y,1/4+x,1/4+z'
+  '3/4+y,3/4+x,3/4+z'
+  '-z,1/2-x,y'
+  '1/2-z,-x,1/2+y'
+  '-y,1/2-z,x'
+  '1/2-y,-z,1/2+x'
+  '-x,1/2-y,z'
+  '1/2-x,-y,1/2+z'
+  '1/2+z,1/2-x,-y'
+  '+z,-x,1/2-y'
+  '1/2+y,1/2-z,-x'
+  '+y,-z,1/2-x'
+  '1/2+x,1/2-y,-z'
+  '+x,-y,1/2-z'
+  '3/4-x,3/4+z,1/4-y'
+  '1/4-x,1/4+z,3/4-y'
+  '3/4-z,3/4+y,1/4-x'
+  '1/4-z,1/4+y,3/4-x'
+  '3/4-y,3/4+x,1/4-z'
+  '1/4-y,1/4+x,3/4-z'
+  '3/4-x,1/4-z,1/4+y'
+  '1/4-x,3/4-z,3/4+y'
+  '3/4-z,1/4-y,1/4+x'
+  '1/4-z,3/4-y,3/4+x'
+  '3/4-y,1/4-x,1/4+z'
+  '1/4-y,3/4-x,3/4+z'
+  'z,x,y'
+  '1/2+z,1/2+x,1/2+y'
+  'y,z,x'
+  '1/2+y,1/2+z,1/2+x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na1   0.88098   0.37440   0.84834   1.00000   0.02430
+Na2   0.00000   0.25000   0.04293   1.00000   0.06890
+Na3   0.08027   0.58027   0.91973   0.87000   0.04540
+Fe3   0.08027   0.58027   0.91973   0.13000   0.04540
+S1   0.01852   0.50000   0.75000   1.00000   0.01710
+S2   0.96103   0.46103   0.03897   1.00000   0.01640
+O1  -0.03390   0.42636   0.73325   1.00000   0.02740
+O2   0.07233   0.51656   0.67692   1.00000   0.03720
+O3   0.91376   0.47536  -0.03641   1.00000   0.05960
+O4   0.90884   0.40884   0.09116   1.00000   0.10020
+Cl   0.00000   0.25000   0.87500   1.00000   0.02080
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 0.02360 0.02390 0.02520 0.00140 0.00170 0.00240
+Na2 0.15200 0.03710 0.01800 -0.03200 0.00000 0.00000
+Na3 0.04540 0.04540 0.04540 0.00270 -0.00270 -0.00270
+Fe3 0.04540 0.04540 0.04540 0.00270 -0.00270 -0.00270
+S1 0.01020 0.02400 0.01720 0.00000 0.00000 0.00340
+S2 0.01640 0.01640 0.01640 0.00180 -0.00180 -0.00180
+O1 0.01940 0.03230 0.03050 -0.01010 0.00270 0.00050
+O2 0.03550 0.03120 0.04490 0.00760 0.02430 0.01320
+O3 0.08870 0.06420 0.02590 0.03650 -0.02570 -0.00940
+O4 0.10020 0.10020 0.10020 -0.03080 0.03080 0.03080
+Cl 0.02440 0.02440 0.01360 0.00000 0.00000 0.00000

@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Moydite-(Y)'
+loop_
+_publ_author_name
+'Grice J D'
+'Ercit T S'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 24 
+_journal_year 1986
+_journal_page_first 675
+_journal_page_last 678
+_publ_section_title
+;
+ The crystal structure of moydite
+;
+_database_code_amcsd 0005214
+_chemical_formula_sum '(Y.9 Sm.1) B C O7 H4'
+_cell_length_a 9.089
+_cell_length_b 12.244
+_cell_length_c 8.926
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 993.336
+_exptl_crystal_density_diffrn      3.128
+_symmetry_space_group_name_H-M 'P b c a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Y   0.01460   0.49910   0.22720   0.90000   0.00830
+Sm   0.01460   0.49910   0.22720   0.10000   0.00830
+B   0.00320   0.24900   0.24150   1.00000   0.01490
+C   0.26220   0.54540   0.02680   1.00000   0.01130
+O1  -0.27920   0.46880  -0.16920   1.00000   0.01320
+O2  -0.12670   0.45500   0.01640   1.00000   0.01660
+O3   0.36800   0.55650  -0.06170   1.00000   0.02020
+O-H4   0.10190   0.31720   0.15340   1.00000   0.01550
+O-H5  -0.09440   0.32560   0.32580   1.00000   0.01590
+O-H6   0.08790   0.17960   0.35050   1.00000   0.01760
+O-H7  -0.08440   0.17000   0.15380   1.00000   0.01650

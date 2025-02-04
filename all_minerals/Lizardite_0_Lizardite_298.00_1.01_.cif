@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Lizardite'
+loop_
+_publ_author_name
+'Mellini M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 67 
+_journal_year 1982
+_journal_page_first 587
+_journal_page_last 598
+_publ_section_title
+;
+ The crystal structure of lizardite 1T: hydrogen bonds and polytypism
+;
+_database_code_amcsd 0000867
+_chemical_formula_sum 'Si2 Mg3 O9 H4'
+_cell_length_a 5.332
+_cell_length_b 5.332
+_cell_length_c 7.233
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 178.086
+_exptl_crystal_density_diffrn      2.584
+_symmetry_space_group_name_H-M 'P 3 1 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x-y,-y,z'
+  '-y,x-y,z'
+  'y,x,z'
+  '-x+y,-x,z'
+  '-x,-x+y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Si   0.33333   0.66667   0.07660 ?
+Mg   0.33270   0.00000   0.45960 ?
+O1   0.33333   0.66667   0.30000 ?
+O2   0.50870   0.00000  -0.00360 ?
+O-h3   0.66540   0.00000   0.59350 ?
+O-h4   0.00000   0.00000   0.30880 ?
+H3   0.65500   0.00000   0.70900   0.02600
+H4   0.00000   0.00000   0.19900   0.00100
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si 0.00500 0.00500 0.01160 0.00000 0.00000 0.00250
+Mg 0.00320 0.00320 0.01220 0.00000 0.00070 0.00160
+O1 0.00960 0.00960 0.00680 0.00000 0.00000 0.00480
+O2 0.01300 0.01300 0.01360 0.00000 0.00480 0.00650
+O-h3 0.00950 0.00950 0.00910 0.00000 -0.00030 0.00480
+O-h4 0.00580 0.00580 0.01610 0.00000 0.00000 0.00290

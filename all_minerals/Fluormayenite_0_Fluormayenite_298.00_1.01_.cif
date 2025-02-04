@@ -1,0 +1,129 @@
+data_global
+_chemical_name_mineral 'Fluormayenite'
+loop_
+_publ_author_name
+'Galuskin E V'
+'Gfeller F'
+'Armbruster T'
+'Galuskina I O'
+'Vapnik Y'
+'Dulski M'
+'Murashko M'
+'Dzierzanowski P'
+'Sharygin V V'
+'Krivovichev S V'
+'Wirth R'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 27 
+_journal_year 2015
+_journal_page_first 123
+_journal_page_last 136
+_publ_section_title
+;
+ Mayenite supergroup, part III: fluormayenite, Ca12Al14O32[[]4F2], and
+ fluorkyuygenite, Ca12Al14O32[(H2O)4F2], two new minerals from pyrometamorphic
+ rocks of the Hatrurim Complex, South Levant
+;
+_database_code_amcsd 0020495
+_chemical_compound_source 'Jabel Harmun, Judean Mountains, Palestinian Autonomy, Israel'
+_chemical_formula_sum 'Ca5.981 Na.019 Al6.838 Fe.135 Mg.02 O16.593 F1.053 H1.053'
+_cell_length_a 11.9894
+_cell_length_b 11.9894
+_cell_length_c 11.9894
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1723.425
+_exptl_crystal_density_diffrn      2.772
+_symmetry_space_group_name_H-M 'I -4 3 d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/2-z,x,-y'
+  '-z,1/2+x,1/2-y'
+  '1/2-y,z,-x'
+  '-y,1/2+z,1/2-x'
+  '1/2-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  '1/4+x,3/4-z,1/4-y'
+  '3/4+x,1/4-z,3/4-y'
+  '1/4+z,3/4-y,1/4-x'
+  '3/4+z,1/4-y,3/4-x'
+  '1/4+y,3/4-x,1/4-z'
+  '3/4+y,1/4-x,3/4-z'
+  '1/4+x,1/4+z,1/4+y'
+  '3/4+x,3/4+z,3/4+y'
+  '1/4+z,1/4+y,1/4+x'
+  '3/4+z,3/4+y,3/4+x'
+  '1/4+y,1/4+x,1/4+z'
+  '3/4+y,3/4+x,3/4+z'
+  '-z,1/2-x,y'
+  '1/2-z,-x,1/2+y'
+  '-y,1/2-z,x'
+  '1/2-y,-z,1/2+x'
+  '-x,1/2-y,z'
+  '1/2-x,-y,1/2+z'
+  '1/2+z,1/2-x,-y'
+  '+z,-x,1/2-y'
+  '1/2+y,1/2-z,-x'
+  '+y,-z,1/2-x'
+  '1/2+x,1/2-y,-z'
+  '+x,-y,1/2-z'
+  '3/4-x,3/4+z,1/4-y'
+  '1/4-x,1/4+z,3/4-y'
+  '3/4-z,3/4+y,1/4-x'
+  '1/4-z,1/4+y,3/4-x'
+  '3/4-y,3/4+x,1/4-z'
+  '1/4-y,1/4+x,3/4-z'
+  '3/4-x,1/4-z,1/4+y'
+  '1/4-x,3/4-z,3/4+y'
+  '3/4-z,1/4-y,1/4+x'
+  '1/4-z,3/4-y,3/4+x'
+  '3/4-y,1/4-x,1/4+z'
+  '1/4-y,3/4-x,3/4+z'
+  'z,x,y'
+  '1/2+z,1/2+x,1/2+y'
+  'y,z,x'
+  '1/2+y,1/2+z,1/2+x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.13974   0.00000   0.25000   0.75590   0.01153
+Na1   0.13974   0.00000   0.25000   0.00310   0.01153
+Ca1a   0.18350   0.00000   0.25000   0.24100   0.01153
+Al1   0.26832   0.26832   0.26832   0.95940   0.00754
+Fe1   0.26832   0.26832   0.26832   0.03380   0.00754
+Mg1   0.26832   0.26832   0.26832   0.00500   0.00754
+Al2   0.12500   0.50000   0.25000   1.00000   0.00790
+O1   0.30716   0.21386   0.40079   1.00000   0.01500
+O2   0.18567   0.18567   0.18567   0.88500   0.01140
+O-H2a   0.12100   0.21800   0.29600   0.05750   0.10200
+F2a   0.12100   0.21800   0.29600   0.05750   0.10200
+O-HW   0.37500   0.00000   0.25000   0.12090   0.02000
+FW   0.37500   0.00000   0.25000   0.12090   0.02000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.01380 0.01200 0.00880 0.00000 0.00000 0.00028
+Na1 0.01380 0.01200 0.00880 0.00000 0.00000 0.00028
+Ca1a 0.01380 0.01200 0.00880 0.00000 0.00000 0.00028
+Al1 0.00754 0.00754 0.00754 0.00119 0.00119 0.00119
+Fe1 0.00754 0.00754 0.00754 0.00119 0.00119 0.00119
+Mg1 0.00754 0.00754 0.00754 0.00119 0.00119 0.00119
+Al2 0.00710 0.00830 0.00830 0.00000 0.00000 0.00000
+O1 0.01150 0.01730 0.01630 -0.00440 -0.00340 0.00820
+O2 0.01140 0.01140 0.01140 -0.00200 -0.00200 -0.00200
+O-H2a 0.01140 0.01140 0.01140 -0.00200 -0.00200 -0.00200
+F2a 0.00300 0.02800 0.02800 0.00000 0.00000 0.00000
+O-HW 0.00300 0.02800 0.02800 0.00000 0.00000 0.00000
+FW 0.00300 0.02800 0.02800 0.00000 0.00000 0.00000

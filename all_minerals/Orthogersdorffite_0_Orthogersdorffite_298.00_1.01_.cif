@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Orthogersdorffite'
+loop_
+_publ_author_name
+'Bayliss P'
+_journal_name_full 'American Mineralogist'
+_journal_volume 67 
+_journal_year 1982
+_journal_page_first 1058
+_journal_page_last 1064
+_publ_section_title
+;
+ A further crystal structure refinement of gersdorffite
+ Sample: M15861
+;
+_database_code_amcsd 0000884
+_chemical_compound_source 'Garson mine, Sudbury, Ontario, Canada'
+_chemical_formula_sum '(Fe.19 Co.27 Ni.54) (As1.04 S.96)'
+_cell_length_a 5.622
+_cell_length_b 5.622
+_cell_length_c 5.622
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 177.694
+_exptl_crystal_density_diffrn      6.239
+_symmetry_space_group_name_H-M 'P c a 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,-y,z'
+  '1/2-x,y,1/2+z'
+  '-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe   0.00000   0.25000   0.00000   0.19000
+Co   0.00000   0.25000   0.00000   0.27000
+Ni   0.00000   0.25000   0.00000   0.54000
+As1   0.37500   0.62500   0.37500   0.52000
+S1   0.37500   0.62500   0.37500   0.48000
+As2   0.62500   0.87500   0.62500   0.52000
+S2   0.62500   0.87500   0.62500   0.48000

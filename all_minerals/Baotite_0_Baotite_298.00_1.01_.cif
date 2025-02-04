@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Baotite'
+loop_
+_publ_author_name
+'Nekrasov Yu V'
+'Ponomarev V I'
+'Simonov V I'
+'Kheiker D M'
+_journal_name_full 'Soviet Physics Crystallography'
+_journal_volume 14 
+_journal_year 1969
+_journal_page_first 508
+_journal_page_last 514
+_publ_section_title
+;
+ Refinement of the atomic structure of baotite
+ and the isomorphic relationships in this mineral
+;
+_database_code_amcsd 0015552
+_chemical_formula_sum 'Ba4 Ti5.92 Nb1.44 Fe.64 Si4 O28 Cl'
+_cell_length_a 19.99
+_cell_length_b 19.99
+_cell_length_c 5.908
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2360.837
+_exptl_crystal_density_diffrn      4.496
+_symmetry_space_group_name_H-M 'I 41/a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '3/4+y,1/4-x,1/4-z'
+  '1/4+y,3/4-x,3/4-z'
+  '3/4-y,1/4+x,1/4+z'
+  '1/4-y,3/4+x,3/4+z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '3/4-y,3/4+x,3/4-z'
+  '1/4-y,1/4+x,1/4-z'
+  '3/4+y,3/4-x,3/4+z'
+  '1/4+y,1/4-x,1/4+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ba   0.02947   0.09737   0.62138   1.00000   0.00532
+Ti1   0.21264   0.10787   0.86990   1.00000   0.00431
+Ti2   0.22174   0.11789   0.37280   0.48000   0.00494
+Nb2   0.22174   0.11789   0.37280   0.36000   0.00494
+Fe2   0.22174   0.11789   0.37280   0.16000   0.00494
+Si   0.09288   0.18533   0.12440   1.00000   0.00355
+O1   0.01680   0.15680   0.13500   1.00000   0.00760
+O2   0.12650   0.15930   0.89330   1.00000   0.00507
+O3   0.12840   0.16170   0.35870   1.00000   0.00608
+O4   0.18460   0.05300   0.13040   1.00000   0.00671
+O5   0.18120   0.05470   0.62140   1.00000   0.00747
+O6   0.24680   0.16840   0.12060   1.00000   0.00697
+O7   0.24150   0.17030   0.63050   1.00000   0.00633
+Cl   0.00000   0.25000   0.62500   1.00000   0.00849

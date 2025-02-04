@@ -1,0 +1,111 @@
+data_global
+_chemical_name_mineral 'Cafarsite'
+loop_
+_publ_author_name
+'Gatta G D'
+'Rotiroti N'
+'Camara F'
+'Meven M'
+_journal_name_full 'Physics and Chemistry of Minerals'
+_journal_volume 45 
+_journal_year 2018
+_journal_page_first 819
+_journal_page_last 829
+_publ_section_title
+;
+ On the labyrinthine world of arsenites: a single-crystal neutron and
+ X-ray diffraction study of cafarsite
+ Note: xray final
+ province, Italy
+;
+_database_code_amcsd 0020738
+_chemical_compound_source 'Mount Leone-Arbola nappe, Alpe Devero area, Verbano-Cusio-Ossola'
+_chemical_formula_sum 'As28 Ca16 Ti6 Fe7.536 Mn2 O84 F.941'
+_cell_length_a 15.9507
+_cell_length_b 15.9507
+_cell_length_c 15.9507
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 4058.254
+_exptl_crystal_density_diffrn      4.025
+_symmetry_space_group_name_H-M 'P n -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+z,1/2+x,-y'
+  '1/2+z,-x,1/2+y'
+  '-z,1/2+x,1/2+y'
+  '-z,-x,-y'
+  'y,1/2-z,1/2-x'
+  '1/2-y,1/2-z,x'
+  '1/2-y,z,1/2-x'
+  'y,z,x'
+  '1/2+x,-y,1/2+z'
+  '-x,1/2+y,1/2+z'
+  '1/2+x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-z,1/2-x,y'
+  '1/2-z,x,1/2-y'
+  'z,1/2-x,1/2-y'
+  'z,x,y'
+  '-y,1/2+z,1/2+x'
+  '1/2+y,1/2+z,-x'
+  '1/2+y,-z,1/2+x'
+  '-y,-z,-x'
+  '1/2-x,y,1/2-z'
+  'x,1/2-y,1/2-z'
+  '1/2-x,1/2-y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+As1   0.37638   0.37638   0.37638   1.00000   0.00541
+As2   0.22921   0.97783   0.03845   1.00000   0.00445
+As3   0.39276   0.64083   0.35164   1.00000   0.00808
+Ca1a   0.15270   0.15270   0.15270   0.14300   0.00200
+Ca1b   0.16339   0.16339   0.16339   0.85700   0.00200
+Ca2   0.09341   0.62515   0.35629   1.01200   0.00640
+Ti1a   0.95176   0.75000   0.25000   0.64200   0.00370
+Ti1b   0.95176   0.75000   0.25000   0.35800   0.00370
+Fe1   0.25000   0.75000   0.75000   0.86800   0.03300
+Fe2  -0.00609   0.25000   0.25000   0.82200   0.00229
+Mn1a   0.00000   0.00000   0.00000   0.41300   0.00516
+Mn1b   0.00000   0.00000   0.00000   0.58700   0.00516
+O1  -0.00547   0.98129   0.13702   1.00000   0.00750
+O2   0.30976   0.00360   0.35984   1.00000   0.00800
+O3   0.28784   0.63300   0.04765   1.00000   0.00820
+O4   0.16380   0.73782   0.14561   1.00000   0.00940
+O5   0.17405   0.59476   0.22248   1.06700   0.04320
+O6   0.03245   0.66390   0.22564   1.00000   0.00840
+O7   0.17329   0.41767   0.21345   1.02700   0.02080
+F   0.75000   0.75000   0.75000   0.94100   0.00960
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 0.00541 0.00541 0.00541 0.00145 0.00145 0.00145
+As2 0.00514 0.00409 0.00412 -0.00095 -0.00038 0.00027
+As3 0.01166 0.00575 0.00682 -0.00045 0.00410 0.00077
+Ca2 0.00600 0.00690 0.00630 -0.00210 -0.00076 0.00032
+Ti1a 0.00290 0.00470 0.00350 0.00000 0.00000 0.00121
+Ti1b 0.00290 0.00470 0.00350 0.00000 0.00000 0.00121
+Fe1 0.08680 0.00300 0.00920 0.00000 0.00000 0.00000
+Fe2 0.00120 0.00270 0.00300 0.00000 0.00000 -0.00150
+Mn1a 0.00520 0.00520 0.00520 0.00143 0.00143 0.00143
+Mn1b 0.00520 0.00520 0.00520 0.00143 0.00143 0.00143
+O1 0.00910 0.00550 0.00800 0.00330 0.00000 -0.00240
+O2 0.01130 0.00960 0.00320 -0.00170 -0.00130 0.00180
+O3 0.01060 0.00320 0.01090 0.00110 -0.00190 -0.00090
+O4 0.00850 0.00750 0.01230 0.00000 0.00460 0.00150
+O5 0.03610 0.05430 0.03930 0.03530 0.02110 0.03430
+O6 0.00740 0.00950 0.00830 0.00270 0.00290 0.00090
+O7 0.02540 0.02790 0.00910 -0.01770 0.00110 -0.00770
+F 0.00960 0.00960 0.00960 0.00000 0.00000 0.00000

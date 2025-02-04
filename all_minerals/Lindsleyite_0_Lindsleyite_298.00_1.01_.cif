@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Lindsleyite'
+loop_
+_publ_author_name
+'Peterson R C'
+'Grey I E'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 33 
+_journal_year 1995
+_journal_page_first 1083
+_journal_page_last 1089
+_publ_section_title
+;
+ Preparation and structure refinement of synthetic Ti-containing
+ lindsleyite, BaMn3Ti18O38
+;
+_database_code_amcsd 0005464
+_chemical_formula_sum 'Ba Mn3 Ti18 O38'
+_cell_length_a 10.4369
+_cell_length_b 10.4369
+_cell_length_c 20.8871
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1970.388
+_exptl_crystal_density_diffrn      4.480
+_symmetry_space_group_name_H-M 'R -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+BaA   0.00000   0.00000   0.00000   0.00747
+MnT   0.00000   0.00000   0.31030   0.00608
+MnM1   0.00000   0.00000   0.50000   0.01051
+TiM2   0.18600   0.14340   0.16500   0.00494
+TiM3   0.91730   0.24020   0.39260   0.00621
+TiM4   0.07140   0.75890   0.39890   0.00532
+O1   0.87400   0.06500   0.43550   0.00760
+O2   0.70600   0.50500   0.44320   0.00507
+O3   0.36500   0.26000   0.55890 ?
+O4   0.60000   0.56300   0.55110   0.01393
+O5   0.05400   0.20700   0.33730   0.01013
+O6   0.35800   0.26200   0.34130   0.00253
+O7   0.00000   0.00000   0.21310   0.00507

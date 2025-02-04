@@ -1,0 +1,84 @@
+data_global
+_chemical_name_mineral 'Munakataite'
+loop_
+_publ_author_name
+'Kampf A R'
+'Mills S J'
+'Housley R M'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 74 
+_journal_year 2010
+_journal_page_first 991
+_journal_page_last 998
+_publ_section_title
+;
+ The crystal structure of munakataite, Pb2Cu2(Se4+O3)(SO4)(OH)4,
+ from Otto Mountain, San Bernardino County, California, USA
+;
+_database_code_amcsd 0018306
+_chemical_compound_source 'Otto Mountain, San Bernardino County, California, USA'
+_chemical_formula_sum 'Pb1.934 Cu1.894 Se.85 S1.15 O11 H8'
+_cell_length_a 9.802
+_cell_length_b 5.675
+_cell_length_c 9.281
+_cell_angle_alpha 90
+_cell_angle_beta 102.443
+_cell_angle_gamma 90
+_cell_volume 504.141
+_exptl_crystal_density_diffrn      5.330
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb1   0.31694   0.25000   0.41854   0.97600   0.02190
+Pb2   0.33579   0.25000   0.97549   0.95800   0.03290
+Cu   0.98860  -0.00020   0.24421   0.94700   0.01480
+Se   0.35970   0.75000   0.22150   0.85000   0.01740
+S   0.35970   0.75000   0.22150   0.15000   0.01740
+S   0.33490   0.75000   0.68830   1.00000   0.01720
+O11   0.37600   0.75000   0.04760   1.00000   0.04500
+O12   0.25140   0.51480   0.21520   1.00000   0.02300
+O21   0.48280   0.75000   0.75140   1.00000   0.02800
+O22   0.31540   0.75000   0.52480   1.00000   0.03500
+O23   0.26900   0.96300   0.73260   1.00000   0.03100
+O-H1   0.02600   0.75000   0.38830   1.00000   0.01800
+H1   0.11900   0.75000   0.40000   1.00000   0.05000
+O-H2   0.07750   0.25000   0.37800   1.00000   0.01600
+H2   0.06000   0.25000   0.47000   1.00000   0.05000
+O-H3   0.05290   0.75000   0.89750   1.00000   0.01900
+H3   0.14100   0.75000   0.95000   1.00000   0.05000
+O-H4   0.08810   0.25000   0.89240   1.00000   0.01900
+H4   0.07000   0.25000   0.98400   1.00000   0.05000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.02080 0.01980 0.02320 0.00000 0.00080 0.00000
+Pb2 0.01950 0.03310 0.04360 0.00000 0.00100 0.00000
+Cu 0.02210 0.00790 0.01370 -0.00110 0.00240 0.00010
+Se 0.01900 0.01460 0.01910 0.00000 0.00540 0.00000
+S 0.01900 0.01460 0.01910 0.00000 0.00540 0.00000
+S 0.01600 0.01000 0.02600 0.00000 0.00600 0.00000
+O11 0.06400 0.04900 0.02600 0.00000 0.02000 0.00000
+O12 0.01900 0.02100 0.02700 -0.00200 0.00300 0.00300
+O21 0.01900 0.03900 0.02700 0.00000 0.00900 0.00000
+O22 0.04100 0.06200 0.00000 0.00000 0.00100 0.00000
+O23 0.03600 0.02600 0.03100 0.00800 0.00600 0.00600
+O-H1 0.01700 0.01400 0.01900 0.00000 -0.00400 0.00000
+O-H2 0.02300 0.01600 0.00800 0.00000 0.00000 0.00000
+O-H3 0.00700 0.02100 0.02300 0.00000 -0.00900 0.00000
+O-H4 0.02900 0.02400 0.00200 0.00000 -0.00400 0.00000

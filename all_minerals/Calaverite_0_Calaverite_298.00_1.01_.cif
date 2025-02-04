@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Calaverite'
+loop_
+_publ_author_name
+'Schutte W J'
+'de Boer J L'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 44 
+_journal_year 1988
+_journal_page_first 486
+_journal_page_last 494
+_publ_section_title
+;
+ Valence fluctuations in the incommensurately modulated structure of calaverite AuTe2
+ Sample: T = 298 K
+;
+_database_code_amcsd 0009826
+_chemical_compound_source 'Cripple Creek, Colorado'
+_chemical_formula_sum '(Au.9 Ag.1) Te2'
+_cell_length_a 7.1947
+_cell_length_b 4.4146
+_cell_length_c 5.0703
+_cell_angle_alpha 90
+_cell_angle_beta 90.038
+_cell_angle_gamma 90
+_cell_volume 161.041
+_exptl_crystal_density_diffrn      9.141
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Au   0.00000   0.00000   0.00000   0.90000
+Ag   0.00000   0.00000   0.00000   0.10000
+Te   0.68940   0.00000   0.28880   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Au 0.01023 0.01550 0.01263 0.00000 0.00222 0.00000
+Ag 0.01023 0.01550 0.01263 0.00000 0.00222 0.00000
+Te 0.01154 0.11255 0.01211 0.00000 0.00203 0.00000

@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Tornebohmite-(Ce)'
+loop_
+_publ_author_name
+'Shen J'
+'Moore P B'
+_journal_name_full 'American Mineralogist'
+_journal_volume 67 
+_journal_year 1982
+_journal_page_first 1021
+_journal_page_last 1028
+_publ_section_title
+;
+ Tornebohmite, RE2Al(OH)[SiO4]2: Crystal structure and genealogy of
+ RE(III)Si(IV) <---> Ca(II)P(V) isomorphisms
+;
+_database_code_amcsd 0000881
+_chemical_formula_sum 'Ce2 Si2 Al O9 H'
+_cell_length_a 7.383
+_cell_length_b 5.673
+_cell_length_c 16.937
+_cell_angle_alpha 90
+_cell_angle_beta 112.04
+_cell_angle_gamma 90
+_cell_volume 657.545
+_exptl_crystal_density_diffrn      5.135
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ce1   0.81254   0.73320   0.45628
+Ce2   0.21935   0.78459   0.36951
+Si1   0.52860   0.25070   0.41870
+Si2   0.93120   0.23890   0.33810
+Al   0.49290   0.50080   0.25030
+O1   0.38220   0.21330   0.46650
+O2   0.74880   0.28510   0.48450
+O3   0.50830   0.01200   0.36140
+O4   0.47910  -0.50970   0.36000
+O5   0.04060   0.17330   0.27390
+O6   0.69390   0.25610   0.27650
+O7   0.99880   0.47640   0.39430
+O8   0.98110   0.02340   0.40570
+O-H   0.32390   0.24500   0.21440
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ce1 0.01050 0.00590 0.00730 0.00000 0.00580 0.00010
+Ce2 0.01280 0.00900 0.01150 0.00010 0.00880 -0.00020
+Si1 0.00970 0.00400 0.00580 0.00100 0.00380 0.00090
+Si2 0.00870 0.00480 0.00550 0.00110 0.00320 -0.00020
+Al 0.00770 0.00180 0.00370 0.00030 0.00290 -0.00020
+O1 0.03450 0.01990 0.02770 0.00960 0.02810 0.00970
+O2 0.01500 0.01220 0.01120 -0.00340 0.00080 0.00080
+O3 0.01310 0.00650 0.00720 0.00030 0.00460 -0.00080
+O4 0.01460 0.00600 0.00680 0.00080 0.00490 0.00080
+O5 0.01330 0.01410 0.01020 0.00010 0.00710 -0.00330
+O6 0.01040 0.00660 0.00780 -0.00090 0.00420 0.00130
+O7 0.01370 0.00460 0.00950 -0.00070 0.00420 -0.00130
+O8 0.01090 0.00770 0.00840 -0.00080 0.00170 0.00160
+O-H 0.00880 0.00610 0.00780 0.00120 0.00370 0.00010

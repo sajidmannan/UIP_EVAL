@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Sillenite'
+loop_
+_publ_author_name
+'Radaev S F'
+'Muradyan L A'
+'Simonov V I'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 47 
+_journal_year 1991
+_journal_page_first 1
+_journal_page_last 6
+_publ_section_title
+;
+ Atomic structure and crystal chemistry of sillenites:
+ Bi12(Bi3+0.50Fe3+0.50)O19.50 and Bi12(Bi3+0.50Fe3+0.50)O19.33
+ Note: anisoB's from ICSD
+;
+_database_code_amcsd 0009844
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Bi12.5 Fe.5 O19.48'
+_cell_length_a 10.184
+_cell_length_b 10.184
+_cell_length_c 10.184
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1056.222
+_exptl_crystal_density_diffrn      9.281
+_symmetry_space_group_name_H-M 'I 2 3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-z,-x,y'
+  '1/2-z,1/2-x,1/2+y'
+  '-z,x,-y'
+  '1/2-z,1/2+x,1/2-y'
+  'z,-x,-y'
+  '1/2+z,1/2-x,1/2-y'
+  'z,x,y'
+  '1/2+z,1/2+x,1/2+y'
+  'y,-z,-x'
+  '1/2+y,1/2-z,1/2-x'
+  '-y,-z,x'
+  '1/2-y,1/2-z,1/2+x'
+  '-y,z,-x'
+  '1/2-y,1/2+z,1/2-x'
+  'y,z,x'
+  '1/2+y,1/2+z,1/2+x'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Bi   0.17631   0.31786   0.01395   1.00000   0.01431
+FeM   0.00000   0.00000   0.00000   0.50000   0.00811
+BiM  -0.01800  -0.01800  -0.01800   0.12500   0.01583
+O1   0.13495   0.25148   0.48589   1.00000   0.01406
+O2   0.18995   0.18995   0.18995   1.00000   0.01355
+O3   0.89288   0.89288   0.89288   0.87000   0.01760
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi 0.00925 0.02107 0.01277 0.00373 -0.00042 0.00326
+O1 0.01145 0.01655 0.01398 -0.00315 -0.00310 0.00299
+O2 0.01361 0.01361 0.01361 0.00515 0.00515 0.00515
+O3 0.01361 0.01361 0.01361 0.00515 0.00515 0.00515

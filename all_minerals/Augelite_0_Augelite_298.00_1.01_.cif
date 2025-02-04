@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Augelite'
+loop_
+_publ_author_name
+'Araki T'
+'Finney J J'
+'Zoltai T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 53 
+_journal_year 1968
+_journal_page_first 1096
+_journal_page_last 1103
+_publ_section_title
+;
+ The crystal structure of augelite
+;
+_database_code_amcsd 0000177
+_chemical_formula_sum 'Al2 P O7 H3'
+_cell_length_a 13.124
+_cell_length_b 7.988
+_cell_length_c 5.066
+_cell_angle_alpha 90
+_cell_angle_beta 112.25
+_cell_angle_gamma 90
+_cell_volume 491.547
+_exptl_crystal_density_diffrn      2.702
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al1   0.00000   0.19890   0.00000
+Al2   0.18890   0.00000   0.97920
+P   0.35280   0.00000   0.62780
+O1   0.25760   0.00000   0.73220
+O2   0.30380   0.00000   0.30030
+O3   0.42150   0.15630   0.71700
+O-H1   0.08530   0.00000   0.19800
+O-H2   0.10710   0.18130   0.84310
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 0.00710 0.00440 0.00639 0.00000 0.00415 0.00000
+Al2 0.00553 0.00601 0.00265 0.00000 0.00185 0.00000
+P 0.00419 0.00407 0.00120 0.00000 0.00118 0.00000
+O1 0.01024 0.01500 0.00698 0.00000 0.00499 0.00000
+O2 0.00942 0.03320 0.00297 0.00000 0.00225 0.00000
+O3 0.02093 0.01516 0.02288 -0.01131 0.01472 -0.01233
+O-H1 0.00942 0.00918 0.00409 0.00000 0.00164 0.00000
+O-H2 0.01218 0.00882 0.01203 0.00251 0.00767 0.00275

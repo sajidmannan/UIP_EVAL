@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Patronite'
+loop_
+_publ_author_name
+'Allmann R'
+'Baumann I'
+'Kutoglu A'
+'Rosch H'
+'Hellner E'
+_journal_name_full 'Naturwissenschaften'
+_journal_volume 51 
+_journal_year 1964
+_journal_page_first 263
+_journal_page_last 264
+_publ_section_title
+;
+ Die kristallstruktur des patronits V(S2)2
+ Note: typo fixed S2(y)
+;
+_database_code_amcsd 0014691
+_chemical_compound_source 'Minasraga, Peru'
+_chemical_formula_sum 'V S4'
+_cell_length_a 6.78
+_cell_length_b 10.42
+_cell_length_c 12.11
+_cell_angle_alpha 90
+_cell_angle_beta 100.8
+_cell_angle_gamma 90
+_cell_volume 840.388
+_exptl_crystal_density_diffrn      2.833
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+V   0.00000   0.00100   0.11700   0.00887
+S1   0.76300   0.09800   0.21800   0.01267
+S2   0.76300  -0.09600   0.23400   0.01393
+S3   0.27800   0.05000   0.02800   0.01267
+S4   0.05300   0.18300   0.00400   0.01267

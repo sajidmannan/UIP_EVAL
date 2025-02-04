@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Metahewettite'
+loop_
+_publ_author_name
+'Bachmann H G'
+'Barnes W H'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 7 
+_journal_year 1962
+_journal_page_first 219
+_journal_page_last 235
+_publ_section_title
+;
+ The crystal structure of a sodium-calcium variety of metahewettite
+ Sample: anhydrous
+;
+_database_code_amcsd 0005078
+_chemical_compound_source 'Paradox Valley, Montrose County, Coldrado,USA'
+_chemical_formula_sum 'V3 Na O8'
+_cell_length_a 12.28
+_cell_length_b 3.60
+_cell_length_c 8.00
+_cell_angle_alpha 90
+_cell_angle_beta 96.25
+_cell_angle_gamma 90
+_cell_volume 351.562
+_exptl_crystal_density_diffrn      2.870
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+V1   0.07200   0.25000   0.16900   0.03800
+V2   0.83000   0.25000   0.13000   0.03800
+V3   0.52300   0.25000   0.83000   0.03800
+Na   0.31000   0.25000   0.43200   0.03800
+O1   0.91700   0.25000   0.90200   0.03800
+O2   0.16500   0.25000   0.93800   0.03800
+O3   0.47100   0.25000   0.09400   0.03800
+O4   0.95700   0.25000   0.26500   0.03800
+O5   0.21000   0.25000   0.19100   0.03800
+O6   0.70500   0.25000   0.15200   0.03800
+O7   0.65900   0.25000   0.78900   0.03800
+O8   0.39600   0.25000   0.79300   0.03800

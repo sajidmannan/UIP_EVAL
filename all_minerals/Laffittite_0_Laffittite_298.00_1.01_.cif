@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Laffittite'
+loop_
+_publ_author_name
+'Nakai I'
+'Appleman D E'
+_journal_name_full 'American Mineralogist'
+_journal_volume 68 
+_journal_year 1983
+_journal_page_first 235
+_journal_page_last 244
+_publ_section_title
+;
+ Laffittite, AgHgAsS3: crystal structure and second occurrence from the
+ Getchell mine, Nevada
+;
+_database_code_amcsd 0000889
+_chemical_formula_sum 'Ag Hg As S3'
+_cell_length_a 7.732
+_cell_length_b 11.285
+_cell_length_c 6.643
+_cell_angle_alpha 90
+_cell_angle_beta 115.16
+_cell_angle_gamma 90
+_cell_volume 524.645
+_exptl_crystal_density_diffrn      6.072
+_symmetry_space_group_name_H-M 'A m a 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ag   0.25000   0.02210   0.00000
+Hg   0.78910   0.31660   0.02490
+As   0.28740   0.35230   0.01950
+S1   0.42140   0.00890   0.43180
+S2   0.98280   0.28410   0.46970
+S3   0.43690   0.37220   0.39470
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ag 0.02910 0.03900 0.03260 0.00920 0.01520 -0.00470
+Hg 0.03030 0.02800 0.02920 -0.00460 0.01650 0.00520
+As 0.01370 0.01750 0.01620 -0.00450 0.00790 -0.01390
+S1 0.01970 0.01680 0.01710 0.00060 0.01280 0.00000
+S2 0.01780 0.01850 0.01160 -0.00110 0.00730 -0.00010
+S3 0.02140 0.02350 0.01090 -0.00300 0.00930 0.00240

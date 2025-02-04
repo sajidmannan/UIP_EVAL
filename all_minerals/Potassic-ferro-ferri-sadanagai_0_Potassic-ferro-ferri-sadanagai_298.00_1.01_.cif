@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Potassic-ferro-ferri-sadanagaite'
+loop_
+_publ_author_name
+'Sokolova E V'
+'Hawthorne F C'
+'Kabalov Y K'
+'Schneider J'
+'McCammon C A'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 38 
+_journal_year 2000
+_journal_page_first 669
+_journal_page_last 674
+_publ_section_title
+;
+ The crystal chemistry of potassic-ferrisadanagaite
+;
+_database_code_amcsd 0005653
+_chemical_compound_source 'contact zone of the Ilmen alkaline massif, Ilmen Mountains, southern Urals, Russia'
+_chemical_formula_sum 'K.66 Na.55 Ca1.73 Mn.25 Fe3.22 Ti.19 Mg.6 Al2.14 Si6.64 O24'
+_cell_length_a 9.9309
+_cell_length_b 18.0949
+_cell_length_c 5.3681
+_cell_angle_alpha 90
+_cell_angle_beta 105.19
+_cell_angle_gamma 90
+_cell_volume 930.938
+_exptl_crystal_density_diffrn      3.401
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+KA   0.00000   0.50000   0.00000   0.66000   0.06966
+NaA   0.00000   0.50000   0.00000   0.32000   0.06966
+Ca4   0.00000   0.28300   0.50000   0.86500   0.00127
+Mn4   0.00000   0.28300   0.50000   0.02000   0.00127
+Na4   0.00000   0.28300   0.50000   0.11500   0.00127
+Fe1   0.00000   0.09100   0.50000   0.65000   0.00127
+Ti1   0.00000   0.09100   0.50000   0.09500   0.00127
+Fe2   0.00000   0.18000   0.00000   0.61000   0.00253
+Mg1   0.00000   0.09100   0.50000   0.25500   0.00127
+Al2   0.00000   0.18000   0.00000   0.39000   0.00253
+Fe3   0.00000   0.00000   0.00000   0.70000   0.00253
+Mn3   0.00000   0.00000   0.00000   0.21000   0.00253
+Mg3   0.00000   0.00000   0.00000   0.09000   0.00253
+Si1   0.28130   0.08700   0.31170   0.73000   0.01013
+Al1   0.28130   0.08700   0.31170   0.27000   0.01013
+Si2   0.28970   0.17400   0.81440   0.93000   0.00887
+Al2   0.28970   0.17400   0.81440   0.07000   0.00887
+O1   0.10350   0.09300   0.21080   1.00000   0.00253
+O2   0.11840   0.17600   0.73800   1.00000   0.00887
+O3   0.10340   0.00000   0.70380   1.00000   0.01140
+O4   0.37080   0.25000   0.79390   1.00000   0.00127
+O5   0.35000   0.14000   0.11610   1.00000   0.01393
+O6   0.34140   0.11800   0.61090   1.00000   0.00507
+O7   0.34040   0.00000   0.29400   1.00000   0.00760

@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Herderite'
+loop_
+_publ_author_name
+'Harlow G E'
+'Hawthorne F C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 93 
+_journal_year 2008
+_journal_page_first 1545
+_journal_page_last 1549
+_publ_section_title
+;
+ Herderite from Mogok, Myanmar, and comparison with hydroxyl-herderite from
+ Ehrenfriedersdorf, Germany
+ Note: 108370
+;
+_database_code_amcsd 0004659
+_chemical_compound_source 'Mogok Stone Tract, Myanmar'
+_chemical_formula_sum 'Ca Be P O4.224 (F.776 H.224)'
+_cell_length_a 9.7446
+_cell_length_b 7.6769
+_cell_length_c 4.7633
+_cell_angle_alpha 90
+_cell_angle_beta 90.667
+_cell_angle_gamma 90
+_cell_volume 356.310
+_exptl_crystal_density_diffrn      3.031
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca   0.33014   0.11216   0.99591   1.00000   0.00986
+Be   0.33895   0.41410   0.53970   1.00000   0.00910
+P   0.08160   0.27075   0.47351   1.00000   0.00687
+O1   0.04005   0.39814   0.24585   1.00000   0.00978
+O2   0.45729   0.28281   0.65111   1.00000   0.00954
+O3   0.19339   0.34517   0.67592   1.00000   0.00944
+O4   0.14551   0.10755   0.33633   1.00000   0.01034
+FO5   0.32911   0.40918   0.21090   0.77600   0.01220
+O-HO5   0.32911   0.40918   0.21090   0.22400   0.01220
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00938 0.01037 0.00985 -0.00046 0.00069 -0.00072
+Be 0.00870 0.00950 0.00900 0.00060 0.00030 0.00040
+P 0.00602 0.00686 0.00773 -0.00013 0.00021 -0.00007
+O1 0.00980 0.00900 0.01050 0.00040 -0.00090 0.00220
+O2 0.00740 0.01060 0.01070 0.00220 0.00210 0.00130
+O3 0.00660 0.01240 0.00930 -0.00230 -0.00050 -0.00070
+O4 0.01190 0.00730 0.01190 0.00130 0.00320 -0.00030
+FO5 0.01260 0.01510 0.00900 0.00120 -0.00120 -0.00040
+O-HO5 0.01260 0.01510 0.00900 0.00120 -0.00120 -0.00040

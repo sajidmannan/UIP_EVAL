@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Gallobeudantite'
+loop_
+_publ_author_name
+'Jambor J L'
+'Owens D R'
+'Grice J D'
+'Feinglos M N'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 34 
+_journal_year 1996
+_journal_page_first 1305
+_journal_page_last 1315
+_publ_section_title
+;
+ Gallobeudantite, PbGa3[(AsO4),(SO4)]2(OH)6, a new mineral species from Tsumeb,
+ Namibia, and associated new gallium analogues of the alunite - jarosite family
+;
+_database_code_amcsd 0005521
+_chemical_compound_source 'Tsumeb, Namibia'
+_chemical_formula_sum 'Pb6 Ga3 As S O17 H9'
+_cell_length_a 7.225
+_cell_length_b 7.225
+_cell_length_c 17.03
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 769.876
+_exptl_crystal_density_diffrn     11.909
+_symmetry_space_group_name_H-M 'R 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb   0.02000  -0.01400   0.00000   0.04020
+Ga   0.99780   0.49890   0.49910   0.01540
+As   0.00000   0.00000   0.68250   0.00840
+S   0.00000   0.00000   0.30110   0.02060
+O1   0.00000   0.00000   0.57900   0.02000
+O2   0.00000   0.00000   0.39400   0.02000
+O3   0.75200   0.87600   0.71960   0.01590
+O4   0.21600   0.78400   0.94180   0.02880
+O-H1   0.45500   0.90900   0.80300   0.02600
+O-H2   0.87300   0.74600   0.86600   0.00360

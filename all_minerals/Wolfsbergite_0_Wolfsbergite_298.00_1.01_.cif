@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Wolfsbergite'
+loop_
+_publ_author_name
+'Hofmann W'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 84 
+_journal_year 1932
+_journal_page_first 177
+_journal_page_last 203
+_publ_section_title
+;
+ Strukturelle und morphologische Zusammenhaenge bei Erzen vom Formeltyp
+ ABC2
+ _cod_database_code 1011188
+;
+_database_code_amcsd 0018063
+_chemical_formula_sum 'Cu Sb S2'
+_cell_length_a 6.008
+_cell_length_b 3.784
+_cell_length_c 14.456
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 328.647
+_exptl_crystal_density_diffrn      5.041
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1   0.75000   0.75000   0.17500
+Sb1   0.22800   0.25000   0.06300
+S1   0.62500   0.25000   0.09700
+S2   0.12500   0.75000   0.17500

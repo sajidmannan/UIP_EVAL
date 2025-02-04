@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Owyheeite'
+loop_
+_publ_author_name
+'Laufek F'
+'Pazout R'
+'Makovicky E'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 19 
+_journal_year 2007
+_journal_page_first 557
+_journal_page_last 566
+_publ_section_title
+;
+ Crystal structure of owyheeite, Ag1.5Pb4.43Sb6.07S14: refinement from powder
+ synchrotron X-ray diffraction
+;
+_database_code_amcsd 0007225
+_chemical_compound_source 'Kutna Hora, central Bohemia, Czech Republic'
+_chemical_formula_sum 'Ag1.5 Pb4.43 Sb6.07 S14'
+_cell_length_a 4.1035
+_cell_length_b 27.3144
+_cell_length_c 22.9366
+_cell_angle_alpha 90
+_cell_angle_beta 90.359
+_cell_angle_gamma 90
+_cell_volume 2570.790
+_exptl_crystal_density_diffrn      5.859
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ag1   0.73520   0.16620   0.05900   1.00000   0.04900
+Pb1   0.27360   0.86100   0.36660   1.00000   0.05000
+Pb2   0.73060   0.21520   0.47500   1.00000   0.05000
+Pb3   0.72650   0.29890   0.31690   1.00000   0.05000
+Pb4   0.28960   0.95900   0.21290   1.00000   0.05000
+Pb5   0.22490   0.07680   0.48820   0.43000   0.05000
+Sb5   0.22490   0.07680   0.48820   0.57000   0.05000
+Sb1   0.75970   0.00560   0.36560   1.00000   0.04820
+Sb2   0.23110   0.15810   0.33530   0.50000   0.04820
+Ag2   0.23110   0.15810   0.33530   0.50000   0.04820
+Sb3   0.22110   0.22770   0.17210   1.00000   0.04820
+Sb4   0.20960   0.10740   0.93770   1.00000   0.04820
+Sb6   0.79720   0.03790   0.07560   1.00000   0.04820
+Sb7   0.32080   0.10370   0.20260   1.00000   0.04820
+S1   0.21740   0.23650   0.38040   1.00000   0.04420
+S2   0.21020   0.15680   0.54350   1.00000   0.04420
+S3   0.73520   0.92870   0.31030   1.00000   0.04420
+S4   0.74720   0.03860   0.18260   1.00000   0.04420
+S5   0.19160   0.12680   0.83380   1.00000   0.04420
+S6   0.26490   0.30850   0.22010   1.00000   0.04420
+S7   0.73030   0.25690   0.09910   1.00000   0.04420
+S8   0.75760   0.04480   0.55580   1.00000   0.04420
+S9   0.68470   0.12350   0.40940   1.00000   0.04420
+S10   0.27130   0.03610   0.30410   1.00000   0.04420
+S11   0.23490   0.97410   0.07650   1.00000   0.04420
+S12   0.78580   0.17020   0.95390   1.00000   0.04420
+S13   0.24370   0.11410   0.09230   1.00000   0.04420
+S14   0.75510   0.18460   0.25650   1.00000   0.04420

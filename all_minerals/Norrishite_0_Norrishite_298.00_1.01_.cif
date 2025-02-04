@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Norrishite'
+loop_
+_publ_author_name
+'Tyrna P L'
+'Guggenheim S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 76 
+_journal_year 1991
+_journal_page_first 266
+_journal_page_last 271
+_publ_section_title
+;
+ The crystal structure of norrishite, KLiMn2Si4O12: An oxygen-rich mica
+;
+_database_code_amcsd 0001348
+_chemical_formula_sum 'K Li Mn2 Si4 O12'
+_cell_length_a 5.289
+_cell_length_b 8.914
+_cell_length_c 10.062
+_cell_angle_alpha 90
+_cell_angle_beta 98.22
+_cell_angle_gamma 90
+_cell_volume 469.511
+_exptl_crystal_density_diffrn      3.256
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K   0.00000   0.50000   0.00000
+Li1   0.00000   0.00000   0.50000
+Mn2   0.00000   0.34720   0.50000
+Si   0.06290   0.17070   0.22700
+O1   0.04500   0.00000   0.16700
+O2   0.29700   0.24860   0.16150
+O3   0.10800   0.17870   0.38530
+O4   0.10900   0.50000   0.39600
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.02360 0.02013 0.03869 0.00000 0.00528 0.00000
+Li1 0.01249 0.01610 0.02010 0.00000 0.00528 0.00000
+Mn2 0.00541 0.00443 0.01909 0.00000 0.00291 0.00000
+Si 0.00611 0.00483 0.02010 0.00000 0.00211 0.00000
+O1 0.01388 0.00765 0.02512 0.00000 0.00264 0.00000
+O2 0.00972 0.01610 0.02060 -0.00591 0.00158 0.00045
+O3 0.00694 0.00564 0.02211 0.00047 0.00396 -0.00090
+O4 0.01249 0.00604 0.02512 0.00000 0.00528 0.00000

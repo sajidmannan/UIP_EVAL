@@ -1,0 +1,82 @@
+data_global
+_chemical_name_mineral 'Apuanite'
+loop_
+_publ_author_name
+'Mellini M'
+'Merlino S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 64 
+_journal_year 1979
+_journal_page_first 1235
+_journal_page_last 1242
+_publ_section_title
+;
+ Versliaite and apuanite: Derivative structures related to schafarzikite
+;
+_database_code_amcsd 0000751
+_chemical_formula_sum 'Fe4.56 Sb3.84 Zn.2 As.4 S.84 O12'
+_cell_length_a 8.372
+_cell_length_b 8.372
+_cell_length_c 17.974
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1259.804
+_exptl_crystal_density_diffrn      5.189
+_symmetry_space_group_name_H-M 'P 42/m b c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-y,1/2-x,1/2+z'
+  '1/2+y,1/2+x,1/2-z'
+  'y,-x,1/2-z'
+  '-y,x,1/2+z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  'x,y,-z'
+  '-x,-y,z'
+  '1/2+y,1/2+x,1/2+z'
+  '1/2-y,1/2-x,1/2-z'
+  '-y,x,1/2-z'
+  'y,-x,1/2+z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe(1)   0.30980   0.31790   0.00000   0.88000
+Sb(1)   0.30980   0.31790   0.00000   0.12000
+Fe(2)   0.00000   0.50000   0.25000   1.00000
+Fe(3)   0.00000   0.50000   0.08290   0.90000
+Zn(3)   0.00000   0.50000   0.08290   0.10000
+Sb   0.16770   0.17060   0.16380   0.90000
+As   0.16770   0.17060   0.16380   0.10000
+S   0.50000   0.50000   0.00000   0.84000
+O(1)  -0.09870   0.36240   0.16280   1.00000
+O(2)  -0.10670   0.39150   0.00000   1.00000
+O(3)  -0.18530   0.65740   0.08990   1.00000
+O(4)  -0.17790   0.67790   0.25000   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe(1) 0.01704 0.01740 0.01146 0.00426 0.00000 0.00000
+Sb(1) 0.01704 0.01740 0.01146 0.00426 0.00000 0.00000
+Fe(2) 0.01065 0.01065 0.00818 0.00533 0.00000 0.00000
+Fe(3) 0.00959 0.00888 0.00818 0.00142 0.00000 0.00000
+Zn(3) 0.00959 0.00888 0.00818 0.00142 0.00000 0.00000
+Sb 0.00639 0.00746 0.00655 0.00071 0.00076 0.00076
+As 0.00639 0.00746 0.00655 0.00071 0.00076 0.00076
+S 0.01562 0.01243 0.02291 0.01101 0.00000 0.00000
+O(1) 0.00639 0.00533 0.00818 -0.00036 0.00152 -0.00305
+O(2) 0.01385 0.00533 0.00982 -0.00142 0.00000 0.00000
+O(3) 0.01065 0.00959 0.00655 0.00426 0.00229 -0.00076
+O(4) 0.01598 0.01598 0.00164 -0.01030 0.00229 -0.00229

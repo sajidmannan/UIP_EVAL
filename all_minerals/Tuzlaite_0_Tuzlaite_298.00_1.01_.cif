@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Tuzlaite'
+loop_
+_publ_author_name
+'Bermanec V'
+'Armbruster T'
+'Tibljas D'
+'Sturman D'
+'Kniewald G'
+_journal_name_full 'American Mineralogist'
+_journal_volume 79 
+_journal_year 1994
+_journal_page_first 562
+_journal_page_last 569
+_publ_section_title
+;
+ Tuzlaite, NaCa[B5O8(OH)2].3H2O, a new mineral with a pentaborate sheet
+ structure from the Tuzla salt mine, Bosnia and Hercegovina
+;
+_database_code_amcsd 0001662
+_chemical_formula_sum 'Ca Na O13 B5 H8'
+_cell_length_a 6.506
+_cell_length_b 13.280
+_cell_length_c 11.462
+_cell_angle_alpha 90
+_cell_angle_beta 92.97
+_cell_angle_gamma 90
+_cell_volume 988.983
+_exptl_crystal_density_diffrn      2.238
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.20980   0.89462   0.08216   0.01178
+Na   0.33650   0.98420   0.35550   0.02381
+O1   0.10260   0.09140   0.05450   0.00988
+O2  -0.13670   0.83270   0.22820   0.01482
+O3   0.41590   0.05190   0.15410   0.01216
+O4   0.30980   0.22780   0.13740   0.01393
+O5  -0.23550   0.08850   0.11900   0.01216
+O6   0.67560   0.98230   0.27540   0.01406
+OW7   0.33150   0.81500   0.26920   0.01938
+O-h8   0.57890   0.86170   0.03210   0.01418
+O9   0.02860   0.98890   0.21990   0.01241
+OW10   0.15330   0.71260   0.05710   0.02052
+O-h11   0.04750   0.07760   0.59340   0.01862
+O12  -0.02200   0.83020  -0.23800   0.01469
+OW13   0.54500   0.88000   0.52670   0.03344
+B1   0.62160   0.04100   0.18120   0.01026
+B2   0.31280   0.12750   0.07500   0.01051
+B3  -0.15970   0.74400   0.28590   0.01115
+B4  -0.12210   0.93430   0.28270   0.01203
+B5  -0.01600   0.08280   0.15970   0.01001
+H1   0.25000   0.77200   0.28300   0.03002
+H2   0.44500   0.78900   0.29300   0.03002
+H3   0.66500   0.85200   0.08400   0.03002
+H4   0.09000   0.69100   0.12100   0.03002
+H5   0.08200   0.68500  -0.00100   0.03002
+H6   0.90700   0.95500   0.44400   0.03002
+H7   0.44300   0.85000   0.54600   0.03002
+H8   0.61000   0.82900   0.49500   0.03002

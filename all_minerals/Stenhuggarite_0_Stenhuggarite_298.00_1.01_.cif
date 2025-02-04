@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Stenhuggarite'
+loop_
+_publ_author_name
+'Coda A'
+'Dal Negro A'
+'Sabelli C'
+'Tazzoli V'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 33 
+_journal_year 1977
+_journal_page_first 1807
+_journal_page_last 1811
+_publ_section_title
+;
+ The crystal structure of stenhuggarite
+;
+_database_code_amcsd 0009591
+_chemical_formula_sum 'Ca Fe Sb As2 O7'
+_cell_length_a 16.144
+_cell_length_b 16.144
+_cell_length_c 10.706
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2790.291
+_exptl_crystal_density_diffrn      4.566
+_symmetry_space_group_name_H-M 'I 41/a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '3/4+y,1/4-x,1/4-z'
+  '1/4+y,3/4-x,3/4-z'
+  '3/4-y,1/4+x,1/4+z'
+  '1/4-y,3/4+x,3/4+z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '3/4-y,3/4+x,3/4-z'
+  '1/4-y,1/4+x,1/4-z'
+  '3/4+y,3/4-x,3/4+z'
+  '1/4+y,1/4-x,1/4+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.34930   0.43880  -0.47680   0.00608
+Fe   0.23730   0.25750  -0.49160   0.00519
+Sb   0.32658   0.42697   0.01620   0.00887
+As1   0.38500   0.29810  -0.26150   0.00709
+As2   0.39730   0.31460  -0.70390   0.00519
+O1   0.32720   0.31540  -0.12250   0.01368
+O2   0.25270   0.48450  -0.10070   0.00747
+O3   0.24680   0.34480   0.08060   0.01039
+O4   0.30490   0.31000  -0.37380   0.01216
+O5   0.30200   0.32830  -0.63170   0.00887
+O6   0.42010   0.40080  -0.28830   0.01431
+O7   0.45440   0.33890  -0.56120   0.01039

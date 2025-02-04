@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Tarapacaite'
+loop_
+_publ_author_name
+'McGinnety J A'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 28 
+_journal_year 1972
+_journal_page_first 2845
+_journal_page_last 2852
+_publ_section_title
+;
+ Redetermination of the structures of potassium sulphate and potassium chromate:
+ the effect of electrostatic crystal forces upon observed bond length
+;
+_database_code_amcsd 0009457
+_chemical_formula_sum 'K2 Cr O4'
+_cell_length_a 7.663
+_cell_length_b 10.388
+_cell_length_c 5.922
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 471.410
+_exptl_crystal_density_diffrn      2.736
+_symmetry_space_group_name_H-M 'P m n a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K1   0.66544   0.41449   0.25000
+K2  -0.01105   0.69980   0.25000
+Cr   0.22900   0.42059   0.25000
+O1   0.01550   0.42000   0.25000
+O2   0.30240   0.57000   0.25000
+O3   0.30220   0.34710   0.02330
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 0.01636 0.03040 0.02628 -0.00218 0.00000 0.00000
+K2 0.01514 0.01826 0.02537 0.00048 0.00000 0.00000
+Cr 0.00994 0.01389 0.01530 -0.00032 0.00000 0.00000
+O1 0.01220 0.03881 0.05152 -0.00282 0.00000 0.00000
+O2 0.02410 0.01968 0.04033 -0.00686 0.00000 0.00000
+O3 0.03659 0.03717 0.02274 0.01049 0.00207 -0.00997

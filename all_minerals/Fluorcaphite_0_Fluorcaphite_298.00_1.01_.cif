@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Fluorcaphite'
+loop_
+_publ_author_name
+'Chakhmouradian A R'
+'Hughes J M'
+'Rakovan J F'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 43 
+_journal_year 2005
+_journal_page_first 735
+_journal_page_last 746
+_publ_section_title
+;
+ Fluorcaphite, a second occurrence and detailed structural analysis:
+ Simultaneous accommodation of Ca, Sr, Na, LREE in the apatite atomic arrangement
+ Sample: Mt. Selsurt, Lovozero, Russia
+;
+_database_code_amcsd 0006014
+_chemical_formula_sum 'Ca2.45 Sr1.591 Na.585 Ce.22 La.134 Nd.02 P3 O12.042 (F.958 H.042)'
+_cell_length_a 9.4456
+_cell_length_b 9.4456
+_cell_length_c 6.9520
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 537.155
+_exptl_crystal_density_diffrn      3.754
+_symmetry_space_group_name_H-M 'P 63'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x-y,x,1/2+z'
+  '-y,x-y,z'
+  '-x,-y,1/2+z'
+  '-x+y,-x,z'
+  'y,-x+y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.66667   0.33333   0.00000   0.48000   0.01470
+Sr1   0.66667   0.33333   0.00000   0.11500   0.01470
+Na1   0.66667   0.33333   0.00000   0.29000   0.01470
+Ce1   0.66667   0.33333   0.00000   0.11000   0.01470
+La1   0.66667   0.33333   0.00000   0.00500   0.01470
+Ca1*   0.66667   0.33333   0.50130   0.57500   0.01140
+Na1*   0.66667   0.33333   0.50130   0.29500   0.01140
+Ce1*   0.66667   0.33333   0.50130   0.11000   0.01140
+Nd1*   0.66667   0.33333   0.50130   0.02000   0.01140
+Sr2   0.76156   0.01185   0.25000   0.49200   0.01133
+Ca2   0.76156   0.01185   0.25000   0.46500   0.01133
+La2   0.76156   0.01185   0.25000   0.04300   0.01133
+P   0.60116  -0.36970   0.25220   1.00000   0.00992
+O1   0.84353   0.32851   0.25490   1.00000   0.01670
+O2   0.41362  -0.46562   0.25370   1.00000   0.01970
+O3   0.65320  -0.25910   0.07360   1.00000   0.02060
+O3*   0.66510  -0.25730   0.42710   1.00000   0.02440
+F   0.00000   0.00000   0.24800   0.95800   0.03720
+O-H   0.00000   0.00000   0.24800   0.04200   0.03720

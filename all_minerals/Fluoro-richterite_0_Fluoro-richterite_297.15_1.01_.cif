@@ -1,0 +1,82 @@
+data_global
+_chemical_name_mineral 'Fluoro-richterite'
+loop_
+_publ_author_name
+'Cameron M'
+'Sueno S'
+'Papike J J'
+'Prewitt C T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 68 
+_journal_year 1983
+_journal_page_first 924
+_journal_page_last 943
+_publ_section_title
+;
+ High temperature crystal chemistry of K and Na fluor-richterites
+ Note: sample Na, T = 24 C
+;
+_database_code_amcsd 0000912
+_chemical_formula_sum 'Si8 Mg5 (Na2 Ca2) K4 O22 F2'
+_cell_length_a 9.938
+_cell_length_b 17.952
+_cell_length_c 5.258
+_cell_angle_alpha 90
+_cell_angle_beta 106.62
+_cell_angle_gamma 90
+_cell_volume 898.874
+_exptl_crystal_density_diffrn      3.764
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1   0.28130   0.91562   0.98598
+Si2   0.28754   0.82886   0.48628
+Mg1   0.00000   0.91115   0.50000
+Mg2   0.00000   0.82120   0.00000
+Mg3   0.00000   0.00000   0.00000
+Na   0.00000   0.72433   0.50000
+Ca   0.00000   0.72433   0.50000
+K   0.47562   0.98685   0.53654
+O1   0.11320   0.91574   0.89514
+O2   0.11883   0.83236   0.39223
+F3   0.10306   0.00000   0.39104
+O4   0.36130   0.75099   0.56777
+O5   0.34921   0.86942   0.25850
+O6   0.34478   0.88307   0.75618
+O7   0.34356   0.00000   0.05400
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si1 0.00535 0.00478 0.00516 0.00033 0.00164 0.00007
+Si2 0.00538 0.00567 0.00503 0.00083 0.00142 0.00021
+Mg1 0.00713 0.00607 0.00627 0.00000 0.00233 0.00000
+Mg2 0.00728 0.00717 0.00758 0.00000 0.00159 0.00000
+Mg3 0.00720 0.00504 0.00580 0.00000 0.00231 0.00000
+Na 0.01564 0.00996 0.00821 0.00000 -0.00156 0.00000
+Ca 0.01564 0.00996 0.00821 0.00000 -0.00156 0.00000
+K 0.05363 0.03793 0.02977 -0.01938 -0.02058 0.00461
+O1 0.00614 0.00651 0.00792 -0.00008 0.00167 0.00013
+O2 0.00689 0.00901 0.00664 0.00023 0.00172 -0.00129
+F3 0.01049 0.00828 0.00763 0.00000 0.00086 0.00000
+O4 0.01229 0.00878 0.00903 0.00378 0.00311 0.00121
+O5 0.00822 0.01174 0.00873 0.00006 0.00249 0.00353
+O6 0.01011 0.01123 0.00814 -0.00065 0.00347 -0.00373
+O7 0.00951 0.00524 0.01249 0.00000 0.00136 0.00000

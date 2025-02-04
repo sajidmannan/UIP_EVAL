@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Doyleite'
+loop_
+_publ_author_name
+'Clark G R'
+'Rodgers K A'
+'Henderson G S'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 213 
+_journal_year 1998
+_journal_page_first 96
+_journal_page_last 100
+_publ_section_title
+;
+ The crystal chemistry of doyleite, Al(OH)3
+;
+_database_code_amcsd 0011076
+_chemical_compound_source 'Mont St. Hilaire, Quebec'
+_chemical_formula_sum 'Al O3 H3'
+_cell_length_a 4.9997
+_cell_length_b 5.1681
+_cell_length_c 4.9832
+_cell_angle_alpha 97.444
+_cell_angle_beta 118.688
+_cell_angle_gamma 104.661
+_cell_volume 104.386
+_exptl_crystal_density_diffrn      2.482
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Al   0.32690  -0.00060   0.16700   1.00000 ?
+O1   0.08680   0.20900   0.20160   1.00000 ?
+O2   0.72230   0.21490   0.56630   1.00000 ?
+O3   0.46720   0.21070  -0.05500   1.00000 ?
+H1   0.16000   0.40000   0.30000   0.50000   0.05000
+H2   0.88000   0.40000   0.64000   0.50000   0.05000
+H3   0.56000   0.40000   0.00000   0.50000   0.05000
+H4   0.16000   0.18000   0.40000   0.50000   0.05000
+H5   0.88000   0.18000   0.52000   0.50000   0.05000
+H6   0.32000   0.18000  -0.26000   0.50000   0.05000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al 0.00980 0.01330 0.01140 0.00630 0.00590 0.00260
+O1 0.01070 0.01220 0.01520 0.00610 0.00510 0.00070
+O2 0.00990 0.01330 0.01370 0.00490 0.00630 0.00260
+O3 0.01440 0.01170 0.01480 0.00820 0.01000 0.00440

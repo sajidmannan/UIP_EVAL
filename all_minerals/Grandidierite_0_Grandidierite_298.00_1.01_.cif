@@ -1,0 +1,83 @@
+data_global
+_chemical_name_mineral 'Grandidierite'
+loop_
+_publ_author_name
+'Dzikowski T J'
+'Groat L A'
+'Grew E S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 92 
+_journal_year 2007
+_journal_page_first 863
+_journal_page_last 872
+_publ_section_title
+;
+ The geometric effects of VFe2+ for VMg substitution on the crystal structures
+ of the grandidierite-ominelite series
+ Sample: G17
+;
+_database_code_amcsd 0004348
+_chemical_compound_source 'Madagascar'
+_chemical_formula_sum '(Mg.976 Fe.024) Al3 B Si O9'
+_cell_length_a 10.3250
+_cell_length_b 10.9575
+_cell_length_c 5.7600
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 651.664
+_exptl_crystal_density_diffrn      2.945
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg   0.09183   0.21910   0.25000   0.97600   0.00680
+Fe   0.09183   0.21910   0.25000   0.02400   0.00680
+Al1   0.00000   0.00000   0.00000   1.00000   0.00520
+Al2   0.50000   0.00000   0.00000   1.00000   0.00550
+Al3   0.22634   0.44791   0.25000   1.00000   0.00530
+B   0.25120   0.00030   0.75000   1.00000   0.00720
+Si   0.43356   0.26330   0.25000   1.00000   0.00560
+O1   0.27500   0.28820   0.25000   1.00000   0.00840
+O2   0.11860   0.02240   0.25000   1.00000   0.00610
+O3   0.12100  -0.00350   0.75000   1.00000   0.00670
+O4   0.47380   0.11990   0.25000   1.00000   0.00720
+O5   0.54650   0.10020   0.75000   1.00000   0.00610
+O6  -0.00731   0.17099  -0.02270   1.00000   0.00750
+O7   0.18068   0.50112  -0.04520   1.00000   0.00790
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg 0.00810 0.00610 0.00620 -0.00130 0.00000 0.00000
+Fe 0.00810 0.00610 0.00620 -0.00130 0.00000 0.00000
+Al1 0.00560 0.00500 0.00500 0.00010 -0.00020 0.00000
+Al2 0.00470 0.00650 0.00520 -0.00010 0.00020 0.00050
+Al3 0.00480 0.00560 0.00550 -0.00030 0.00000 0.00000
+B 0.00810 0.00610 0.00740 0.00010 0.00000 0.00000
+Si 0.00620 0.00470 0.00580 0.00000 0.00000 0.00000
+O1 0.00680 0.00600 0.01240 0.00000 0.00000 0.00000
+O2 0.00570 0.00640 0.00610 0.00000 0.00000 0.00000
+O3 0.00530 0.00910 0.00580 0.00020 0.00000 0.00000
+O4 0.01000 0.00540 0.00630 0.00100 0.00000 0.00000
+O5 0.00600 0.00600 0.00610 -0.00050 0.00000 0.00000
+O6 0.00980 0.00560 0.00710 0.00020 -0.00160 0.00040
+O7 0.00580 0.01180 0.00590 0.00000 0.00010 0.00080

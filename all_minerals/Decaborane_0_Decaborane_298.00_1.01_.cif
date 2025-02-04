@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Decaborane'
+loop_
+_publ_author_name
+'Kasper J S'
+'Lucht C M'
+'Harker D'
+_journal_name_full 'American Mineralogist'
+_journal_volume 33 
+_journal_year 1948
+_journal_page_first 768
+_journal_page_last 768
+_publ_section_title
+;
+ The crystal structure of decaborane
+;
+_database_code_amcsd 0000046
+_chemical_formula_sum 'B5'
+_cell_length_a 14.37
+_cell_length_b 20.98
+_cell_length_c 5.69
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90.
+_cell_volume 1715.436
+_exptl_crystal_density_diffrn      0.837
+_symmetry_space_group_name_H-M 'C 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '1/2+x,y,-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,z'
+  '-x,1/2-y,z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+B1   0.03300   0.32800   0.00000
+B2   0.10900   0.27600   0.14200
+B3   0.10900   0.27600  -0.14200
+B4   0.09700   0.20200   0.00000
+B5   0.01900   0.21000   0.22800
+B6   0.21700   0.07800   0.50000
+B7   0.14100   0.02600   0.64200
+B8   0.14100   0.02600   0.35800
+B9   0.15300  -0.04800   0.50000
+B10   0.23100  -0.04000   0.72800

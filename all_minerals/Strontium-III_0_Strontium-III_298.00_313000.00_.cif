@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Strontium-III'
+loop_
+_publ_author_name
+'Winzenick M'
+'Holzapfel W B'
+_journal_name_full 'Physical Review'
+_journal_volume B53 
+_journal_year 1996
+_journal_page_first 2151
+_journal_page_last 2154
+_publ_section_title
+;
+ Structural study on the high-pressure phase strontium III
+ Sample: at P = 31.3 GPa
+;
+_database_code_amcsd 0015268
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Sr'
+_cell_length_a 5.62
+_cell_length_b 5.72
+_cell_length_c 3.05
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 98.047
+_exptl_crystal_density_diffrn      5.936
+_symmetry_space_group_name_H-M 'I m m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,1/2-y,z'
+  '1/2+x,-y,1/2+z'
+  '-x,1/2+y,-z'
+  '1/2-x,+y,1/2-z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  'x,1/2+y,-z'
+  '1/2+x,+y,1/2-z'
+  '-x,1/2-y,z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sr   0.00000   0.25000   0.12500

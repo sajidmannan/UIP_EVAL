@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Alumino-magnesiohulsite'
+loop_
+_publ_author_name
+'Pertsev N N'
+'Schreyer W'
+'Armbruster T'
+'Bernhardt H J'
+'Medenbach O'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 16 
+_journal_year 2004
+_journal_page_first 151
+_journal_page_last 161
+_publ_section_title
+;
+ Alumino-magnesiohulsite, a new member of the hulsite group, in kotoite marble from
+ east of Verkhoyansk, Sakha-Yakutia, Russia
+;
+_database_code_amcsd 0007030
+_chemical_compound_source 'east of Verkhoyansk, Sakha-Yakutia, Russia'
+_chemical_formula_sum 'Fe.7 Sn.3 Al1.3 Mg3.7 B2 O10'
+_cell_length_a 5.3444
+_cell_length_b 3.0300
+_cell_length_c 10.506
+_cell_angle_alpha 90
+_cell_angle_beta 94.46
+_cell_angle_gamma 90
+_cell_volume 169.614
+_exptl_crystal_density_diffrn      3.733
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,z'
+  '-x,y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Fe3+1   0.00000   0.00000   0.00000   0.35000   0.00722
+Sn1   0.00000   0.00000   0.00000   0.30000   0.00722
+Al1   0.00000   0.00000   0.00000   0.30000   0.00722
+Fe2+1   0.00000   0.00000   0.00000   0.05000   0.00722
+Al2   0.50000   0.00000   0.50000   0.50000   0.00722
+Mg2   0.50000   0.00000   0.50000   0.50000   0.00722
+Al3   0.00000   0.00000   0.50000   0.50000   0.00722
+Mg3   0.00000   0.00000   0.50000   0.50000   0.00722
+Mg4   0.50000   0.50000   0.00000   0.90000   0.00722
+Fe2+4   0.50000   0.50000   0.00000   0.10000   0.00722
+Mg5   0.21630   0.50000   0.28020   0.90000   0.00722
+Fe2+5   0.21630   0.50000   0.28020   0.10000   0.00722
+B   0.28900   0.00000   0.75800   1.00000   0.00507
+O1   0.30900   0.00000   0.89010   1.00000   0.00760
+O2   0.49500   0.00000   0.30690   1.00000   0.00633
+O3   0.05400   0.00000   0.69470   1.00000   0.00507
+O4   0.17900   0.50000   0.09340   1.00000   0.00507
+O5   0.24700   0.50000   0.47600   1.00000   0.01393

@@ -1,0 +1,84 @@
+data_global
+_chemical_name_mineral 'Katoptrite'
+loop_
+_publ_author_name
+'Moore P B'
+'Araki T'
+'Brunton G D'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Abhandlungen'
+_journal_volume 127 
+_journal_year 1976
+_journal_page_first 47
+_journal_page_last 61
+_publ_section_title
+;
+ Catoptrite, (Mn2+5Sb5+2)VI(Mn2+8Al4Si2)IVO28,
+ a novel close-packed oxide sheet structure
+;
+_database_code_amcsd 0014705
+_chemical_compound_source 'Langban, Sweden'
+_chemical_formula_sum 'Mn13 Sb2 Al4 Si2 O28'
+_cell_length_a 5.617
+_cell_length_b 23.02
+_cell_length_c 9.079
+_cell_angle_alpha 90
+_cell_angle_beta 101.38
+_cell_angle_gamma 90
+_cell_volume 1150.866
+_exptl_crystal_density_diffrn      4.530
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn1   0.00000   0.00000   0.00000
+Mn2   0.00000   0.28670   0.00000
+Mn3   0.00000   0.42710   0.00000
+Sb   0.00000   0.14180   0.00000
+Mn4   0.78400   0.14360   0.36300
+Mn5   0.27780   0.06980   0.34470
+Al   0.27390   0.21430   0.33410
+Si   0.77020   0.00000   0.32100
+O1   0.69350   0.00000   0.12390
+O2   0.19930   0.07580   0.11550
+O3   0.73200   0.14180   0.11960
+O4   0.18960   0.20910   0.11730
+O5   0.06670   0.00000   0.35270
+O6   0.64760   0.06130   0.37940
+O7   0.59900   0.22160   0.36540
+O8   0.16070   0.14860   0.39610
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn1 0.02550 0.01611 0.00193 0.00000 0.00000 0.00000
+Mn2 0.00922 0.01879 0.05538 0.00000 0.01018 0.00000
+Mn3 0.02151 0.02148 0.01886 0.00000 0.00273 0.00000
+Sb 0.00737 0.01342 0.01565 0.00000 0.00273 0.00000
+Mn4 0.01874 0.02416 0.02207 0.00000 0.00372 0.00208
+Mn5 0.01920 0.01342 0.21270 -0.00642 0.00248 -0.00311
+Al 0.01859 0.03490 0.04374 0.00000 0.02011 -0.00208
+Si 0.02857 0.01074 0.01405 0.00000 0.00174 0.00000
+O1 0.01567 0.02685 0.02689 0.00000 0.00596 0.00000
+O2 0.02519 0.03490 0.01967 -0.01349 0.00472 -0.00208
+O3 0.02243 0.02953 0.01806 -0.00064 -0.00199 0.00104
+O4 0.02089 0.02416 0.01967 -0.00514 -0.00174 -0.00311
+O5 0.04916 0.04295 0.02328 0.00000 0.00002 0.00000
+O6 0.02995 0.05101 0.03813 0.00064 0.00993 -0.00104
+O7 0.05330 0.02685 0.05619 -0.00642 0.01862 -0.00104
+O8 0.03195 0.03490 0.03010 0.00193 0.00323 -0.00830

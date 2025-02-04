@@ -1,0 +1,98 @@
+data_global
+_chemical_name_mineral 'Wakefieldite-(Ce)'
+loop_
+_publ_author_name
+'Baudracco-Gritti C'
+'Quartieri S'
+'Vezzalini G'
+'Permingeat F'
+'Pillard F'
+'Rinaldi R'
+_journal_name_full 'Bulletin de Mineralogie'
+_journal_volume 110 
+_journal_year 1987
+_journal_page_first 657
+_journal_page_last 663
+_publ_section_title
+;
+ Une wakefieldite-(Ce) non plombifere: nouvelles donnees sur
+ l'espece minerale correspondant a l'orthovanadate de cerium
+;
+_database_code_amcsd 0012088
+_chemical_formula_sum 'Ce.52 La.18 Nd.15 Y.07 Pr.05 Sm.02 (V.92 As.08) O4'
+_cell_length_a 7.354
+_cell_length_b 7.354
+_cell_length_c 6.488
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 350.880
+_exptl_crystal_density_diffrn      4.782
+_symmetry_space_group_name_H-M 'I 41/a m d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/4-y,3/4-x,1/4+z'
+  '3/4-y,1/4-x,3/4+z'
+  '1/4+y,3/4+x,1/4-z'
+  '3/4+y,1/4+x,3/4-z'
+  '1/4+y,3/4-x,1/4-z'
+  '3/4+y,1/4-x,3/4-z'
+  '1/4-y,3/4+x,1/4+z'
+  '3/4-y,1/4+x,3/4+z'
+  '1/2+x,-y,1/2+z'
+  '+x,1/2-y,+z'
+  '1/2-x,y,1/2-z'
+  '-x,1/2+y,-z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '1/4+y,1/4+x,3/4+z'
+  '3/4+y,3/4+x,1/4+z'
+  '1/4-y,1/4-x,3/4-z'
+  '3/4-y,3/4-x,1/4-z'
+  '1/4-y,1/4+x,3/4-z'
+  '3/4-y,3/4+x,1/4-z'
+  '1/4+y,1/4-x,3/4+z'
+  '3/4+y,3/4-x,1/4+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ce   0.00000   0.75000   0.12500   0.52000   0.00937
+La   0.00000   0.75000   0.12500   0.18000   0.00937
+Nd   0.00000   0.75000   0.12500   0.15000   0.00937
+Y   0.00000   0.75000   0.12500   0.07000   0.00937
+Pr   0.00000   0.75000   0.12500   0.05000   0.00937
+Sm   0.00000   0.75000   0.12500   0.02000   0.00937
+V   0.00000   0.75000   0.62500   0.92000   0.01064
+As   0.00000   0.75000   0.62500   0.08000   0.01064
+O   0.00000   0.07160   0.20670   1.00000   0.01735
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ce 0.01120 0.01120 0.00590 0.00000 0.00000 0.00000
+La 0.01120 0.01120 0.00590 0.00000 0.00000 0.00000
+Nd 0.01120 0.01120 0.00590 0.00000 0.00000 0.00000
+Y 0.01120 0.01120 0.00590 0.00000 0.00000 0.00000
+Pr 0.01120 0.01120 0.00590 0.00000 0.00000 0.00000
+Sm 0.01120 0.01120 0.00590 0.00000 0.00000 0.00000
+V 0.01260 0.01260 0.00680 0.00000 0.00000 0.00000
+As 0.01260 0.01260 0.00680 0.00000 0.00000 0.00000
+O 0.02400 0.01500 0.01300 0.00000 0.00000 -0.00100

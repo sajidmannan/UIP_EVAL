@@ -1,0 +1,77 @@
+data_global
+_chemical_name_mineral 'Kentrolite'
+loop_
+_publ_author_name
+'Moore P B'
+'Sen Gupta P K'
+'Shen J'
+'Schlemper E O'
+_journal_name_full 'American Mineralogist'
+_journal_volume 76 
+_journal_year 1991
+_journal_page_first 1389
+_journal_page_last 1399
+_publ_section_title
+;
+ The kentrolite-melanotekite series, 4Pb2(Mn,Fe)2O2[Si2O7]: Chemical
+ crystallographic relations, lone-pair splitting, and cation relation to 8URe2
+;
+_database_code_amcsd 0001395
+_chemical_formula_sum 'Pb2 Mn1.68 Fe.32 Si2 O9'
+_cell_length_a 6.961
+_cell_length_b 11.018
+_cell_length_c 9.964
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 764.202
+_exptl_crystal_density_diffrn      6.299
+_symmetry_space_group_name_H-M 'P b c n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pb1   0.45610   0.30120   0.55000   0.73000
+Pb2   0.53510   0.30980   0.54750   0.27000
+Mn1   0.50000   0.00000   0.00000   0.68000
+Fe1   0.50000   0.00000   0.00000   0.32000
+Mn2   0.50000   0.14820   0.25000   0.68000
+Mn2   0.50000   0.14820   0.25000   0.32000
+Si   0.21400  -0.09070   0.25280   1.00000
+O1   0.34020   0.00540   0.33610   1.00000
+O2   0.29950  -0.11350   0.10310   1.00000
+O3   0.18880  -0.22170   0.32720   1.00000
+O4   0.00000  -0.02860   0.25000   1.00000
+O5   0.60940   0.14420   0.42270   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.01670 0.00910 0.00960 0.00030 -0.00110 -0.00160
+Pb2 0.02670 0.00750 0.00640 0.00390 0.00150 -0.00040
+Mn1 0.00990 0.00600 0.00620 0.00090 -0.00150 -0.00170
+Fe1 0.00990 0.00600 0.00620 0.00090 -0.00150 -0.00170
+Mn2 0.00830 0.00800 0.00540 0.00000 -0.00110 0.00000
+Mn2 0.00830 0.00800 0.00540 0.00000 -0.00110 0.00000
+Si 0.00780 0.00460 0.00660 0.00130 -0.00090 0.00050
+O1 0.01160 0.00720 0.00940 -0.00790 -0.00130 -0.00570
+O2 0.02510 0.00830 0.00870 -0.00540 0.00340 -0.00750
+O3 0.01260 0.01250 0.00940 -0.00510 -0.00110 0.00400
+O4 0.00590 0.01090 0.05460 0.00000 0.00010 0.00000
+O5 0.01670 0.00340 0.00390 -0.00100 -0.00180 0.00010

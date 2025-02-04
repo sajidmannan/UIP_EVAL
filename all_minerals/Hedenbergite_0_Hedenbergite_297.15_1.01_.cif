@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Hedenbergite'
+loop_
+_publ_author_name
+'Cameron M'
+'Sueno S'
+'Prewitt C T'
+'Papike J J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 58 
+_journal_year 1973
+_journal_page_first 594
+_journal_page_last 618
+_publ_section_title
+;
+ High-temperature crystal chemistry of acmite, diopside, hedenbergite, jadeite,
+ spodumene, and ureyite
+ T = 24 C
+ pyroxene
+;
+_database_code_amcsd 0000345
+_chemical_formula_sum 'Si2 Fe Ca O6'
+_cell_length_a 9.845
+_cell_length_b 9.024
+_cell_length_c 5.245
+_cell_angle_alpha 90
+_cell_angle_beta 104.74
+_cell_angle_gamma 90
+_cell_volume 450.638
+_exptl_crystal_density_diffrn      3.657
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si   0.28780   0.09240   0.23260
+Fe1   0.00000   0.90750   0.25000
+Ca2   0.00000   0.30030   0.25000
+O1   0.11970   0.09040   0.15250
+O2   0.36270   0.24610   0.32280
+O3   0.35020   0.01980   0.99320
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si 0.00510 0.00479 0.00468 -0.00017 0.00130 -0.00051
+Fe1 0.00583 0.00491 0.00572 0.00000 0.00125 0.00000
+Ca2 0.00987 0.00705 0.00693 0.00000 0.00015 0.00000
+O1 0.00551 0.00916 0.00717 0.00074 0.00108 -0.00016
+O2 0.01153 0.00817 0.00954 -0.00283 0.00210 -0.00093
+O3 0.00758 0.01015 0.00759 -0.00061 0.00254 -0.00260

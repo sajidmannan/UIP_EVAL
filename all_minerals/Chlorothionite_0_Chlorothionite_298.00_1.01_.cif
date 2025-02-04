@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Chlorothionite'
+loop_
+_publ_author_name
+'Giacovazzo C'
+'Scandale E'
+'Scordari F'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 144 
+_journal_year 1976
+_journal_page_first 226
+_journal_page_last 237
+_publ_section_title
+;
+ The crystal structure of chlorotionite, CuK2Cl2SO4
+;
+_database_code_amcsd 0010784
+_chemical_compound_source '1906 eruption of Vesuvius, Italy'
+_chemical_formula_sum 'Cu K2 Cl2 S O4'
+_cell_length_a 7.732
+_cell_length_b 6.078
+_cell_length_c 16.292
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 765.644
+_exptl_crystal_density_diffrn      2.678
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu   0.62120   0.75000   0.46150   0.01963
+K1   0.38210   0.25000   0.28080   0.02862
+K2   0.11930   0.75000   0.40500   0.01912
+Cl1   0.60260   0.25000   0.45150   0.02153
+Cl2   0.84020   0.75000   0.55260   0.01976
+S   0.62960   0.75000   0.30240   0.01355
+O1   0.77580   0.75000   0.36290   0.02394
+O2   0.63240   0.94810   0.25180   0.02001
+O3   0.47520   0.75000   0.35870   0.02153
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.01181 0.03275 0.01479 0.00000 0.00000 0.00000
+K1 0.01575 0.02077 0.04841 0.00000 0.00255 0.00000
+K2 0.01726 0.02059 0.02017 0.00000 -0.00064 0.00000
+Cl1 0.01726 0.02938 0.01748 0.00000 -0.00255 0.00000
+Cl2 0.01908 0.02134 0.01883 0.00000 -0.00447 0.00000
+S 0.01090 0.01516 0.01479 0.00000 -0.00128 0.00000
+O1 0.00848 0.04304 0.01883 0.00000 0.00064 0.00000
+O2 0.02635 0.01123 0.02286 -0.00024 -0.00383 -0.00351
+O3 0.00939 0.03930 0.01614 0.00000 0.00319 0.00000

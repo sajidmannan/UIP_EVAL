@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Abellaite'
+loop_
+_publ_author_name
+'Belokoneva E L'
+'Al'-Ama A G'
+'Dimitrova O V'
+'Kurazhkovskaya V S'
+'Stefanovich S Y'
+_journal_name_full 'Crystallography Reports'
+_journal_volume 47 
+_journal_year 2002
+_journal_page_first 217
+_journal_page_last 222
+_publ_section_title
+;
+ Synthesis and crystal structure of new carbonate NaPb2(CO3)2(OH)
+;
+_database_code_amcsd 0020513
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Na Pb2 C2 (O7 H)'
+_cell_length_a 5.268
+_cell_length_b 5.268
+_cell_length_c 13.48
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 323.975
+_exptl_crystal_density_diffrn      5.888
+_symmetry_space_group_name_H-M 'P 3 1 c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x-y,-y,1/2+z'
+  '-y,x-y,z'
+  'y,x,1/2+z'
+  '-x+y,-x,z'
+  '-x,-x+y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Na1   0.66667   0.33333   0.89270   0.02014
+Pb1   0.66667   0.33333   0.55700   0.01077
+Pb2   0.66667   0.33333   0.22580   0.01140
+C1   0.00000   0.00000   0.03500   0.00557
+C2   0.00000   0.00000   0.27600   0.00405
+O-H1   0.66667   0.33333   0.38800   0.01862
+O2   0.15100   0.28800   0.53600   0.01520
+O3   0.27600   0.14100   0.75500   0.01051

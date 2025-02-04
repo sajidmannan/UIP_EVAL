@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Rammelsbergite'
+loop_
+_publ_author_name
+'Kjekshus A'
+'Rakke T'
+'Andresen A'
+_journal_name_full 'Acta Chemica Scandinavica'
+_journal_volume A28 
+_journal_year 1974
+_journal_page_first 996
+_journal_page_last 1000
+_publ_section_title
+;
+ Compounds of the marcasite type crystal structure. IX. Structural data for
+ FeAs2, FeSe2, NiAs2, NiSb2, and CuSe2
+;
+_database_code_amcsd 0011937
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ni As2'
+_cell_length_a 4.7582
+_cell_length_b 5.7949
+_cell_length_c 3.5440
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 97.720
+_exptl_crystal_density_diffrn      7.087
+_symmetry_space_group_name_H-M 'P n n m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni   0.00000   0.00000   0.00000
+As   0.20170   0.36910   0.00000

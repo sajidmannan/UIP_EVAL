@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Strontioborite'
+loop_
+_publ_author_name
+'Brovkin A A'
+'Zayakina N V'
+'Brovkina V S'
+_journal_name_full 'Soviet Physics Crystallography'
+_journal_volume 20 
+_journal_year 1975
+_journal_page_first 563
+_journal_page_last 566
+_publ_section_title
+;
+ Crystal structure of strontioborite Sr[B8O11(OH)4]
+;
+_database_code_amcsd 0015571
+_chemical_formula_sum 'Sr B8 O15 H4'
+_cell_length_a 9.909
+_cell_length_b 8.13
+_cell_length_c 7.623
+_cell_angle_alpha 90
+_cell_angle_beta 108.4
+_cell_angle_gamma 90
+_cell_volume 582.714
+_exptl_crystal_density_diffrn      2.383
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Sr   0.28040   0.10000   0.11490   0.00393
+B1   0.47800   0.60600   0.38500   0.01140
+B2   0.01800   0.43700   0.02400   0.00507
+B3   0.28100   0.48400   0.11100   0.00507
+B4   0.48400   0.43600   0.01400   0.00253
+B5   0.64300   0.19600   0.09400   0.01393
+B6   0.91000   0.18800   0.10400   0.00127
+B7   0.72300   0.60400   0.39000   0.00253
+B8   0.86100   0.19700   0.41100   0.00253
+O1   0.75900   0.12300   0.02700   0.00380
+O2   0.53200   0.09300   0.08400   0.01267
+O3   0.60000   0.34700   0.00900   0.00760
+O4   0.00500   0.09600   0.04300   0.00887
+O5   0.33500   0.58000   0.29300   0.01267
+O-H6   0.21200   0.07700   0.42400   0.01393
+O7   0.16000   0.39500   0.11800   0.00380
+O8   0.58000   0.61500   0.31400   0.00633
+O-H9   0.48900   0.14900   0.42400   0.01140
+O10   0.38400   0.37500   0.07700   0.00633
+O11   0.71500   0.21400   0.30900   0.00760
+O12   0.94900   0.19600   0.30300   0.00633
+O-H13   0.08500   0.67500   0.41100   0.02913
+O-H14   0.79600   0.56800   0.25900   0.02406
+O15   0.90700   0.35800   0.03100   0.00507

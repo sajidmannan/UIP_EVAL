@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Lindgrenite'
+loop_
+_publ_author_name
+'Calvert L D'
+'Barnes W H'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 6 
+_journal_year 1957
+_journal_page_first 31
+_journal_page_last 51
+_publ_section_title
+;
+ The structure of lindgrenite
+;
+_database_code_amcsd 0005073
+_chemical_formula_sum 'Cu3 Mo2 O10 H2'
+_cell_length_a 5.61
+_cell_length_b 14.03
+_cell_length_c 5.40
+_cell_angle_alpha 90
+_cell_angle_beta 98.38
+_cell_angle_gamma 90
+_cell_volume 420.487
+_exptl_crystal_density_diffrn      4.301
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.00000   0.00000   0.00000   0.00671
+Cu2   0.48850   0.09420   0.86420   0.00671
+Mo   0.87690   0.15440   0.45520   0.00671
+O1   0.43200   0.22100   0.97700   0.01267
+O2   0.09600   0.09400   0.64200   0.01267
+O3   0.60000   0.13000   0.55400   0.01267
+O4   0.86600   0.11200   0.14900   0.01267
+O-H   0.34100   0.03100   0.12300   0.01267

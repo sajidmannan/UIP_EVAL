@@ -1,0 +1,87 @@
+data_global
+_chemical_name_mineral 'Ominelite'
+loop_
+_publ_author_name
+'Hiroi Y'
+'Grew E S'
+'Motoyoshi Y'
+'Peacor D R'
+'Rouse R C'
+'Matsubara S'
+'Yokoyama K'
+'Miyawaki R'
+'McGee J J'
+'Su S-C'
+'Hokada T'
+'Furukawa N'
+'Shibasaki H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 87 
+_journal_year 2002
+_journal_page_first 160
+_journal_page_last 170
+_publ_section_title
+;
+ Ominelite, (Fe,Mg)Al3BSiO9 (Fe2+ analogue of grandidierite),
+ a new mineral from porphyritic granite in Japan
+;
+_database_code_amcsd 0002752
+_chemical_formula_sum 'Al3 Fe Si B O9'
+_cell_length_a 10.343
+_cell_length_b 11.095
+_cell_length_c 5.7601
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 661.004
+_exptl_crystal_density_diffrn      3.212
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al1   0.00000   0.00000   0.00000
+Al2   0.50000   0.00000   0.00000
+Al3   0.22671   0.44837   0.25000
+Fe   0.09578   0.21909   0.25000
+Si   0.43503   0.26359   0.25000
+B   0.25100   0.00030   0.75000
+O1   0.27750   0.29100   0.25000
+O2   0.11740   0.01930   0.25000
+O3   0.12100   0.99570   0.75000
+O4   0.47420   0.12170   0.25000
+O5   0.54630   0.09630   0.75000
+O6   0.99337   0.16972   0.97610
+O7   0.18077   0.50115   0.95480
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 0.00480 0.00560 0.00380 0.00030 -0.00010 0.00000
+Al2 0.00410 0.00740 0.00410 -0.00030 0.00000 0.00090
+Al3 0.00390 0.00610 0.00380 -0.00030 0.00000 0.00000
+Fe 0.00840 0.00620 0.00650 -0.00174 0.00000 0.00000
+Si 0.00560 0.00450 0.00500 -0.00010 0.00000 0.00000
+B 0.00520 0.00720 0.00410 0.00030 0.00000 0.00000
+O1 0.00520 0.00700 0.01230 0.00110 0.00000 0.00000
+O2 0.00540 0.00690 0.00470 0.00040 0.00000 0.00000
+O3 0.00440 0.01060 0.00570 -0.00020 0.00000 0.00000
+O4 0.00910 0.00540 0.00620 0.00110 0.00000 0.00000
+O5 0.00610 0.00520 0.00530 0.00000 0.00000 0.00000
+O6 0.01090 0.00620 0.00630 -0.00030 -0.00220 0.00020
+O7 0.00480 0.01290 0.00470 0.00020 0.00000 0.00070

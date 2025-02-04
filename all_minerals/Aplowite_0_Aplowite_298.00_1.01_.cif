@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Aplowite'
+loop_
+_publ_author_name
+'Kellersohn T'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 48 
+_journal_year 1992
+_journal_page_first 776
+_journal_page_last 779
+_publ_section_title
+;
+ Structure of cobalt sulfate tetrahydrate
+;
+_database_code_amcsd 0010272
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Co S O8 D8'
+_cell_length_a 5.952
+_cell_length_b 13.576
+_cell_length_c 7.908
+_cell_angle_alpha 90
+_cell_angle_beta 90.53
+_cell_angle_gamma 90
+_cell_volume 638.974
+_exptl_crystal_density_diffrn      2.444
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Co   0.06724   0.10309   0.21933   0.01200
+S   0.19357   0.10776   0.82516   0.01100
+O1   0.00299   0.04841   0.75701   0.01700
+O2   0.24967   0.07409   0.99928   0.01700
+O3   0.39356   0.09218   0.71774   0.01900
+O4   0.12949   0.21206   0.82276   0.01800
+O5   0.36309   0.07547   0.35563   0.02100
+O6   0.76821   0.14101   0.08449   0.02200
+O7   0.88754   0.12677   0.44018   0.02700
+O8   0.17624   0.24891   0.21772   0.02100
+D51   0.36200   0.08100   0.44600   0.01000
+D52   0.44700   0.02600   0.33400   0.02000
+D61   0.69300   0.17800   0.13100   0.04000
+D62   0.68000   0.09800   0.04300   0.02000
+D71   0.82000   0.17500   0.44800   0.01000
+D72   0.92700   0.10700   0.54800   0.01000
+D81   0.28600   0.25700   0.27800   0.02000
+D82   0.08100   0.29700   0.22800   0.01000

@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Tantalaeschynite-(Eu)'
+loop_
+_publ_author_name
+'Jacobsen H'
+'Lissner F'
+'Manek E'
+'Meyer G'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 211 
+_journal_year 1996
+_journal_page_first 547
+_journal_page_last 548
+_publ_section_title
+;
+ Crystal structures of dieuropium(II) ditantalum heptoxide,
+ Eu2Ta2O7 and europium(II) ditantalum hexoxide, EuTa2O6
+;
+_database_code_amcsd 0018933
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Eu Ta2 O6'
+_cell_length_a 11.02
+_cell_length_b 7.640
+_cell_length_c 5.610
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 472.322
+_exptl_crystal_density_diffrn      8.576
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Eu   0.04020   0.25000   0.53870
+Ta   0.14237   0.99594   0.03770
+O1   0.97400   0.03500   0.22100
+O2   0.21400   0.04800   0.36100
+O3   0.14400   0.25000   0.96700
+O4   0.37200   0.25000   0.64300
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Eu 0.01400 0.00870 0.01360 0.00000 0.00100 0.00000
+Ta 0.00820 0.00800 0.01190 0.00000 0.00020 0.00000
+O1 0.01600 0.00800 0.01600 0.00000 0.00200 -0.00200
+O2 0.01000 0.00800 0.01600 -0.00100 0.00200 -0.00400
+O3 0.03000 0.00700 0.01600 0.00000 0.00400 0.00000
+O4 0.01900 0.00200 0.01700 0.00000 0.00000 0.00000

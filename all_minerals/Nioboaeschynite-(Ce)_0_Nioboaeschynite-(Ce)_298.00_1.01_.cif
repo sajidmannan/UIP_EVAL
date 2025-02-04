@@ -1,0 +1,89 @@
+data_global
+_chemical_name_mineral 'Nioboaeschynite-(Ce)'
+loop_
+_publ_author_name
+'Morrison S M'
+'Downs R T'
+'Domanik K J'
+'Yang H'
+'Doell D'
+_journal_name_full 'Acta Crystallographica, Section E'
+_journal_volume 68 
+_journal_year 2012
+_journal_page_first i64
+_journal_page_last i65
+_publ_section_title
+;
+ Nioboaeschynite-(Ce), Ce(NbTi)O6
+;
+_database_code_amcsd 0019173
+_chemical_compound_source 'Upper Fir carbonatite, Kamloops mining division, British Columbia, Canada'
+_chemical_formula_sum 'Ce.348 Nd.14 La.12 Pr.04 Sm.02 Y.02 Gd.01 Th.06 Fe.03 Sr.01 Ca.25 (Nb1.14 Ti.86) O6'
+_cell_length_a 11.0563
+_cell_length_b 7.560
+_cell_length_c 5.3637
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 448.328
+_exptl_crystal_density_diffrn      5.440
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+CeA   0.45727   0.25000   0.03835   0.31000   0.00893
+NdA   0.45727   0.25000   0.03835   0.14000   0.00893
+LaA   0.45727   0.25000   0.03835   0.12000   0.00893
+PrA   0.45727   0.25000   0.03835   0.04000   0.00893
+SmA   0.45727   0.25000   0.03835   0.02000   0.00893
+YA   0.45727   0.25000   0.03835   0.02000   0.00893
+GdA   0.45727   0.25000   0.03835   0.01000   0.00893
+ThA   0.45727   0.25000   0.03835   0.06000   0.00893
+FeA   0.45727   0.25000   0.03835   0.03000   0.00893
+SrA   0.45727   0.25000   0.03835   0.01000   0.00893
+CaA*   0.43380   0.25000   0.05000   0.25000   0.01800
+NbB   0.35726   0.50690   0.53830   0.57000   0.01227
+TiB   0.35726   0.50690   0.53830   0.43000   0.01227
+O1   0.28750   0.44170   0.87200   1.00000   0.01260
+O2   0.52590   0.46150   0.73100   1.00000   0.01050
+O3   0.62210   0.25000   0.33890   1.00000   0.01240
+O4   0.35600   0.25000   0.45260   1.00000   0.01230
+CeC   0.15860   0.25000   0.57800   0.03800   0.06300
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+CeA 0.01220 0.00590 0.00870 0.00000 0.00050 0.00000
+NdA 0.01220 0.00590 0.00870 0.00000 0.00050 0.00000
+LaA 0.01220 0.00590 0.00870 0.00000 0.00050 0.00000
+PrA 0.01220 0.00590 0.00870 0.00000 0.00050 0.00000
+SmA 0.01220 0.00590 0.00870 0.00000 0.00050 0.00000
+YA 0.01220 0.00590 0.00870 0.00000 0.00050 0.00000
+GdA 0.01220 0.00590 0.00870 0.00000 0.00050 0.00000
+ThA 0.01220 0.00590 0.00870 0.00000 0.00050 0.00000
+FeA 0.01220 0.00590 0.00870 0.00000 0.00050 0.00000
+SrA 0.01220 0.00590 0.00870 0.00000 0.00050 0.00000
+NbB 0.01110 0.01448 0.01123 0.00121 -0.00065 0.00082
+TiB 0.01110 0.01448 0.01123 0.00121 -0.00065 0.00082
+O1 0.01330 0.01090 0.01370 0.00140 0.00410 0.00140
+O2 0.01270 0.00960 0.00910 -0.00040 0.00160 0.00050
+O3 0.01140 0.00620 0.01950 0.00000 0.00160 0.00000
+O4 0.01230 0.00660 0.01790 0.00000 0.00160 0.00000

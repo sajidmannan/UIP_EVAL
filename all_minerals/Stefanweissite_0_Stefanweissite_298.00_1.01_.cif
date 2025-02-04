@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Stefanweissite'
+loop_
+_publ_author_name
+'Whittle K R'
+'Hyatt N C'
+'Smith K L'
+'Margiolaki I'
+'Berry F J'
+'Knight K S'
+'Lumpkin G R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 97 
+_journal_year 2012
+_journal_page_first 291
+_journal_page_last 298
+_publ_section_title
+;
+ Combined neutron and X-ray diffraction determination
+ of disorder in doped zirconolite-2M
+ Note: CaZrTiFe0.5Nb0.5O7
+;
+_database_code_amcsd 0020828
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca2 Zr2 Ti2.01 Fe Nb.99 O14'
+_cell_length_a 12.527951
+_cell_length_b 7.304224
+_cell_length_c 11.426725
+_cell_angle_alpha 90
+_cell_angle_beta 100.60200
+_cell_angle_gamma 90
+_cell_volume 1027.775
+_exptl_crystal_density_diffrn      4.722
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca   0.37500   0.12327   0.49615   1.00000   0.00885
+Zr   0.12062   0.12688   0.97294   1.00000   0.01558
+Ti1   0.24985   0.12456   0.74455   0.47000   0.01216
+Fe1   0.24985   0.12456   0.74455   0.17000   0.01216
+Nb1   0.24985   0.12456   0.74455   0.36000   0.01216
+Ti2   0.47068   0.05956   0.25189   0.17000   0.00799
+Fe2   0.47068   0.05956   0.25189   0.33000   0.00799
+Ti3   0.00000   0.12743   0.25000   0.73000   0.01454
+Nb3   0.00000   0.12743   0.25000   0.27000   0.01454
+O1   0.30127   0.13051   0.28278   1.00000   0.02033
+O2   0.46962   0.13773   0.09720   1.00000   0.01115
+O3   0.20534   0.08372   0.57080   1.00000   0.00808
+O4   0.39595   0.16728   0.71794   1.00000   0.01232
+O5   0.71063   0.17600   0.58300   1.00000   0.01167
+O6  -0.00320   0.12173   0.41761   1.00000   0.01108
+O7   0.11246   0.05264   0.79133   1.00000   0.01009

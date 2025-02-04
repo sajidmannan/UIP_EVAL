@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Gilmarite'
+loop_
+_publ_author_name
+'Sarp H'
+'Cerny R'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 11 
+_journal_year 1999
+_journal_page_first 549
+_journal_page_last 555
+_publ_section_title
+;
+ Gilmarite, Cu3(AsO4)(OH)3, a new mineral:
+ its description and crystal structure
+;
+_database_code_amcsd 0006791
+_chemical_formula_sum 'Cu3 As O7 H3'
+_cell_length_a 5.445
+_cell_length_b 5.873
+_cell_length_c 5.104
+_cell_angle_alpha 114.95
+_cell_angle_beta 93.05
+_cell_angle_gamma 91.92
+_cell_volume 147.494
+_exptl_crystal_density_diffrn      4.285
+_symmetry_space_group_name_H-M 'P 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.04920   0.60360   0.32240   0.00980
+Cu2   0.54890   0.36310   0.35680   0.00990
+Cu3   0.57230   0.88110   0.38690   0.00990
+As  -0.00130   0.00030   0.00010   0.00890
+O1   0.16200   0.27100   0.07100   0.01500
+O2   0.18800   0.80500   0.07400   0.01800
+O-H3   0.70300   0.54200   0.15400   0.01000
+O4   0.74300   0.06000   0.18600   0.01300
+O-H5   0.37100   0.67300   0.53800   0.00900
+O-H6   0.48300   0.22300   0.63000   0.01300
+O7   0.90500   0.86800   0.65300   0.01600

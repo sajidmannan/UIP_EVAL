@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Bobierrite'
+loop_
+_publ_author_name
+'Takagi S'
+'Mathew M'
+'Brown W E'
+_journal_name_full 'American Mineralogist'
+_journal_volume 71 
+_journal_year 1986
+_journal_page_first 1229
+_journal_page_last 1233
+_publ_section_title
+;
+ Crystal structures of bobierrite and synthetic Mg3(PO4)2(H2O)8
+;
+_database_code_amcsd 0001048
+_chemical_formula_sum 'Mg3 P2 O16'
+_cell_length_a 4.667
+_cell_length_b 27.926
+_cell_length_c 10.067
+_cell_angle_alpha 90
+_cell_angle_beta 105.01
+_cell_angle_gamma 90
+_cell_volume 1267.273
+_exptl_crystal_density_diffrn      2.049
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mg1   0.00000   0.87840   0.25000
+Mg2   0.00000   0.06681   0.25000
+Mg3   0.00000   0.17283   0.25000
+P   0.38610   0.11913   0.06483
+O1   0.37150   0.11974  -0.09160
+O2   0.71420   0.11951   0.14520
+O3   0.22910   0.16505   0.09580
+O4   0.23120   0.07345   0.09580
+OW1   0.31910   0.32540   0.35710
+OW2   0.30880   0.43350   0.34730
+OW3   0.28570   0.22389   0.35340
+OW4   0.28000   0.01297   0.35070
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 0.00980 0.01240 0.00440 0.00000 -0.00260 0.00000
+Mg2 0.01040 0.01130 0.00540 0.00000 -0.00190 0.00000
+Mg3 0.01180 0.00980 0.00700 0.00000 -0.00170 0.00000
+P 0.00740 0.01110 0.00260 0.00020 -0.00250 -0.00010
+O1 0.00990 0.01620 0.00540 -0.00010 -0.00080 0.00120
+O2 0.00770 0.01480 0.00620 -0.00130 -0.00370 -0.00110
+O3 0.01180 0.01250 0.00740 0.00060 -0.00090 -0.00060
+O4 0.01010 0.01110 0.00870 -0.00070 -0.00040 -0.00030
+OW1 0.01510 0.01790 0.00900 -0.00040 -0.00060 -0.00090
+OW2 0.01230 0.01840 0.00710 -0.00120 -0.00220 0.00000
+OW3 0.01810 0.01360 0.03020 -0.00160 -0.00100 -0.00710
+OW4 0.01490 0.01540 0.01990 -0.00230 -0.00040 0.00280

@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Nitrobarite'
+loop_
+_publ_author_name
+'Nowotny H'
+'Heger G'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 39 
+_journal_year 1983
+_journal_page_first 952
+_journal_page_last 956
+_publ_section_title
+;
+ Structure refinement of strontium nitrate, Sr(NO3)2, and barium nitrate, Ba(NO3)2
+;
+_database_code_amcsd 0009978
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ba N2 O6'
+_cell_length_a 8.1184
+_cell_length_b 8.1184
+_cell_length_c 8.1184
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 535.071
+_exptl_crystal_density_diffrn      3.244
+_symmetry_space_group_name_H-M 'P a -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+z,x,1/2-y'
+  'z,1/2-x,1/2+y'
+  '1/2-z,1/2+x,y'
+  '-z,-x,-y'
+  '1/2+y,1/2-z,-x'
+  '1/2-y,-z,1/2+x'
+  '-y,1/2+z,1/2-x'
+  'y,z,x'
+  'x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,y,1/2-z'
+  '-x,-y,-z'
+  '1/2-z,-x,1/2+y'
+  '-z,1/2+x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'z,x,y'
+  '1/2-y,1/2+z,x'
+  '1/2+y,z,1/2-x'
+  'y,1/2-z,1/2+x'
+  '-y,-z,-x'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ba   0.00000   0.00000   0.00000
+N   0.35139   0.35139   0.35139
+O   0.28553   0.29105   0.47627
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba 0.01482 0.01482 0.01482 0.00033 0.00033 0.00033
+N 0.01990 0.01990 0.01990 0.00341 0.00341 0.00341
+O 0.03406 0.03052 0.02544 0.01169 0.01235 0.01035

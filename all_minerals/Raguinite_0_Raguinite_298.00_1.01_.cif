@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Raguinite'
+loop_
+_publ_author_name
+'Welz D'
+'Deppe P'
+'Schaefer W'
+'Sabrowsky H'
+'Rosenberg M'
+_journal_name_full 'Journal of Physics and Chemistry of Solids'
+_journal_volume 50 
+_journal_year 1989
+_journal_page_first 297
+_journal_page_last 308
+_publ_section_title
+;
+ Magnetism of iron-sulfur tetrahedral frameworks in compounds with thallium
+ I. Chain structures
+;
+_database_code_amcsd 0013236
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Tl Fe S2'
+_cell_length_a 11.68
+_cell_length_b 5.32
+_cell_length_c 10.53
+_cell_angle_alpha 90
+_cell_angle_beta 144.60
+_cell_angle_gamma 90
+_cell_volume 379.029
+_exptl_crystal_density_diffrn      5.684
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Tl   0.03400   0.00000   0.35900
+Fe   0.00000   0.25400   0.00000
+S1   0.25900   0.00000   0.29900
+S2   0.41600   0.00000   0.09200

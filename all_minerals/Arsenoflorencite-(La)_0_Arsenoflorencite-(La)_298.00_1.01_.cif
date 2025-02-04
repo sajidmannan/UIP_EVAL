@@ -1,0 +1,95 @@
+data_global
+_chemical_name_mineral 'Arsenoflorencite-(La)'
+loop_
+_publ_author_name
+'Mills S J'
+'Kartashov P M'
+'Kampf A R'
+'Raudsepp M'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 22 
+_journal_year 2010
+_journal_page_first 613
+_journal_page_last 621
+_publ_section_title
+;
+ Arsenoflorencite-(La), a new mineral from the Komi Republic, Russian Federation:
+ description and crystal structure
+;
+_database_code_amcsd 0017090
+_chemical_compound_source 'Grubependity Lake cirque, Prepolar Ural, Komi Republic, Russia'
+_chemical_formula_sum 'La Al3 As2 O14 H6'
+_cell_length_a 7.0316
+_cell_length_b 7.0316
+_cell_length_c 16.5151
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 707.164
+_exptl_crystal_density_diffrn      4.225
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  'y,x,-z'
+  '2/3+y,1/3+x,1/3-z'
+  '1/3+y,2/3+x,2/3-z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-x,-x+y,-z'
+  '2/3-x,1/3-x+y,1/3-z'
+  '1/3-x,2/3-x+y,2/3-z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  'x-y,-y,-z'
+  '2/3+x-y,1/3-y,1/3-z'
+  '1/3+x-y,2/3-y,2/3-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+La   0.00000   0.00000   0.00000   0.00728
+Al   0.50000   0.00000   0.50000   0.00550
+As   0.00000   0.00000   0.31492   0.00478
+O1   0.00000   0.00000   0.58543   0.01130
+O2   0.20482  -0.20482  -0.05460   0.01000
+O3   0.12273  -0.12273   0.13701   0.00840
+H   0.19400  -0.19400   0.12200   0.04800
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+La 0.00815 0.00815 0.00555 0.00408 0.00000 0.00000
+Al 0.00570 0.00440 0.00600 0.00220 0.00004 0.00010
+As 0.00472 0.00472 0.00488 0.00236 0.00000 0.00000
+O1 0.01170 0.01170 0.01050 0.00590 0.00000 0.00000
+O2 0.01170 0.01170 0.00900 0.00780 0.00050 0.00050
+O3 0.00710 0.00710 0.01130 0.00370 0.00080 0.00080

@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Orthominasragrite'
+loop_
+_publ_author_name
+'Hawthorne F C'
+'Schindler M'
+'Grice J D'
+'Haynes P'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 39 
+_journal_year 2001
+_journal_page_first 1325
+_journal_page_last 1331
+_publ_section_title
+;
+ Orthominasragrite, VO(SO4)(H2O)5, a new mineral species from Temple
+ Mountain, Emery county, Utah, U.S.A.
+;
+_database_code_amcsd 0005743
+_chemical_compound_source 'Temple Mountain, Emery county, Utah, USA'
+_chemical_formula_sum 'V S O10 H10'
+_cell_length_a 7.242
+_cell_length_b 9.319
+_cell_length_c 6.192
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 417.887
+_exptl_crystal_density_diffrn      2.011
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,-y,1/2+z'
+  '-x,y,z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+V   0.00000   0.28670   0.00000 ?
+S   0.00000   0.76470  -0.02380 ?
+O(1)   0.00000   0.34680   0.23900 ?
+OW(2)   0.00000   0.17080   0.68480 ?
+OW(3)   0.20300   0.13900   0.04590 ?
+OW(4)   0.19380   0.41540   0.86810 ?
+O(5)   0.16530   0.85630  -0.04290 ?
+O(6)   0.00000   0.66080   0.79970 ?
+O(7)   0.00000   0.69110   0.18810 ?
+H(1)   0.00000   0.15700   0.52800   0.03000
+H(2)   0.00000   0.25600   0.59200   0.03000
+H(3)   0.16400   0.04500  -0.00700   0.03000
+H(4)   0.27400   0.13100   0.18000   0.03000
+H(5)   0.30600   0.37000   0.81200   0.03000
+H(6)   0.18900   0.51700   0.82900   0.03000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V 0.01880 0.01650 0.01730 0.00000 0.00000 -0.00350
+S 0.01810 0.01640 0.01880 0.00000 0.00000 0.00110
+O(1) 0.04470 0.02850 0.02490 0.00000 0.00000 -0.00980
+OW(2) 0.03020 0.03080 0.01520 0.00000 0.00000 0.00000
+OW(3) 0.02970 0.01870 0.02820 0.00340 -0.00900 -0.00210
+OW(4) 0.02080 0.02400 0.04940 -0.00120 0.01020 0.00240
+O(5) 0.01740 0.02440 0.02590 -0.00360 0.00280 0.00320
+O(6) 0.03670 0.01840 0.03910 0.00000 0.00000 -0.00070
+O(7) 0.02450 0.03670 0.02380 0.00000 0.00000 0.01110

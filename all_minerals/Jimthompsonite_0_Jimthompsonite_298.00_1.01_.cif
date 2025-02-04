@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Jimthompsonite'
+loop_
+_publ_author_name
+'Veblen D R'
+'Burnham C W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 63 
+_journal_year 1978
+_journal_page_first 1053
+_journal_page_last 1073
+_publ_section_title
+;
+ New biopyriboles from Chester, Vermont: II. The crystal chemistry of
+ jimthompsonite, clinojimthompsonite, and chesterite, and the amphibole-mica
+ reaction
+;
+_database_code_amcsd 0000687
+_chemical_formula_sum '(Mg3.892 Fe1.108) Si6 (O18 H2)'
+_cell_length_a 18.626
+_cell_length_b 27.230
+_cell_length_c 5.297
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2686.564
+_exptl_crystal_density_diffrn      3.041
+_symmetry_space_group_name_H-M 'P b c a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg1   0.12565   0.27883   0.89663   0.94000   0.00545
+Fe1   0.12565   0.27883   0.89663   0.06000   0.00545
+Mg2   0.12535   0.33533   0.39566   0.84400   0.00735
+Fe2   0.12535   0.33533   0.39566   0.15600   0.00735
+Mg3   0.12506   0.39257   0.89577   0.92200   0.00532
+Fe3   0.12506   0.39257   0.89577   0.07800   0.00532
+Mg4   0.12485   0.45165   0.39642   0.98900   0.00443
+Fe4   0.12485   0.45165   0.39642   0.01100   0.00443
+Fe5   0.12369   0.50609   0.89507   0.80300   0.00697
+Mg5   0.12369   0.50690   0.89507   0.19700   0.00697
+Si1a   0.27111   0.27787   0.55967   1.00000   0.00380
+Si2a   0.26964   0.39005   0.56980   1.00000   0.00507
+Si3a   0.27242   0.44700   0.06669   1.00000   0.00532
+Si1b   0.48025   0.27769   0.26700   1.00000   0.00418
+Si2b   0.48078   0.38929   0.27278   1.00000   0.00545
+Si3b   0.47579   0.44553   0.77466   1.00000   0.00595
+O-Ha   0.18329   0.33519   0.06241   1.00000   0.00621
+O-Hb   0.56861   0.33513   0.76931   1.00000   0.00633
+O1a   0.30061   0.24981   0.31159   1.00000   0.00823
+O2a   0.18399   0.27777   0.56140   1.00000   0.00507
+O3a   0.29949   0.33407   0.55638   1.00000   0.00861
+O4a   0.18325   0.39170   0.56291   1.00000   0.00633
+O5a   0.29980   0.41491   0.82585   1.00000   0.00925
+O6a   0.30187   0.42028   0.33148   1.00000   0.00874
+O7a   0.18560   0.44852   0.06801   1.00000   0.00697
+O8a   0.31330   0.49841   0.08080   1.00000   0.00773
+O1b   0.45141   0.24443   0.03443   1.00000   0.00684
+O2b   0.56718   0.27792   0.26828   1.00000   0.00519
+O3b   0.45168   0.33338   0.23045   1.00000   0.00823
+O4b   0.56725   0.39207   0.27127   1.00000   0.00760
+O5b   0.44881   0.42441   0.05168   1.00000   0.00747
+O6b   0.45138   0.40886   0.54386   1.00000   0.00963
+O7b   0.56296   0.44849   0.77718   1.00000   0.00798
+O8b   0.43394   0.49561   0.71391   1.00000   0.00785

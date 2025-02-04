@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Pinalite'
+loop_
+_publ_author_name
+'Grice J D'
+'Dunn P J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 85 
+_journal_year 2000
+_journal_page_first 806
+_journal_page_last 809
+_publ_section_title
+;
+ Crystal-structure determination of pinalite
+;
+_database_code_amcsd 0002460
+_chemical_formula_sum 'Pb3 W O5 Cl2'
+_cell_length_a 11.073
+_cell_length_b 13.067
+_cell_length_c 5.617
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 812.729
+_exptl_crystal_density_diffrn      7.816
+_symmetry_space_group_name_H-M 'A m a 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  'x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '-x,1/2-y,1/2+z'
+  '1/2-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1   0.46780   0.34890   0.00000
+Pb2   0.75000   0.40020  -0.50000
+W   0.75000   0.23500   0.00000
+O1   0.63200   0.27000   0.23200
+O2   0.75000   0.10500   0.00000
+Cl1   0.50000   0.50000  -0.50000
+Cl2   0.75000   0.47500   0.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.11616 0.17473 0.02094 0.01173 0.00000 0.00000
+Pb2 0.13293 0.18684 0.01135 0.00000 0.00000 0.00000
+W 0.10187 0.16435 0.01087 0.00000 0.00000 0.00000
+O1 0.11491 0.20328 0.01598 -0.03225 -0.00473 0.00818
+O2 0.20125 0.34341 0.05914 0.00000 0.00000 0.00000
+Cl1 0.08758 0.41002 0.06841 0.04471 0.00000 0.00000
+Cl2 0.15591 0.32784 0.02477 0.00000 0.00000 0.00000

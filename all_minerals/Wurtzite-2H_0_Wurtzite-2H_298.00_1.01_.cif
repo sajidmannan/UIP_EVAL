@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Wurtzite-2H'
+loop_
+_publ_author_name
+'Mloszewski M J'
+'Saha A K'
+'Nuffield E W'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 6 
+_journal_year 1957
+_journal_page_first 136
+_journal_page_last 139
+_publ_section_title
+;
+ Manganoan ferroan wurtzite from Llallagua, Bolivia (II)
+;
+_database_code_amcsd 0005074
+_chemical_compound_source 'Llallagua, Bolivia'
+_chemical_formula_sum '(Zn.5 Mn.25 Fe.25) S'
+_cell_length_a 3.881
+_cell_length_b 3.881
+_cell_length_c 6.315
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 82.374
+_exptl_crystal_density_diffrn      3.728
+_symmetry_space_group_name_H-M 'P 63 m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Zn   0.33333   0.66667   0.00000   0.50000
+Mn   0.33333   0.66667   0.00000   0.25000
+Fe   0.33333   0.66667   0.00000   0.25000
+S   0.33333   0.66667   0.37500   1.00000

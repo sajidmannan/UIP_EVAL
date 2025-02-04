@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Chalcostibite'
+loop_
+_publ_author_name
+'Kyono A'
+'Kimata M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 90 
+_journal_year 2005
+_journal_page_first 162
+_journal_page_last 165
+_publ_section_title
+;
+ Crystal structures of chalcostibite (CuSbS2) and emplectite (CuBiS2): Structural
+ relationship of stereochemical activity between chalcostibite and emplectite
+;
+_database_code_amcsd 0003673
+_chemical_formula_sum 'Cu Sb S2'
+_cell_length_a 6.018
+_cell_length_b 3.7958
+_cell_length_c 14.495
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 331.111
+_exptl_crystal_density_diffrn      5.004
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu   0.74780   0.75000   0.17240   0.03000
+Sb   0.22600   0.25000   0.06333   0.02410
+S1   0.62210   0.25000   0.09500   0.02290
+S2   0.12940   0.75000   0.17560   0.02310
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.03080 0.03120 0.02810 0.00000 0.00100 0.00000
+Sb 0.02490 0.02430 0.02290 0.00000 -0.00110 0.00000
+S1 0.02220 0.02420 0.02250 0.00000 0.00040 0.00000
+S2 0.02510 0.02450 0.01970 0.00000 -0.00010 0.00000

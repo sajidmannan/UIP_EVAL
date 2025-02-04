@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Parisite-(Ce)'
+loop_
+_publ_author_name
+'Donnay G'
+'Donnay J D H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 38 
+_journal_year 1953
+_journal_page_first 932
+_journal_page_last 963
+_publ_section_title
+;
+ The crystallography of bastnaesite, parasite, roentgenite, and synchisite
+;
+_database_code_amcsd 0000060
+_chemical_formula_sum 'Ce2 Ca C O3 F2'
+_cell_length_a 7.12
+_cell_length_b 7.12
+_cell_length_c 84.1
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 3692.211
+_exptl_crystal_density_diffrn      3.386
+_symmetry_space_group_name_H-M 'R 3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ce1   0.33333   0.00000   0.00000
+Ce2   0.33333   0.00000   0.10800
+Ce3   0.33333   0.00000   0.16700
+Ce4   0.33333   0.00000   0.27500
+Ca1   0.33333   0.00000   0.05400
+Ca2   0.33333   0.00000   0.22100
+C1   0.24500   0.33333   0.13800
+C2   0.24500   0.33333   0.30400
+O1   0.06700   0.33333   0.13800
+O2   0.06700   0.33333   0.30400
+O3   0.33333   0.33333   0.12400
+O4   0.33333   0.33333   0.15100
+O5   0.33333   0.33333   0.29100
+O6   0.33333   0.33333   0.31700
+F1   0.00000   0.00000   0.00000
+F2   0.00000   0.00000   0.33333
+F3   0.00000   0.00000   0.66667
+F4   0.00000   0.00000   0.10800
+F5   0.00000   0.00000   0.44100
+F6   0.00000   0.00000   0.77500
+F7   0.00000   0.00000   0.16700
+F8   0.00000   0.00000   0.50000
+F9   0.00000   0.00000   0.83400
+F10   0.00000   0.00000   0.27500
+F11   0.00000   0.00000   0.60800
+F12   0.00000   0.00000   0.94200

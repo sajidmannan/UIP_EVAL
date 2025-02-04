@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Cascandite'
+loop_
+_publ_author_name
+'Mellini M'
+'Merlino S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 67 
+_journal_year 1982
+_journal_page_first 604
+_journal_page_last 609
+_publ_section_title
+;
+ The crystal structure of cascandite, CaScSi3O8(OH)
+;
+_database_code_amcsd 0000868
+_chemical_formula_sum 'Ca Sc Si3 O9 H2'
+_cell_length_a 9.791
+_cell_length_b 10.420
+_cell_length_c 7.076
+_cell_angle_alpha 98.91
+_cell_angle_beta 102.63
+_cell_angle_gamma 84.17
+_cell_volume 694.221
+_exptl_crystal_density_diffrn      3.017
+_symmetry_space_group_name_H-M 'C 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca   0.00270   0.66290   0.91280
+Sc  -0.00190   0.64210   0.40620
+Si1   0.21630   0.04020   0.08860
+Si2   0.21020   0.06660   0.52290
+Si3   0.20550   0.83660   0.73990
+O1   0.11600   0.44900   0.87290
+O2   0.11760   0.44620   0.42030
+O3   0.12790   0.69300   0.24160
+O4   0.12950   0.15680  -0.02620
+O5   0.14790   0.20060   0.62910
+O6   0.11130   0.71390   0.67360
+O7   0.15710   0.05380   0.28710
+O8   0.15070   0.94580   0.59400
+O-H9   0.18150   0.89810   0.96010
+H   0.13000   0.18000   0.86000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01703 0.01282 0.00853 0.00149 0.00429 0.00356
+Sc 0.00460 0.00694 0.00237 -0.00198 0.00000 0.00142
+Si1 0.00874 0.01068 0.00640 -0.00050 0.00132 0.00285
+Si2 0.00828 0.00962 0.00616 -0.00099 0.00099 0.00356
+Si3 0.00920 0.00962 0.00664 -0.00297 0.00066 0.00214
+O1 0.00874 0.01389 0.00995 -0.00198 0.00033 0.00356
+O2 0.00828 0.01336 0.00948 -0.00149 0.00066 0.00285
+O3 0.01104 0.02030 0.01114 -0.00297 0.00099 0.00463
+O4 0.02117 0.01336 0.01232 0.00496 0.00528 0.00676
+O5 0.01841 0.01175 0.01161 0.00099 0.00495 0.00107
+O6 0.01196 0.01282 0.01019 -0.00446 -0.00066 0.00285
+O7 0.01058 0.02030 0.00853 -0.00099 0.00198 0.00356
+O8 0.01518 0.01442 0.01564 -0.00446 0.00165 0.00783
+O-H9 0.01657 0.01549 0.00877 -0.00545 0.00297 0.00036

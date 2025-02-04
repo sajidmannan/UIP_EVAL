@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Karenwebberite'
+loop_
+_publ_author_name
+'Vignola P'
+'Hatert F'
+'Fransolet A M'
+'Mendenbach O'
+'Diella V'
+'Ando S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 98 
+_journal_year 2013
+_journal_page_first 767
+_journal_page_last 772
+_publ_section_title
+;
+ Karenwebberite, Na(Fe2+,Mn2+)PO4, a new member of the triphylite group
+ from the Malpensata pegmatite, Lecco Province, Italy
+;
+_database_code_amcsd 0019819
+_chemical_compound_source 'the Malpensata pegmatite, Lecco Province, Italy'
+_chemical_formula_sum 'Na.68 (Fe.67 Mn.33) P O4'
+_cell_length_a 4.882
+_cell_length_b 10.387
+_cell_length_c 6.091
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 308.871
+_exptl_crystal_density_diffrn      3.573
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NaM1   0.00000   0.00000   0.00000   0.68000   0.01800
+FeM2   0.98620   0.28270   0.25000   0.67000   0.01030
+MnM2   0.98620   0.28270   0.25000   0.33000   0.01030
+P   0.43340   0.10340   0.25000   1.00000   0.01220
+O1   0.74400   0.11100   0.25000   1.00000   0.01900
+O2   0.16600   0.46480   0.25000   1.00000   0.02000
+O3   0.30300   0.17370   0.05200   1.00000   0.01900
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+NaM1 0.00800 0.02500 0.02100 0.00200 -0.00700 -0.00300
+FeM2 0.01700 0.01000 0.00500 -0.00080 0.00000 0.00000
+MnM2 0.01700 0.01000 0.00500 -0.00080 0.00000 0.00000
+P 0.01700 0.01300 0.00700 0.00200 0.00000 0.00000
+O1 0.01900 0.02400 0.01500 0.00600 0.00000 0.00000
+O2 0.03700 0.01000 0.01300 -0.01100 0.00000 0.00000
+O3 0.02600 0.02500 0.00500 0.00600 0.00000 0.00800

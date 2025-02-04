@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Innelite'
+loop_
+_publ_author_name
+'Sokolova E'
+'Camara F'
+'Hawthorne F C'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 75 
+_journal_year 2011
+_journal_page_first 2495
+_journal_page_last 2518
+_publ_section_title
+;
+ From structure topology to chemical composition. XI. Titanium silicates:
+ crystal structures of innelite-1T and innelite-2M from the Inagli massif,
+ Yakutia, Russia, and the crystal chemistry of innelite
+ Note: this is the polytype innelite-1T
+;
+_database_code_amcsd 0018495
+_chemical_compound_source 'Inagli massif, Yakutia, Russia'
+_chemical_formula_sum '(Ba3.92 Sr.08) Ti2.96 Nb.02 Al.02 Na2.16 Mn.38 Fe.18 Mg.14 Ca.1 Si4 S1.02 P.82 O26'
+_cell_length_a 5.4234
+_cell_length_b 7.131
+_cell_length_c 14.785
+_cell_angle_alpha 98.442
+_cell_angle_beta 94.579
+_cell_angle_gamma 90.009
+_cell_volume 563.757
+_exptl_crystal_density_diffrn      4.017
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+BaAP   0.28870   0.41429   0.68274   0.98000   0.02090
+SrAP   0.28870   0.41429   0.68274   0.02000   0.02090
+BaBP   0.77374   0.87957   0.60954   0.98000   0.00960
+SrBP   0.77374   0.87957   0.60954   0.02000   0.00960
+TiMH   0.68570   0.05890   0.20050   0.98000   0.00450
+NbMH   0.68570   0.05890   0.20050   0.01000   0.00450
+AlMH   0.68570   0.05890   0.20050   0.01000   0.00450
+TiMO1   0.00000   0.50000   0.00000   1.00000   0.02320
+NaMO2   0.00000   0.00000   0.00000   1.00000   0.01500
+NaMO3   0.49880   0.74020   0.99930   0.58000   0.02470
+MnMO3   0.49880   0.74020   0.99930   0.19000   0.02470
+FeMO3   0.49880   0.74020   0.99930   0.09000   0.02470
+MgMO3   0.49880   0.74020   0.99930   0.07000   0.02470
+CaMO3   0.49880   0.74020   0.99930   0.05000   0.02470
+Si1   0.81630   0.23140   0.80970   1.00000   0.00100
+Si2   0.81730   0.65760   0.81080   1.00000   0.00280
+ST   0.75510   0.29810   0.52310   0.51000   0.01750
+PT   0.75510   0.29810   0.52310   0.41000   0.01750
+O1   0.83800   0.27120   0.92050   1.00000   0.00400
+O2   0.56200   0.12070   0.76730   1.00000   0.00700
+O3   0.05400   0.11800   0.76580   1.00000   0.00600
+O4   0.80600   0.43130   0.76830   1.00000   0.00500
+O5   0.56000   0.74140   0.76900   1.00000   0.00400
+O6   0.05500   0.73930   0.76740   1.00000   0.00500
+O7   0.83900   0.68040   0.92100   1.00000   0.01000
+O8   0.66200   0.02200   0.08520   1.00000   0.01600
+O9   0.28600   0.47900   0.92400   1.00000   0.02600
+O10   0.98600   0.19700   0.55390   1.00000   0.02400
+O11   0.53700   0.19300   0.55290   1.00000   0.02300
+O12   0.72900   0.26500   0.41400   1.00000   0.04400
+O13   0.77000   0.49700   0.56830   1.00000   0.03900

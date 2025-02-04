@@ -1,0 +1,88 @@
+data_global
+_chemical_name_mineral 'Fluor-buergerite'
+loop_
+_publ_author_name
+'Tippe A'
+'Hamilton W C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 56 
+_journal_year 1971
+_journal_page_first 101
+_journal_page_last 113
+_publ_section_title
+;
+ A neutron-diffraction study of the ferric tourmaline, buergerite
+;
+_database_code_amcsd 0000221
+_chemical_compound_source 'Mexquitic, San Luis Potosi, Mexico'
+_chemical_formula_sum 'Na Fe3 Al6 Si6 B3 F O30 H3'
+_cell_length_a 15.869
+_cell_length_b 15.869
+_cell_length_c 7.188
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1567.609
+_exptl_crystal_density_diffrn      3.354
+_symmetry_space_group_name_H-M 'R 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+NaX   0.00000   0.00000   0.21186 ?
+FeY  -0.06614   0.06614   0.62217 ?
+AlZ   0.29925   0.25919   0.60450 ?
+SiT   0.19171   0.19087   0.00000 ?
+B   0.11001  -0.11001   0.45172 ?
+F1   0.00000   0.00000   0.76850 ?
+O2   0.06042  -0.06042   0.48532 ?
+O3  -0.13205   0.13205   0.52026 ?
+O4   0.09463  -0.09463   0.07612 ?
+O5  -0.09117   0.09117   0.08362 ?
+O6   0.19320   0.18712   0.77538 ?
+O7   0.28708   0.28592   0.07513 ?
+O8   0.20925   0.26971   0.43868 ?
+H  -0.13130   0.13130   0.38890   0.03040
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+NaX 0.03110 0.03110 0.01885 0.01555 0.00000 0.00000
+FeY 0.00986 0.00986 0.01531 0.00144 0.00435 -0.00435
+AlZ 0.00603 0.00555 0.00610 0.00134 -0.00035 0.00205
+SiT 0.00603 0.00593 0.00770 0.00277 -0.00025 -0.00170
+B 0.00565 0.00565 0.00890 0.00287 0.00090 -0.00090
+F1 0.01837 0.01837 0.00940 0.00919 0.00000 0.00000
+O2 0.00947 0.00947 0.01086 0.00737 0.00045 -0.00045
+O3 0.00641 0.00641 0.00997 -0.00038 -0.00055 0.00055
+O4 0.00823 0.00823 0.00932 0.00316 -0.00100 0.00100
+O5 0.00909 0.00909 0.00780 0.00144 -0.00015 0.00015
+O6 0.00679 0.00756 0.00529 0.00211 0.00005 -0.00030
+O7 0.00584 0.00450 0.00825 0.00115 0.00005 -0.00105
+O8 0.00373 0.00919 0.01076 0.00249 0.00160 0.00260

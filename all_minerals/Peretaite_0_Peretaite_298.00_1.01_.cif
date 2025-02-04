@@ -1,0 +1,77 @@
+data_global
+_chemical_name_mineral 'Peretaite'
+loop_
+_publ_author_name
+'Menchetti S'
+'Sabelli C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 65 
+_journal_year 1980
+_journal_page_first 940
+_journal_page_last 946
+_publ_section_title
+;
+ Peretaite, CaSb4O4(OH)2(SO4)2*2H2O: Its atomic arrangement and twinning
+;
+_database_code_amcsd 0000796
+_chemical_formula_sum 'Sb4 Ca S2 O16 H6'
+_cell_length_a 24.665
+_cell_length_b 5.6006
+_cell_length_c 10.185
+_cell_angle_alpha 90
+_cell_angle_beta 95.98
+_cell_angle_gamma 90
+_cell_volume 1399.288
+_exptl_crystal_density_diffrn      4.050
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Sb1   0.29249   0.50504   0.51525 ?
+Sb2   0.31537   0.05196   0.26706 ?
+Ca   0.50000   0.18560   0.25000 ?
+S   0.42010  -0.01630   0.51840 ?
+O1   0.36000   0.00490   0.52760 ?
+O2   0.42960   0.04630   0.38290 ?
+O3   0.45110   0.13910   0.61590 ?
+O4   0.43780  -0.26350   0.54870 ?
+O5   0.44460   0.52060   0.30430 ?
+O6   0.26090   0.17780   0.38710 ?
+O7   0.26250   0.17870   0.11460 ?
+O8   0.33940   0.38600   0.26670 ?
+H1   0.45000   0.60000   0.21000   0.05066
+H2   0.45000   0.66000   0.38000   0.05066
+H3   0.38200   0.42000   0.28500   0.05066
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb1 0.00610 0.01144 0.01196 0.00070 0.00252 0.00460
+Sb2 0.00915 0.00763 0.00936 0.00139 0.00252 -0.00029
+Ca 0.00915 0.01319 0.01144 0.00000 0.00126 0.00000
+S 0.00915 0.01319 0.01196 -0.00070 0.00126 0.00115
+O1 0.00915 0.04020 0.02547 0.00209 0.00378 0.00029
+O2 0.01829 0.02256 0.01871 0.00070 0.00504 0.00805
+O3 0.02439 0.01923 0.02079 0.00209 -0.00378 -0.00661
+O4 0.03049 0.01033 0.01715 0.00070 -0.00126 0.00201
+O5 0.01524 0.01430 0.02027 -0.00278 0.00378 -0.00144
+O6 0.00305 0.01081 0.00936 -0.00139 0.00504 -0.00029
+O7 0.00610 0.00826 0.00572 -0.00209 -0.00126 0.00086
+O8 0.00915 0.01049 0.02131 -0.00209 0.00252 0.00029

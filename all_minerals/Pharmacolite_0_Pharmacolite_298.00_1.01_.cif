@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Pharmacolite'
+loop_
+_publ_author_name
+'Ferraris G'
+'Jones D W'
+'Yerkess J'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 27 
+_journal_year 1971
+_journal_page_first 349
+_journal_page_last 354
+_publ_section_title
+;
+ Determination of hydrogen atom positions in the crystal structure of
+ pharmacolite, CaHAsO4(H2O)2, by neutron diffraction
+;
+_database_code_amcsd 0009386
+_chemical_compound_source 'Andreasberg, Harz Mts, Lower Saxony, Germany'
+_chemical_formula_sum 'Ca As O6 H5'
+_cell_length_a 5.9745
+_cell_length_b 15.4340
+_cell_length_c 6.2797
+_cell_angle_alpha 90
+_cell_angle_beta 114.83
+_cell_angle_gamma 90
+_cell_volume 525.525
+_exptl_crystal_density_diffrn      2.730
+_symmetry_space_group_name_H-M 'I b a 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/2+x,-y,z'
+  '+x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca   0.26050   0.82620   0.00930
+As   0.25320   0.32425  -0.01400
+O2   0.53400   0.27860   0.09910
+O1   0.23910   0.37460   0.22600
+O3   0.19410   0.39780  -0.22380
+O4   0.02730   0.25030  -0.11770
+O5   0.14140   0.92570   0.24350
+O6   0.26710   0.94560   0.76850
+H1   0.15120   0.33280   0.30090
+H2   0.15670   0.98800   0.24660
+H3  -0.01960   0.91370   0.24590
+H4   0.26430   0.00750   0.78000
+H5   0.25360   0.93480   0.62020
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01264 0.00977 0.01368 0.00076 0.00557 0.00076
+As 0.00539 0.00628 0.01292 0.00066 0.00300 -0.00075
+O2 0.02913 0.01773 0.05319 0.00127 0.02913 -0.00760
+O1 0.05699 0.02533 0.03166 -0.00507 0.02913 0.00507
+O3 0.04306 0.03547 0.04053 0.00127 0.03293 0.00000
+O4 0.06713 0.02660 0.03420 0.00507 0.02026 0.00380
+O5 0.05573 0.05193 0.03926 -0.00380 0.01393 0.00760
+O6 0.02837 0.01026 0.01950 -0.00215 0.01368 -0.00342
+H1 0.00760 0.01330 0.01976 -0.00038 -0.00063 -0.00481
+H2 0.01621 0.02039 0.01849 0.00595 0.00760 0.00747
+H3 0.00722 0.01178 0.01748 0.00063 0.00241 0.00291
+H4 0.02482 0.01406 0.03382 -0.00139 0.02001 -0.00836
+H5 0.03901 0.01659 0.03306 -0.00152 0.02204 0.00317

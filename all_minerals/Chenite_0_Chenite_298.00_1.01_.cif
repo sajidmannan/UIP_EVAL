@@ -1,0 +1,49 @@
+data_global
+_chemical_name_mineral 'Chenite'
+loop_
+_publ_author_name
+'Hess H'
+'Keller P'
+'Riffel H'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1988 
+_journal_year 1988
+_journal_page_first 259
+_journal_page_last 264
+_publ_section_title
+;
+ The crystal structure of chenite, Pb4Cu(OH)6(SO4)2
+;
+_database_code_amcsd 0014826
+_chemical_compound_source 'Leadhills, Scotland'
+_chemical_formula_sum 'Pb4 Cu S2 (O14 H6)'
+_cell_length_a 5.791
+_cell_length_b 7.940
+_cell_length_c 7.976
+_cell_angle_alpha 112.02
+_cell_angle_beta 97.73
+_cell_angle_gamma 100.45
+_cell_volume 325.996
+_exptl_crystal_density_diffrn      6.044
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.37150   0.25410   0.48650   0.02800
+Pb2   0.56020   0.27170   0.04720   0.02700
+Cu   0.00000   0.00000   0.00000   0.01900
+S   0.06010   0.73900   0.27600   0.02000
+O-H1   0.21200   0.23600   0.18700   0.01800
+O-H2   0.27700  -0.05000  -0.12700   0.02600
+O-H3   0.32000   0.55900   0.59600   0.02700
+O4   0.19800   0.31600   0.81400   0.02600
+O5   0.16200   0.58800   0.22000   0.03300
+O6   0.08900   0.81800   0.48100   0.02600
+O7   0.18500   0.88700   0.22500   0.02700

@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Bystromite'
+loop_
+_publ_author_name
+'Bystrom A'
+'Hok B'
+'Mason B'
+_journal_name_full 'Arkiv for Kemi, Mineralogi och Geologi'
+_journal_volume 15B4 
+_journal_year 1942
+_journal_page_first 1
+_journal_page_last 8
+_publ_section_title
+;
+ The crystal structure of zinc metantimonate and similar compounds
+;
+_database_code_amcsd 0018802
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Mg Sb2 O6'
+_cell_length_a 4.63
+_cell_length_b 4.63
+_cell_length_c 9.21
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 197.434
+_exptl_crystal_density_diffrn      6.120
+_symmetry_space_group_name_H-M 'P 42/m n m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '1/2-y,1/2+x,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'y,x,z'
+  '-y,-x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2+y,1/2-x,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mg   0.00000   0.00000   0.00000
+Sb   0.00000   0.00000   0.33000
+O1   0.30600   0.30600   0.00000
+O2   0.30300   0.30300   0.32800

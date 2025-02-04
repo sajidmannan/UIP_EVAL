@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Epididymite'
+loop_
+_publ_author_name
+'Robinson P D'
+'Fang J H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 55 
+_journal_year 1970
+_journal_page_first 1541
+_journal_page_last 1549
+_publ_section_title
+;
+ The crystal structure of epididymite
+;
+_database_code_amcsd 0000212
+_chemical_compound_source 'Narsarsuk, Greenland'
+_chemical_formula_sum 'Na2 Be2 Si6 O16 H'
+_cell_length_a 12.74
+_cell_length_b 13.63
+_cell_length_c 7.33
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1272.827
+_exptl_crystal_density_diffrn      2.555
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Na   0.10300   0.06980   0.50140   0.02786
+Be   0.49510   0.00020   0.34330   0.00633
+Si1   0.15890   0.13800   0.01550   0.00380
+Si2   0.34290   0.13660   0.73140   0.00380
+Si3   0.33170   0.13780   0.30540   0.00507
+O1   0.12070   0.25000   0.00050   0.01393
+O2   0.21740   0.12340   0.20980   0.01140
+O3   0.06030   0.06640   0.00670   0.00887
+O4   0.23730   0.11420   0.84980   0.01267
+O5   0.43450   0.06450   0.79070   0.01013
+O6   0.37840   0.25000   0.76560   0.01013
+O7   0.30480   0.12390   0.52040   0.00887
+O8   0.37090   0.25000   0.26740   0.01013
+O9   0.41510   0.06290   0.22560   0.01140
+O-H10   0.05770   0.25000   0.48900   0.02913

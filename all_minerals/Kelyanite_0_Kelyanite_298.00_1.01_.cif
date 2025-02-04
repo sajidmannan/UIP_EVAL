@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Kelyanite'
+loop_
+_publ_author_name
+'Pervukhina N V'
+'Borisov S V'
+'Magarill S A'
+'Naumov D Y'
+'Vasilev V I'
+_journal_name_full 'American Mineralogist'
+_journal_volume 93 
+_journal_year 2008
+_journal_page_first 1666
+_journal_page_last 1669
+_publ_section_title
+;
+ The crystal structure of kelyanite (Hg2)6(SbO6)BrCl2
+;
+_database_code_amcsd 0004681
+_chemical_compound_source 'Kelyana deposit, Buryatia, Russia'
+_chemical_formula_sum 'Hg12 Sb O6 Br Cl2'
+_cell_length_a 13.560
+_cell_length_b 13.560
+_cell_length_c 10.004
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1593.029
+_exptl_crystal_density_diffrn      8.680
+_symmetry_space_group_name_H-M 'P 3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,x-y,z'
+  '-x+y,-x,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Hg1   0.20820  -0.14820   0.27040   0.02300
+Hg2   0.15020  -0.02390   0.39500   0.02400
+Hg3   0.45910  -0.02280   0.39260   0.02200
+Hg4   0.51560   0.15870   0.26740   0.02500
+Hg5   0.34900   0.21600   0.06250   0.04000
+Hg6   0.19120   0.07310  -0.07890   0.03300
+Hg7   0.37520   0.52620   0.06510   0.03700
+Hg8   0.50870   0.48660  -0.06290   0.03200
+Hg9   0.31710   0.20070   0.60040   0.04000
+Hg10   0.47610   0.21530   0.74180   0.03500
+Hg11   0.29220   0.48390   0.59770   0.03900
+Hg12   0.15860   0.31200   0.72680   0.03600
+Sb1   0.00000   0.00000   0.66290   0.03400
+Sb2   0.66667   0.33333   0.00150   0.03300
+Sb3   0.33333   0.66667   0.33250   0.03400
+O1   0.28400  -0.24100   0.20300   0.03600
+O2   0.13000   0.07600   0.53900   0.04100
+O3   0.39100  -0.18800   0.46000   0.04300
+O4   0.53400   0.26900   0.12600   0.05000
+O5   0.09000  -0.04700  -0.22300   0.03600
+O6   0.62800   0.42200  -0.12000   0.04700
+Br1   0.66667   0.33333   0.46780   0.05700
+Br2   0.00000   0.00000   0.15940   0.05800
+Br3   0.33333   0.66667   0.81650   0.05100
+Cl1   0.33500   0.22570   0.32990   0.05700
+Cl2   0.47200  -0.00580   0.67380   0.05700

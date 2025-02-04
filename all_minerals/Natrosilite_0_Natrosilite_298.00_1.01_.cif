@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Natrosilite'
+loop_
+_publ_author_name
+'Pant A K'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 24 
+_journal_year 1968
+_journal_page_first 1077
+_journal_page_last 1083
+_publ_section_title
+;
+ A reconsideration of the crystal structure of beta-Na2Si2O5
+;
+_database_code_amcsd 0009344
+_chemical_formula_sum 'Na2 Si2 O5'
+_cell_length_a 12.329
+_cell_length_b 4.848
+_cell_length_c 8.133
+_cell_angle_alpha 90
+_cell_angle_beta 104.24
+_cell_angle_gamma 90
+_cell_volume 471.181
+_exptl_crystal_density_diffrn      2.568
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na1   0.44362   0.75331   0.37932
+Na2   0.47262   0.22518   0.13722
+Si1   0.18240   0.18422   0.02770
+Si2   0.27681   0.29480   0.40291
+O1   0.21462  -0.14126   0.01551
+O2   0.26717   0.62025   0.45371
+O3   0.18097   0.24614   0.22574
+O4   0.40078   0.23205   0.39106
+O5   0.06384   0.24500  -0.09331
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 0.01630 0.01180 0.01100 -0.00080 0.00110 0.00010
+Na2 0.01290 0.01190 0.01510 0.00020 0.00490 0.00090
+Si1 0.00650 0.00460 0.00570 0.00020 0.00110 -0.00020
+Si2 0.00810 0.00410 0.00480 0.00020 0.00150 -0.00070
+O1 0.01080 0.00580 0.01520 0.00210 0.00560 -0.00080
+O2 0.01610 0.00600 0.00910 -0.00040 0.00570 -0.00240
+O3 0.01030 0.01370 0.00620 -0.00010 0.00080 -0.00210
+O4 0.00470 0.00570 0.00560 0.00080 0.00210 -0.00070
+O5 0.01090 0.01120 0.00770 0.00100 0.00080 0.00090

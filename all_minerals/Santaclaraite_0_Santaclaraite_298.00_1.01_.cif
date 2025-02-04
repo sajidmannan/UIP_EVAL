@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Santaclaraite'
+loop_
+_publ_author_name
+'Ohashi Y'
+'Finger L W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 66 
+_journal_year 1981
+_journal_page_first 154
+_journal_page_last 168
+_publ_section_title
+;
+ The crystal structure of santaclaraite, CaMn4[Si5O14(OH)](OH)*H2O: The role of
+ hydrogen atoms in the pyroxenoid structure
+ Note: gamma angle revised according to Am Min 66 (1981) 1281
+;
+_database_code_amcsd 0000807
+_chemical_formula_sum 'Mn4.03 Ca.92 Mg.05 Si5 O17 H4'
+_cell_length_a 10.273
+_cell_length_b 11.910
+_cell_length_c 12.001
+_cell_angle_alpha 105.77
+_cell_angle_beta 110.64
+_cell_angle_gamma 89.13
+_cell_volume 1317.063
+_exptl_crystal_density_diffrn      3.409
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mn1   0.01041   0.03761   0.87646   1.00000   0.00811
+Mn2   0.00534   0.11316   0.62112   1.00000   0.00659
+Mn3   0.02109   0.83376   0.63081   0.99000   0.00785
+Ca3   0.02109   0.83376   0.63081   0.01000   0.00785
+Mn4   0.00166   0.24218   0.11853   0.95000   0.00709
+Mg4   0.00166   0.24218   0.11853   0.05000   0.00709
+Ca5   0.01957   0.31307   0.86949   0.91000   0.00887
+Mn5   0.01957   0.31307   0.86949   0.09000   0.00887
+Si1   0.20920   0.58360   0.57760   1.00000   0.00519
+Si2   0.22030   0.66050   0.35640   1.00000   0.00557
+Si3   0.22560   0.46930   0.12120   1.00000   0.00507
+Si4   0.21010   0.53050   0.88100   1.00000   0.00507
+Si5   0.19530   0.35310   0.64090   1.00000   0.00494
+OA1   0.12700   0.89100   0.83860   1.00000   0.00836
+OA2   0.11150   0.81400   0.08650   1.00000   0.00823
+OA3   0.10710   0.02100   0.32690   1.00000   0.00785
+OA4   0.12220   0.95480   0.57600   1.00000   0.00760
+OA5   0.13660   0.15280   0.81690   1.00000   0.00709
+O-hB1   0.12040   0.67400   0.64370   1.00000   0.00937
+OB2   0.13160   0.76720   0.33270   1.00000   0.00925
+OB3   0.15360   0.33990   0.08870   1.00000   0.00887
+OB4   0.13630   0.63930   0.84350   1.00000   0.01102
+OB5   0.10680   0.23070   0.56200   1.00000   0.00785
+OC1   0.17400   0.59380   0.43980   1.00000   0.00912
+OC2   0.16830   0.56460   0.21550   1.00000   0.00861
+OC3   0.16020   0.50110   0.98730   1.00000   0.00798
+OC4   0.15490   0.40760   0.76630   1.00000   0.00798
+OC5   0.15750   0.44850   0.56030   1.00000   0.00849
+O-hD1   0.10410   0.08630   0.08020   1.00000   0.00950
+OWD2   0.12930   0.27640   0.32670   1.00000   0.01140
+H1   0.10100   0.65500   0.70200   1.00000 ?
+H2   0.18100   0.08900   0.11600   1.00000 ?
+H3   0.21800   0.24800   0.36200   1.00000 ?
+H4   0.13700   0.33500   0.40600   1.00000 ?

@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Tsumebite'
+loop_
+_publ_author_name
+'Fanfani L'
+'Zanazzi P F'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 36 
+_journal_year 1967
+_journal_page_first 522
+_journal_page_last 529
+_publ_section_title
+;
+ Structural similarities of some secondary lead minerals
+ Note: coordinates of O atoms are from arsentsumebite
+;
+_database_code_amcsd 0014449
+_chemical_compound_source 'Tsumeb, South West Africa'
+_chemical_formula_sum 'Pb2 Cu2 S P (O9 H)'
+_cell_length_a 7.85
+_cell_length_b 5.80
+_cell_length_c 8.70
+_cell_angle_alpha 90
+_cell_angle_beta 111
+_cell_angle_gamma 90
+_cell_volume 369.801
+_exptl_crystal_density_diffrn      6.731
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1   0.72900   0.25000   0.25000
+Pb2   0.28800   0.25000   0.39300
+Cu2+   0.00000   0.00000   0.00000
+Cu2+   0.00000   0.50000   0.00000
+S   0.45400   0.75000   0.17100
+P   0.03200   0.75000   0.34000
+O-H1   0.17070   0.25000   0.08110
+O2  -0.24130   0.25000  -0.46820
+O3   0.09280   0.25000   0.55630
+O4   0.43360   0.25000   0.93460
+O5   0.77540   0.25000  -0.05430
+O6  -0.00020   0.03020  -0.24100
+O7   0.50990   0.02520  -0.28750

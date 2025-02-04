@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Libethenite'
+loop_
+_publ_author_name
+'Cordsen A'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 16 
+_journal_year 1978
+_journal_page_first 153
+_journal_page_last 157
+_publ_section_title
+;
+ A crystal-structure refinement of libethenite
+;
+_database_code_amcsd 0005154
+_chemical_formula_sum 'Cu2 P O5 H'
+_cell_length_a 8.062
+_cell_length_b 8.384
+_cell_length_c 5.881
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 397.507
+_exptl_crystal_density_diffrn      3.995
+_symmetry_space_group_name_H-M 'P n n m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.00000   0.00000   0.24926 ?
+Cu2   0.13828   0.62472   0.00000 ?
+P   0.23270   0.24835   0.00000 ?
+O1   0.34057   0.26073   0.21117 ?
+O2   0.13289   0.08893   0.00000 ?
+O3   0.10212   0.38378   0.00000 ?
+O-h4   0.37622   0.60288   0.00000 ?
+H   0.42600   0.72600   0.00000   0.02270
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.01077 0.01350 0.00417 -0.00568 0.00000 0.00000
+Cu2 0.00629 0.01229 0.01663 0.00072 0.00000 0.00000
+P 0.00563 0.00659 0.00564 -0.00079 0.00000 0.00000
+O1 0.01857 0.01677 0.00859 -0.00866 -0.00685 0.00455
+O2 0.01017 0.00915 0.00466 -0.00435 0.00000 0.00000
+O3 0.00678 0.00840 0.04317 0.00027 0.00000 0.00000
+O-h4 0.00675 0.00912 0.00864 0.00024 0.00000 0.00000

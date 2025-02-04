@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Hydroxylellestadite'
+loop_
+_publ_author_name
+'Onac B P'
+'Effenberger H'
+'Ettinger K'
+'Panzaru S P'
+_journal_name_full 'American Mineralogist'
+_journal_volume 91 
+_journal_year 2006
+_journal_page_first 1927
+_journal_page_last 1931
+_publ_section_title
+;
+ Hydroxylellestadite from Cioclovina Cave (Romania): Microanalytical,
+ structural, and vibrational spectroscopy data
+;
+_database_code_amcsd 0004257
+_chemical_compound_source 'Cioclovina Cave, Sureanu Mountains, Romania'
+_chemical_formula_sum 'Ca5 (Si1.26 S1.08 P.66) O12.82 F.09 Cl.07 H.82'
+_cell_length_a 9.496
+_cell_length_b 9.496
+_cell_length_c 6.920
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 540.404
+_exptl_crystal_density_diffrn      3.079
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.33333   0.66667   0.00183   1.00000   0.02887
+Ca2   0.24567   0.99330   0.25000   1.00000   0.02440
+SiT   0.39939   0.37013   0.25000   0.42000   0.01300
+ST   0.39939   0.37013   0.25000   0.36000   0.01300
+PT   0.39939   0.37013   0.25000   0.22000   0.01300
+O1   0.32760   0.48480   0.25000   1.00000   0.02480
+O2   0.58790   0.46590   0.25000   1.00000   0.02630
+O3   0.34600   0.25920   0.06960   1.00000   0.03280
+O-HZ   0.00000   0.00000   0.19750   0.41000   0.03470
+FZ   0.00000   0.00000   0.19750   0.04500   0.03470
+ClZ   0.00000   0.00000   0.19750   0.03500   0.03470
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.03720 0.03720 0.01230 0.01860 0.00000 0.00000
+Ca2 0.02760 0.02810 0.01730 0.01380 0.00000 0.00000
+SiT 0.01470 0.01330 0.01200 0.00770 0.00000 0.00000
+ST 0.01470 0.01330 0.01200 0.00770 0.00000 0.00000
+PT 0.01470 0.01330 0.01200 0.00770 0.00000 0.00000
+O1 0.03590 0.02440 0.02080 0.02010 0.00000 0.00000
+O2 0.01860 0.01930 0.03870 0.00770 0.00000 0.00000
+O3 0.05210 0.03050 0.02440 0.02710 -0.01660 -0.00700
+O-HZ 0.01700 0.01700 0.07000 0.00850 0.00000 0.00000
+FZ 0.01700 0.01700 0.07000 0.00850 0.00000 0.00000
+ClZ 0.01700 0.01700 0.07000 0.00850 0.00000 0.00000

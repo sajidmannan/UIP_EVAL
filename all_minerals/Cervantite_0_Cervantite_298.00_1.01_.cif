@@ -1,0 +1,44 @@
+data_global
+_chemical_name_mineral 'Cervantite'
+loop_
+_publ_author_name
+'Thornton G'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 33 
+_journal_year 1977
+_journal_page_first 1271
+_journal_page_last 1273
+_publ_section_title
+;
+ A neutron diffraction study of a-Sb2O4
+;
+_database_code_amcsd 0009585
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Sb O2'
+_cell_length_a 5.456
+_cell_length_b 4.814
+_cell_length_c 11.787
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 309.588
+_exptl_crystal_density_diffrn      6.597
+_symmetry_space_group_name_H-M 'P n a 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,1/2+z'
+  '-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Sb1  -0.03200   0.03600   0.00900  -0.00165
+Sb2   0.36600   0.01600   0.25300  -0.00165
+O1   0.34000   0.17700   0.09620   0.00393
+O2   0.15900   0.71000   0.19500   0.00393
+O3   0.08600   0.20800   0.31200   0.00393
+O4   0.33000   0.84000   0.41000   0.00393

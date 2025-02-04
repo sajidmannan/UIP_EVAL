@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Hogbomite'
+loop_
+_publ_author_name
+'Hejny C'
+'Armbruster T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 87 
+_journal_year 2002
+_journal_page_first 277
+_journal_page_last 292
+_publ_section_title
+;
+ Polysomatism in hogbomite: The crystal structures of 10T, 12H, 14T and 24R polysomes
+ Note: Data represents a model, not experiment.
+ Sample: polytype 14T
+;
+_database_code_amcsd 0002756
+_chemical_formula_sum 'Al14 Mg5 Ti O28 H'
+_cell_length_a 5.7
+_cell_length_b 5.7
+_cell_length_c 32.2
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 906.017
+_exptl_crystal_density_diffrn      3.651
+_symmetry_space_group_name_H-M 'P -3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,-x+y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+  '-x,-y,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  'x-y,x,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al1   0.00000   0.00000   0.00000
+Mg2   0.66667   0.33333   0.01786
+Al3   0.66667   0.83333   0.07143
+Mg4   0.66667   0.33333   0.12500
+Al5   0.33333   0.66667   0.14286
+Mg6   0.00000   0.00000   0.16071
+Al7   0.50000   0.00000   0.21429
+Ti8   0.00000   0.00000   0.28571
+Al9   0.33333   0.66667   0.30357
+Al10   0.83333   0.66667   0.35714
+Mg11   0.33333   0.66667   0.41071
+Al12   0.66667   0.33333   0.42857
+Mg13   0.00000   0.00000   0.44643
+Al14   1.00000   0.50000   0.50000
+O1   0.33333   0.16667   0.03571
+O2   0.33333   0.66667   0.03571
+O3   0.50000   0.00000   0.10714
+O4   0.00000   0.00000   0.10714
+O5   0.66667   0.83333   0.17857
+O6   0.66667   0.33333   0.17857
+O7   0.83333   0.66667   0.25000
+O8   0.33333   0.66667   0.25000
+O9   0.66667   0.83333   0.32143
+O10   0.66667   0.33333   0.32143
+O11   0.50000   0.00000   0.39286
+O12   0.00000   0.00000   0.39286
+O13   0.33333   0.16667   0.46429
+O14   0.33333   0.66667   0.46429
+H   0.66667   0.33333   0.29000

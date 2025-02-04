@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Ezcurrite'
+loop_
+_publ_author_name
+'Cannillo E'
+'Dal Negro A'
+'Ungaretti L'
+_journal_name_full 'American Mineralogist'
+_journal_volume 58 
+_journal_year 1973
+_journal_page_first 110
+_journal_page_last 115
+_publ_section_title
+;
+ The crystal structure of ezcurrite
+;
+_database_code_amcsd 0000304
+_chemical_formula_sum 'Na2 B5 H5 O12'
+_cell_length_a 8.598
+_cell_length_b 9.570
+_cell_length_c 6.576
+_cell_angle_alpha 102.75
+_cell_angle_beta 107.50
+_cell_angle_gamma 71.52
+_cell_volume 484.714
+_exptl_crystal_density_diffrn      2.035
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Na1   0.89880   0.37000   0.03730   0.02292
+Na2   0.58600   0.15190   0.56160   0.03648
+B1   0.33330   0.16080   0.14630   0.01330
+B2   0.25660   0.28500  -0.17770   0.01418
+B3   0.45800   0.36070   0.15600   0.01621
+B4  -0.04850   0.37100  -0.37610   0.01444
+B5   0.15900   0.26230  -0.58120   0.01203
+H1   0.51800  -0.04500   0.16700   0.03800
+H2   0.59300   0.50700   0.18600   0.03800
+H3  -0.29200   0.42800  -0.48100   0.03800
+H4   0.78100  -0.02100   0.28800   0.06333
+H5   0.74900   0.08700   0.91900   0.06333
+O1   0.17560   0.22440   0.21690   0.01482
+O2   0.41100   0.01180   0.21300   0.01710
+O3   0.29820   0.15100  -0.08670   0.01292
+O4   0.45080   0.25640   0.25270   0.01697
+O5   0.56660   0.44760   0.26760   0.02457
+O6   0.36270   0.38650  -0.04740   0.01697
+O7   0.07780   0.37270  -0.18680   0.01532
+O8   0.28460   0.24890  -0.39910   0.01494
+O9  -0.20720   0.41560  -0.35080   0.02533
+O10  -0.01130   0.32590  -0.56950   0.01862
+O11   0.82650   0.05470   0.40410   0.05155
+O12   0.82610   0.14400   0.97320   0.09220

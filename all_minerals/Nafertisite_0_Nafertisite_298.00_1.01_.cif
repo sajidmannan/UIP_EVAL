@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Nafertisite'
+loop_
+_publ_author_name
+'Ferraris G'
+'Ivaldi G'
+'Khomyakov A P'
+'Soboleva S V'
+'Belluso E'
+'Pavese A'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 8 
+_journal_year 1996
+_journal_page_first 241
+_journal_page_last 249
+_publ_section_title
+;
+ Nafertisite, a layer titanosilicate member of a polysomatic series including mica
+;
+_database_code_amcsd 0006619
+_chemical_formula_sum 'Na3 Fe8 Ti2 Si12 O43 H6'
+_cell_length_a 5.353
+_cell_length_b 16.176
+_cell_length_c 21.95
+_cell_angle_alpha 90
+_cell_angle_beta 94.6
+_cell_angle_gamma 90
+_cell_volume 1894.531
+_exptl_crystal_density_diffrn      2.879
+_symmetry_space_group_name_H-M 'A m m 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  'x,-y,z'
+  'x,1/2-y,1/2+z'
+  '-x,-y,-z'
+  '-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na1   0.50000   0.00000   0.00000   1.00000   0.05000
+Na2   0.00000  -0.15400   0.00000   0.50000   0.02000
+Na2*   0.00000  -0.27900   0.00000   0.50000   0.02000
+Fe1   0.24200   0.39940  -0.26490   0.80000   0.01000
+Fe2   0.25700   0.80010  -0.24530   0.80000   0.01600
+Fe3   0.25800   0.00000  -0.23190   0.80000   0.01200
+Ti  -0.03600   0.00000  -0.09800   1.00000   0.00500
+Si1   0.44400  -0.12200  -0.11700   1.00000   0.07300
+Si2   0.43400   0.31200  -0.13300   1.00000   0.04200
+Si3  -0.06400   0.40800  -0.13600   1.00000   0.03000
+O1   0.38700   0.30100  -0.20600   1.00000   0.02000
+O-H2   0.39000   0.50000  -0.22300   1.00000   0.03000
+O3   0.41100  -0.10400  -0.18600   1.00000   0.01000
+O4  -0.10900   0.40400  -0.20700   1.00000   0.05000
+O-H5   0.10400   0.29500  -0.30500   1.00000   0.02000
+O6   0.07500   0.50000  -0.32800   1.00000   0.02000
+O7   0.21500   0.36200  -0.10900   1.00000   0.02000
+O8   0.72500  -0.08900  -0.08100   1.00000   0.01000
+O9   0.24700   0.08200  -0.07900   1.00000   0.06000
+O10   0.45500   0.22200  -0.10000   1.00000   0.01000
+O11   0.75200   0.36000  -0.10500   1.00000   0.05000
+O12  -0.07300   0.50000  -0.10500   1.00000   0.03000
+O13   0.00000   0.00000   0.00000   1.00000 ?

@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Ordonezite'
+loop_
+_publ_author_name
+'Ercit T S'
+'Foord E E'
+'Fitzpatrick J J'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 40 
+_journal_year 2002
+_journal_page_first 1207
+_journal_page_last 1210
+_publ_section_title
+;
+ Ordonezite from the Theodoso Soto Mine, Sapioris, Durango, Mexico:
+ New data and structure refinement
+;
+_database_code_amcsd 0005790
+_chemical_compound_source 'Theodoso Soto Mine, Sapioris, Durango, Mexico'
+_chemical_formula_sum 'Zn Sb2 O6'
+_cell_length_a 4.6638
+_cell_length_b 4.6638
+_cell_length_c 9.263
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 201.480
+_exptl_crystal_density_diffrn      6.674
+_symmetry_space_group_name_H-M 'P 42/m n m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '1/2-y,1/2+x,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'y,x,z'
+  '-y,-x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2+y,1/2-x,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Zn   0.00000   0.00000   0.00000   0.00747
+Sb   0.00000   0.00000   0.33220   0.00380
+O1   0.31500   0.31500   0.00000   0.00507
+O2   0.30400   0.30400   0.32500   0.00633
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn 0.00650 0.00650 0.00869 -0.00022 0.00000 0.00000
+Sb 0.00320 0.00320 0.00478 -0.00011 0.00000 0.00000

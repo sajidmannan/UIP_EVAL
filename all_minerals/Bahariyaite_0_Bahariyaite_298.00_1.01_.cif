@@ -1,0 +1,49 @@
+data_global
+_chemical_name_mineral 'Bahariyaite'
+loop_
+_publ_author_name
+'Marabello D'
+'Bianchi R'
+'Cargnoni F'
+'Gervasio G'
+_journal_name_full 'Acta Crystallographica, Section A'
+_journal_volume 60 
+_journal_year 2004
+_journal_page_first 494
+_journal_page_last 501
+_publ_section_title
+;
+ An experimental (120 K) and theoretical electron-density study of KMnO4 and KClO4
+;
+_database_code_amcsd 0020919
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'K Mn O4'
+_cell_length_a 9.0509
+_cell_length_b 5.6381
+_cell_length_c 7.3582
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 375.488
+_exptl_crystal_density_diffrn      2.796
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K   0.31877   0.25000   0.65798
+Mn   0.43748   0.25000   0.19264
+O1   0.31070   0.25000   0.03850
+O3   0.41857   0.01640   0.31860
+O2   0.59980   0.25000   0.10220

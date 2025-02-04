@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Heklaite'
+loop_
+_publ_author_name
+'Fischer J'
+'Kramer V'
+_journal_name_full 'Materials Research Bulletin'
+_journal_volume 26 
+_journal_year 1991
+_journal_page_first 925
+_journal_page_last 930
+_publ_section_title
+;
+ Crystal structure of KNaSiF_6_
+;
+_database_code_amcsd 0014361
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'K Na Si F6'
+_cell_length_a 9.3246
+_cell_length_b 5.4992
+_cell_length_c 9.7892
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 501.969
+_exptl_crystal_density_diffrn      2.702
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K   0.51360   0.25000   0.17980
+Na   0.37180   0.25000   0.55960
+Si   0.22900   0.25000   0.92060
+F1   0.32740   0.46600   0.99410
+F2   0.12540   0.03670   0.85480
+F3   0.12440   0.25000   0.06010
+F4   0.33130   0.25000   0.78430
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.03160 0.02770 0.02160 0.00000 0.00280 0.00000
+Na 0.03640 0.02320 0.02790 0.00000 0.00250 0.00000
+Si 0.01920 0.01620 0.01910 0.00000 0.00090 0.00000
+F1 0.06600 0.03500 0.05270 -0.02180 -0.02190 0.00200
+F2 0.08920 0.05430 0.06580 -0.03640 -0.03810 -0.00160
+F3 0.04800 0.12520 0.04260 0.00000 0.02600 0.00000
+F4 0.06900 0.11620 0.03420 0.00000 0.02610 0.00000

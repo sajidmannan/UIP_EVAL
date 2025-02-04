@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Megawite'
+loop_
+_publ_author_name
+'Zhao J'
+'Ross N L'
+'Angel R J'
+_journal_name_full 'Physics and Chemistry of Minerals'
+_journal_volume 31 
+_journal_year 2004
+_journal_page_first 299
+_journal_page_last 305
+_publ_section_title
+;
+ Tilting and distortion of CaSnO3 perovskite to 7 GPa determined from
+ single-crystal X-ray diffraction
+ Note: P = 0.0 GPa
+;
+_database_code_amcsd 0018605
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca Sn O3'
+_cell_length_a 5.5142
+_cell_length_b 5.6634
+_cell_length_c 7.88162
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 246.136
+_exptl_crystal_density_diffrn      5.580
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca  -0.01265   0.05050   0.25000   0.00714
+Sn   0.00000   0.50000   0.50000   0.00386
+O1   0.09930   0.46460   0.25000   0.00760
+O2   0.69870   0.29880   0.05200   0.00709
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00524 0.00861 0.00746 -0.00098 0.00000 0.00000
+Sn 0.00323 0.00487 0.00340 0.00002 0.00004 0.00018
+O1 0.00893 0.01105 0.00315 -0.00079 0.00000 0.00000
+O2 0.00524 0.00617 0.01007 -0.00411 0.00242 -0.00362

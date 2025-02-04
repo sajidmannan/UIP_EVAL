@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Fairchildite'
+loop_
+_publ_author_name
+'Pertlik F'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 157 
+_journal_year 1981
+_journal_page_first 199
+_journal_page_last 205
+_publ_section_title
+;
+ Structural investigations of synthetic fairchildite, K2Ca(CO3)2
+ Note: y(O1) changed to satisfy symmetry constraints
+;
+_database_code_amcsd 0010845
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'K2 Ca C2 O6'
+_cell_length_a 5.294
+_cell_length_b 5.294
+_cell_length_c 13.355
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 324.147
+_exptl_crystal_density_diffrn      2.441
+_symmetry_space_group_name_H-M 'P 63/m m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x,-x+y,-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+  'x-y,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+KMe1   0.33333   0.66667   0.09960   1.00000   0.01418
+CaMe2   0.00000   0.00000   0.25000   1.00000   0.01684
+C1   0.33333   0.66667   0.75000   1.00000   0.01786
+C2   0.00000   0.00000   0.00000   1.00000   0.01343
+O1   0.52649   0.05298   0.25000   1.00000   0.02343
+O2   0.08650   0.17300   0.92240   0.33333   0.03673
+O3   0.23800   0.00000   0.00000   0.16667   0.03673
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+KMe1 0.01651 0.01661 0.02078 0.00825 0.00000 0.00000
+CaMe2 0.02513 0.02513 0.01717 0.01257 0.00000 0.00000
+C1 0.01459 0.01459 0.03434 0.00729 0.00000 0.00000
+C2 0.02769 0.02769 0.00361 0.01384 0.00000 0.00000
+O1 0.02641 0.01374 0.03524 0.00687 0.00000 0.00000

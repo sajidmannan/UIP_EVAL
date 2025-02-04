@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Larsenite'
+loop_
+_publ_author_name
+'Prewitt C T'
+'Kirchner E'
+'Preisinger A'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 124 
+_journal_year 1967
+_journal_page_first 115
+_journal_page_last 130
+_publ_section_title
+;
+ Crystal structure of larsenite PbZnSiO4
+;
+_database_code_amcsd 0010633
+_chemical_compound_source 'Franklin, New Jersey, USA'
+_chemical_formula_sum 'Pb Zn Si O4'
+_cell_length_a 8.2441
+_cell_length_b 18.96259
+_cell_length_c 5.06
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 791.027
+_exptl_crystal_density_diffrn      6.124
+_symmetry_space_group_name_H-M 'P n a 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,1/2+z'
+  '-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.03730   0.27020   0.25000   0.01267
+Pb2   0.14760   0.05880   0.27800   0.01140
+Zn1   0.82200   0.15600   0.71700   0.01013
+Zn2   0.50170   0.05790   0.72200   0.00760
+Si1   0.20080   0.17810   0.72600   0.00760
+Si2   0.73120   0.07390   0.21500   0.01013
+O1   0.22000   0.25700   0.59300   0.01773
+O2   0.35100   0.13000   0.64600   0.00887
+O3   0.03700   0.14700   0.58400   0.01013
+O4   0.17300   0.18300   0.04200   0.01646
+O5   0.74800   0.15200   0.08100   0.01140
+O6   0.57200   0.03400   0.08100   0.00887
+O7   0.88600   0.02400   0.14400   0.01013
+O8   0.70300   0.07900   0.53200   0.01393
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.01308 0.01822 0.00791 0.00158 -0.00423 -0.00097
+Pb2 0.01205 0.01457 0.00739 0.00000 0.00021 -0.00194
+Zn1 0.00964 0.01639 0.00584 -0.00158 0.00042 0.00097
+Zn2 0.00620 0.01275 0.00506 -0.00317 0.00000 0.00097
+Si1 0.01343 0.00729 0.00493 0.00238 -0.00296 -0.00583
+Si2 0.00689 0.01275 0.01232 0.00000 0.00042 -0.00097

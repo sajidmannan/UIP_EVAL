@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Ferro-holmquistite'
+loop_
+_publ_author_name
+'Camara F'
+'Oberti R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 90 
+_journal_year 2005
+_journal_page_first 1167
+_journal_page_last 1176
+_publ_section_title
+;
+ The crystal-chemistry of holmquistites: Ferroholmquistite from
+ Greenbushes (Western Australia) and
+ hints for compositional constraints in B-Li amphiboles
+ Sample: Greenbushes, W Australia
+;
+_database_code_amcsd 0003812
+_chemical_formula_sum 'Mg1.47 Fe1.71 Mn.01 Al1.89 Li1.88 Na.04 K.01 Si8 O23.97 F.03 H3.94'
+_cell_length_a 18.2872
+_cell_length_b 17.6797
+_cell_length_c 5.2784
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1706.571
+_exptl_crystal_density_diffrn      3.152
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg1   0.12520   0.15860   0.39500   0.50000   0.00600
+Fe1   0.12520   0.15860   0.39500   0.49000   0.00600
+Mn1   0.12520   0.15860   0.39500   0.00500   0.00600
+Al2   0.12540   0.06820  -0.10360   0.94500   0.00500
+Fe2   0.12540   0.06820  -0.10360   0.05500   0.00500
+Fe3   0.12530   0.25000  -0.10520   0.61000   0.00500
+Mg3   0.12530   0.25000  -0.10520   0.39000   0.00500
+Li4   0.12330  -0.00880   0.39810   0.94000   0.01800
+Mg4   0.12330  -0.00880   0.39810   0.04000   0.01800
+Na4   0.12330  -0.00880   0.39810   0.01500   0.01800
+Fe4   0.12330  -0.00880   0.39810   0.00500   0.01800
+NaA   0.37500   0.25000   0.50000   0.01000 ?
+KA   0.37500   0.25000   0.50000   0.01000 ?
+Si1A   0.26940   0.16200   0.06820   1.00000   0.00400
+Si1B  -0.01880   0.16250   0.72390   1.00000   0.00400
+Si2A   0.27360   0.07610   0.57450   1.00000   0.00400
+Si2B  -0.02420   0.07720   0.21530   1.00000   0.00400
+O1A   0.18050   0.15590   0.04930   1.00000   0.00600
+O1B   0.07000   0.15540   0.74030   1.00000   0.00600
+O2A   0.18450   0.07500   0.59380   1.00000   0.00600
+O2B   0.06500   0.07440   0.19810   1.00000   0.00500
+O-H3A   0.18230   0.25000   0.55390   0.98500   0.00700
+F3A   0.18230   0.25000   0.55390   0.01500   0.00700
+O-H3B   0.06850   0.25000   0.23610   0.98500   0.00700
+F3B   0.06850   0.25000   0.23610   0.01500   0.00700
+O4A   0.31290  -0.00400   0.56350   1.00000   0.00700
+O4B  -0.06500  -0.00090   0.26770   1.00000   0.00700
+O5A   0.30550   0.11520  -0.16410   1.00000   0.00700
+O5B  -0.05440   0.11390   0.95110   1.00000   0.00700
+O6A   0.29660   0.12970   0.33640   1.00000   0.00800
+O6B  -0.04640   0.13330   0.45070   1.00000   0.00800
+O7A   0.29300   0.25000   0.04500   1.00000   0.00900
+O7B  -0.04220   0.25000   0.75560   1.00000   0.00800
+HA   0.22990   0.25000   0.55420   0.98500 ?
+HB   0.01410   0.25000   0.22700   0.98500 ?

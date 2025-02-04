@@ -1,0 +1,142 @@
+data_global
+_chemical_name_mineral 'Marshite'
+loop_
+_publ_author_name
+'Cooper M A'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 35 
+_journal_year 1997
+_journal_page_first 785
+_journal_page_last 786
+_publ_section_title
+;
+ A note on the crystal structure of marshite
+ Note: ZnS structure, sphalerite structure
+;
+_database_code_amcsd 0005529
+_chemical_formula_sum 'Cu I'
+_cell_length_a 6.063
+_cell_length_b 6.063
+_cell_length_c 6.063
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 222.876
+_exptl_crystal_density_diffrn      5.676
+_symmetry_space_group_name_H-M 'F -4 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2+z'
+  '1/2+x,1/2+y,z'
+  '-z,x,-y'
+  '-z,1/2+x,1/2-y'
+  '1/2-z,x,1/2-y'
+  '1/2-z,1/2+x,-y'
+  '-y,z,-x'
+  '-y,1/2+z,1/2-x'
+  '1/2-y,z,1/2-x'
+  '1/2-y,1/2+z,-x'
+  '-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,y,1/2-z'
+  '1/2-x,1/2+y,-z'
+  'x,-z,-y'
+  'x,1/2-z,1/2-y'
+  '1/2+x,-z,1/2-y'
+  '1/2+x,1/2-z,-y'
+  'z,-y,-x'
+  'z,1/2-y,1/2-x'
+  '1/2+z,-y,1/2-x'
+  '1/2+z,1/2-y,-x'
+  'y,-x,-z'
+  'y,1/2-x,1/2-z'
+  '1/2+y,-x,1/2-z'
+  '1/2+y,1/2-x,-z'
+  'x,z,y'
+  'x,1/2+z,1/2+y'
+  '1/2+x,z,1/2+y'
+  '1/2+x,1/2+z,y'
+  'z,y,x'
+  'z,1/2+y,1/2+x'
+  '1/2+z,y,1/2+x'
+  '1/2+z,1/2+y,x'
+  'y,x,z'
+  'y,1/2+x,1/2+z'
+  '1/2+y,x,1/2+z'
+  '1/2+y,1/2+x,z'
+  '-z,-x,y'
+  '-z,1/2-x,1/2+y'
+  '1/2-z,-x,1/2+y'
+  '1/2-z,1/2-x,y'
+  '-y,-z,x'
+  '-y,1/2-z,1/2+x'
+  '1/2-y,-z,1/2+x'
+  '1/2-y,1/2-z,x'
+  '-x,-y,z'
+  '-x,1/2-y,1/2+z'
+  '1/2-x,-y,1/2+z'
+  '1/2-x,1/2-y,z'
+  'z,-x,-y'
+  'z,1/2-x,1/2-y'
+  '1/2+z,-x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'y,-z,-x'
+  'y,1/2-z,1/2-x'
+  '1/2+y,-z,1/2-x'
+  '1/2+y,1/2-z,-x'
+  'x,-y,-z'
+  'x,1/2-y,1/2-z'
+  '1/2+x,-y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '-x,z,-y'
+  '-x,1/2+z,1/2-y'
+  '1/2-x,z,1/2-y'
+  '1/2-x,1/2+z,-y'
+  '-z,y,-x'
+  '-z,1/2+y,1/2-x'
+  '1/2-z,y,1/2-x'
+  '1/2-z,1/2+y,-x'
+  '-y,x,-z'
+  '-y,1/2+x,1/2-z'
+  '1/2-y,x,1/2-z'
+  '1/2-y,1/2+x,-z'
+  '-x,-z,y'
+  '-x,1/2-z,1/2+y'
+  '1/2-x,-z,1/2+y'
+  '1/2-x,1/2-z,y'
+  '-z,-y,x'
+  '-z,1/2-y,1/2+x'
+  '1/2-z,-y,1/2+x'
+  '1/2-z,1/2-y,x'
+  '-y,-x,z'
+  '-y,1/2-x,1/2+z'
+  '1/2-y,-x,1/2+z'
+  '1/2-y,1/2-x,z'
+  'z,x,y'
+  'z,1/2+x,1/2+y'
+  '1/2+z,x,1/2+y'
+  '1/2+z,1/2+x,y'
+  'y,z,x'
+  'y,1/2+z,1/2+x'
+  '1/2+y,z,1/2+x'
+  '1/2+y,1/2+z,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu   0.25000   0.25000   0.25000
+I   0.00000   0.00000   0.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.03360 0.03360 0.03360 0.00000 0.00000 0.00000
+I 0.01940 0.01940 0.01940 0.00000 0.00000 0.00000

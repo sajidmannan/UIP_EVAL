@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Barite'
+loop_
+_publ_author_name
+'Colville A A'
+'Staudhammer K'
+_journal_name_full 'American Mineralogist'
+_journal_volume 52 
+_journal_year 1967
+_journal_page_first 1877
+_journal_page_last 1880
+_publ_section_title
+;
+ A refinement of the structure of barite
+;
+_database_code_amcsd 0000163
+_chemical_compound_source 'Cow Green mine, Teesdale, Durham, England'
+_chemical_formula_sum 'Ba S O4'
+_cell_length_a 8.884
+_cell_length_b 5.458
+_cell_length_c 7.153
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 346.841
+_exptl_crystal_density_diffrn      4.470
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ba   0.18460   0.25000   0.15810   0.00861
+S   0.43700   0.75000   0.19140   0.00469
+O1   0.58780   0.75000   0.10620   0.01976
+O2   0.31920   0.75000   0.05150   0.02064
+O3   0.41860   0.97020   0.31900   0.01077

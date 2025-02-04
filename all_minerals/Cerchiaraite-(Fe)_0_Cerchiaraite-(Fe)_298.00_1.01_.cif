@@ -1,0 +1,108 @@
+data_global
+_chemical_name_mineral 'Cerchiaraite-(Fe)'
+loop_
+_publ_author_name
+'Kampf A R'
+'Roberts A C'
+'Venance K E'
+'Carbone C'
+'Belmonte D'
+'Dunning G E'
+'Walstrom R E'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 77 
+_journal_year 2013
+_journal_page_first 69
+_journal_page_last 80
+_publ_section_title
+;
+ Cerchiaraite-(Fe) and cerchiaraite-(Al), two new barium cyclosilicate chlorides
+ from Italy and California, USA
+;
+_database_code_amcsd 0019795
+_chemical_compound_source 'Esquire No. 8 claim, Big Creek, Fresno County, California, USA'
+_chemical_formula_sum 'Ba4 (Fe2.384 Al1.616) Si6.04 Cl2.68 O25.12 H8.16'
+_cell_length_a 14.3554
+_cell_length_b 14.3554
+_cell_length_c 6.0065
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1237.805
+_exptl_crystal_density_diffrn      3.758
+_symmetry_space_group_name_H-M 'I 4/m m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,x,-z'
+  '1/2+y,1/2+x,1/2-z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-y,x,z'
+  '1/2-y,1/2+x,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,-x,-z'
+  '1/2-y,1/2-x,1/2-z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'y,-x,z'
+  '1/2+y,1/2-x,1/2+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ba   0.21637   0.00000   0.00000   1.00000   0.02750
+FeM   0.25000   0.25000   0.25000   0.59600   0.01900
+AlM   0.25000   0.25000   0.25000   0.40400   0.01900
+Si1   0.38855   0.38855   0.00000   1.00000   0.01650
+Si2   0.41830   0.11210   0.00000   0.25500   0.02700
+Cl1   0.00000   0.00000   0.00000   1.00000   0.02790
+Cl2   0.50000   0.13880   0.11800   0.21000   0.08200
+O1   0.34600   0.34600   0.22680   1.00000   0.02180
+O2   0.17660   0.30760   0.00000   0.50000   0.02930
+O-H2   0.17660   0.30760   0.00000   0.50000   0.02930
+O3   0.36860   0.50000   0.00000   1.00000   0.02560
+O4   0.39400   0.00000   0.00000   0.24000   0.03600
+O-H5   0.50000   0.12600   0.24700   0.52000   0.13900
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba 0.03490 0.02220 0.02540 0.00000 0.00000 0.00000
+FeM 0.02070 0.02070 0.01560 -0.00750 0.00010 0.00010
+AlM 0.02070 0.02070 0.01560 -0.00750 0.00010 0.00010
+Si1 0.01640 0.01640 0.01670 -0.00100 0.00000 0.00000
+Si2 0.04100 0.01900 0.02300 0.00600 0.00000 0.00000
+Cl1 0.02400 0.02400 0.03600 0.00000 0.00000 0.00000
+Cl2 0.03700 0.07300 0.14000 0.00000 0.00000 -0.04200
+O1 0.02540 0.02540 0.01500 -0.00500 0.00180 0.00180
+O2 0.02600 0.03900 0.02400 -0.00900 0.00000 0.00000
+O-H2 0.02600 0.03900 0.02400 -0.00900 0.00000 0.00000
+O3 0.03700 0.01100 0.02800 0.00000 0.00000 0.00000
+O4 0.04000 0.01600 0.05000 0.00000 0.00000 0.00000
+O-H5 0.22000 0.10000 0.09000 0.00000 0.00000 -0.07400

@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Penroseite'
+loop_
+_publ_author_name
+'Furuseth S'
+'Kjekshus A'
+'Andresen A F'
+_journal_name_full 'Acta Chemica Scandinavica'
+_journal_volume 23 
+_journal_year 1969
+_journal_page_first 2325
+_journal_page_last 2334
+_publ_section_title
+;
+ On the magnetic properties of CoSe2, NiS2, and NiSe2
+;
+_database_code_amcsd 0011916
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ni Se2'
+_cell_length_a 5.9629
+_cell_length_b 5.9629
+_cell_length_c 5.9629
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 212.018
+_exptl_crystal_density_diffrn      6.786
+_symmetry_space_group_name_H-M 'P a -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+z,x,1/2-y'
+  'z,1/2-x,1/2+y'
+  '1/2-z,1/2+x,y'
+  '-z,-x,-y'
+  '1/2+y,1/2-z,-x'
+  '1/2-y,-z,1/2+x'
+  '-y,1/2+z,1/2-x'
+  'y,z,x'
+  'x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,y,1/2-z'
+  '-x,-y,-z'
+  '1/2-z,-x,1/2+y'
+  '-z,1/2+x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'z,x,y'
+  '1/2-y,1/2+z,x'
+  '1/2+y,z,1/2-x'
+  'y,1/2-z,1/2+x'
+  '-y,-z,-x'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni   0.00000   0.00000   0.00000
+Se   0.38300   0.38300   0.38300

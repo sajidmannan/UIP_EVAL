@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Columbite-(Mg)'
+loop_
+_publ_author_name
+'Pagola S'
+'Carbonio R E'
+'Alonso J A'
+'Fernandez-Diaz M T'
+_journal_name_full 'Journal of Solid State Chemistry'
+_journal_volume 134 
+_journal_year 1997
+_journal_page_first 76
+_journal_page_last 84
+_publ_section_title
+;
+ Crystal structure refinement of Mg Nb2 O6 columbite from neutron powder
+ diffraction data and study of the ternary system MgO-Nb2O5-NbO, with evidence
+ of formation of new reduced pseudobrookite Mg5-xNb4+xO15-d (1.14<x<1.60) phases
+ Note: reported and calculated Biso(O2)'s do not match
+;
+_database_code_amcsd 0013945
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Mg Nb2 O6'
+_cell_length_a 14.1875
+_cell_length_b 5.7001
+_cell_length_c 5.0331
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 407.028
+_exptl_crystal_density_diffrn      4.995
+_symmetry_space_group_name_H-M 'P b c n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Mg   0.00000   0.16880   0.25000   0.00507
+Nb   0.15993   0.31810   0.75380   0.00304
+O1   0.09550   0.39440   0.43210   0.00469
+O2   0.07960   0.11630   0.90770   0.00317
+O3   0.25600   0.12220   0.58330   0.00418
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg 0.00387 0.00807 0.00424 0.00000 -0.00036 0.00000
+Nb 0.00286 0.00230 0.00359 0.00041 0.00181 0.00160
+O1 0.00683 0.00412 0.00424 -0.00041 -0.00145 0.00160
+O2 0.00489 0.01037 0.00411 -0.00246 0.00036 0.00015
+O3 0.00520 0.00214 0.00372 0.00246 0.00217 -0.00029

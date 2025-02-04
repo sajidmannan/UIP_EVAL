@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Blossite'
+loop_
+_publ_author_name
+'Robinson P D'
+'Hughes J M'
+'Malinconico M L'
+_journal_name_full 'American Mineralogist'
+_journal_volume 72 
+_journal_year 1987
+_journal_page_first 397
+_journal_page_last 400
+_publ_section_title
+;
+ Blossite, alpha-Cu2V2O7, a new fumarolic sublimate from Izalco volcano, El Salvador
+ - data obtained by personal communication, May 2003.
+;
+_database_code_amcsd 0001075
+_chemical_formula_sum 'Cu2 V2 O7'
+_cell_length_a 20.676
+_cell_length_b 8.392
+_cell_length_c 6.446
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1118.465
+_exptl_crystal_density_diffrn      4.050
+_symmetry_space_group_name_H-M 'F d d 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2+z'
+  '1/2+x,1/2+y,z'
+  '1/4+x,1/4-y,1/4+z'
+  '1/4+x,3/4-y,3/4+z'
+  '3/4+x,1/4-y,3/4+z'
+  '3/4+x,3/4-y,1/4+z'
+  '1/4-x,1/4+y,1/4+z'
+  '1/4-x,3/4+y,3/4+z'
+  '3/4-x,1/4+y,3/4+z'
+  '3/4-x,3/4+y,1/4+z'
+  '-x,1/2-y,1/2+z'
+  '-x,-y,+z'
+  '1/2-x,1/2-y,+z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu   0.16590   0.36390   0.75000 ?
+V   0.19880   0.40520   0.23280 ?
+O1   0.16160   0.34830   0.45320   0.01773
+O2   0.24540   0.56160   0.26760   0.02406
+O3   0.14400   0.43580   0.02830   0.01267
+O4   0.25000   0.25000   0.15430   0.03673
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.01668 0.03033 0.00463 -0.01450 0.00284 -0.00274
+V 0.00541 0.01320 0.00421 0.00088 -0.00101 0.00137

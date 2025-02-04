@@ -1,0 +1,99 @@
+data_global
+_chemical_name_mineral 'Foitite'
+loop_
+_publ_author_name
+'MacDonald D J'
+'Hawthorne F C'
+'Grice J D'
+_journal_name_full 'American Mineralogist'
+_journal_volume 78 
+_journal_year 1993
+_journal_page_first 1299
+_journal_page_last 1303
+_publ_section_title
+;
+ Foitite, _[Fe2(Al,Fe)]Al6Si6O18(BO3)3(OH)4, a new alkali-deficient
+ tourmaline: Description and crystal structure
+;
+_database_code_amcsd 0001622
+_chemical_compound_source 'likely White Queen mine, San Diego County, California, USA'
+_chemical_formula_sum 'Na.25 Al6.891 Fe1.599 Mn.24 Mg.051 Li.219 Si6 B3 (O31 H4)'
+_cell_length_a 15.967
+_cell_length_b 15.967
+_cell_length_c 7.126
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1573.342
+_exptl_crystal_density_diffrn      3.160
+_symmetry_space_group_name_H-M 'R 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+NaX   0.00000   0.00000   0.84080   0.25000
+AlY   0.06223   0.93777   0.44850   0.33300
+FeY   0.06223   0.93777   0.44850   0.49700
+MnY   0.06223   0.93777   0.44850   0.08000
+MgY   0.06223   0.93777   0.44850   0.01700
+LiY   0.06223   0.93777   0.44850   0.07300
+AlZ   0.26151   0.29827   0.46230   0.98200
+FeZ   0.26151   0.29827   0.46230   0.01800
+SiT   0.18988   0.19193   0.07300   1.00000
+B   0.88981   0.11019   0.61770   1.00000
+O-H1   0.00000   0.00000   0.29310   1.00000
+O2   0.93776   0.06224   0.58530   1.00000
+O-H3   0.13427   0.86573   0.56490   1.00000
+O4   0.90631   0.09369   0.00580   1.00000
+O5   0.09452   0.90548  -0.01790   1.00000
+O6   0.18786   0.19831   0.29770   1.00000
+O7   0.28601   0.28512  -0.00660   1.00000
+O8   0.27138   0.21049   0.63190   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+NaX 0.02820 0.02820 0.02370 0.01410 0.00000 0.00000
+AlY 0.00600 0.00600 0.01220 0.00210 0.00050 -0.00050
+FeY 0.00600 0.00600 0.01220 0.00210 0.00050 -0.00050
+MnY 0.00600 0.00600 0.01220 0.00210 0.00050 -0.00050
+MgY 0.00600 0.00600 0.01220 0.00210 0.00050 -0.00050
+LiY 0.00600 0.00600 0.01220 0.00210 0.00050 -0.00050
+AlZ 0.00690 0.00610 0.00560 0.00330 -0.00050 -0.00030
+FeZ 0.00690 0.00610 0.00560 0.00330 -0.00050 -0.00030
+SiT 0.00460 0.00470 0.00560 0.00210 0.00030 0.00020
+B 0.00880 0.00880 0.00730 0.00380 -0.00020 0.00020
+O-H1 0.04320 0.04320 0.00750 0.02160 0.00000 0.00000
+O2 0.03030 0.03030 0.01210 0.02530 0.00010 -0.00010
+O-H3 0.01040 0.01040 0.00580 0.00020 0.00070 -0.00070
+O4 0.00760 0.00760 0.00850 0.00080 -0.00050 0.00050
+O5 0.00740 0.00740 0.00790 -0.00020 -0.00090 0.00090
+O6 0.00850 0.00760 0.00500 0.00240 0.00060 -0.00030
+O7 0.00560 0.00640 0.00780 0.00140 0.00170 0.00040
+O8 0.01170 0.00730 0.00930 0.00580 -0.00300 -0.00080

@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Kasolite'
+loop_
+_publ_author_name
+'Huynen A M'
+'Piret-Meunier J'
+'Van Meerssche M'
+_journal_name_full 'Academie Royale de Belgique, Classe des Sciences: Bulletin'
+_journal_volume 49 
+_journal_year 1963
+_journal_page_first 192
+_journal_page_last 201
+_publ_section_title
+;
+ Structure de la kasolite
+;
+_database_code_amcsd 0011895
+_chemical_formula_sum 'Pb U Si O6'
+_cell_length_a 6.66
+_cell_length_b 6.96
+_cell_length_c 13.23
+_cell_angle_alpha 90
+_cell_angle_beta 104
+_cell_angle_gamma 90
+_cell_volume 595.042
+_exptl_crystal_density_diffrn      6.355
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb   0.07400   0.56500   0.38500
+U   0.47700   0.25000   0.17100
+Si   0.43000   0.75000   0.08000
+O1   0.21000   0.25000   0.18000
+O2   0.26000   0.75000   0.32000
+O3   0.18000   0.75000   0.03000
+O4   0.48000   0.25000   0.02000
+O5   0.50000   0.94000   0.15000
+O6   0.50000   0.56000   0.15000

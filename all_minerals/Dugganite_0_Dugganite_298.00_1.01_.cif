@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Dugganite'
+loop_
+_publ_author_name
+'Lam A E'
+'Groat L A'
+'Ercit T S'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 36 
+_journal_year 1998
+_journal_page_first 823
+_journal_page_last 830
+_publ_section_title
+;
+ The crystal structure of dugganite, Pb3Zn3TeAs2O14
+;
+_database_code_amcsd 0005548
+_chemical_compound_source 'Empire mine, Tombstone, Arizona, USA'
+_chemical_formula_sum 'Te As2 Pb3 Zn3 O14'
+_cell_length_a 8.460
+_cell_length_b 8.460
+_cell_length_c 5.206
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 322.683
+_exptl_crystal_density_diffrn      6.789
+_symmetry_space_group_name_H-M 'P 3 2 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'y,x,-z'
+  '-y,x-y,z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Te   0.00000   0.00000   0.00000
+As   0.33333   0.66667   0.52940
+Pb   0.59472   0.00000   0.00000
+Zn   0.24660   0.00000   0.50000
+O1   0.12200   0.21200   0.21700
+O2   0.46700   0.20000   0.33900
+O3   0.33333   0.66667   0.23900
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te 0.03050 0.03050 0.01580 0.01530 0.00000 0.00000
+As 0.02370 0.02370 0.03690 0.01190 0.00000 0.00000
+Pb 0.03590 0.03800 0.03030 0.01900 0.00100 0.00200
+Zn 0.03430 0.02860 0.02480 0.01430 -0.00070 -0.00140
+O1 0.03250 0.03630 0.02470 0.01090 0.00430 -0.00500
+O2 0.05020 0.06710 0.03980 0.00480 0.01780 -0.00770
+O3 0.04070 0.04070 0.06680 0.02030 0.00000 0.00000

@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Chloritoid'
+loop_
+_publ_author_name
+'Hanscom R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 65 
+_journal_year 1980
+_journal_page_first 534
+_journal_page_last 539
+_publ_section_title
+;
+ The structure of triclinic chloritoid and chloritoid polymorphism
+;
+_database_code_amcsd 0000786
+_chemical_formula_sum 'Al3.84 Fe1.93 Mg.15 Si2 O14'
+_cell_length_a 9.460
+_cell_length_b 5.500
+_cell_length_c 9.150
+_cell_angle_alpha 97.05
+_cell_angle_beta 101.56
+_cell_angle_gamma 90.10
+_cell_volume 462.721
+_exptl_crystal_density_diffrn      3.554
+_symmetry_space_group_name_H-M 'C 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Al1a   0.25000   0.25000   0.00000   0.84000   0.01368
+Fe1a   0.25000   0.25000   0.00000   0.16000   0.01368
+Al2a   0.00000   0.50000   0.50000   1.00000   0.00747
+Fe1b   0.08370   0.74700   0.00180   0.88500   0.00937
+Mg1b   0.08370   0.74700   0.00180   0.07500   0.00937
+Al2b1   0.25000   0.25000   0.50000   1.00000   0.00849
+Al2b2   0.25000   0.75000   0.50000   1.00000   0.00912
+Si   0.46200   0.46430   0.31350   1.00000   0.00912
+O1a   0.10930   0.41420   0.10620   1.00000   0.01482
+O1b   0.26550   0.96150   0.10270   1.00000   0.01456
+O1c   0.42040   0.42170   0.12640   1.00000   0.01507
+O2a   0.39420   0.23160   0.37590   1.00000   0.00925
+O2b   0.39390   0.71860   0.37500   1.00000   0.00963
+O2c   0.13510   0.97530   0.37370   1.00000   0.00925
+O2d   0.14860   0.48110   0.40130   1.00000   0.01064

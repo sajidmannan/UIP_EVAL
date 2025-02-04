@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Dolerophanite'
+loop_
+_publ_author_name
+'Effenberger H'
+_journal_name_full 'Monatshefte fur Chemie'
+_journal_volume 116 
+_journal_year 1985
+_journal_page_first 927
+_journal_page_last 931
+_publ_section_title
+;
+ Cu2O(SO4), dolerophanite: Refinement of the crystal structure with
+ a comparison of [OCu(II)4] tetrahedra in inorganic compounds
+;
+_database_code_amcsd 0014667
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Cu2 S O5'
+_cell_length_a 9.370
+_cell_length_b 6.319
+_cell_length_c 7.639
+_cell_angle_alpha 90
+_cell_angle_beta 122.34
+_cell_angle_gamma 90
+_cell_volume 382.141
+_exptl_crystal_density_diffrn      4.157
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.25000   0.25000   0.00000   0.00900
+Cu2   0.07210   0.00000   0.21820   0.01000
+S   0.10240   0.50000   0.31570   0.00800
+O1   0.20380   0.50000   0.22320   0.01900
+O2   0.29470   0.00000   0.45930   0.01400
+O3   0.15140   0.00000   0.02170   0.00800
+O4   0.49160   0.19060   0.24980   0.01200
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.00550 0.01060 0.01380 -0.00090 0.00250 0.00230
+Cu2 0.00500 0.01750 0.00880 0.00000 0.00020 0.00000
+S 0.00600 0.01010 0.00990 0.00000 0.00160 0.00000
+O1 0.02200 0.02800 0.02500 0.00000 0.01700 0.00000
+O2 0.00800 0.02400 0.00900 0.00000 -0.00300 0.00000
+O3 0.00400 0.00900 0.01000 0.00000 0.00100 0.00000
+O4 0.00800 0.01000 0.01800 0.00100 0.00000 0.00200

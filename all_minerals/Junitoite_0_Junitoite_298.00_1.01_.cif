@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Junitoite'
+loop_
+_publ_author_name
+'Yang H'
+'Jenkins N G'
+'Downs R T'
+_journal_name_full 'Acta Crystallographica, Section E'
+_journal_volume 68 
+_journal_year 2012
+_journal_page_first i73
+_journal_page_last i73
+_publ_section_title
+;
+ Redetermination of junitoite, CaZn2Si2O7*H2O
+;
+_database_code_amcsd 0019356
+_chemical_compound_source 'Christmas Mine, Gila County, Arizona, USA'
+_chemical_formula_sum 'Ca Zn2 Si2 O8 H2'
+_cell_length_a 12.5302
+_cell_length_b 6.3056
+_cell_length_c 8.5617
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 676.464
+_exptl_crystal_density_diffrn      3.506
+_symmetry_space_group_name_H-M 'A m a 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,z'
+  '1/2+x,-y,1/2+z'
+  '1/2-x,1/2+y,z'
+  '1/2-x,+y,1/2+z'
+  '-x,-y,z'
+  '-x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.00000   0.50000   0.51882   0.00899
+Zn   0.25216   0.24453   0.13494   0.00808
+Si   0.11827   0.00274   0.39406   0.00615
+O1   0.12311   0.29919   0.01003   0.01075
+O2   0.12739   0.21991   0.49272   0.00990
+O3   0.20596  -0.00482   0.25347   0.01007
+O4   0.00000   0.00000   0.30367   0.00819
+OW5   0.00000   0.50000   0.25181   0.02088
+H   0.03502   0.44843   0.20019   0.03000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01062 0.00784 0.00850 0.00019 0.00000 0.00000
+Zn 0.00755 0.00739 0.00931 -0.00067 0.00070 -0.00072
+Si 0.00563 0.00687 0.00596 -0.00022 0.00019 0.00035
+O1 0.00841 0.01119 0.01263 -0.00097 -0.00197 0.00459
+O2 0.00865 0.01091 0.01015 0.00190 -0.00265 -0.00348
+O3 0.01237 0.00798 0.00987 -0.00005 0.00448 0.00027
+O4 0.00629 0.01121 0.00706 0.00000 0.00000 0.00000
+OW5 0.02719 0.02784 0.00761 0.00997 0.00000 0.00000

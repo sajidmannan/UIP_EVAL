@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Hentschelite'
+loop_
+_publ_author_name
+'Sieber N H W'
+'Tillmanns E'
+'Hofmeister W'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 43 
+_journal_year 1987
+_journal_page_first 1855
+_journal_page_last 1857
+_publ_section_title
+;
+ Structure of hentschelite, CuFe2(PO4)2(OH)2, a new member of the lazulite group
+;
+_database_code_amcsd 0010052
+_chemical_compound_source 'silicified barite vein, Reichenbach, Odenwald, Germany'
+_chemical_formula_sum 'Cu Fe2 P2 O10 H2'
+_cell_length_a 6.984
+_cell_length_b 7.786
+_cell_length_c 7.266
+_cell_angle_alpha 90
+_cell_angle_beta 117.68
+_cell_angle_gamma 90
+_cell_volume 349.889
+_exptl_crystal_density_diffrn      3.789
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu   0.00000   0.00000   0.00000   0.00900
+Fe   0.27990   0.27380   0.01220   0.00680
+P   0.50020   0.09700   0.74850   0.00470
+O1   0.29280  -0.01020   0.63480   0.00930
+O2   0.47510   0.21530   0.90260   0.01130
+O3   0.69010  -0.03180   0.86260   0.00930
+O4   0.55030   0.20350   0.59900   0.01030
+O-H5   0.52260   0.37110   0.27030   0.00720
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.00580 0.01030 0.00980 -0.00150 0.00260 0.00370
+Fe 0.00750 0.00610 0.00730 0.00000 0.00400 0.00010
+P 0.00490 0.00410 0.00600 0.00050 0.00330 0.00070
+O1 0.00680 0.00880 0.01170 -0.00190 0.00370 -0.00310
+O2 0.01220 0.01270 0.01210 -0.00180 0.00840 -0.00520
+O3 0.00600 0.00780 0.01210 0.00100 0.00260 0.00380
+O4 0.01130 0.01010 0.01260 0.00130 0.00830 0.00390
+O-H5 0.00830 0.00770 0.00660 -0.00030 0.00420 -0.00010

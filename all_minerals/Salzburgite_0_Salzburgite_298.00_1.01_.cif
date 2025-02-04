@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Salzburgite'
+loop_
+_publ_author_name
+'Petricek V'
+'Makovicky E'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 44 
+_journal_year 2006
+_journal_page_first 189
+_journal_page_last 206
+_publ_section_title
+;
+ Interpretation of selected structures of the bismuthinite - aikinite series as
+ commensurately modulated structures
+;
+_database_code_amcsd 0006079
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Cu.4 Pb.405 Bi1.595 S3'
+_cell_length_a 4.0074
+_cell_length_b 11.2031
+_cell_length_c 11.5133
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 516.893
+_exptl_crystal_density_diffrn      6.924
+_symmetry_space_group_name_H-M 'P m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu   0.25000   0.71310   0.71950   0.40000   0.03890
+PbM2   0.25000   0.52239   0.33675   0.40500   0.03560
+BiM2   0.25000   0.52239   0.33675   0.59500   0.03560
+BiM1   0.25000   0.17810   0.51825   1.00000   0.02951
+S1   0.25000  -0.05660   0.37840   1.00000   0.02760
+S2   0.25000   0.63170   0.54660   1.00000   0.02550
+S3   0.25000   0.30470   0.71510   1.00000   0.02570

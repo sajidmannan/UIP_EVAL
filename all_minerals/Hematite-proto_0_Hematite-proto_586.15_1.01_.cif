@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Hematite-proto'
+loop_
+_publ_author_name
+'Gualtieri A'
+'Venturelli P'
+_journal_name_full 'American Mineralogist'
+_journal_volume 84 
+_journal_year 1999
+_journal_page_first 895
+_journal_page_last 904
+_publ_section_title
+;
+ In situ study of the goethite-hematite phase transformation by real time
+ synchrotron powder diffraction
+ Sample at T = 313 C
+;
+_database_code_amcsd 0002228
+_chemical_formula_sum 'Fe1.76 H.06 O3'
+_cell_length_a 5.0145
+_cell_length_b 5.0145
+_cell_length_c 13.692
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 298.162
+_exptl_crystal_density_diffrn      4.890
+_symmetry_space_group_name_H-M 'R -3 c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,1/2+z'
+  '2/3+x,1/3+x-y,5/6+z'
+  '1/3+x,2/3+x-y,1/6+z'
+  'y,x,1/2-z'
+  '2/3+y,1/3+x,5/6-z'
+  '1/3+y,2/3+x,1/6-z'
+  '-x+y,y,1/2+z'
+  '2/3-x+y,1/3+y,5/6+z'
+  '1/3-x+y,2/3+y,1/6+z'
+  '-x,-x+y,1/2-z'
+  '2/3-x,1/3-x+y,5/6-z'
+  '1/3-x,2/3-x+y,1/6-z'
+  '-y,-x,1/2+z'
+  '2/3-y,1/3-x,5/6+z'
+  '1/3-y,2/3-x,1/6+z'
+  'x-y,-y,1/2-z'
+  '2/3+x-y,1/3-y,5/6-z'
+  '1/3+x-y,2/3-y,1/6-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Fe   0.00000   0.00000   0.35310   0.88000   0.05300
+H  -0.20000   0.32200  -0.13600   0.01000   0.06000
+O   0.31600   0.00000   0.25000   1.00000   0.05400

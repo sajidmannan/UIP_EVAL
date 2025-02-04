@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Epidote'
+loop_
+_publ_author_name
+'Ito T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 32 
+_journal_year 1947
+_journal_page_first 309
+_journal_page_last 321
+_publ_section_title
+;
+ The structure of epidote (HCa2(Al,Fe)Al2Si3O13)
+;
+_database_code_amcsd 0000041
+_chemical_formula_sum 'Ca2 Al2 Fe Si3 O13 H'
+_cell_length_a 8.96
+_cell_length_b 5.63
+_cell_length_c 10.20
+_cell_angle_alpha 90
+_cell_angle_beta 115.40
+_cell_angle_gamma 90
+_cell_volume 464.799
+_exptl_crystal_density_diffrn      3.453
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1   0.96300   0.25000   0.64100   1.00000
+Ca2   0.96300   0.75000   0.64100   1.00000
+Al   0.78900   0.25000   0.81400   1.00000
+Fe   0.00000   0.00000   0.00000   1.00000
+Si1   0.39400   0.25000   0.71100   0.75000
+Al1   0.39400   0.25000   0.71100   0.25000
+Si2   0.60400   0.75000   0.69500   0.75000
+Al2   0.60400   0.75000   0.69500   0.25000
+Si3   0.58200   0.25000   0.55300   0.75000
+Al3   0.58200   0.25000   0.55300   0.25000
+Si4   0.37500   0.75000   0.94000   0.75000
+Al4   0.37500   0.75000   0.94000   0.25000
+O1   0.04200   0.00000   0.84300   1.00000
+O2   0.30100   0.00000   0.74200   1.00000
+O3   0.78300   0.00000   0.69400   1.00000
+O4   0.53500   0.25000   0.82100   1.00000
+O5   0.53500   0.75000   0.82100   1.00000
+O6   0.42000   0.25000   0.58200   1.00000
+O7   0.42000   0.75000   0.58200   1.00000
+O8   0.00000   0.00000   0.50000   1.00000
+O9   0.17900   0.75000   0.03300   1.00000
+O-H10   0.17900   0.25000   0.03300   1.00000

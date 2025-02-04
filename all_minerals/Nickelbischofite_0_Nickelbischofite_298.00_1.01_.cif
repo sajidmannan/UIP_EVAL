@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Nickelbischofite'
+loop_
+_publ_author_name
+'Kleinberg R'
+_journal_name_full 'Journal of Chemical Physics'
+_journal_volume 50 
+_journal_year 1969
+_journal_page_first 4690
+_journal_page_last 4696
+_publ_section_title
+;
+ Crystal structure of NiCl2*6H2O at room temperature and 4.2 K by neutron
+ diffraction
+ Sample: T = room temp, X-ray data
+;
+_database_code_amcsd 0012993
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ni Cl2 O6 H12'
+_cell_length_a 10.23
+_cell_length_b 7.05
+_cell_length_c 6.57
+_cell_angle_alpha 90
+_cell_angle_beta 122.17
+_cell_angle_gamma 90
+_cell_volume 401.091
+_exptl_crystal_density_diffrn      1.968
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ni   0.00000   0.00000   0.00000   0.02280
+Cl   0.27080   0.00000   0.16740   0.01900
+O1   0.03070   0.20720   0.25030   0.03420
+O2   0.28250   0.00000   0.70230   0.02913
+H1   0.10000   0.29900   0.26900   0.04433
+H2   0.44400   0.23200   0.22500   0.04306
+H3   0.18100   0.00000   0.54900   0.07472
+H4   0.26000   0.00000   0.83900   0.01520

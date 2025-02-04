@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Pseudomalachite'
+loop_
+_publ_author_name
+'Shoemaker G L'
+'Anderson J B'
+'Kostiner E'
+_journal_name_full 'American Mineralogist'
+_journal_volume 62 
+_journal_year 1977
+_journal_page_first 1042
+_journal_page_last 1048
+_publ_section_title
+;
+ Refinement of the crystal structure of pseudomalachite
+;
+_database_code_amcsd 0000600
+_chemical_formula_sum 'Cu5 P2 O12 H4'
+_cell_length_a 4.4728
+_cell_length_b 5.7469
+_cell_length_c 17.032
+_cell_angle_alpha 90
+_cell_angle_beta 91.043
+_cell_angle_gamma 90
+_cell_volume 437.730
+_exptl_crystal_density_diffrn      4.368
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1   0.00000   0.00000   0.00000
+Cu2   0.04610   0.47260   0.08560
+Cu3  -0.01710   0.32870   0.25705
+P   0.52550   0.09420   0.13480
+O1   0.71090   0.15610   0.06220
+O2   0.32420   0.30590   0.15110
+O3   0.74050   0.07620   0.20770
+O4   0.34870   0.87250   0.12470
+O-H5   0.17220   0.32010  -0.01420
+O-H6   0.15210   0.07190   0.31660
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.01583 0.01241 0.01672 0.00000 0.00545 0.00000
+Cu2 0.01495 0.01596 0.00962 0.00418 -0.00038 0.00051
+Cu3 0.01571 0.01102 0.01355 -0.00127 -0.00494 0.00101
+P 0.00950 0.01241 0.00937 -0.00013 -0.00038 0.00000
+O1 0.01469 0.01963 0.01291 0.00127 0.00329 0.00051
+O2 0.01545 0.01596 0.01140 0.00722 -0.00101 -0.00114
+O3 0.01507 0.01089 0.01253 0.00025 -0.00443 0.00101
+O4 0.01773 0.01900 0.02255 -0.00380 -0.00304 -0.00013
+O-H5 0.01216 0.01431 0.01165 0.00177 0.00000 0.00063
+O-H6 0.01114 0.01039 0.01039 -0.00114 -0.00165 0.00139

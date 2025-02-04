@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Scottyite'
+loop_
+_publ_author_name
+'Yang H'
+'Downs R T'
+'Evans S H'
+'Pinch W W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 98 
+_journal_year 2013
+_journal_page_first 478
+_journal_page_last 484
+_publ_section_title
+;
+ Scottyite, the natural analog of synthetic BaCu2Si2O7,
+ a new mineral from the Wessels mine, Kalahari Manganese Fields, South Africa
+;
+_database_code_amcsd 0019774
+_chemical_compound_source 'Wessels mine, Kalahari Manganese Fields, South Africa'
+_chemical_formula_sum 'Ba Cu2 Si2 O7'
+_cell_length_a 6.8556
+_cell_length_b 13.1725
+_cell_length_c 6.8901
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 622.213
+_exptl_crystal_density_diffrn      4.618
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ba   0.01303   0.25000   0.45688   0.00970
+Cu   0.27762   0.00417   0.20631   0.00714
+Si   0.49765   0.13406   0.52716   0.00570
+O1   0.40440   0.25000   0.51670   0.00870
+O2   0.17250   0.13370   0.13060   0.01040
+O3   0.55900   0.11210   0.74860   0.01110
+O4   0.31730   0.05960   0.46580   0.00780
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba 0.00890 0.01080 0.00950 0.00000 -0.00080 0.00000
+Cu 0.00890 0.00570 0.00680 0.00140 -0.00230 -0.00080
+Si 0.00660 0.00470 0.00570 0.00039 0.00040 0.00000
+O1 0.00840 0.00570 0.01200 0.00000 -0.00040 0.00000
+O2 0.01220 0.00680 0.01220 0.00220 -0.00530 -0.00030
+O3 0.01520 0.00980 0.00830 0.00480 -0.00310 -0.00170
+O4 0.01050 0.00760 0.00530 -0.00220 0.00070 -0.00100

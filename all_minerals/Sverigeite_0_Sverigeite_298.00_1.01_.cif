@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Sverigeite'
+loop_
+_publ_author_name
+'Rouse R C'
+'Peacor D R'
+'Metz G W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 74 
+_journal_year 1989
+_journal_page_first 1343
+_journal_page_last 1350
+_publ_section_title
+;
+ Sverigeite, a structure containing planar NaO4 groups and chains of 3- and
+ 4-membered beryllosilicate rings
+;
+_database_code_amcsd 0001282
+_chemical_formula_sum 'Sn (Mn1.37 Mg.63) Na Si3 Be2 O13 H'
+_cell_length_a 10.815
+_cell_length_b 13.273
+_cell_length_c 6.818
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 978.707
+_exptl_crystal_density_diffrn      3.689
+_symmetry_space_group_name_H-M 'I m m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,1/2-y,z'
+  '1/2+x,-y,1/2+z'
+  '-x,1/2+y,-z'
+  '1/2-x,+y,1/2-z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  'x,1/2+y,-z'
+  '1/2+x,+y,1/2-z'
+  '-x,1/2-y,z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Sn   0.00000   0.00000   0.00000   1.00000 ?
+Mn1   0.25000   0.62910   0.25000   0.68500 ?
+Mg1   0.25000   0.62910   0.25000   0.31500 ?
+Na   0.00000   0.00000   0.50000   1.00000 ?
+Si1   0.00000   0.25000   0.86060   1.00000 ?
+Si2   0.25000   0.08320   0.25000   1.00000 ?
+Be   0.63530   0.25000   0.02620   1.00000   0.00510
+O1   0.78550   0.14790   0.44210   1.00000   0.00950
+O2   0.86640   0.00210   0.21300   1.00000   0.00820
+O3   0.12130   0.25000   0.72110   1.00000   0.00470
+O4   0.00000   0.35010   0.99320   1.00000   0.01290
+O-H5   0.00000   0.25000   0.38340   1.00000   0.01800
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sn 0.00400 0.00690 0.00230 0.00000 0.00000 0.00040
+Mn1 0.00850 0.00710 0.00630 0.00000 0.00080 0.00000
+Mg1 0.00850 0.00710 0.00630 0.00000 0.00080 0.00000
+Na 0.03980 0.14530 0.01390 0.00000 0.00000 -0.01240
+Si1 0.00030 0.00910 0.00270 0.00000 0.00000 0.00000
+Si2 0.00340 0.00770 0.00260 0.00000 0.00090 0.00000

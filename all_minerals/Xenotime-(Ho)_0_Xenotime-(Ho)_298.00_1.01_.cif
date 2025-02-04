@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Xenotime-(Ho)'
+loop_
+_publ_author_name
+'Ni Y'
+'Hughes J M'
+'Mariano A N'
+_journal_name_full 'American Mineralogist'
+_journal_volume 80 
+_journal_year 1995
+_journal_page_first 21
+_journal_page_last 26
+_publ_section_title
+;
+ Crystal chemistry of the monazite and xenotime structures
+;
+_database_code_amcsd 0001709
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ho P O4'
+_cell_length_a 6.8773
+_cell_length_b 6.8773
+_cell_length_c 6.0176
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 284.616
+_exptl_crystal_density_diffrn      6.065
+_symmetry_space_group_name_H-M 'I 41/a m d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/4-y,3/4-x,1/4+z'
+  '3/4-y,1/4-x,3/4+z'
+  '1/4+y,3/4+x,1/4-z'
+  '3/4+y,1/4+x,3/4-z'
+  '1/4+y,3/4-x,1/4-z'
+  '3/4+y,1/4-x,3/4-z'
+  '1/4-y,3/4+x,1/4+z'
+  '3/4-y,1/4+x,3/4+z'
+  '1/2+x,-y,1/2+z'
+  '+x,1/2-y,+z'
+  '1/2-x,y,1/2-z'
+  '-x,1/2+y,-z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '1/4+y,1/4+x,3/4+z'
+  '3/4+y,3/4+x,1/4+z'
+  '1/4-y,1/4-x,3/4-z'
+  '3/4-y,3/4-x,1/4-z'
+  '1/4-y,1/4+x,3/4-z'
+  '3/4-y,3/4+x,1/4-z'
+  '1/4+y,1/4-x,3/4+z'
+  '3/4+y,3/4-x,1/4+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ho   0.00000   0.75000   0.12500   0.00062
+P   0.00000   0.25000   0.37500   0.00329
+O   0.00000   0.07570   0.21650   0.00481

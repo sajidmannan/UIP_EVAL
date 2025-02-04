@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Johachidolite'
+loop_
+_publ_author_name
+'Kadiyski M'
+'Armbruster T'
+'Gunther D'
+'Reusser E'
+'Peretti A'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 20 
+_journal_year 2008
+_journal_page_first 965
+_journal_page_last 973
+_publ_section_title
+;
+ Johachidolite, CaAl[B3O7], a mineralogical and structural peculiarity
+;
+_database_code_amcsd 0007267
+_chemical_compound_source 'Mogok district, Myanmar'
+_chemical_formula_sum 'Ca Al B3 O7'
+_cell_length_a 7.967
+_cell_length_b 11.723
+_cell_length_c 4.3718
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 408.314
+_exptl_crystal_density_diffrn      3.440
+_symmetry_space_group_name_H-M 'C m m 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '1/2+x,-y,z'
+  '+x,1/2-y,z'
+  '1/2-x,y,-z'
+  '-x,1/2+y,-z'
+  '-x,y,z'
+  '1/2-x,1/2+y,z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,y,-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,z'
+  '-x,1/2-y,z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.25000   0.25000   0.00000   0.00801
+Al   0.00000   0.00000   0.00000   0.00419
+B1   0.25000   0.00000   0.50000   0.00436
+B2   0.00000   0.13658   0.45836   0.00479
+O1   0.00000   0.25000   0.32945   0.00599
+O2   0.00000   0.13131  -0.22291   0.00538
+O3   0.14664   0.07316   0.29975   0.00471
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00840 0.00811 0.00752 0.00000 0.00273 0.00000
+Al 0.00491 0.00432 0.00333 0.00000 0.00000 0.00016
+B1 0.00410 0.00470 0.00420 0.00000 0.00000 0.00000
+B2 0.00540 0.00460 0.00430 0.00000 0.00000 0.00001
+O1 0.01020 0.00320 0.00450 0.00000 0.00000 0.00000
+O2 0.00730 0.00530 0.00346 0.00000 0.00000 0.00031
+O3 0.00406 0.00546 0.00460 0.00092 -0.00018 0.00028

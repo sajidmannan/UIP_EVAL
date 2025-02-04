@@ -1,0 +1,101 @@
+data_global
+_chemical_name_mineral 'Lileyite'
+loop_
+_publ_author_name
+'Chukanov N V'
+'Pekov I V'
+'Rastsvetaeva R K'
+'Aksenov S M'
+'Zadov A E'
+'Van K V'
+'Blass G'
+'Schuller W'
+'Ternes B'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 24 
+_journal_year 2012
+_journal_page_first 181
+_journal_page_last 188
+_publ_section_title
+;
+ Lileyite, Ba2(Na,Fe,Ca)3MgTi2(Si2O7)2O2F2, a new lamprophyllite-group
+ mineral from the Eifel volcanic area, Germany
+;
+_database_code_amcsd 0018776
+_chemical_compound_source 'Lohley quarry, Rhineland-Palatinate, Germany'
+_chemical_formula_sum '(Ba1.5 K.3 Sr.2) Na1.9 Ca.4 Fe.6 Mn.2 Mg.8 Ti2 Nb.1 Si4 O16.4 F1.6'
+_cell_length_a 19.905
+_cell_length_b 7.098
+_cell_length_c 5.405
+_cell_angle_alpha 90
+_cell_angle_beta 96.349
+_cell_angle_gamma 90
+_cell_volume 758.966
+_exptl_crystal_density_diffrn      3.803
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ba   0.28270   0.00000   0.26230   0.75000
+K   0.28270   0.00000   0.26230   0.15000
+Sr   0.28270   0.00000   0.26230   0.10000
+Na1   0.00000   0.00000   0.00000   1.00000
+Na2   0.00000   0.25940   0.50000   0.45000
+Ca2   0.00000   0.25940   0.50000   0.20000
+Fe2   0.00000   0.25940   0.50000   0.25000
+Mn2   0.00000   0.25940   0.50000   0.10000
+Mg   0.00000   0.50000   0.00000   0.80000
+Fe   0.00000   0.50000   0.00000   0.10000
+Ti   0.00000   0.50000   0.00000   0.10000
+Ti   0.14580   0.00000   0.70680   0.95000
+Nb   0.14580   0.00000   0.70680   0.05000
+Si   0.13860   0.28190   0.20410   1.00000
+O1   0.17130   0.18890   0.46570   1.00000
+O2   0.17150   0.18760   0.97140   1.00000
+O3   0.16960   0.50000   0.21640   1.00000
+O4   0.05790   0.28670   0.17350   1.00000
+O5   0.06040   0.00000   0.66710   1.00000
+F   0.44430   0.00000   0.28480   0.80000
+OF   0.44430   0.00000   0.28480   0.20000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba 0.01464 0.00940 0.00941 0.00000 0.00095 0.00000
+K 0.01464 0.00940 0.00941 0.00000 0.00095 0.00000
+Sr 0.01464 0.00940 0.00941 0.00000 0.00095 0.00000
+Na1 0.01130 0.00920 0.00800 0.00000 0.00480 0.00000
+Na2 0.01920 0.01740 0.01440 0.00000 0.00490 0.00000
+Ca2 0.01920 0.01740 0.01440 0.00000 0.00490 0.00000
+Fe2 0.01920 0.01740 0.01440 0.00000 0.00490 0.00000
+Mn2 0.01920 0.01740 0.01440 0.00000 0.00490 0.00000
+Mg 0.01130 0.00160 0.01510 0.00000 -0.01100 0.00000
+Fe 0.01130 0.00160 0.01510 0.00000 -0.01100 0.00000
+Ti 0.01130 0.00160 0.01510 0.00000 -0.01100 0.00000
+Ti 0.00979 0.00761 0.00630 0.00000 0.00066 0.00000
+Nb 0.00979 0.00761 0.00630 0.00000 0.00066 0.00000
+Si 0.00874 0.00533 0.00624 0.00007 0.00052 -0.00028
+O1 0.01640 0.00820 0.00740 -0.00050 0.00080 0.00190
+O2 0.01680 0.00780 0.00840 -0.00010 0.00230 -0.00250
+O3 0.01370 0.00490 0.01070 0.00000 0.00060 0.00000
+O4 0.00850 0.01520 0.01960 0.00020 -0.00040 -0.00160
+O5 0.01180 0.03430 0.01340 0.00000 0.00040 0.00000
+F 0.02210 0.03210 0.02410 0.00000 0.00540 0.00000
+OF 0.02210 0.03210 0.02410 0.00000 0.00540 0.00000

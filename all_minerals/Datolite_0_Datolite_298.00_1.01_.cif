@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Datolite'
+loop_
+_publ_author_name
+'Foit F F'
+'Phillips M W'
+'Gibbs G V'
+_journal_name_full 'American Mineralogist'
+_journal_volume 58 
+_journal_year 1973
+_journal_page_first 909
+_journal_page_last 914
+_publ_section_title
+;
+ A refinement of the crystal structure of datolite, CaBSiO4(OH)
+;
+_database_code_amcsd 0000387
+_chemical_formula_sum 'Ca Si B O5 H'
+_cell_length_a 4.832
+_cell_length_b 7.608
+_cell_length_c 9.636
+_cell_angle_alpha 90
+_cell_angle_beta 90.40
+_cell_angle_gamma 90
+_cell_volume 354.229
+_exptl_crystal_density_diffrn      3.000
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca   0.99176   0.10618   0.33611
+Si   0.46882   0.26626   0.08440
+B   0.56830   0.41070   0.34150
+O1   0.24010   0.40080   0.03760
+O2   0.66940   0.30100   0.45750
+O3   0.67550   0.33460   0.21040
+O4   0.31520   0.08760   0.14600
+O5   0.25880   0.41370   0.33630
+H   0.20000   0.44400   0.40500
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00393 0.00487 0.00409 -0.00043 0.00045 -0.00026
+Si 0.00293 0.00299 0.00273 0.00061 0.00021 -0.00026
+B 0.00335 0.00434 0.00503 -0.00015 0.00045 0.00093
+O1 0.00723 0.00815 0.00734 0.00201 -0.00031 -0.00007
+O2 0.00577 0.00783 0.00503 0.00134 0.00047 0.00141
+O3 0.00500 0.00833 0.00433 0.00110 -0.00019 -0.00186
+O4 0.00712 0.00402 0.00880 0.00011 0.00262 0.00030
+O5 0.00458 0.00874 0.00734 0.00162 0.00083 0.00015
+H 0.00988 0.00988 0.00988 0.00000 0.00007 0.00000

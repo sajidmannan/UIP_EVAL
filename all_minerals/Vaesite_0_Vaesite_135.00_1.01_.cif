@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Vaesite'
+loop_
+_publ_author_name
+'Nowack E'
+'Schwarzenbach D'
+'Hahn T'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 47 
+_journal_year 1991
+_journal_page_first 650
+_journal_page_last 659
+_publ_section_title
+;
+ Charge densities in CoS2 and NiS2 (pyrite structure)
+ Note: multipole model, T = 135 K
+;
+_database_code_amcsd 0009853
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ni S2'
+_cell_length_a 5.6765
+_cell_length_b 5.6765
+_cell_length_c 5.6765
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 182.912
+_exptl_crystal_density_diffrn      4.460
+_symmetry_space_group_name_H-M 'P a -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+z,x,1/2-y'
+  'z,1/2-x,1/2+y'
+  '1/2-z,1/2+x,y'
+  '-z,-x,-y'
+  '1/2+y,1/2-z,-x'
+  '1/2-y,-z,1/2+x'
+  '-y,1/2+z,1/2-x'
+  'y,z,x'
+  'x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,y,1/2-z'
+  '-x,-y,-z'
+  '1/2-z,-x,1/2+y'
+  '-z,1/2+x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'z,x,y'
+  '1/2-y,1/2+z,x'
+  '1/2+y,z,1/2-x'
+  'y,1/2-z,1/2+x'
+  '-y,-z,-x'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ni   0.00000   0.00000   0.00000
+S   0.39454   0.39454   0.39454
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni 0.00297 0.00297 0.00297 0.00011 0.00011 0.00011
+S 0.00287 0.00287 0.00287 -0.00007 -0.00007 -0.00007

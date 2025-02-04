@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Phase-D'
+loop_
+_publ_author_name
+'Yang H'
+'Prewitt C T'
+'Frost D J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 82 
+_journal_year 1997
+_journal_page_first 651
+_journal_page_last 654
+_publ_section_title
+;
+ Crystal structure of the dense hydrous magnesium silicate, phase D
+;
+_database_code_amcsd 0001904
+_chemical_formula_sum 'Mg1.11 Si1.89 H2.22 O6'
+_cell_length_a 4.7453
+_cell_length_b 4.7453
+_cell_length_c 4.3450
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 84.732
+_exptl_crystal_density_diffrn      3.494
+_symmetry_space_group_name_H-M 'P -3 1 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x-y,-y,z'
+  'y,-x+y,-z'
+  '-y,-x,-z'
+  '-x+y,-x,z'
+  '-x,-x+y,z'
+  '-x,-y,-z'
+  '-x+y,y,-z'
+  '-y,x-y,z'
+  'y,x,z'
+  'x-y,x,-z'
+  'x,x-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg   0.00000   0.00000   0.00000   1.00000 ?
+Si   0.66667   0.33333   0.50000   0.94500 ?
+Mg   0.66667   0.33333   0.50000   0.05500 ?
+H   0.53600   0.00000   0.09100   0.37000   0.01140
+O   0.63270   0.00000   0.27160   1.00000 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg 0.02755 0.02755 0.00947 0.01377 0.00000 0.00000
+Si 0.00744 0.00744 0.00612 0.00372 0.00000 0.00000
+Mg 0.00744 0.00744 0.00612 0.00372 0.00000 0.00000
+O 0.00779 0.00881 0.01148 0.00441 -0.00018 0.00000

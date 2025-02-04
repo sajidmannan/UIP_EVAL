@@ -1,0 +1,82 @@
+data_global
+_chemical_name_mineral 'Hydroniumpharmacosiderite'
+loop_
+_publ_author_name
+'Mills S J'
+'Hager S L'
+'Leverett P'
+'Williams P A'
+'Raudsepp M'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 74 
+_journal_year 2010
+_journal_page_first 487
+_journal_page_last 492
+_publ_section_title
+;
+ The structure of H3O+ - exchanged pharmacosiderite
+;
+_database_code_amcsd 0014603
+_chemical_compound_source 'Gold Hill mine, Gold Hill, Tooele County, Utah, USA'
+_chemical_formula_sum 'Fe4 As3 O21.5'
+_cell_length_a 7.982
+_cell_length_b 7.982
+_cell_length_c 7.982
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 508.552
+_exptl_crystal_density_diffrn      2.587
+_symmetry_space_group_name_H-M 'P -4 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-z,x,-y'
+  '-y,z,-x'
+  '-x,y,-z'
+  'x,-z,-y'
+  'z,-y,-x'
+  'y,-x,-z'
+  'x,z,y'
+  'z,y,x'
+  'y,x,z'
+  '-z,-x,y'
+  '-y,-z,x'
+  '-x,-y,z'
+  'z,-x,-y'
+  'y,-z,-x'
+  'x,-y,-z'
+  '-x,z,-y'
+  '-z,y,-x'
+  '-y,x,-z'
+  '-x,-z,y'
+  '-z,-y,x'
+  '-y,-x,z'
+  'z,x,y'
+  'y,z,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Fe   0.14330   0.14330   0.14330   1.00000   0.00970
+As   0.50000   0.00000   0.00000   1.00000   0.01230
+O1   0.12390   0.12390   0.38420   1.00000   0.01900
+O2   0.88670   0.88670   0.88670   1.00000   0.00500
+O3   0.50000   0.05000   0.50000   0.50000   0.04800
+O4   0.69130   0.69130   0.69130   0.50000   0.02800
+O5   0.50000   0.50000   0.50000   0.50000   0.03500
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe 0.00990 0.00990 0.00990 -0.00040 -0.00040 -0.00040
+As 0.00650 0.01530 0.01530 0.00000 0.00000 0.00000
+O1 0.02200 0.02200 0.01500 -0.00700 0.00100 0.00100
+O2 0.00500 0.00500 0.00500 -0.00200 -0.00200 -0.00200

@@ -1,0 +1,91 @@
+data_global
+_chemical_name_mineral 'Johillerite'
+loop_
+_publ_author_name
+'Tait K T'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 42 
+_journal_year 2004
+_journal_page_first 717
+_journal_page_last 722
+_publ_section_title
+;
+ Johillerite from Tolbachik, Kamchatka Peninsula, Russia: Crystal-structure
+ refinement and chemical composition
+;
+_database_code_amcsd 0005933
+_chemical_compound_source 'Tolbachik, Kamchatka Peninsula, Russia'
+_chemical_formula_sum 'Cu1.6 Na.77 Pb.01 Ca.01 K.03 Mg2.09 Fe.25 Al.06 As3 O12'
+_cell_length_a 6.7520
+_cell_length_b 12.739
+_cell_length_c 11.068
+_cell_angle_alpha 90
+_cell_angle_beta 100.37
+_cell_angle_gamma 90
+_cell_volume 936.450
+_exptl_crystal_density_diffrn      4.299
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/2-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,-y,z'
+  '+x,1/2-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu2+A1   0.25000   0.00236   0.50000   1.00000   0.01260
+NaA2   0.25000   0.00710   0.00000   0.77000   0.03290
+Pb2+A2   0.25000   0.00710   0.00000   0.01000   0.03290
+CaA2   0.25000   0.00710   0.00000   0.01000   0.03290
+KA2   0.25000   0.00710   0.00000   0.03000   0.03290
+MgM1   0.25000   0.73963   0.00000   0.79000   0.01700
+Cu2+M1   0.25000   0.73963   0.00000   0.21000   0.01700
+MgM2   0.08832   0.15530   0.21465   0.65000   0.01380
+Cu2+M2   0.08832   0.15530   0.21465   0.19500   0.01380
+Fe3+M2   0.08832   0.15530   0.21465   0.12500   0.01380
+AlM2   0.08832   0.15530   0.21465   0.03000   0.01380
+As5+T1   0.25000   0.28556   0.00000   1.00000   0.01089
+As5+T2   0.10551   0.88564   0.23053   1.00000   0.01094
+O1   0.05370   0.00302   0.16790   1.00000   0.01710
+O2   0.30300  -0.10913   0.61610   1.00000   0.01440
+O3   0.15640   0.37986  -0.10620   1.00000   0.01290
+O4   0.27830   0.82990   0.15880   1.00000   0.01450
+O5  -0.10340   0.81130   0.21560   1.00000   0.01410
+O6   0.43940   0.21446  -0.03740   1.00000   0.01310
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu2+A1 0.02060 0.00600 0.01110 0.00000 0.00210 0.00000
+NaA2 0.03800 0.04400 0.01860 0.00000 0.00770 0.00000
+Pb2+A2 0.03800 0.04400 0.01860 0.00000 0.00770 0.00000
+CaA2 0.03800 0.04400 0.01860 0.00000 0.00770 0.00000
+KA2 0.03800 0.04400 0.01860 0.00000 0.00770 0.00000
+MgM1 0.02120 0.01550 0.01310 0.00000 -0.00010 0.00000
+Cu2+M1 0.02120 0.01550 0.01310 0.00000 -0.00010 0.00000
+MgM2 0.01920 0.00960 0.01200 -0.00040 0.00110 0.00100
+Cu2+M2 0.01920 0.00960 0.01200 -0.00040 0.00110 0.00100
+Fe3+M2 0.01920 0.00960 0.01200 -0.00040 0.00110 0.00100
+AlM2 0.01920 0.00960 0.01200 -0.00040 0.00110 0.00100
+As5+T1 0.01570 0.00730 0.01060 0.00000 0.00495 0.00000
+As5+T2 0.01500 0.00780 0.01050 -0.00062 0.00335 -0.00067
+O1 0.02320 0.00750 0.02090 0.00260 0.00480 0.00110
+O2 0.02330 0.00970 0.00930 -0.00040 0.00080 0.00090
+O3 0.01940 0.00750 0.01100 0.00290 0.00090 0.00100
+O4 0.01740 0.01180 0.01520 0.00020 0.00560 -0.00290
+O5 0.01690 0.01240 0.01370 -0.00410 0.00460 -0.00180
+O6 0.01800 0.01170 0.01030 0.00190 0.00460 -0.00090

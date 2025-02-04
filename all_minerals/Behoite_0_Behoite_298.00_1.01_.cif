@@ -1,0 +1,41 @@
+data_global
+_chemical_name_mineral 'Behoite'
+loop_
+_publ_author_name
+'Seitz A'
+'Rosler U'
+'Schubert K'
+_journal_name_full 'Zeitschrift fur Anorganische und Allgemeine Chemie'
+_journal_volume 261 
+_journal_year 1950
+_journal_page_first 94
+_journal_page_last 105
+_publ_section_title
+;
+ Kristallstruktur von beta-Be(OH)2
+;
+_database_code_amcsd 0015763
+_chemical_formula_sum 'Be (O2 H2)'
+_cell_length_a 4.620
+_cell_length_b 7.039
+_cell_length_c 4.535
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 147.479
+_exptl_crystal_density_diffrn      1.938
+_symmetry_space_group_name_H-M 'P 21 21 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,1/2+y,-z'
+  '1/2+x,-y,1/2-z'
+  '-x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Be   0.04700   0.12500   0.22000
+O-H1   0.34500   0.01500   0.09000
+O-H2   0.14000   0.28500   0.44000

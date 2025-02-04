@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Dellaite'
+loop_
+_publ_author_name
+'Ganiev R M'
+'Ilyukhin V V'
+'Belov N V'
+_journal_name_full 'Doklady Akademii Nauk SSSR'
+_journal_volume 190 
+_journal_year 1970
+_journal_page_first 831
+_journal_page_last 834
+_publ_section_title
+;
+ Crystal structure of cement phase Y=Ca6[Si2O7][SiO4](OH)2
+;
+_database_code_amcsd 0012449
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca6 Si3 O13 H2'
+_cell_length_a 6.85
+_cell_length_b 6.95
+_cell_length_c 12.9
+_cell_angle_alpha 90.75
+_cell_angle_beta 97.33
+_cell_angle_gamma 98.25
+_cell_volume 602.506
+_exptl_crystal_density_diffrn      2.948
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.08200   0.19400   0.10300   0.00215
+Ca2   0.19200   0.20600   0.48900   0.00215
+Ca3   0.31500   0.19100   0.87600   0.00215
+Ca4   0.56000   0.03400   0.32100   0.00215
+Ca5   0.89400   0.46800   0.29100   0.00215
+Ca6   0.59500   0.47700   0.70300   0.00215
+Si1   0.61800   0.29100   0.09800   0.00215
+Si2   0.80900   0.28500   0.88500   0.00215
+Si3   0.71500   0.29900   0.50900   0.00215
+O1   0.61400   0.49000   0.16600   0.00215
+O2   0.39400   0.18800   0.05300   0.00215
+O3   0.61500   0.18400   0.80600   0.00215
+O4   0.74700   0.15300   0.17400   0.00215
+O5   0.98800   0.14900   0.91000   0.00215
+O-H6   0.22900   0.16500   0.30000   0.00215
+O7   0.85000   0.13000   0.48600   0.00215
+O-H8   0.19200   0.21000   0.68500   0.00215
+O9   0.53000   0.21500   0.56500   0.00215
+O10   0.74300   0.33600   0.99900   0.00215
+O11   0.64300   0.36800   0.39300   0.00215
+O12   0.83600   0.48200   0.58100   0.00215
+O13   0.11200   0.51000   0.17000   0.00215

@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Burtite'
+loop_
+_publ_author_name
+'Basciano L C'
+'Peterson R C'
+'Roeder P L'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 36 
+_journal_year 1998
+_journal_page_first 1203
+_journal_page_last 1210
+_publ_section_title
+;
+ Description of schoenfliesite, MgSn(OH)6, and roxbyite, Cu1.72S, from a 1375 BC shipwreck,
+ and rietveld neutron-diffraction refinement of synthetic schoenfliesite, wickmanite,
+ MnSn(OH)6, and burtite, CaSn(OH)6
+;
+_database_code_amcsd 0005567
+_chemical_compound_source 'a 1375 BC shipwreck'
+_chemical_formula_sum 'Ca Sn H6 O6'
+_cell_length_a 8.1221
+_cell_length_b 8.1221
+_cell_length_c 8.1221
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 535.803
+_exptl_crystal_density_diffrn      3.233
+_symmetry_space_group_name_H-M 'P n -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+z,1/2+x,-y'
+  '1/2+z,-x,1/2+y'
+  '-z,1/2+x,1/2+y'
+  '-z,-x,-y'
+  'y,1/2-z,1/2-x'
+  '1/2-y,1/2-z,x'
+  '1/2-y,z,1/2-x'
+  'y,z,x'
+  '1/2+x,-y,1/2+z'
+  '-x,1/2+y,1/2+z'
+  '1/2+x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-z,1/2-x,y'
+  '1/2-z,x,1/2-y'
+  'z,1/2-x,1/2-y'
+  'z,x,y'
+  '-y,1/2+z,1/2+x'
+  '1/2+y,1/2+z,-x'
+  '1/2+y,-z,1/2+x'
+  '-y,-z,-x'
+  '1/2-x,y,1/2-z'
+  'x,1/2-y,1/2-z'
+  '1/2-x,1/2-y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca   0.00000   0.00000   0.00000   1.00000
+Sn   0.50000   0.50000   0.50000   1.00000
+H1  -0.03460   0.20110   0.28690   0.50000
+H2  -0.18050   0.06380   0.30260   0.50000
+O  -0.06630   0.07870   0.26940   1.00000

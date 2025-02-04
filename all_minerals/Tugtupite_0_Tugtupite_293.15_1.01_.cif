@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Tugtupite'
+loop_
+_publ_author_name
+'Antao S M'
+'Hassan I'
+'Parise J B'
+_journal_name_full 'American Mineralogist'
+_journal_volume 89 
+_journal_year 2004
+_journal_page_first 492
+_journal_page_last 497
+_publ_section_title
+;
+ Tugtupite: High-temperature structures obtained from in situ synchrotron
+ diffraction and Rietveld refinements
+ T = 20 C, data from Hassan and Grundy (1991)
+;
+_database_code_amcsd 0003450
+_chemical_formula_sum 'Al Be Si4 O12 Na4 Cl'
+_cell_length_a 8.640
+_cell_length_b 8.640
+_cell_length_c 8.873
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 662.366
+_exptl_crystal_density_diffrn      2.345
+_symmetry_space_group_name_H-M 'I -4'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Al   0.00000   0.50000   0.75000   0.00750
+Be   0.00000   0.50000   0.25000   0.00980
+Si   0.01270   0.25330   0.49580   0.00750
+O1   0.15040   0.13430   0.44170   0.01210
+O2   0.34720   0.03850   0.64880   0.01210
+O3   0.42560   0.14860   0.13770   0.01210
+Na   0.15630   0.19720   0.18180   0.01880
+Cl   0.00000   0.00000   0.00000   0.02340

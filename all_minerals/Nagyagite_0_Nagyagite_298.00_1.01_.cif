@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Nagyagite'
+loop_
+_publ_author_name
+'Effenberger H'
+'Paar W H'
+'Topa D'
+'Culetto F J'
+'Giester G'
+_journal_name_full 'American Mineralogist'
+_journal_volume 84 
+_journal_year 1999
+_journal_page_first 669
+_journal_page_last 676
+_publ_section_title
+;
+ Toward the crystal structure of nagyagite, [Pb(Pb,Sb)S2][(Au,Te)]
+;
+_database_code_amcsd 0002222
+_chemical_formula_sum 'Pb1.476 Sb.524 (Te.867 Au.133) S2'
+_cell_length_a 4.220
+_cell_length_b 4.176
+_cell_length_c 15.119
+_cell_angle_alpha 90
+_cell_angle_beta 95.42
+_cell_angle_gamma 90
+_cell_volume 265.247
+_exptl_crystal_density_diffrn      7.144
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pb1   0.16212   0.25000   0.80260   1.00000
+Sb2   0.35780   0.25000   0.40183   0.52400
+Pb2   0.35780   0.25000   0.40183   0.47600
+Te   0.73640   0.25000  -0.00056   0.86700
+Au   0.73640   0.25000  -0.00056   0.13300
+S1   0.34840   0.25000   0.23230   1.00000
+S2   0.07440   0.25000   0.61110   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.03510 0.03250 0.03710 0.00000 0.00260 0.00000
+Sb2 0.04430 0.02740 0.03260 0.00000 0.00870 0.00000
+Pb2 0.04430 0.02740 0.03260 0.00000 0.00870 0.00000
+Te 0.05180 0.03570 0.02860 0.00000 0.00500 0.00000
+Au 0.05180 0.03570 0.02860 0.00000 0.00500 0.00000
+S1 0.02500 0.02100 0.03700 0.00000 0.00800 0.00000
+S2 0.03500 0.06000 0.02600 0.00000 0.00770 0.00000

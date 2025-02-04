@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Morinite'
+loop_
+_publ_author_name
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 17 
+_journal_year 1979
+_journal_page_first 93
+_journal_page_last 102
+_publ_section_title
+;
+ The crystal structure of morinite
+;
+_database_code_amcsd 0005168
+_chemical_formula_sum 'Ca2 Al2 Na P2 O11 F4 H5'
+_cell_length_a 9.454
+_cell_length_b 10.692
+_cell_length_c 5.444
+_cell_angle_alpha 90
+_cell_angle_beta 105.5
+_cell_angle_gamma 90
+_cell_volume 530.277
+_exptl_crystal_density_diffrn      2.982
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.14521   0.58288   0.24000 ?
+Al   0.25760   0.40620   0.77330 ?
+Na   0.68850   0.25000   0.20830 ?
+P1   0.04380   0.25000   0.37150 ?
+P2   0.50870   0.25000   0.64150 ?
+O1   0.96990   0.25000   0.08540 ?
+O2   0.22870   0.25000   0.89620 ?
+O3   0.67540   0.25000   0.76500 ?
+O4   0.47480   0.25000   0.35350 ?
+O5   0.92920   0.25000   0.52480 ?
+O6   0.35540   0.04190   0.13040 ?
+O7   0.44230   0.13400   0.73460 ?
+O8   0.14330   0.13200   0.44160 ?
+F1   0.09680   0.03280   0.86050 ?
+F2   0.71500   0.05870   0.33920 ?
+H1   0.16900   0.25000   0.98500   0.01267
+H2   0.42600   0.99200   0.16200   0.01267
+H3   0.38200   0.11200   0.21800   0.01267
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00631 0.00811 0.01046 -0.00099 0.00024 -0.00170
+Al 0.00463 0.00521 0.00920 0.00049 0.00266 0.00028
+Na 0.01976 0.01100 0.01840 0.00000 0.00508 0.00000
+P1 0.00463 0.00521 0.00697 0.00000 0.00218 0.00000
+P2 0.00378 0.00637 0.00850 0.00000 0.00218 0.00000
+O1 0.00883 0.00985 0.00892 0.00000 -0.00024 0.00000
+O2 0.00715 0.00637 0.01129 0.00000 0.00533 0.00000
+O3 0.00336 0.00869 0.01589 0.00000 0.00169 0.00000
+O4 0.01177 0.01100 0.01213 0.00000 0.00363 0.00000
+O5 0.00631 0.01158 0.01171 0.00000 0.00557 0.00000
+O6 0.00673 0.00927 0.01171 0.00247 0.00194 0.00057
+O7 0.00631 0.00811 0.01659 0.00049 0.00533 0.00142
+O8 0.00799 0.00637 0.00920 0.00099 0.00169 0.00028
+F1 0.00589 0.01100 0.01269 -0.00247 0.00363 0.00085
+F2 0.01051 0.00637 0.01352 0.00148 0.00266 -0.00028

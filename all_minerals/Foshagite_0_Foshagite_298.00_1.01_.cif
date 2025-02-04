@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Foshagite'
+loop_
+_publ_author_name
+'Gard J A'
+'Taylor H F W'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 13 
+_journal_year 1960
+_journal_page_first 785
+_journal_page_last 793
+_publ_section_title
+;
+ The crystal structure of foshagite
+;
+_database_code_amcsd 0009245
+_chemical_compound_source 'Crestmore, California, USA'
+_chemical_formula_sum 'Ca4 Si3 O11 H2'
+_cell_length_a 10.32
+_cell_length_b 7.36
+_cell_length_c 7.04
+_cell_angle_alpha 90
+_cell_angle_beta 106.4
+_cell_angle_gamma 90
+_cell_volume 512.969
+_exptl_crystal_density_diffrn      2.736
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+CaI   0.39200   0.62500   0.60000
+CaI   0.39200   0.12500   0.60000
+CaII   0.14000   0.87500   0.78000
+CaII   0.14000   0.37500   0.78000
+SiI   0.30800   0.12500   0.11700
+SiII   0.16700   0.84200   0.29600
+SiII   0.16700   0.40800   0.29600
+OI   0.45000   0.12500   0.29200
+O-HI   0.45000   0.62500   0.29200
+OII   0.31700   0.12500  -0.11600
+O-HII   0.31700   0.62500  -0.11600
+OIII   0.22500   0.87500   0.52500
+OIII   0.22500   0.37500   0.52500
+OIV   0.01000   0.87500   0.26700
+OIV   0.01000   0.37500   0.26700
+OV   0.23400   0.94400   0.15000
+OV   0.23400   0.30600   0.15000
+OVI   0.17500   0.62500   0.26700

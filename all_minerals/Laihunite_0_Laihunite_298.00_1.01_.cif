@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Laihunite'
+loop_
+_publ_author_name
+'Shen B'
+'Tamada O'
+'Kitamura M'
+'Morimoto N'
+_journal_name_full 'American Mineralogist'
+_journal_volume 71 
+_journal_year 1986
+_journal_page_first 1455
+_journal_page_last 1460
+_publ_section_title
+;
+ Superstructure of laihunite-3M (_.40Fe.80Fe.80SiO4)
+ Sample: Superstructure
+ Fe1B-y coordinate changed by Tamada (Aug, 2001)
+;
+_database_code_amcsd 0001057
+_chemical_formula_sum 'Fe4.74 Si3 O12'
+_cell_length_a 4.805
+_cell_length_b 10.189
+_cell_length_c 17.403
+_cell_angle_alpha 91.0
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 851.889
+_exptl_crystal_density_diffrn      4.218
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Fe1A   0.00000   0.00000   0.00000   1.00000   0.00798
+Fe1B   0.00080  -0.00890   0.32780   0.90700   0.00823
+Fe2A   0.00880   0.26600   0.24880   1.00000   0.00469
+Fe2B  -0.00450   0.27880   0.58230   1.00000   0.00671
+Fe2C   0.01020   0.27700   0.91090   1.00000   0.00925
+SiA   0.05970   0.40080   0.08370   1.00000   0.00798
+SiB   0.05940   0.40000   0.41740   1.00000   0.00532
+SiC   0.05930   0.41180   0.74830   1.00000   0.00507
+O1A   0.32300   0.05010   0.08510   1.00000   0.01343
+O1B   0.32600   0.05080   0.41810   1.00000   0.01127
+O1C   0.32800   0.06030   0.75060   1.00000   0.00583
+O2A   0.22700   0.09930   0.25450   1.00000   0.00481
+O2B   0.22300   0.10650   0.58570   1.00000   0.01241
+O2C   0.22700   0.10790   0.91930   1.00000   0.00963
+O3A   0.69900   0.17380   0.18150   1.00000   0.00899
+O3B   0.70100   0.17520   0.51160   1.00000   0.00988
+O3C   0.69900   0.18200   0.84480   1.00000   0.00773
+O4A   0.22500   0.33130   0.00940   1.00000   0.00735
+O4B   0.22000   0.32360   0.34290   1.00000   0.00912
+O4C   0.22200   0.33290   0.67850   1.00000   0.00836
+FeB   0.50000   0.50000   0.50000   0.66600   0.01773
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1A 0.00035 0.01209 0.01227 0.00074 0.00042 0.00539
+Fe1B 0.00363 0.00789 0.01380 -0.00149 -0.00085 -0.00180
+Fe2A 0.00035 0.00315 0.01074 0.00050 -0.00042 -0.00090
+Fe2B 0.00070 0.01104 0.00767 0.00248 -0.00085 0.00000
+Fe2C 0.00561 0.00999 0.01227 0.00050 0.00169 0.00269
+SiA 0.00269 0.01052 0.01074 -0.00050 0.00042 -0.00090
+SiB -0.00152 0.00946 0.00920 -0.00025 -0.00169 0.00180
+SiC 0.00012 0.00421 0.01074 0.00124 0.00085 0.00090

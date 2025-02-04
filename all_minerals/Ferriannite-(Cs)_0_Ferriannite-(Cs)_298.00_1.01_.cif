@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Ferriannite-(Cs)'
+loop_
+_publ_author_name
+'Mellini M'
+'Weiss Z'
+'Rieder M'
+'Drabek M'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 8 
+_journal_year 1996
+_journal_page_first 1265
+_journal_page_last 1271
+_publ_section_title
+;
+ Cs-ferriannite as a possible host for waste cesium: crystal
+ structure and synthesis
+;
+_database_code_amcsd 0006633
+_chemical_formula_sum 'Cs.968 Fe3.824 Si3.124 O12 H2'
+_cell_length_a 5.487
+_cell_length_b 9.506
+_cell_length_c 10.826
+_cell_angle_alpha 90
+_cell_angle_beta 99.83
+_cell_angle_gamma 90
+_cell_volume 556.388
+_exptl_crystal_density_diffrn      3.724
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cs   0.00000   0.50000   0.00000   0.96800
+FeM1   0.00000   0.00000   0.50000   0.98400
+FeM2   0.00000   0.33220   0.50000   0.98200
+SiT   0.07940   0.16660   0.23820   0.78100
+FeT   0.07940   0.16660   0.23820   0.21900
+O1   0.05950   0.00000   0.18330   1.00000
+O2   0.31200   0.24950   0.18470   1.00000
+O3   0.13400   0.16670   0.39710   1.00000
+O4   0.13270   0.50000   0.40090   1.00000
+H   0.08900   0.50000   0.31400   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs 0.02170 0.02050 0.01850 0.00000 0.00230 0.00000
+FeM1 0.00670 0.00480 0.01280 0.00000 0.00250 0.00000
+FeM2 0.00680 0.00480 0.01310 0.00000 0.00120 0.00000
+SiT 0.00910 0.00820 0.01090 -0.00020 0.00200 0.00090
+FeT 0.00910 0.00820 0.01090 -0.00020 0.00200 0.00090
+O1 0.04200 0.03200 0.02800 0.00000 0.00020 0.00000
+O2 0.03700 0.04200 0.02500 -0.00100 0.00600 -0.00600
+O3 0.00900 0.00800 0.01300 0.00000 0.00200 0.00000
+O4 0.01000 0.00700 0.01700 0.00000 0.00100 0.00000

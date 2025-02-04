@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Ferrocarpholite'
+loop_
+_publ_author_name
+'MacGillavry C H'
+'Korst W L'
+'Weichel Moore E J'
+'van der Plas H J'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 9 
+_journal_year 1956
+_journal_page_first 773
+_journal_page_last 776
+_publ_section_title
+;
+ The crystal structure of ferrocarpholite
+;
+_database_code_amcsd 0017757
+_chemical_compound_source 'west of Tomata, eastern Central Celebes, Indonesia'
+_chemical_formula_sum 'Fe Al2 Si2 (O10 H4)'
+_cell_length_a 13.77
+_cell_length_b 20.18
+_cell_length_c 5.109
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1419.682
+_exptl_crystal_density_diffrn      3.088
+_symmetry_space_group_name_H-M 'C m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,1/2-y,1/2+z'
+  '1/2+x,-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,1/2+y,1/2+z'
+  '1/2-x,+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,-z'
+  'x,1/2+y,1/2-z'
+  '1/2+x,+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,z'
+  '-x,1/2-y,1/2-z'
+  '1/2-x,-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe   0.00000   0.12500   0.00000
+Al1   0.19000   0.00000   0.00000
+Al2   0.00000   0.21100   0.50000
+Si   0.19400   0.13000   0.65800
+O-H1   0.09700   0.05600   0.16100
+O2   0.20600   0.04700   0.66100
+O3   0.25000   0.16300   0.91100
+O4   0.08200   0.15100   0.66100
+O-H5   0.06900   0.21800   0.16100

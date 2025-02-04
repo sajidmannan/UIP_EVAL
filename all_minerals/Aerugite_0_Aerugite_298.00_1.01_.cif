@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Aerugite'
+loop_
+_publ_author_name
+'Fleet M E'
+'Barbier J'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 45 
+_journal_year 1989
+_journal_page_first 201
+_journal_page_last 205
+_publ_section_title
+;
+ Structure of aerugite (Ni8.5As3O16) and interrelated
+ arsenate and germanate structural series
+;
+_database_code_amcsd 0009828
+_chemical_formula_sum 'Ni8.499 As3 O16'
+_cell_length_a 9.8105
+_cell_length_b 9.8105
+_cell_length_c 9.8105
+_cell_angle_alpha 35.312
+_cell_angle_beta 35.312
+_cell_angle_gamma 35.312
+_cell_volume 281.837
+_exptl_crystal_density_diffrn      5.771
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-z,-y'
+  '-z,-x,-y'
+  'y,x,z'
+  'y,z,x'
+  '-z,-y,-x'
+  '-x,-y,-z'
+  'x,z,y'
+  'z,x,y'
+  '-y,-x,-z'
+  '-y,-z,-x'
+  'z,y,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ni1   0.00000   0.50000   0.50000   0.83300   0.00578
+Ni2   0.75281   0.25478   0.25478   1.00000   0.00400
+As1   0.00000   0.00000   0.00000   1.00000   0.00299
+As2   0.19203   0.19203   0.19203   1.00000   0.00266
+O1   0.12956   0.12956   0.12956   1.00000   0.00458
+O2   0.37881   0.37881   0.37881   1.00000   0.00864
+O3   0.67168   0.10604   0.10604   1.00000   0.00692
+O4   0.10195   0.63450   0.63450   1.00000   0.00645

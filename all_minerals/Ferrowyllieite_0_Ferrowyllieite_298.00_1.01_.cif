@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Ferrowyllieite'
+loop_
+_publ_author_name
+'Moore P B'
+'Molin-Case J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 59 
+_journal_year 1974
+_journal_page_first 280
+_journal_page_last 290
+_publ_section_title
+;
+ Contribution to pegmatite phosphate giant crystal paragenesis: II. The crystal
+ chemistry of wyllieite, Na2Fe2Al[PO4]3, a primary phase
+;
+_database_code_amcsd 0000397
+_chemical_compound_source 'Victory mine pegmatite, near Custer, South Dakota, USA'
+_chemical_formula_sum 'Na2.31 Ca.5 Mn.5 Fe4 Mg.5 Al1.5 P6 O24'
+_cell_length_a 11.868
+_cell_length_b 12.382
+_cell_length_c 6.354
+_cell_angle_alpha 90
+_cell_angle_beta 114.52
+_cell_angle_gamma 90
+_cell_volume 849.512
+_exptl_crystal_density_diffrn      3.700
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na1a   0.50000   0.00000   0.00000   0.91000   0.01520
+Ca1b   0.49030   0.00130   0.50450   0.25000   0.00203
+Mn1b   0.49030   0.00130   0.50450   0.25000   0.00203
+Na2  -0.00040  -0.02180   0.24850   0.70000   0.01520
+Fe1  -0.00050   0.26380   0.23660   0.75000   0.00988
+Mg1  -0.00050   0.26380   0.23660   0.25000   0.00988
+Fe2a   0.27260  -0.35160   0.36260   1.00000   0.01381
+Al2b   0.21870  -0.16640   0.64340   0.75000   0.00760
+Fe2b   0.21870  -0.16640   0.64340   0.25000   0.00760
+P1  -0.00720  -0.28540   0.25920   1.00000   0.00823
+P2a   0.23810  -0.11430   0.14570   1.00000   0.00925
+P2b   0.23760   0.09710   0.61750   1.00000   0.01026
+O1a   0.45310  -0.28890   0.55090   1.00000   0.01355
+O1b   0.44980  -0.71700   0.01670   1.00000   0.01241
+O2a   0.08200  -0.37370   0.24290   1.00000   0.01608
+O2b   0.11040  -0.64900   0.71990   1.00000   0.01811
+O3a   0.34320  -0.34700   0.11140   1.00000   0.01646
+O3b   0.31890  -0.67330   0.58660   1.00000   0.01659
+O4a   0.12190   0.40200   0.28070   1.00000   0.01393
+O4b   0.12880  -0.41480   0.85360   1.00000   0.01722
+O5a   0.22160  -0.18400   0.32880   1.00000   0.01520
+O5b   0.23800  -0.83360   0.81770   1.00000   0.01659
+O6a   0.33100  -0.50830   0.38370   1.00000   0.01950
+O6b   0.32260  -0.51270   0.88390   1.00000   0.02077

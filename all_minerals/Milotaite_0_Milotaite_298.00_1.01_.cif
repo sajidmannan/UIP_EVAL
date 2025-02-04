@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Milotaite'
+loop_
+_publ_author_name
+'Paar W H'
+'Topa D'
+'Makovicky E'
+'Culetto F J'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 43 
+_journal_year 2005
+_journal_page_first 689
+_journal_page_last 694
+_publ_section_title
+;
+ Milotaite, PdSbSe, a new palladium mineral species from Predborice, Czech Republic
+ Sample: synthetic analog to milotaite
+;
+_database_code_amcsd 0006003
+_chemical_formula_sum 'Pd Sb Se'
+_cell_length_a 6.3181
+_cell_length_b 6.3181
+_cell_length_c 6.3181
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 252.208
+_exptl_crystal_density_diffrn      8.089
+_symmetry_space_group_name_H-M 'P 21 3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-z,-x,1/2+y'
+  '-z,1/2+x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'z,x,y'
+  '1/2+y,1/2-z,-x'
+  '1/2-y,-z,1/2+x'
+  '-y,1/2+z,1/2-x'
+  'y,z,x'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pd   0.25390   0.74610   0.24610   0.00880
+Sb   0.12677   0.12677   0.12677   0.00960
+Se   0.63232   0.86768   0.13232   0.01040
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pd 0.00880 0.00880 0.00880 -0.00010 -0.00010 0.00010
+Sb 0.00960 0.00960 0.00960 0.00110 0.00110 0.00110
+Se 0.01040 0.01040 0.01040 -0.00060 0.00060 -0.00060

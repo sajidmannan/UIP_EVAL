@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Alacranite'
+loop_
+_publ_author_name
+'Bonazzi P'
+'Bindi L'
+'Popova V'
+'Pratesi G'
+'Menchetti S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 88 
+_journal_year 2003
+_journal_page_first 1796
+_journal_page_last 1800
+_publ_section_title
+;
+ Alacranite, As8S9: structural study of the holotype and re-assignment
+ of the original chemical formula
+;
+_database_code_amcsd 0003185
+_chemical_formula_sum 'As8 S9'
+_cell_length_a 9.942
+_cell_length_b 9.601
+_cell_length_c 9.178
+_cell_angle_alpha 90
+_cell_angle_beta 101.94
+_cell_angle_gamma 90
+_cell_volume 857.115
+_exptl_crystal_density_diffrn      3.441
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+As1   0.01900   0.22270   0.94180   0.05800
+As2   0.16530   0.41490   0.85410   0.04900
+As3   0.44080   0.32140   0.43330   0.04300
+As4   0.37500   0.03120   0.17740   0.04500
+S1   0.00000   0.07680   0.75000   0.07200
+S2   0.00000   0.55900   0.75000   0.09700
+S3   0.18540   0.32100   0.64040   0.06700
+S4   0.28060   0.17330   0.32160   0.03600
+S5   0.50000   0.44570   0.25000   0.04600
+S6   0.39440   0.16710  -0.01140   0.04500
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 0.05400 0.07500 0.04300 0.01100 0.00800 0.01800
+As2 0.03600 0.04300 0.06400 -0.00300 0.00100 -0.00900
+As3 0.05800 0.03500 0.03700 -0.01000 0.01300 -0.00500
+As4 0.05700 0.04500 0.03600 -0.01700 0.01500 -0.01500
+S1 0.08200 0.03400 0.09800 0.00000 0.01200 0.00000
+S2 0.07600 0.03100 0.16500 0.00000 -0.02000 0.00000
+S3 0.03400 0.11700 0.05300 -0.00500 0.02100 0.00200
+S4 0.02900 0.05100 0.03500 0.00800 0.01900 -0.00600
+S5 0.07100 0.03100 0.04300 0.00000 0.02700 0.00000
+S6 0.05600 0.04000 0.03700 0.00900 0.00800 0.00700

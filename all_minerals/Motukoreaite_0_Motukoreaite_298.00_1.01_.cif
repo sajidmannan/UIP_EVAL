@@ -1,0 +1,99 @@
+data_global
+_chemical_name_mineral 'Motukoreaite'
+loop_
+_publ_author_name
+'Rius J'
+'Plana F'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1986 
+_journal_year 1986
+_journal_page_first 263
+_journal_page_last 272
+_publ_section_title
+;
+ Contribution to the superstructure resolution of the double layer
+ mineral motukoreaite
+;
+_database_code_amcsd 0014801
+_chemical_compound_source 'the Emile Baudot bank, western Mediterranean'
+_chemical_formula_sum 'Al3 Mg6 Na.667 S1.333 O33.333 H30'
+_cell_length_a 9.172
+_cell_length_b 9.172
+_cell_length_c 33.51
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 2441.367
+_exptl_crystal_density_diffrn      1.731
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  'y,x,-z'
+  '2/3+y,1/3+x,1/3-z'
+  '1/3+y,2/3+x,2/3-z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-x,-x+y,-z'
+  '2/3-x,1/3-x+y,1/3-z'
+  '1/3-x,2/3-x+y,2/3-z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  'x-y,-y,-z'
+  '2/3+x-y,1/3-y,1/3-z'
+  '1/3+x-y,2/3-y,2/3-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Al1   0.00000   0.00000   0.50000   1.00000   0.00760
+Mg2   0.33440   0.00000   0.50000   1.00000   0.00990
+Al3   0.33333   0.66667   0.50140   1.00000   0.01030
+Na   0.00000   0.00000   0.00000   0.66667   0.02170
+S   0.66667   0.33333   0.04020   0.66667   0.00670
+O1   0.10610   0.21220   0.52890   1.00000   0.02630
+O2   0.44080   0.88160   0.53050   1.00000   0.01960
+O3   0.45780   0.22890   0.52920   1.00000   0.01360
+O4   0.13270   0.43010   0.05530   0.33333   0.02590
+O5   0.21620   0.16900   0.05200   0.50000   0.03730
+O6   0.54950   0.39230   0.05630   0.33333   0.01520
+O7   0.33333   0.66667   0.00420   0.66667   0.01190
+H1   0.20000   0.10000   0.11000   1.00000 ?
+H2   0.21000   0.41000   0.11000   1.00000 ?
+H3   0.56000   0.13000   0.12000   1.00000 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al1 0.00760 0.00760 0.03490 0.00380 0.00000 0.00000
+Mg2 0.00990 0.00620 0.02570 0.00310 0.00005 0.00010
+Al3 0.01030 0.01030 0.01350 0.00515 0.00000 0.00000

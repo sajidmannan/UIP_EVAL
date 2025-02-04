@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Batiferrite'
+loop_
+_publ_author_name
+'Krezhov K'
+'Somogyvari Z'
+'Meszaros G'
+'Svab E'
+'Nedkov I'
+'Bouree F'
+_journal_name_full 'Applied Physics'
+_journal_volume A74 
+_journal_year 2002
+_journal_page_first S1086
+_journal_page_last S1088
+_publ_section_title
+;
+ Neutron powder diffraction study of (Co,Ti)-substituted fine-particle
+ Ba-hexaferrite
+;
+_database_code_amcsd 0012030
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ba Fe10.288 Co.856 Ti.856 O19'
+_cell_length_a 5.8846
+_cell_length_b 5.8846
+_cell_length_c 23.175
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 694.999
+_exptl_crystal_density_diffrn      5.291
+_symmetry_space_group_name_H-M 'P 63/m m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x,-x+y,-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+  'x-y,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ba   0.66667   0.33333   0.25000   1.00000   0.00925
+FeM1   0.00000   0.00000   0.00000   1.00000   0.00836
+FeM2   0.00000   0.00000   0.25960   0.50000   0.00519
+FeM3   0.33333   0.66667   0.02720   0.89300   0.00317
+CoM3   0.33333   0.66667   0.02720   0.10700   0.00317
+FeM4   0.33333   0.66667   0.18950   0.89300   0.00760
+TiM4   0.33333   0.66667   0.18950   0.10700   0.00760
+FeM5   0.16820   0.33640   0.89270   0.78600   0.00608
+CoM5   0.16820   0.33640   0.89270   0.10700   0.00608
+TiM5   0.16820   0.33640   0.89270   0.10700   0.00608
+O1   0.00000   0.00000   0.15140   1.00000   0.00595
+O2   0.33333   0.66667   0.94340   1.00000   0.00684
+O3   0.18360   0.36720   0.25000   1.00000   0.00557
+O4   0.15610   0.31220   0.05270   1.00000   0.00633
+O5   0.50020   0.00040   0.15020   1.00000   0.00595

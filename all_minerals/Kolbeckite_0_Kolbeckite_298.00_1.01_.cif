@@ -1,0 +1,77 @@
+data_global
+_chemical_name_mineral 'Kolbeckite'
+loop_
+_publ_author_name
+'Yang H'
+'Li C'
+'Jenkins R A'
+'Downs R T'
+'Costin G'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 63 
+_journal_year 2007
+_journal_page_first i91
+_journal_page_last i92
+_publ_section_title
+;
+ Kolbeckite, ScPO4*2H2O, isomorphous with metavariscite
+;
+_database_code_amcsd 0010338
+_chemical_compound_source 'Hot Springs County, Arkansas, USA'
+_chemical_formula_sum '(Sc.94 V.03 Fe.02 Al.01) P O6 H4'
+_cell_length_a 5.4258
+_cell_length_b 10.2027
+_cell_length_c 8.9074
+_cell_angle_alpha 90
+_cell_angle_beta 90.502
+_cell_angle_gamma 90
+_cell_volume 493.075
+_exptl_crystal_density_diffrn      2.373
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Sc   0.41180   0.33384   0.29797   0.94000   0.01235
+V   0.41180   0.33384   0.29797   0.03000   0.01235
+Fe   0.41180   0.33384   0.29797   0.02000   0.01235
+Al   0.41180   0.33384   0.29797   0.01000   0.01235
+P  -0.08648   0.15360   0.17938   1.00000   0.01197
+O1   0.16573   0.18718   0.24833   1.00000   0.02099
+O2  -0.10604   0.20645   0.02028   1.00000   0.02537
+O3  -0.28691   0.21526   0.27535   1.00000   0.01868
+O4  -0.11366   0.00430   0.18163   1.00000   0.01702
+O5   0.10392   0.46097   0.29539   1.00000   0.04840
+O6   0.43332   0.36350   0.05529   1.00000   0.03985
+H1  -0.02758   0.46121   0.28771   1.00000   0.02066
+H2   0.15760   0.53565   0.27518   1.00000   0.05383
+H3   0.31004   0.32961  -0.01456   1.00000   0.04282
+H4   0.34954   0.40089   0.06978   1.00000   0.00001
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc 0.01037 0.01073 0.01594 0.00000 0.00024 -0.00057
+V 0.01037 0.01073 0.01594 0.00000 0.00024 -0.00057
+Fe 0.01037 0.01073 0.01594 0.00000 0.00024 -0.00057
+Al 0.01037 0.01073 0.01594 0.00000 0.00024 -0.00057
+P 0.01036 0.01061 0.01494 0.00055 0.00074 -0.00022
+O1 0.01207 0.01509 0.03573 -0.00046 -0.00409 -0.00584
+O2 0.04097 0.01995 0.01522 0.00354 0.00152 0.00167
+O3 0.01642 0.01808 0.02163 0.00463 0.00473 0.00065
+O4 0.01328 0.01151 0.02627 0.00016 -0.00049 0.00057
+O5 0.01217 0.01524 0.11783 0.00175 0.00291 0.00654
+O6 0.04760 0.05120 0.02070 -0.00914 -0.00298 -0.00224

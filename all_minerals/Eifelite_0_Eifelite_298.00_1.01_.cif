@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Eifelite'
+loop_
+_publ_author_name
+'Nguyen N'
+'Choisnet J'
+'Raveau B'
+_journal_name_full 'Journal of Solid State Chemistry'
+_journal_volume 34 
+_journal_year 1980
+_journal_page_first 1
+_journal_page_last 9
+_publ_section_title
+;
+ Silicates synthetiques a structure milarite
+;
+_database_code_amcsd 0013387
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'K Na Mg5 Si12 O30'
+_cell_length_a 10.152
+_cell_length_b 10.152
+_cell_length_c 14.28
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1274.565
+_exptl_crystal_density_diffrn      2.607
+_symmetry_space_group_name_H-M 'P 6/m c c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,-z'
+  'x-y,x,z'
+  '-y,-x,1/2+z'
+  'y,x,1/2-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'x,x-y,1/2+z'
+  '-x,-x+y,1/2-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,-z'
+  'y,-x+y,z'
+  '-x+y,y,1/2+z'
+  'x-y,-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+KA1   0.00000   0.00000   0.25000   1.00000   0.02786
+NaA2   0.33333   0.66667   0.00000   0.50000   0.00760
+MgM1   0.33333   0.66667   0.25000   1.00000   0.02153
+MgM2   0.50000   0.00000   0.25000   1.00000   0.01520
+Si   0.76300   0.11400   0.10900   1.00000   0.01393
+O1   0.73400   0.13200   0.00000   1.00000   0.00760
+O2   0.94500   0.22100   0.13300   1.00000   0.01773
+O3   0.66200   0.15700   0.17200   1.00000   0.00887

@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Kosmochlor'
+loop_
+_publ_author_name
+'Cameron M'
+'Sueno S'
+'Prewitt C T'
+'Papike J J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 58 
+_journal_year 1973
+_journal_page_first 594
+_journal_page_last 618
+_publ_section_title
+;
+ High-temperature crystal chemistry of acmite, diopside, hedenbergite, jadeite,
+ spodumene, and ureyite
+ T = 24 C
+ pyroxene
+;
+_database_code_amcsd 0000359
+_chemical_formula_sum 'Si2 Cr Na O6'
+_cell_length_a 9.579
+_cell_length_b 8.722
+_cell_length_c 5.267
+_cell_angle_alpha 90
+_cell_angle_beta 107.37
+_cell_angle_gamma 90
+_cell_volume 419.980
+_exptl_crystal_density_diffrn      3.593
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si   0.29210   0.09180   0.23330
+Cr1   0.00000   0.90760   0.25000
+Na2   0.00000   0.30080   0.25000
+O1   0.11400   0.07910   0.13740
+O2   0.35990   0.25830   0.30370
+O3   0.35310   0.01050   0.00660
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si 0.00601 0.00505 0.00188 -0.00040 0.00047 -0.00036
+Cr1 0.00707 0.00563 0.00293 0.00000 0.00100 0.00000
+Na2 0.01482 0.00640 0.00440 0.00000 -0.00277 0.00000
+O1 0.00661 0.00682 0.00238 -0.00053 0.00068 0.00089
+O2 0.00936 0.00586 0.00483 -0.00259 0.00095 -0.00084
+O3 0.00745 0.00925 0.00311 -0.00004 0.00081 -0.00258

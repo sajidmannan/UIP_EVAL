@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Straczekite'
+loop_
+_publ_author_name
+'Kutoglu A'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 162 
+_journal_year 1983
+_journal_page_first 263
+_journal_page_last 272
+_publ_section_title
+;
+ Kristallstruktur der calcium-vanadium-bronze CaxV4+2xV5+(2-2x)O5
+ Note: z(Ca1) and z(O5) corrected
+;
+_database_code_amcsd 0010852
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca1.2 V3.896 O10'
+_cell_length_a 11.805
+_cell_length_b 3.709
+_cell_length_c 9.270
+_cell_angle_alpha 90
+_cell_angle_beta 101.87
+_cell_angle_gamma 90
+_cell_volume 397.206
+_exptl_crystal_density_diffrn      3.399
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.00000   0.50000   0.50000   0.40000   0.04293
+Ca2   0.18647   0.50000   0.49853   0.40000   0.01305
+V1   0.09160   0.00000   0.15567   0.97390   0.00671
+V2   0.29031   0.50000   0.15258   0.97390   0.00684
+O1   0.12030   0.00000   0.33630   1.00000   0.01596
+O2   0.11980   0.50000   0.12690   1.00000   0.01127
+O3   0.25400   0.00000   0.10620   1.00000   0.01089
+O4   0.43850   0.50000   0.10390   1.00000   0.01203
+O5   0.32690   0.50000   0.33260   1.00000   0.01697
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.04290 0.04020 0.04740 0.00000 0.01290 0.00000
+Ca2 0.01480 0.01370 0.01010 0.00000 0.00170 0.00000
+V1 0.00760 0.00600 0.00700 0.00000 0.00190 0.00000
+V2 0.00790 0.00470 0.00730 0.00000 0.00040 0.00000
+O1 0.02100 0.01670 0.00980 0.00000 0.00240 0.00000
+O2 0.01030 0.00740 0.01630 0.00000 0.00310 0.00000
+O3 0.01180 0.00740 0.01360 0.00000 0.00290 0.00000
+O4 0.00870 0.01610 0.01120 0.00000 0.00220 0.00000
+O5 0.01910 0.01980 0.01070 0.00000 -0.00020 0.00000

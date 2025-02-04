@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Solongoite'
+loop_
+_publ_author_name
+'Yamnova N A'
+'Simonov M A'
+'Belov N V'
+_journal_name_full 'Soviet Physics Crystallography'
+_journal_volume 22 
+_journal_year 1977
+_journal_page_first 356
+_journal_page_last 357
+_publ_section_title
+;
+ Refined crystal structure of solongoite Ca2[B3O4(OH)4]Cl
+;
+_database_code_amcsd 0015575
+_chemical_formula_sum 'Ca2 B3 O8 H4 Cl'
+_cell_length_a 7.975
+_cell_length_b 12.571
+_cell_length_c 7.237
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 86.14
+_cell_volume 723.890
+_exptl_crystal_density_diffrn      2.570
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2-z'
+  '-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.09054   0.23788   0.15660   0.00950
+Ca2   0.51673   0.29785   0.35715   0.00861
+B1   0.79500   0.39010  -0.00060   0.00773
+B2   0.40020   0.08510   0.22530   0.00798
+B3   0.33000   0.42800   0.08730   0.00811
+O2   0.33740   0.32070   0.07380   0.00899
+O5   0.42740   0.47360   0.22270   0.00861
+O6   0.32360   0.15180   0.37260   0.00823
+O8   0.77530   0.50670   0.02230   0.01001
+O-h1   0.29020   0.09570   0.05670   0.01026
+O-h3   0.55770   0.13270   0.16920   0.00988
+O-h4   0.78120   0.33720   0.18230   0.01077
+O-h7   0.03010   0.13850   0.42640   0.00963
+H1   0.23900   0.05400   0.04200   0.07599
+H2   0.97100   0.10000   0.43100   0.05066
+H3   0.82200   0.35900   0.25800   0.03800
+H4   0.64200   0.10600   0.20300   0.06333
+Cl   0.10060   0.38567   0.43600   0.01900
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.00963 0.00798 0.01140 0.00051 0.00000 0.00215
+Ca2 0.01380 0.00583 0.00760 -0.00013 -0.00177 0.00025
+B1 0.01039 0.00443 0.00963 0.00038 -0.00165 -0.00051
+B2 0.01076 0.00507 0.00886 0.00000 0.00038 0.00076
+B3 0.01000 0.00671 0.00950 0.00076 0.00089 -0.00051
+O2 0.01279 0.00456 0.01089 0.00025 0.00101 -0.00038
+O5 0.01317 0.00430 0.01076 0.00203 -0.00177 -0.00203
+O6 0.01152 0.00456 0.00963 -0.00013 0.00304 -0.00126
+O8 0.01406 0.00532 0.01216 0.00051 -0.00367 0.00000
+O-h1 0.01330 0.00849 0.00963 0.00013 -0.00228 0.00076
+O-h3 0.01039 0.00924 0.01140 -0.00215 0.00317 0.00038
+O-h4 0.01748 0.00899 0.00696 0.00063 -0.00051 0.00190
+O-h7 0.00887 0.00823 0.01241 -0.00013 0.00000 0.00025
+Cl 0.02381 0.01419 0.02153 -0.00393 0.00494 -0.00139

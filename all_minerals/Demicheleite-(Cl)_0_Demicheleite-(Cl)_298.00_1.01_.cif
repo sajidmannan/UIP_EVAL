@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Demicheleite-(Cl)'
+loop_
+_publ_author_name
+'Demartin F'
+'Gramaccioli C M'
+'Campostrini I'
+_journal_name_full 'American Mineralogist'
+_journal_volume 94 
+_journal_year 2009
+_journal_page_first 1045
+_journal_page_last 1048
+_publ_section_title
+;
+ Demicheleite-(Cl), BiS,Cl, a new mineral from La Fossa crater, Vulcano,
+ Aeolian Islands, Italy
+;
+_database_code_amcsd 0004960
+_chemical_compound_source 'La Fossa crater, Vulcano, Aeolian Islands, Italy'
+_chemical_formula_sum 'Bi (Cl.9 Br.1) S'
+_cell_length_a 7.802
+_cell_length_b 9.930
+_cell_length_c 3.9905
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 309.159
+_exptl_crystal_density_diffrn      6.036
+_symmetry_space_group_name_H-M 'P m n a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Bi   0.13874   0.13250   0.25000   1.00000   0.01870
+Cl   0.51760   0.81150   0.25000   0.90000   0.02470
+Br   0.51760   0.81150   0.25000   0.10000   0.02470
+S   0.82260   0.04950   0.25000   1.00000   0.01430
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi 0.02020 0.01960 0.01620 -0.00260 0.00000 0.00000
+Cl 0.02470 0.02760 0.02180 -0.00380 0.00000 0.00000
+Br 0.02470 0.02760 0.02180 -0.00380 0.00000 0.00000
+S 0.01620 0.01340 0.01320 0.00140 0.00000 0.00000

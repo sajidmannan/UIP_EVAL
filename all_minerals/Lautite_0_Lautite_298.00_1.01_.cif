@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Lautite'
+loop_
+_publ_author_name
+'Craig D C'
+'Stephenson N C'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 19 
+_journal_year 1965
+_journal_page_first 543
+_journal_page_last 547
+_publ_section_title
+;
+ The crystal structure of lautite, CuAsS
+;
+_database_code_amcsd 0009298
+_chemical_compound_source 'Lauta, Saxony, Germany'
+_chemical_formula_sum 'Cu As S'
+_cell_length_a 11.35
+_cell_length_b 5.456
+_cell_length_c 3.749
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 232.159
+_exptl_crystal_density_diffrn      4.879
+_symmetry_space_group_name_H-M 'P n a 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,1/2+z'
+  '-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu   0.32617   0.43823   0.22992
+As   0.48668   0.14766   0.21867
+S   0.16668   0.17903   0.21283
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.01958 0.05414 0.03809 0.00000 0.03945 -0.00176
+As 0.02872 0.04630 0.03218 0.00000 0.00862 0.00124
+S 0.02284 0.06530 0.01559 0.00000 0.03233 -0.00124

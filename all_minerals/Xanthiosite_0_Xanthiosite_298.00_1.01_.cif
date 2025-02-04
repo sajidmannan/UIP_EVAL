@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Xanthiosite'
+loop_
+_publ_author_name
+'Barbier J'
+'Frampton C'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 47 
+_journal_year 1991
+_journal_page_first 457
+_journal_page_last 462
+_publ_section_title
+;
+ Structures of orthorhombic and monoclinic Ni3(AsO4)2
+ Note: AnisoU's taken from ICSD
+;
+_database_code_amcsd 0009846
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ni3 As2 O8'
+_cell_length_a 5.764
+_cell_length_b 9.559
+_cell_length_c 10.194
+_cell_angle_alpha 90
+_cell_angle_beta 92.95
+_cell_angle_gamma 90
+_cell_volume 560.925
+_exptl_crystal_density_diffrn      5.375
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ni1  -0.11623   0.13508  -0.46619   0.00550
+Ni2  -0.35785   0.13685  -0.21622   0.00540
+Ni3   0.35985   0.12278   0.05781   0.00530
+As1   0.36612   0.15639   0.38124   0.00430
+As2  -0.12618   0.05552   0.20430   0.00400
+O1   0.38340   0.22530   0.22910   0.00600
+O2   0.60280   0.24370   0.45260   0.00700
+O3   0.15560   0.23340   0.46490   0.00500
+O4  -0.36660   0.01830   0.61870   0.00800
+O5   0.37450   0.48980   0.37710   0.00500
+O6  -0.13280   0.23170   0.19330   0.00700
+O7   0.11270  -0.00500   0.13300   0.00600
+O8   0.11910   0.50750   0.13620   0.00700
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 0.00650 0.00480 0.00540 -0.00040 0.00120 0.00000
+Ni2 0.00800 0.00330 0.00470 0.00090 0.00080 0.00030
+Ni3 0.00800 0.00380 0.00420 0.00050 0.00050 0.00060
+As1 0.00630 0.00290 0.00390 -0.00060 0.00090 -0.00050
+As2 0.00530 0.00310 0.00370 0.00020 -0.00010 0.00010
+O1 0.01100 0.00300 0.00300 0.00100 -0.00100 0.00100
+O2 0.00700 0.00500 0.00700 -0.00300 -0.00100 0.00000
+O3 0.00500 0.00400 0.00600 0.00000 0.00300 -0.00200
+O4 0.01300 0.00300 0.00700 -0.00100 0.00300 0.00000
+O5 0.00400 0.00600 0.00500 0.00000 -0.00200 0.00000
+O6 0.01100 0.00400 0.00700 0.00100 0.00200 0.00100
+O7 0.00400 0.00800 0.00700 0.00400 0.00100 0.00100
+O8 0.01200 0.00600 0.00200 0.00000 0.00000 0.00000

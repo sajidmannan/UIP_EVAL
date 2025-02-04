@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Chalcothallite'
+loop_
+_publ_author_name
+'Makovicky E'
+'Johan Z'
+'Karup-Moller S'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Abhandlungen'
+_journal_volume 138 
+_journal_year 1980
+_journal_page_first 122
+_journal_page_last 146
+_publ_section_title
+;
+ New data on bukovite, thalcusite, chalcothallite and rohaite
+;
+_database_code_amcsd 0014710
+_chemical_compound_source 'Ilimaussaq massif, Greenland'
+_chemical_formula_sum '(Tl1.8 K.2) Cu5.51 Fe.72 Ag.12 Sb S4'
+_cell_length_a 3.827
+_cell_length_b 3.827
+_cell_length_c 34.280
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 502.062
+_exptl_crystal_density_diffrn      6.807
+_symmetry_space_group_name_H-M 'I 4/m m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,x,-z'
+  '1/2+y,1/2+x,1/2-z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-y,x,z'
+  '1/2-y,1/2+x,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,-x,-z'
+  '1/2-y,1/2-x,1/2-z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'y,-x,z'
+  '1/2+y,1/2-x,1/2+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Tl   0.00000   0.00000   0.14830   0.90000   0.02700
+K   0.00000   0.00000   0.14830   0.10000   0.02700
+Cu1   0.00000   0.50000   0.05700   0.86000   0.02200
+Fe1   0.00000   0.50000   0.05700   0.12000   0.02200
+Ag1   0.00000   0.50000   0.05700   0.02000   0.02200
+Cu2   0.00000   0.50000   0.25000   0.86000   0.03700
+Fe2   0.00000   0.50000   0.25000   0.12000   0.03700
+Ag2   0.00000   0.50000   0.25000   0.02000   0.03700
+Cu3   0.50000   0.50000   0.00000   0.35000   0.03100
+Sb   0.00000   0.00000   0.00000   1.00000   0.01700
+S1   0.50000   0.50000   0.09300   1.00000 ?
+S2   0.50000   0.50000   0.21400   1.00000   0.04500

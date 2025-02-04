@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Parsonsite'
+loop_
+_publ_author_name
+'Burns P C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 85 
+_journal_year 2000
+_journal_page_first 801
+_journal_page_last 805
+_publ_section_title
+;
+ A new uranyl phosphate chain in the structure of parsonsite
+;
+_database_code_amcsd 0002459
+_chemical_formula_sum 'U Pb2 P2 O10'
+_cell_length_a 6.842
+_cell_length_b 10.383
+_cell_length_c 6.670
+_cell_angle_alpha 101.265
+_cell_angle_beta 98.174
+_cell_angle_gamma 86.378
+_cell_volume 459.684
+_exptl_crystal_density_diffrn      6.317
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+U   0.61640   0.84060   0.11260 ?
+Pb1   0.30060   0.54150   0.26940 ?
+Pb2   0.04510   0.77390   0.72040 ?
+P1   0.53400   0.81870   0.63020 ?
+P2   0.81400   0.54920   0.27800 ?
+O1   0.98300   0.63600   0.40900   0.02110
+O2   0.33500   0.48400   0.59700   0.02420
+O3   0.36400   0.78500   0.07900   0.03400
+O4   0.66500   0.72700   0.76200   0.02340
+O5   0.70300   0.62500   0.11800   0.02810
+O6   0.33600   0.75200   0.53600   0.03520
+O7   0.50500   0.06000   0.20300   0.02290
+O8   0.85500   0.89900   0.14100   0.03750
+O9   0.64700   0.85400   0.46700   0.03090
+O10   0.91500   0.42200   0.16800   0.02910
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U 0.03300 0.02140 0.01640 0.00330 0.00930 0.00410
+Pb1 0.02980 0.04190 0.02000 0.00250 0.00860 0.00710
+Pb2 0.03700 0.03140 0.03160 0.00180 0.00910 0.00160
+P1 0.02630 0.01590 0.00780 0.00800 0.00380 0.00450
+P2 0.02240 0.01920 0.01750 0.00290 0.00730 0.00270

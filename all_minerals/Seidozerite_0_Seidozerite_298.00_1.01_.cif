@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Seidozerite'
+loop_
+_publ_author_name
+'Christiansen C C'
+'Johnsen O'
+'Makovicky E'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 41 
+_journal_year 2003
+_journal_page_first 1203
+_journal_page_last 1224
+_publ_section_title
+;
+ Crystal chemistry of the rosenbuschite group
+ Sample: 1993.158
+;
+_database_code_amcsd 0005888
+_chemical_compound_source 'Lovozero Complex, Kola Peninsula, Russia'
+_chemical_formula_sum 'Zr1.38 Ti1.36 Fe.32 Mg.305 Nb.04 Mn.425 Ca.26 Na3.91 Si4 O15 F3'
+_cell_length_a 5.5558
+_cell_length_b 7.0752
+_cell_length_c 18.406
+_cell_angle_alpha 90
+_cell_angle_beta 102.713
+_cell_angle_gamma 90
+_cell_volume 705.773
+_exptl_crystal_density_diffrn      3.543
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+ZrM1   0.19770   0.11864   0.07405   0.69000   0.00850
+TiM1   0.19770   0.11864   0.07405   0.19000   0.00850
+FeM1   0.19770   0.11864   0.07405   0.09000   0.00850
+MgM1   0.19770   0.11864   0.07405   0.02000   0.00850
+NbM1   0.19770   0.11864   0.07405   0.01000   0.00850
+MnM2a   0.50000   0.35047   0.25000   0.42500   0.01210
+MgM2a   0.50000   0.35047   0.25000   0.26500   0.01210
+FeM2a   0.50000   0.35047   0.25000   0.14000   0.01210
+CaM2a   0.50000   0.35047   0.25000   0.11500   0.01210
+NaM2a   0.50000   0.35047   0.25000   0.05500   0.01210
+NaM2b   0.50000   0.85020   0.25000   0.93500   0.01880
+CaM2b   0.50000   0.85020   0.25000   0.06500   0.01880
+NaM3   0.20200   0.61240   0.06966   0.96000   0.01620
+CaM3   0.20200   0.61240   0.06966   0.04000   0.01620
+NaM4   0.00000   0.61050   0.25000   1.00000   0.01570
+TiM5   0.00000   0.11058   0.25000   0.98000   0.00930
+NbM5   0.00000   0.11058   0.25000   0.02000   0.00930
+Si1   0.72280   0.38351   0.10434   1.00000   0.00870
+Si2   0.71870   0.84173   0.10434   1.00000   0.00830
+O1   0.73370   0.61290   0.10876   1.00000   0.01720
+O2   0.92650   0.32110   0.05873   1.00000   0.01190
+O3   0.90220   0.91020   0.05111   1.00000   0.01130
+O4   0.44390   0.31880   0.06562   1.00000   0.01420
+O5   0.43530   0.90370   0.07700   1.00000   0.01390
+O6   0.78730   0.31090   0.19029   1.00000   0.01270
+O7   0.82010   0.91360   0.18927   1.00000   0.01300
+OX8   0.23640   0.12670   0.18400   0.50000   0.01340
+FX8   0.23640   0.12670   0.18400   0.50000   0.01340
+F9   0.30520   0.57670   0.19223   1.00000   0.02240

@@ -1,0 +1,85 @@
+data_global
+_chemical_name_mineral 'Leguernite'
+loop_
+_publ_author_name
+'Garavelli A'
+'Pinto D'
+'Mitolo D'
+'Bindi L'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 78 
+_journal_year 2014
+_journal_page_first 1629
+_journal_page_last 1645
+_publ_section_title
+;
+ Leguernite, Bi12.67O14(SO4)5, a new Bi oxysulfate from the fumarole deposit of
+ La Fossa crater, Vulcano, Aeolian Islands, Italy
+ Note: O17 y-coordinate changed to reproduce reported bond lengths
+;
+_database_code_amcsd 0020607
+_chemical_compound_source 'La Fossa crater, Vulcano, Aeolian Islands, Italy'
+_chemical_formula_sum 'Bi12.667 S5 O34'
+_cell_length_a 11.2486
+_cell_length_b 5.6568
+_cell_length_c 11.9139
+_cell_angle_alpha 90
+_cell_angle_beta 99.177
+_cell_angle_gamma 90
+_cell_volume 748.391
+_exptl_crystal_density_diffrn      7.436
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Bi1   0.33418   0.29780   0.01006   1.00000   0.01230
+Bi2   0.53822   0.79960   0.15842   1.00000   0.01250
+Bi3   0.21076   0.71180   0.19423   1.00000   0.01510
+Bi4   0.40591   0.21430   0.32991   1.00000   0.01410
+Bi5   0.25801   0.22040   0.69433   1.00000   0.01060
+Bi6   0.13281   0.72400  -0.13890   1.00000   0.01610
+Bi7   0.00000   0.73660   0.50000   0.66667   0.03150
+S1   0.32630   0.69700   0.53500   1.00000   0.01500
+S2   0.07200   0.21700   0.35480   1.00000   0.02000
+S3   0.00000   0.19800   0.00000   1.00000   0.01500
+O1   0.21400   0.69200   0.58700   1.00000   0.02900
+O2   0.39800   0.91500   0.56400   1.00000   0.04100
+O3   0.39200   0.48300   0.58200   1.00000   0.06300
+O4   0.29800   0.73700   0.40900   1.00000   0.06800
+O5   0.00900   0.44600   0.34300   1.00000   0.02800
+O6   0.11800   0.17600   0.47700   1.00000   0.04500
+O7   0.16500   0.23300   0.28100   1.00000   0.04400
+O8  -0.01900   0.02900   0.31600   1.00000   0.04600
+O9   0.11200   0.06300   0.03100   1.00000   0.09000
+O10  -0.01400   0.34400   0.09000   1.00000   0.09000
+O11   0.26900   0.46918  -0.16900   1.00000   0.00600
+O12   0.26600  -0.03000  -0.16400   1.00000   0.00400
+O13   0.35300   0.46800   0.20100   1.00000   0.01200
+O14   0.35300   0.96600   0.20000   1.00000   0.00800
+O15   0.50000   0.48900   0.00000   1.00000   0.01300
+O16   0.50000  -0.00800   0.00000   1.00000   0.00600
+O17   0.55400   0.18126   0.23500   1.00000   0.01500
+O18   0.23300   0.65500   0.02100   1.00000   0.02100
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 0.01730 0.01100 0.01010 0.00190 0.00650 -0.00350
+Bi2 0.01630 0.01320 0.00950 0.00490 0.00680 0.00800
+Bi3 0.01750 0.01350 0.01600 -0.00190 0.00830 -0.00300
+Bi4 0.02250 0.01260 0.00860 0.00060 0.00680 0.00360
+Bi5 0.01440 0.01090 0.00630 -0.00330 0.00090 -0.00100
+Bi6 0.01780 0.01460 0.01700 -0.00900 0.00560 0.00430
+Bi7 0.01700 0.03700 0.04400 0.00000 0.01800 0.00000

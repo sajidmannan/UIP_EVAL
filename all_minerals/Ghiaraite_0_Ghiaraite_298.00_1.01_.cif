@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Ghiaraite'
+loop_
+_publ_author_name
+'Thewalt U'
+'Bugg C E'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 29 
+_journal_year 1973
+_journal_page_first 615
+_journal_page_last 617
+_publ_section_title
+;
+ Crystal structure of calcium chloride tetrahydrate
+;
+_database_code_amcsd 0020228
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca Cl2 O4'
+_cell_length_a 6.593
+_cell_length_b 6.364
+_cell_length_c 8.557
+_cell_angle_alpha 97.77
+_cell_angle_beta 93.52
+_cell_angle_gamma 110.56
+_cell_volume 330.776
+_exptl_crystal_density_diffrn      1.757
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca   0.11880  -0.01400   0.26150
+Cl1   0.29100  -0.27770   0.05040
+Cl2  -0.24950  -0.23930   0.41300
+O1  -0.18230  -0.18710   0.04340
+O2  -0.01520   0.28950   0.27150
+O3   0.47880   0.24090   0.26630
+O4   0.24930  -0.25090   0.41540
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.02323 0.01836 0.02981 0.00182 0.00105 -0.00351
+Cl1 0.02818 0.02238 0.02370 0.00493 0.00418 -0.00050
+Cl2 0.02399 0.02220 0.02658 -0.00274 0.00209 -0.00251
+O1 0.02685 0.02342 0.03915 0.00146 0.00261 -0.00551
+O2 0.03446 0.02238 0.03268 0.00784 -0.00183 0.00175
+O3 0.03256 0.02884 0.02837 -0.00438 0.00837 -0.00601
+O4 0.03503 0.02692 0.02909 0.01040 0.00105 -0.00226

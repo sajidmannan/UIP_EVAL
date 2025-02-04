@@ -1,0 +1,51 @@
+data_global
+_chemical_name_mineral 'Hodgkinsonite'
+loop_
+_publ_author_name
+'Rentzeperis P J'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 119 
+_journal_year 1963
+_journal_page_first 117
+_journal_page_last 138
+_publ_section_title
+;
+ The crystal structure of hodgkinsonite Zn2Mn[(OH)2|SiO4]
+ Note: y(H2) corrected
+;
+_database_code_amcsd 0010606
+_chemical_compound_source 'Franklin, New Jersey'
+_chemical_formula_sum 'Zn2 Mn Si O6 H2'
+_cell_length_a 8.170
+_cell_length_b 5.316
+_cell_length_c 11.761
+_cell_angle_alpha 90
+_cell_angle_beta 95.25
+_cell_angle_gamma 90
+_cell_volume 508.658
+_exptl_crystal_density_diffrn      4.072
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Zn1   0.27320   0.06570   0.07880   0.01094
+Zn2   0.60840   0.06230   0.24910   0.01122
+Mn1   0.10630   0.24200   0.54820   0.00685
+Si   0.06730   0.06660   0.82920   0.00174
+O1   0.10670   0.08100   0.19110   0.00659
+O2   0.16570   0.04050   0.71510   0.00507
+O3   0.81930   0.07020   0.06600   0.00570
+O4   0.53840   0.14410   0.86210   0.00329
+O5   0.49020   0.08920   0.38360   0.00621
+O6   0.84910   0.08820   0.55600   0.00709
+H1   0.46600   0.26000   0.33300   0.03166
+H2   0.84200  -0.08300   0.60000   0.03166

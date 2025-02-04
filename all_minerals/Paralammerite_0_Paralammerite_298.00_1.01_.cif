@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Paralammerite'
+loop_
+_publ_author_name
+'Poulsen S J'
+'Calvo C'
+_journal_name_full 'Canadian Journal of Chemistry'
+_journal_volume 46 
+_journal_year 1968
+_journal_page_first 917
+_journal_page_last 927
+_publ_section_title
+;
+ Crystal structure of Cu3(AsO4)2
+;
+_database_code_amcsd 0012148
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Cu3 As2 O8'
+_cell_length_a 6.327
+_cell_length_b 8.642
+_cell_length_c 11.313
+_cell_angle_alpha 90
+_cell_angle_beta 92.04
+_cell_angle_gamma 90
+_cell_volume 618.179
+_exptl_crystal_density_diffrn      5.034
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.24150   0.16420   0.63230   0.01279
+Cu2   0.61610   0.03110   0.87770   0.01570
+Cu3   0.90820   0.19000   0.43160   0.01279
+As1   0.41430   0.11340   0.36790   0.00963
+As2   0.89600   0.06020   0.15070   0.00963
+O1   0.60620   0.23810   0.41880   0.01039
+O2  -0.03240   0.24060   0.10630   0.01077
+O3   0.20820   0.13090   0.45680   0.01570
+O4   0.08530  -0.07310   0.12100   0.01710
+O5   0.33790   0.15410   0.22840   0.01102
+O6   0.67010  -0.00460   0.08360   0.01900
+O7   0.48090  -0.07050   0.36000   0.00988
+O8  -0.13130   0.05280   0.29860   0.01621

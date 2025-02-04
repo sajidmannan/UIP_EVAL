@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Argutite'
+loop_
+_publ_author_name
+'Haines J'
+'Leger J M'
+'Chateau C'
+'Pereira A S'
+_journal_name_full 'Physics and Chemistry of Minerals'
+_journal_volume 27 
+_journal_year 2000
+_journal_page_first 575
+_journal_page_last 582
+_publ_section_title
+;
+ Structural evolution of rutile-type and CaCl2-type germanium dioxide
+ at high pressure
+ Sample: rutile-type, P = 0 GPa
+;
+_database_code_amcsd 0008431
+_chemical_formula_sum 'Ge O2'
+_cell_length_a 4.3966
+_cell_length_b 4.3966
+_cell_length_c 2.8626
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 55.334
+_exptl_crystal_density_diffrn      6.278
+_symmetry_space_group_name_H-M 'P 42/m n m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '1/2-y,1/2+x,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'y,x,z'
+  '-y,-x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2+y,1/2-x,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ge   0.00000   0.00000   0.00000
+O   0.30630   0.30630   0.00000

@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Antimonselite'
+loop_
+_publ_author_name
+'Caracas R'
+'Gonze X'
+_journal_name_full 'Physics and Chemistry of Minerals'
+_journal_volume 32 
+_journal_year 2005
+_journal_page_first 295
+_journal_page_last 300
+_publ_section_title
+;
+ First-principles study of the electronic properties of A2B3 minerals,
+ with A=Bi,Sb and B=S,Se
+ Note: Hypothetical sulphosalt structure derived from density functional theory
+;
+_database_code_amcsd 0008967
+_chemical_formula_sum 'Sb2 Se3'
+_cell_length_a 11.794
+_cell_length_b 3.986
+_cell_length_c 11.648
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 547.583
+_exptl_crystal_density_diffrn      5.827
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sb1   0.53040   0.25000   0.17210
+Sb2   0.64750   0.75000   0.46040
+Se1   0.62890   0.75000   0.05530
+Se2   0.71410   0.25000   0.30510
+Se3   0.44640   0.75000   0.37130

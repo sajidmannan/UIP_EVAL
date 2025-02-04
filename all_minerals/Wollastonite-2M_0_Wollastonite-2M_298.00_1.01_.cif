@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Wollastonite-2M'
+loop_
+_publ_author_name
+'Trojer F J'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 127 
+_journal_year 1968
+_journal_page_first 291
+_journal_page_last 308
+_publ_section_title
+;
+ The crystal structure of parawollastonite
+;
+_database_code_amcsd 0010667
+_chemical_compound_source 'Crestmore, California, USA'
+_chemical_formula_sum 'Ca Si O3'
+_cell_length_a 15.426
+_cell_length_b 7.320
+_cell_length_c 7.066
+_cell_angle_alpha 90
+_cell_angle_beta 95.404
+_cell_angle_gamma 90
+_cell_volume 794.335
+_exptl_crystal_density_diffrn      2.914
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca1   0.24820   0.37580   0.97120
+Ca2   0.40110   0.62650   0.73970
+Ca3   0.39870   0.12090   0.73640
+Si1   0.40760   0.09070   0.23130
+Si2   0.40750   0.65980   0.23130
+Si3   0.30160   0.37610   0.44320
+O1   0.30000   0.37470   0.66850
+O2   0.21560   0.37590   0.30310
+O3   0.34900   0.13970   0.03280
+O4   0.34730   0.61570   0.03480
+O5   0.50860   0.12260   0.23880
+O6   0.50780   0.61760   0.23470
+O7   0.36420   0.19620   0.40600
+O8   0.36330   0.55330   0.40670
+O9   0.39060   0.87550   0.27670
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.00932 0.00915 0.00394 -0.00006 0.00049 0.00034
+Ca2 0.00980 0.00768 0.00840 -0.00023 0.00016 -0.00240
+Ca3 0.01087 0.00719 0.00842 0.00194 0.00049 0.00063
+Si1 0.00836 0.00206 0.00644 0.00034 -0.00071 -0.00021
+Si2 0.00860 0.00413 0.00622 -0.00028 -0.00055 0.00010
+Si3 0.00358 0.00999 0.00524 -0.00017 0.00033 0.00044
+O1 0.00705 0.01162 0.00038 -0.00097 0.00142 0.00029
+O2 0.01207 0.01146 0.00361 -0.00040 0.00389 0.00089
+O3 0.01709 0.00388 0.00253 0.00137 -0.00257 -0.00138
+O4 0.01505 0.01238 0.00399 0.00040 -0.00317 -0.00146
+O5 0.01087 0.00909 0.01805 0.00900 0.00126 -0.00031
+O6 0.00872 0.00700 0.01750 0.00467 0.00022 0.00329
+O7 0.01685 0.00540 0.00143 0.00467 -0.00317 0.00026
+O8 0.01362 0.00649 0.00306 -0.00342 -0.00274 0.00052
+O9 0.00920 0.00584 0.00908 -0.00028 0.00520 0.00086

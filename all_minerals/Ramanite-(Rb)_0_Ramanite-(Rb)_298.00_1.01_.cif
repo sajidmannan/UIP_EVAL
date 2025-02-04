@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Ramanite-(Rb)'
+loop_
+_publ_author_name
+'Helmut B'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 40 
+_journal_year 1984
+_journal_page_first 217
+_journal_page_last 220
+_publ_section_title
+;
+ Rubidium pentaborate tetrahydrate, Rb[B5O6(OH)4]*2H2O
+ Loclaity: synthetic
+;
+_database_code_amcsd 0020207
+_chemical_formula_sum 'Rb B5 O12 H8'
+_cell_length_a 11.302
+_cell_length_b 10.962
+_cell_length_c 9.335
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1156.537
+_exptl_crystal_density_diffrn      1.950
+_symmetry_space_group_name_H-M 'A m a 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,z'
+  '1/2+x,-y,1/2+z'
+  '1/2-x,1/2+y,z'
+  '1/2-x,+y,1/2+z'
+  '-x,-y,z'
+  '-x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Rb1   0.00000   0.00000   0.00000   0.03700
+B1   0.00000   0.00000   0.40510   0.02200
+B2   0.18500   0.09410   0.31530   0.02300
+B3   0.19940   0.94200   0.49400   0.02700
+O1   0.06590   0.08520   0.31260   0.02500
+O2   0.08060   0.92930   0.49730   0.02700
+O3   0.25300   0.02500   0.40470   0.03100
+O4   0.23890   0.17480   0.22600   0.04000
+O5   0.27510   0.87950   0.57750   0.05000
+O6   0.02300   0.17320   0.74880   0.03600
+H1   0.00880   0.25920   0.74880   0.04700
+H2   0.99040   0.14050   0.68120   0.04100
+H3   0.20090   0.16870   0.73080   0.04700
+H4   0.25290   0.33220   0.11080   0.04600
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Rb1 0.01900 0.05900 0.03200 0.00400 0.00000 0.00000
+B1 0.01700 0.02500 0.02600 -0.00400 0.00000 0.00000
+B2 0.02200 0.02300 0.02600 0.00100 0.00200 0.00400
+B3 0.02100 0.02900 0.03100 -0.00100 -0.00200 0.00800
+O1 0.01600 0.02600 0.03200 0.00100 -0.00100 0.01000
+O2 0.01700 0.03300 0.03100 -0.00300 0.00000 0.01300
+O3 0.01500 0.03600 0.04100 -0.00400 -0.00200 0.02100
+O4 0.02000 0.04400 0.05600 -0.00100 0.00000 0.02500
+O5 0.02300 0.05700 0.06900 -0.00800 -0.00800 0.04700
+O6 0.02700 0.03400 0.04700 0.00600 -0.01000 -0.00600

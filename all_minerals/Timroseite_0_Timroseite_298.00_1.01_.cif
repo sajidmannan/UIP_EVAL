@@ -1,0 +1,85 @@
+data_global
+_chemical_name_mineral 'Timroseite'
+loop_
+_publ_author_name
+'Kampf A R'
+'Mills S J'
+'Housley R M'
+'Marty J'
+'Thorne B'
+_journal_name_full 'American Mineralogist'
+_journal_volume 95 
+_journal_year 2010
+_journal_page_first 1560
+_journal_page_last 1568
+_publ_section_title
+;
+ Lead-tellurium oxysalts from Otto Mountain near Baker, California: V.
+ Timroseite, Pb2Cu2+5(Te6+O6)2(OH)2, and paratimroseite,
+ Pb2Cu2+4(Te6+O6)2(H2O)2, two new tellurates with Te-Cu polyhedral sheets
+;
+_database_code_amcsd 0017721
+_chemical_compound_source 'Otto Mountain, Baker, California'
+_chemical_formula_sum 'Pb2.04 Cu5 Te2 O14 H2'
+_cell_length_a 5.2000
+_cell_length_b 9.6225
+_cell_length_c 11.5340
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 577.127
+_exptl_crystal_density_diffrn      7.030
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,-y,1/2+z'
+  'x,y,-z'
+  '1/2+x,-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb1   0.12300   0.03560   0.00000   0.94000   0.02290
+Pb1a   0.12500   0.07700   0.00000   0.09000   0.06000
+Pb2   0.38200   0.38682   0.50000   0.84000   0.02080
+Pb2a   0.27900   0.39600   0.50000   0.17000   0.06200
+Cu1   0.66940   0.89920   0.18488   1.00000   0.01460
+Cu2   0.72040   0.59878   0.32206   1.00000   0.01550
+Cu3   0.13040   0.71440   0.50000   1.00000   0.02220
+Te   0.20050   0.74917   0.24990   1.00000   0.01220
+O1   0.38170   0.67470   0.38170   1.00000   0.01600
+O2   0.00130   0.82590   0.12360   1.00000   0.01430
+O3   0.35330   0.93090   0.27880   1.00000   0.01890
+O4   0.91920   0.77160   0.36120   1.00000   0.01350
+O5   0.03650   0.57180   0.21780   1.00000   0.01600
+O6   0.50440   0.71730   0.15870   1.00000   0.01800
+O-H1   0.53000   0.94730   0.00000   1.00000   0.02100
+O-H2   0.79800   0.50660   0.50000   1.00000   0.02400
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.01980 0.02130 0.02770 0.00410 0.00000 0.00000
+Pb1a 0.11000 0.03700 0.03500 0.03200 0.00000 0.00000
+Pb2 0.01700 0.01780 0.02770 0.00130 0.00000 0.00000
+Pb2a 0.07000 0.07500 0.04500 -0.01800 0.00000 0.00000
+Cu1 0.01310 0.00930 0.02140 0.00030 0.00170 -0.00210
+Cu2 0.01360 0.01080 0.02200 -0.00260 0.00360 -0.00220
+Cu3 0.01940 0.02670 0.02040 0.00260 0.00000 0.00000
+Te 0.01090 0.00920 0.01650 -0.00040 0.00010 0.00030
+O1 0.00600 0.02100 0.02100 0.00900 0.00400 0.00100
+O2 0.01500 0.01400 0.01400 -0.00500 -0.00500 0.00600
+O3 0.02100 0.01000 0.02500 -0.00400 -0.00500 -0.00200
+O4 0.01000 0.01400 0.01600 -0.00600 -0.00300 0.00200
+O5 0.01100 0.00600 0.03100 0.00500 0.00800 -0.00100
+O6 0.02200 0.00500 0.02600 -0.00500 0.00700 -0.00900
+O-H1 0.01700 0.02300 0.02300 0.00200 0.00000 0.00000
+O-H2 0.01000 0.04000 0.02200 0.00300 0.00000 0.00000

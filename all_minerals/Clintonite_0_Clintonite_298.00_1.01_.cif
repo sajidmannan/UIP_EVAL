@@ -1,0 +1,82 @@
+data_global
+_chemical_name_mineral 'Clintonite-1M'
+loop_
+_publ_author_name
+'Joswig W'
+'Amthauer G'
+'Takeuchi Y'
+_journal_name_full 'American Mineralogist'
+_journal_volume 71 
+_journal_year 1986
+_journal_page_first 1194
+_journal_page_last 1197
+_publ_section_title
+;
+ Neutron-diffraction and Mossbauer spectroscopic study of clintonite
+ (xanthophyllite)
+;
+_database_code_amcsd 0001045
+_chemical_formula_sum 'Ca Mg2.27 Al3.372 Fe.158 Ti.006 Si1.2 O12 H2'
+_cell_length_a 5.2037
+_cell_length_b 9.0126
+_cell_length_c 9.8145
+_cell_angle_alpha 90
+_cell_angle_beta 100.26
+_cell_angle_gamma 90
+_cell_volume 452.929
+_exptl_crystal_density_diffrn      3.102
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca   0.50000   0.50000   0.00000   1.00000
+Mg1   0.00000   0.50000   0.50000   0.73000
+Al1   0.00000   0.50000   0.50000   0.22000
+Fe1   0.00000   0.50000   0.50000   0.05000
+Mg2   0.50000   0.32982   0.50000   0.77000
+Al2   0.50000   0.32982   0.50000   0.23000
+Ti2   0.50000   0.32982   0.50000   0.00300
+Si3   0.57049   0.16705   0.20976   0.30000
+Al3   0.57049   0.16705   0.20976   0.67300
+Fe3   0.57049   0.16705   0.20976   0.02700
+O1   0.42771   0.00000   0.15161   1.00000
+O2   0.86158   0.18853   0.15029   1.00000
+O3   0.63088   0.16856   0.38782   1.00000
+O4   0.62827   0.50000   0.39774   1.00000
+H   0.59660   0.50000   0.30010   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01000 0.00770 0.00700 0.00000 0.00230 0.00000
+Mg1 0.00340 0.00370 0.00720 0.00000 0.00120 0.00000
+Al1 0.00340 0.00370 0.00720 0.00000 0.00120 0.00000
+Fe1 0.00340 0.00370 0.00720 0.00000 0.00120 0.00000
+Mg2 0.00480 0.00470 0.00730 0.00000 0.00140 0.00000
+Al2 0.00480 0.00470 0.00730 0.00000 0.00140 0.00000
+Ti2 0.00480 0.00470 0.00730 0.00000 0.00140 0.00000
+Si3 0.00610 0.00470 0.00610 -0.00040 0.00120 0.00010
+Al3 0.00610 0.00470 0.00610 -0.00040 0.00120 0.00010
+Fe3 0.00610 0.00470 0.00610 -0.00040 0.00120 0.00010
+O1 0.01220 0.01070 0.01050 0.00000 0.00050 0.00000
+O2 0.01130 0.01170 0.01090 -0.00120 0.00310 -0.00100
+O3 0.01080 0.00930 0.00850 -0.00010 0.00160 0.00050
+O4 0.01040 0.01350 0.00680 0.00000 0.00130 0.00000
+H 0.05160 0.06070 0.00990 0.00000 0.00250 0.00000

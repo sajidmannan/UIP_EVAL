@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Calcybeborosilite-(Y)'
+loop_
+_publ_author_name
+'Rastsvetaeva R K'
+'Pushcharovsky D Y'
+'Pekov I V'
+'Voloshin A V'
+_journal_name_full 'Kristallografiya'
+_journal_volume 41 
+_journal_year 1996
+_journal_page_first 235
+_journal_page_last 239
+_publ_section_title
+;
+ Crystal structure of calcybeborosilite and its place in the datolite-gadolinite
+ isomorphous series
+;
+_database_code_amcsd 0014195
+_chemical_formula_sum '(Ca.9 Y.84 Ce.26) Fe.25 Mn.05 (B Be) Si2 O10 H1.3'
+_cell_length_a 9.846
+_cell_length_b 7.600
+_cell_length_c 4.766
+_cell_angle_alpha 90
+_cell_angle_beta 90.11
+_cell_angle_gamma 90
+_cell_volume 356.637
+_exptl_crystal_density_diffrn      3.736
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+CaM1   0.33100   0.10660   0.99750   0.45000   0.01824
+YM1   0.33100   0.10660   0.99750   0.42000   0.01824
+CeM1   0.33100   0.10660   0.99750   0.13000   0.01824
+FeM2   0.00000   0.00000   0.00000   0.25000   0.02153
+MnM2   0.00000   0.00000   0.00000   0.05000   0.02153
+BT2   0.33900   0.41400   0.54400   0.50000   0.02026
+BeT2   0.33900   0.41400   0.54400   0.50000   0.02026
+SiT1   0.08080   0.27050   0.48350   1.00000   0.01887
+O1   0.03300   0.40600   0.24400   1.00000   0.02660
+O2   0.45300   0.29200   0.67400   1.00000   0.02913
+O3   0.20200   0.33700   0.68400   1.00000   0.03040
+O4   0.14500   0.09800   0.30700   1.00000   0.03293
+O5   0.33100   0.41000   0.23400   0.35000   0.02406
+O-H5   0.33100   0.41000   0.23400   0.65000   0.02406

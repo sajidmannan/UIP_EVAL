@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Pasavaite'
+loop_
+_publ_author_name
+'Vymazalova A'
+'Laufek F'
+'Drabek M'
+'Haloda J'
+'Sidorinova T'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 47 
+_journal_year 2009
+_journal_page_first 53
+_journal_page_last 62
+_publ_section_title
+;
+ Pasavaite, Pd3Pb2Te2, a new platinum-group mineral species from
+ the Noril'sk-Talnakh Ni-Cu Camp, Russia
+;
+_database_code_amcsd 0006274
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Pb2 Te2 Pd3'
+_cell_length_a 8.599
+_cell_length_b 5.9381
+_cell_length_c 6.3173
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 322.572
+_exptl_crystal_density_diffrn     10.181
+_symmetry_space_group_name_H-M 'P m m n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.25000   0.75000   0.80690   0.00811
+Pb2   0.25000   0.25000   0.25710   0.00887
+Te   0.95580   0.25000   0.66560   0.00621
+Pd1   0.25000   0.25000   0.78260   0.00988
+Pd2   0.00000   0.00000   0.00000   0.00823

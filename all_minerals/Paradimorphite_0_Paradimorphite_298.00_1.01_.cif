@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Paradimorphite'
+loop_
+_publ_author_name
+'Whitfield H J'
+_journal_name_full 'Journal of the Chemical Society A: Inorganic, Physical, Theoretical'
+_journal_volume 1970 
+_journal_year 1970
+_journal_page_first 1800
+_journal_page_last 1803
+_publ_section_title
+;
+ The crystal structure of tetra-arsenic trisulfide
+ Note: "alpha-dimorphite"
+;
+_database_code_amcsd 0014104
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'As4 S3'
+_cell_length_a 9.12
+_cell_length_b 7.99
+_cell_length_c 10.10
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 735.975
+_exptl_crystal_density_diffrn      3.573
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+As1   0.34250   0.25000   0.44130
+As2  -0.01880   0.25000   0.56970
+As3   0.14660   0.09660   0.71620
+S1   0.33260   0.04020   0.58510
+S2   0.10790   0.25000   0.38300
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 0.01264 0.03202 0.02481 0.00000 0.00887 0.00000
+As2 0.00169 0.03622 0.03979 0.00000 -0.00607 0.00000
+As3 0.01306 0.03816 0.03049 -0.00111 0.00420 0.02003
+S1 0.01854 0.02102 0.03514 0.01698 0.00140 0.00818
+S2 0.01812 0.01197 0.01550 0.00000 0.00980 0.00000

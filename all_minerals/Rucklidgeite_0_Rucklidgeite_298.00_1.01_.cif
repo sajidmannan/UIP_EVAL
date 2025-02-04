@@ -1,0 +1,77 @@
+data_global
+_chemical_name_mineral 'Rucklidgeite'
+loop_
+_publ_author_name
+'Zhukova T B'
+'Zaslavskii A I'
+_journal_name_full 'Zhurnal Strukturnoi Khimii'
+_journal_volume 11 
+_journal_year 1970
+_journal_page_first 462
+_journal_page_last 468
+_publ_section_title
+;
+ X-ray structure determination of PbBi4Te7
+;
+_database_code_amcsd 0015894
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Pb.57 Bi2.28 Te4'
+_cell_length_a 4.45
+_cell_length_b 4.45
+_cell_length_c 41.532
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 712.252
+_exptl_crystal_density_diffrn      7.728
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  'y,x,-z'
+  '2/3+y,1/3+x,1/3-z'
+  '1/3+y,2/3+x,2/3-z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-x,-x+y,-z'
+  '2/3-x,1/3-x+y,1/3-z'
+  '1/3-x,2/3-x+y,2/3-z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  'x-y,-y,-z'
+  '2/3+x-y,1/3-y,1/3-z'
+  '1/3+x-y,2/3-y,2/3-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pb1   0.00000   0.00000   0.00000   0.19000
+Bi1   0.00000   0.00000   0.00000   0.76000
+Pb2   0.00000   0.00000   0.42900   0.19000
+Bi2   0.00000   0.00000   0.42900   0.76000
+Te1   0.00000   0.00000   0.28800   1.00000
+Te2   0.00000   0.00000   0.13600   1.00000

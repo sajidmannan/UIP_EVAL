@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Clinochlore'
+loop_
+_publ_author_name
+'Brown B E'
+'Bailey S W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 48 
+_journal_year 1963
+_journal_page_first 42
+_journal_page_last 61
+_publ_section_title
+;
+ Chlorite polytypism: II. Crystal structure of a one-layer Cr-chlorite
+ Note: variety called kammererite
+;
+_database_code_amcsd 0000119
+_chemical_formula_sum 'Mg5.1 Al1.2 Cr.7 Si3 O18 H8'
+_cell_length_a 5.338
+_cell_length_b 9.247
+_cell_length_c 14.435
+_cell_angle_alpha 90.0
+_cell_angle_beta 97.08
+_cell_angle_gamma 90.0
+_cell_volume 707.086
+_exptl_crystal_density_diffrn      2.691
+_symmetry_space_group_name_H-M 'C 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg1   0.00000   0.00000   0.00000   1.00000
+Mg2  -0.00100   0.33300   0.00200   1.00000
+Mg3   0.00300   0.16600   0.50400   1.00000
+Mg4   0.00000   0.50000   0.50000   0.10000
+Al4   0.00000   0.50000   0.50000   0.20000
+Cr4   0.00000   0.50000   0.50000   0.70000
+Si1   0.40000   0.00100   0.19100   0.60000
+Al1   0.40000   0.00100   0.19100   0.40000
+Si2   0.89400   0.16700   0.19100   0.90000
+Al2   0.89400   0.16700   0.19100   0.10000
+O1   0.36000  -0.00400   0.07500   1.00000
+O2   0.86000   0.17100   0.07600   1.00000
+O-H1   0.38100   0.33300   0.07400   1.00000
+O3   0.13300   0.06500   0.23200   1.00000
+O4   0.64500   0.10000   0.23200   1.00000
+O5   0.93100   0.32800   0.23400   1.00000
+O-H2   0.15400  -0.00200   0.43200   1.00000
+O-H3   0.12900   0.33900   0.42800   1.00000
+O-H4   0.65300   0.16400   0.42800   1.00000

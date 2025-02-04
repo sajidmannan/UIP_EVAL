@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Polkanovite'
+loop_
+_publ_author_name
+'Pivan J Y'
+'Guerin R'
+'Sergent M'
+_journal_name_full 'Journal of the Less-Common Metals'
+_journal_volume 107 
+_journal_year 1985
+_journal_page_first 249
+_journal_page_last 258
+_publ_section_title
+;
+ Rh12As7, a host structure for rare earth elements: Crystal structures of Rh12As7
+ and Ho2Rh12As7
+ Note: x(RhII) corrected
+;
+_database_code_amcsd 0014151
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Rh6 As3.5'
+_cell_length_a 9.297
+_cell_length_b 9.297
+_cell_length_c 3.657
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 273.742
+_exptl_crystal_density_diffrn     10.672
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+RhI   0.37970   0.86440   0.25000   1.00000   0.00899
+RhII   0.23470   0.24360   0.25000   1.00000   0.01343
+AsI   0.44660   0.16080   0.25000   1.00000   0.00849
+AsII   0.00000   0.00000   0.13300   0.25000   0.02153
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+RhI 0.00493 0.00460 0.01762 0.00296 0.00000 0.00000
+RhII 0.01741 0.00591 0.01558 0.00493 0.00000 0.00000
+AsI 0.00525 0.00427 0.01694 0.00328 0.00000 0.00000
+AsII 0.00427 0.00427 0.05420 0.00131 0.00000 0.00000

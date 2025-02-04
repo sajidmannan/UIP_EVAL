@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Uramphite'
+loop_
+_publ_author_name
+'Fitch A N'
+'Fender B E F'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 39 
+_journal_year 1983
+_journal_page_first 162
+_journal_page_last 166
+_publ_section_title
+;
+ The structure of deuterated ammomium uranyl phosphate trihydrate,
+ ND4UO2PO4*3D2O by powder neutron diffraction
+;
+_database_code_amcsd 0009971
+_chemical_formula_sum 'U P O9 N D10'
+_cell_length_a 7.0221
+_cell_length_b 7.0221
+_cell_length_c 18.0912
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 892.075
+_exptl_crystal_density_diffrn      3.329
+_symmetry_space_group_name_H-M 'P 4/n c c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-y,1/2-x,1/2+z'
+  '1/2+y,1/2+x,1/2-z'
+  '1/2+y,-x,-z'
+  '1/2-y,x,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,1/2+x,-z'
+  'y,1/2-x,z'
+  '1/2-x,y,1/2+z'
+  '1/2+x,-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+U   0.25000   0.25000   0.04790   1.00000
+P   0.75000   0.25000   0.00000   1.00000
+O1   0.25000   0.25000   0.14700   1.00000
+O2   0.25000   0.25000  -0.05120   1.00000
+O3   0.57710   0.22570   0.05000   1.00000
+O4   0.16110   0.98090   0.31490   0.75000
+N   0.16110   0.98090   0.31490   0.25000
+D1   0.32120   0.04030   0.31910   1.00000
+D2   0.59470   0.13940   0.35920   1.00000
+D3   0.37940   0.58900   0.26970   0.50000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U 0.00884 0.00884 0.03167 0.00000 0.00000 0.00000
+P 0.00125 0.00125 0.03532 0.00000 0.00000 0.00000
+O1 0.01771 0.01771 0.03167 0.00000 0.00000 0.00000
+O2 0.02913 0.02913 0.01758 0.00000 0.00000 0.00000
+O3 0.00884 0.02151 0.03034 -0.00252 -0.00122 -0.00380
+O4 0.05191 0.04432 0.02404 0.00759 0.00000 -0.00882
+N 0.05191 0.04432 0.02404 0.00759 0.00000 -0.00882
+D1 0.17731 0.08231 0.05190 -0.00759 0.00251 0.07594
+D2 0.04559 0.04811 0.04427 0.00252 -0.01139 -0.00251
+D3 0.06458 0.03924 0.01011 0.02785 0.01010 -0.00122

@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Weilite'
+loop_
+_publ_author_name
+'Ferraris G'
+'Chiari G'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 26 
+_journal_year 1970
+_journal_page_first 403
+_journal_page_last 409
+_publ_section_title
+;
+ The crystal structure of CaHAsO4 (weilite)
+;
+_database_code_amcsd 0009369
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca2 As2 O8 H2'
+_cell_length_a 7.0591
+_cell_length_b 6.8906
+_cell_length_c 7.2006
+_cell_angle_alpha 97.43
+_cell_angle_beta 103.55
+_cell_angle_gamma 87.75
+_cell_volume 337.625
+_exptl_crystal_density_diffrn      3.541
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1   0.30240   0.43230   0.27960   1.00000
+Ca2   0.17240   0.83390   0.66060   1.00000
+As1   0.20480   0.37760   0.72430   1.00000
+As2   0.29780   0.94140   0.20870   1.00000
+O2   0.35650   0.49760   0.62740   1.00000
+O3   0.13610   0.16560   0.58930   1.00000
+O4   0.02350   0.53840   0.74100   1.00000
+O5   0.33660   0.82600   0.00030   1.00000
+O6   0.46500   0.11320   0.30360   0.50000
+O-H6   0.46500   0.11320   0.30360   0.50000
+O7   0.08190   0.06510   0.16010   0.50000
+O-H7   0.08190   0.06510   0.16010   0.50000
+O8   0.28780   0.77570   0.35370   1.00000
+O-H1   0.32190   0.33630   0.95310   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.00980 0.01653 0.00647 0.00233 -0.00531 0.00365
+Ca2 0.01172 0.00849 0.00889 -0.00237 -0.00666 0.00442
+As1 0.00318 0.00425 0.00300 -0.00119 -0.00290 0.00156
+As2 0.00735 0.00974 0.00415 0.00100 -0.00410 0.00289
+O2 0.01976 0.01241 0.00469 -0.01000 -0.00405 0.00671
+O3 0.01735 0.01077 0.00874 -0.00811 -0.00507 -0.00025
+O4 0.00924 0.01317 0.01469 0.00443 -0.00253 0.00013
+O5 0.00583 0.01634 0.01343 0.00000 -0.00722 -0.00241
+O6 0.01836 0.02318 0.00557 -0.00899 -0.00342 -0.00215
+O-H6 0.01836 0.02318 0.00557 -0.00899 -0.00342 -0.00215
+O7 0.00988 0.02267 0.01735 0.00583 -0.00317 0.01013
+O-H7 0.00988 0.02267 0.01735 0.00583 -0.00317 0.01013
+O8 0.03014 0.01089 0.01153 0.00823 0.00000 0.00962
+O-H1 0.02001 0.01115 0.00963 0.00139 0.00253 0.00621

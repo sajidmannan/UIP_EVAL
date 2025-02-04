@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Imhofite'
+loop_
+_publ_author_name
+'Divjakovic V'
+'Nowacki W'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 144 
+_journal_year 1976
+_journal_page_first 323
+_journal_page_last 333
+_publ_section_title
+;
+ Die kristallstruktur von imhofit, Tl5.6As15S25.3
+;
+_database_code_amcsd 0010785
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Tl1.4 As3.75 S6.33'
+_cell_length_a 8.755
+_cell_length_b 24.425
+_cell_length_c 5.739
+_cell_angle_alpha 90
+_cell_angle_beta 108.28
+_cell_angle_gamma 90
+_cell_volume 1165.300
+_exptl_crystal_density_diffrn      4.389
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Tl1   0.04920   0.15870  -0.02660   1.00000   0.05193
+Tl2   0.26920   0.46260   0.40000   0.27000   0.06206
+Tl2A   0.17100   0.45790   0.37200   0.13000   0.06333
+As1   0.91560   0.26290   0.27800   1.00000   0.02660
+As2   0.88620   0.40740   0.23320   0.75000   0.01900
+As3   0.57810   0.16160   0.32880   1.00000   0.01646
+As4   0.22250   0.46990   0.09650   0.50000   0.02026
+As5   0.72440   0.03300   0.16830   0.50000   0.02280
+S1   0.91370   0.02720  -0.03000   0.50000   0.02913
+S2   0.38140   0.08790   0.12200   1.00000   0.03800
+S3   0.74310   0.33080   0.07400   1.00000   0.03166
+S4   0.81710   0.10270   0.43700   1.00000   0.03293
+S5   0.67820   0.46640   0.07400   0.83000   0.03420
+S6   0.13470   0.31750   0.46100   1.00000   0.02786
+S7   0.32800   0.25070   0.09300   1.00000   0.03166
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 0.05462 0.05138 0.04829 -0.00617 0.01056 -0.00607
+As1 0.02416 0.01813 0.03460 0.00309 0.00757 -0.00337
+As2 0.03396 0.00907 0.01053 0.00000 0.00252 0.00135
+As3 0.01821 0.02418 0.01158 0.00206 0.00344 0.00472
+As4 0.02206 0.01813 0.01655 0.00103 0.00023 0.00607
+As5 0.01961 0.01813 0.02708 0.00103 -0.00138 0.00000
+S2 0.04306 0.03627 0.03460 -0.01954 0.01148 -0.00944
+S3 0.03361 0.02720 0.02708 0.00103 -0.00230 0.00405
+S4 0.03571 0.03022 0.03159 0.00000 0.00459 -0.00877
+S5 0.03116 0.02418 0.03761 0.01646 -0.00459 0.00337
+S6 0.02661 0.03627 0.01655 -0.00720 0.00230 0.00270
+S7 0.04061 0.03627 0.02858 -0.00823 0.02525 -0.01079

@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Heulandite-Na'
+loop_
+_publ_author_name
+'Gunter M E'
+'Armbruster T'
+'Kohler T'
+'Knowles C R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 79 
+_journal_year 1994
+_journal_page_first 675
+_journal_page_last 682
+_publ_section_title
+;
+ Crystal structure and optical properties of Na- and Pb-exchanged
+ heulandite-group zeolites
+ Sample: Na-exchanged
+ Atomic parameters from ICSD
+;
+_database_code_amcsd 0001669
+_chemical_formula_sum 'Na3.6 (Si13.554 Al4.446) O48.96 H10.96'
+_cell_length_a 17.767
+_cell_length_b 17.977
+_cell_length_c 7.422
+_cell_angle_alpha 90
+_cell_angle_beta 116.14
+_cell_angle_gamma 90
+_cell_volume 2128.106
+_exptl_crystal_density_diffrn      2.150
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na1   0.17260   0.00000   0.68900   0.80000   0.13045
+Na2   0.53920   0.00000   0.24300   0.84000   0.09246
+Na3   0.28390   0.00000   0.02900   0.16000   0.20391
+Si1   0.17880   0.16980   0.09580   0.75300   0.01887
+Al1   0.17880   0.16980   0.09580   0.24700   0.01887
+Si2   0.28640   0.08920   0.49490   0.75300   0.01938
+Al2   0.28640   0.08920   0.49490   0.24700   0.01938
+Si3   0.29050   0.30980   0.28260   0.75300   0.01925
+Al3   0.29050   0.30980   0.28260   0.24700   0.01925
+Si4   0.06730   0.29780   0.41710   0.75300   0.01925
+Al4   0.06730   0.29780   0.41710   0.24700   0.01925
+Si5   0.00000   0.21650   0.00000   0.75300   0.02026
+Al5   0.00000   0.21650   0.00000   0.24700   0.02026
+O1   0.30260   0.00000   0.53700   1.00000   0.03040
+O2   0.23410   0.11970   0.61820   1.00000   0.04091
+O3   0.18790   0.15560   0.89100   1.00000   0.05066
+O4   0.23110   0.10330   0.24980   1.00000   0.03534
+O5   0.00000   0.32180   0.50000   1.00000   0.04813
+O6   0.08070   0.16090   0.04930   1.00000   0.03584
+O7   0.37370   0.26860   0.44920   1.00000   0.04268
+O8   0.01450   0.27090   0.18620   1.00000   0.04306
+O9   0.21230   0.25210   0.18750   1.00000   0.03711
+O10   0.11990   0.37190   0.42120   1.00000   0.03787
+O-H11   0.28390   0.00000   0.02900   0.68000   0.20391
+O-H12   0.50000   0.00000   0.50000   1.00000   0.17225
+O-H13   0.42200   0.08140   0.03500   1.00000   0.16591
+O-H14   0.07400   0.00000   0.04000   0.56000   0.34069
+O-H15   0.08200   0.00000   0.27100   1.00000   0.32169
+O-H16   0.07200  -0.02900   0.75800   0.37000   0.14996
+O17   0.00000   0.10000   0.50000   1.00000   0.28117

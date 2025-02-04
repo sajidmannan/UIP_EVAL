@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Hydrohematite'
+loop_
+_publ_author_name
+'Peterson K M'
+'Heaney P J'
+'Post J E'
+'Eng P J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 100 
+_journal_year 2015
+_journal_page_first 570
+_journal_page_last 579
+_publ_section_title
+;
+ A refined monoclinic structure for a variety of "hydrohematite"
+ Note: T = 38 C
+;
+_database_code_amcsd 0020338
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Fe1.946 O3'
+_cell_length_a 7.3951
+_cell_length_b 5.0117
+_cell_length_c 5.4417
+_cell_angle_alpha 90
+_cell_angle_beta 95.666
+_cell_angle_gamma 90
+_cell_volume 200.695
+_exptl_crystal_density_diffrn      5.185
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/2-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,-y,z'
+  '+x,1/2-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Fe   0.35890  -0.00430   0.29440   0.97300   0.00400
+O1   0.41170   0.85790   0.63270   1.00000   0.00700
+O2   0.25000   0.18300   0.00000   1.00000   0.00700

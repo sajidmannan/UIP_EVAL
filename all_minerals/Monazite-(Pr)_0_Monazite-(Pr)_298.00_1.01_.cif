@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Monazite-(Pr)'
+loop_
+_publ_author_name
+'Ni Y'
+'Hughes J M'
+'Mariano A N'
+_journal_name_full 'American Mineralogist'
+_journal_volume 80 
+_journal_year 1995
+_journal_page_first 21
+_journal_page_last 26
+_publ_section_title
+;
+ Crystal chemistry of the monazite and xenotime structures
+;
+_database_code_amcsd 0001701
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Pr P O4'
+_cell_length_a 6.7596
+_cell_length_b 6.9812
+_cell_length_c 6.4344
+_cell_angle_alpha 90
+_cell_angle_beta 103.53
+_cell_angle_gamma 90
+_cell_volume 295.213
+_exptl_crystal_density_diffrn      5.307
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pr   0.28177   0.15862   0.09988   0.00445
+P   0.30400   0.16300   0.61270   0.00456
+O1   0.24980   0.00510   0.44410   0.00874
+O2   0.38160   0.33270   0.49900   0.00849
+O3   0.47440   0.10460   0.80570   0.00798
+O4   0.12600   0.21500   0.71200   0.00785

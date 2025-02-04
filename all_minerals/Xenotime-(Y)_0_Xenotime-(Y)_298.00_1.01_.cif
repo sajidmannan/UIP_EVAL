@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Xenotime-(Y)'
+loop_
+_publ_author_name
+'Ni Y'
+'Hughes J M'
+'Mariano A N'
+_journal_name_full 'American Mineralogist'
+_journal_volume 80 
+_journal_year 1995
+_journal_page_first 21
+_journal_page_last 26
+_publ_section_title
+;
+ Crystal chemistry of the monazite and xenotime structures
+;
+_database_code_amcsd 0001706
+_chemical_compound_source 'Nanling granitoid, China'
+_chemical_formula_sum 'Y P O4'
+_cell_length_a 6.8947
+_cell_length_b 6.8947
+_cell_length_c 6.0276
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 286.533
+_exptl_crystal_density_diffrn      4.262
+_symmetry_space_group_name_H-M 'I 41/a m d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/4-y,3/4-x,1/4+z'
+  '3/4-y,1/4-x,3/4+z'
+  '1/4+y,3/4+x,1/4-z'
+  '3/4+y,1/4+x,3/4-z'
+  '1/4+y,3/4-x,1/4-z'
+  '3/4+y,1/4-x,3/4-z'
+  '1/4-y,3/4+x,1/4+z'
+  '3/4-y,1/4+x,3/4+z'
+  '1/2+x,-y,1/2+z'
+  '+x,1/2-y,+z'
+  '1/2-x,y,1/2-z'
+  '-x,1/2+y,-z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '1/4+y,1/4+x,3/4+z'
+  '3/4+y,3/4+x,1/4+z'
+  '1/4-y,1/4-x,3/4-z'
+  '3/4-y,3/4-x,1/4-z'
+  '1/4-y,1/4+x,3/4-z'
+  '3/4-y,3/4+x,1/4-z'
+  '1/4+y,1/4-x,3/4+z'
+  '3/4+y,3/4-x,1/4+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Y   0.00000   0.75000   0.12500   0.00576
+P   0.00000   0.25000   0.37500   0.00785
+O   0.00000   0.07530   0.21580   0.01191

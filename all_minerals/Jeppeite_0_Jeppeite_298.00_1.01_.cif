@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Jeppeite'
+loop_
+_publ_author_name
+'Cid-Dresdner H'
+'Buerger M J'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 117 
+_journal_year 1962
+_journal_page_first 411
+_journal_page_last 430
+_publ_section_title
+;
+ The crystal structure of potassium hexatitanate K2Ti6O13
+;
+_database_code_amcsd 0010602
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'K2 Ti6 O13'
+_cell_length_a 15.582
+_cell_length_b 3.82
+_cell_length_c 9.112
+_cell_angle_alpha 90
+_cell_angle_beta 99.764
+_cell_angle_gamma 90
+_cell_volume 534.519
+_exptl_crystal_density_diffrn      3.563
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+K   0.45400   0.00000   0.24740   0.01406
+Ti1   0.11420   0.00000   0.09800   0.00595
+Ti2   0.17160   0.00000   0.43860   0.00760
+Ti3   0.23250   0.00000  -0.22380   0.00633
+O1   0.00000   0.00000   0.00000   0.00760
+O2   0.23700   0.00000   0.23700   0.00760
+O3   0.07640   0.00000   0.29100   0.00760
+O4   0.29640   0.00000  -0.42800   0.00253
+O5   0.13300   0.00000  -0.38400   0.00507
+O6   0.35910   0.00000  -0.10900   0.00507
+O7   0.16770   0.00000  -0.08300   0.00760

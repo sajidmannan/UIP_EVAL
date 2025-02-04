@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Ingodite'
+loop_
+_publ_author_name
+'Bayliss P'
+_journal_name_full 'American Mineralogist'
+_journal_volume 76 
+_journal_year 1991
+_journal_page_first 257
+_journal_page_last 265
+_publ_section_title
+;
+ Crystal chemistry and crystallography of some minerals in the tetradymite group
+;
+_database_code_amcsd 0001347
+_chemical_formula_sum 'Bi (S.56 Te.44)'
+_cell_length_a 4.2477
+_cell_length_b 4.2477
+_cell_length_c 23.075
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 360.562
+_exptl_crystal_density_diffrn      7.822
+_symmetry_space_group_name_H-M 'P -3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,-x+y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+  '-x,-y,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  'x-y,x,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Bi   0.00000   0.00000   0.12400   1.00000
+Bi   0.33333   0.66667   0.29100   1.00000
+Bi   0.66667   0.33333   0.45900   1.00000
+S   0.00000   0.00000   0.36200   0.56000
+Te   0.00000   0.00000   0.36200   0.44000
+S   0.33333   0.66667   0.05600   0.56000
+Te   0.33333   0.66667   0.05600   0.44000
+S   0.66667   0.33333   0.21100   0.56000
+Te   0.66667   0.33333   0.21100   0.44000

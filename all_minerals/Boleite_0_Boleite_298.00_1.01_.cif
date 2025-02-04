@@ -1,0 +1,120 @@
+data_global
+_chemical_name_mineral 'Boleite'
+loop_
+_publ_author_name
+'Cooper M A'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 38 
+_journal_year 2000
+_journal_page_first 801
+_journal_page_last 808
+_publ_section_title
+;
+ Boleite: Resolution of the formula, KPb26Ag9Cu24Cl62(OH)48
+;
+_database_code_amcsd 0005684
+_chemical_formula_sum 'K Pb26 Ag9 Cu24 Cl62 O48 H48'
+_cell_length_a 15.288
+_cell_length_b 15.288
+_cell_length_c 15.288
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 3573.156
+_exptl_crystal_density_diffrn      5.083
+_symmetry_space_group_name_H-M 'P m -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'z,-x,y'
+  '-y,z,-x'
+  'x,-y,z'
+  '-z,x,-y'
+  'y,-z,x'
+  '-x,y,-z'
+  'x,-z,-y'
+  '-z,y,x'
+  'y,-x,-z'
+  '-x,z,y'
+  'z,-y,-x'
+  '-y,x,z'
+  'x,z,y'
+  '-z,-y,-x'
+  'y,x,z'
+  '-x,-z,-y'
+  'z,y,x'
+  '-y,-x,-z'
+  'z,x,-y'
+  '-y,-z,x'
+  'x,y,-z'
+  '-z,-x,y'
+  'y,z,-x'
+  '-x,-y,z'
+  '-z,x,y'
+  'y,-z,-x'
+  '-x,y,z'
+  'z,-x,-y'
+  '-y,z,x'
+  'x,-y,-z'
+  '-x,z,-y'
+  'z,-y,x'
+  '-y,x,-z'
+  'x,-z,y'
+  '-z,y,-x'
+  'y,-x,z'
+  '-x,-z,y'
+  'z,y,-x'
+  '-y,-x,z'
+  'x,z,-y'
+  '-z,-y,x'
+  'y,x,-z'
+  '-z,-x,-y'
+  'y,z,x'
+  '-x,-y,-z'
+  'z,x,y'
+  '-y,-z,-x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+K   0.50000   0.50000   0.50000   0.04780
+Pb(1)   0.22633   0.50000   0.50000   0.02120
+Pb(2)   0.30301   0.30301   0.30301   0.01730
+Pb(3)   0.27356   0.50000   0.00000   0.02340
+Ag(1)   0.00000   0.15730   0.00000   0.03260
+Ag(2)   0.00000   0.50000   0.00000   0.03930
+Cu   0.25567   0.25567   0.09458   0.01270
+Cl(1)   0.12220   0.12220   0.12220   0.02970
+Cl(2)   0.38480   0.38480   0.12100   0.02150
+Cl(3)   0.00000   0.32960   0.00000   0.02340
+Cl(4)   0.13160   0.50000   0.13160   0.01980
+Cl(5)   0.33060   0.50000   0.33060   0.03260
+O(1)   0.00000   0.33020   0.21040   0.01410
+O(2)   0.18800   0.18800   0.31190   0.01760
+H(1)   0.00000   0.33900   0.14700   0.02720
+H(2)   0.16200   0.16200   0.36400   0.05110
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.04780 0.04780 0.04780 0.00000 0.00000 0.00000
+Pb(1) 0.01970 0.02190 0.02190 0.00000 0.00000 0.00000
+Pb(2) 0.01730 0.01730 0.01730 -0.00230 -0.00230 -0.00230
+Pb(3) 0.01820 0.03450 0.01740 0.00000 0.00000 0.00000
+Ag(1) 0.03080 0.03620 0.03080 0.00000 0.00000 0.00000
+Ag(2) 0.04570 0.02650 0.04570 0.00000 0.00000 0.00000
+Cu 0.01420 0.01420 0.00970 0.00300 0.00100 0.00100
+Cl(1) 0.02970 0.02970 0.02970 -0.00580 -0.00580 -0.00580
+Cl(2) 0.02090 0.02090 0.02270 -0.00340 -0.00330 -0.00330
+Cl(3) 0.02430 0.02180 0.02430 0.00000 0.00000 0.00000
+Cl(4) 0.02250 0.01430 0.02250 0.00000 0.00620 0.00000
+Cl(5) 0.03900 0.01990 0.03900 0.00000 0.01950 0.00000
+O(1) 0.01490 0.01460 0.01270 0.00000 0.00000 0.00360
+O(2) 0.01740 0.01740 0.01810 0.00320 0.00460 0.00460

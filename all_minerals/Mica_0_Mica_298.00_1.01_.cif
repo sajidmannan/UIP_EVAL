@@ -1,0 +1,77 @@
+data_global
+_chemical_name_mineral 'Mica'
+loop_
+_publ_author_name
+'Hazen R M'
+'Finger L W'
+'Velde D'
+_journal_name_full 'American Mineralogist'
+_journal_volume 66 
+_journal_year 1981
+_journal_page_first 586
+_journal_page_last 591
+_publ_section_title
+;
+ Crystal structure of a silica- and alkali-rich trioctahedral mica
+;
+_database_code_amcsd 0000836
+_chemical_formula_sum '(Si3.312 Fe.688) (Mg2.664 Li.225 Na.111) K O10 F2'
+_cell_length_a 5.329
+_cell_length_b 9.230
+_cell_length_c 10.219
+_cell_angle_alpha 90
+_cell_angle_beta 100
+_cell_angle_gamma 90
+_cell_volume 495.002
+_exptl_crystal_density_diffrn      2.935
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Si   0.57490   0.16670   0.22550   0.82800
+Fe   0.57490   0.16670   0.22550   0.17200
+Mg1   0.00000   0.50000   0.50000   0.88800
+Li1   0.00000   0.50000   0.50000   0.07500
+Na1   0.00000   0.50000   0.50000   0.03700
+Mg2   0.00000   0.83370   0.50000   0.88800
+Li2   0.00000   0.83370   0.50000   0.07500
+Na2   0.00000   0.83370   0.50000   0.03700
+K   0.00000   0.00000   0.00000   1.00000
+O1   0.81980   0.23550   0.16720   1.00000
+O2   0.52640   0.00000   0.16690   1.00000
+O3   0.62980   0.16700   0.39010   1.00000
+F   0.13360   0.00000   0.39920   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si 0.01144 0.00950 0.01180 0.00000 0.00187 0.00000
+Fe 0.01144 0.00950 0.01180 0.00000 0.00187 -0.00047
+Mg1 0.00879 0.00518 0.01334 0.00000 0.00214 0.00000
+Li1 0.00879 0.00518 0.01334 0.00000 0.00214 0.00000
+Na1 0.00879 0.00518 0.01334 0.00000 0.00214 0.00000
+Mg2 0.00851 0.00820 0.01283 0.00000 0.00187 0.00000
+Li2 0.00851 0.00820 0.01283 0.00000 0.00187 0.00000
+Na2 0.00851 0.00820 0.01283 0.00000 0.00187 0.00000
+K 0.03167 0.02935 0.02925 0.00000 0.00428 0.00000
+O1 0.03293 0.04186 0.02155 -0.00883 0.00321 -0.00141
+O2 0.04842 0.02849 0.02104 0.00000 0.00294 0.00000
+O3 0.01339 0.01122 0.01385 -0.00025 0.00161 0.00000
+F 0.01577 0.01511 0.01385 0.00000 0.00187 0.00000

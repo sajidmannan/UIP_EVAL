@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Poubaite'
+loop_
+_publ_author_name
+'Agaev K A'
+'Semiletov S A'
+_journal_name_full 'Kristallografiya'
+_journal_volume 13 
+_journal_year 1968
+_journal_page_first 258
+_journal_page_last 260
+_publ_section_title
+;
+ Electron diffraction study of the structure of PbBi2Se4
+;
+_database_code_amcsd 0014179
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum '(Pb Bi2) Se4'
+_cell_length_a 4.16
+_cell_length_b 4.16
+_cell_length_c 39.20
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 587.494
+_exptl_crystal_density_diffrn      7.979
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  'y,x,-z'
+  '2/3+y,1/3+x,1/3-z'
+  '1/3+y,2/3+x,2/3-z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-x,-x+y,-z'
+  '2/3-x,1/3-x+y,1/3-z'
+  '1/3-x,2/3-x+y,2/3-z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  'x-y,-y,-z'
+  '2/3+x-y,1/3-y,1/3-z'
+  '1/3+x-y,2/3-y,2/3-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb1   0.00000   0.00000   0.00000   0.33333   0.01267
+Bi1   0.00000   0.00000   0.00000   0.66667   0.01267
+Pb2   0.00000   0.00000   0.42800   0.33333   0.01267
+Bi2   0.00000   0.00000   0.42800   0.66667   0.01267
+Se1   0.00000   0.00000   0.13900   1.00000   0.01267
+Se2   0.00000   0.00000   0.28600   1.00000   0.01267

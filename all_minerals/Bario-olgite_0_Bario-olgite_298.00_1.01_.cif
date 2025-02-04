@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Bario-olgite'
+loop_
+_publ_author_name
+'Pekov I V'
+'Chukanov N V'
+'Kulikova I M'
+'Zubkova N V'
+'Krotova O D'
+'Sorokina N I'
+'Pushcharovsky D Y'
+_journal_name_full 'Zapiski Vserossijskogo Mineralogicheskogo Obshchestva'
+_journal_volume 133 
+_journal_year 2004
+_journal_page_first 41
+_journal_page_last 49
+_publ_section_title
+;
+ New mineral bario-olgite, Ba(Na,Sr,REE)2Na[PO4]2 and its crystal structure
+;
+_database_code_amcsd 0015713
+_chemical_formula_sum '(Ba.94 K.06) Na2.12 Ce.18 Sr.66 Ca.04 P2 O8'
+_cell_length_a 5.541
+_cell_length_b 5.541
+_cell_length_c 7.020
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 186.657
+_exptl_crystal_density_diffrn      4.046
+_symmetry_space_group_name_H-M 'P 3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,x-y,z'
+  '-x+y,-x,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+BaM1   0.00000   0.00000   0.00000   0.94000   0.04390
+KM1   0.00000   0.00000   0.00000   0.06000   0.04390
+NaM2   0.66667   0.33333   0.33500   0.50000   0.03480
+CeM2   0.66667   0.33333   0.33500   0.18000   0.03480
+SrM2   0.66667   0.33333   0.33500   0.28000   0.03480
+CaM2   0.66667   0.33333   0.33500   0.04000   0.03480
+NaM3   0.33333   0.66667   0.66400   0.62000   0.00670
+SrM3   0.33333   0.66667   0.66400   0.38000   0.00670
+NaM4   0.00000   0.00000   0.50500   1.00000   0.01420
+P1   0.33333   0.66667   0.22500   1.00000   0.01050
+P2   0.66667   0.33333   0.79200   1.00000   0.02600
+O1   0.79500   0.18200   0.70200   1.00000   0.04600
+O2   0.17000   0.82100   0.29400   1.00000   0.05100
+O3   0.33333   0.66667   0.00000   1.00000   0.03500
+O4   0.66667   0.33333  -0.00800   1.00000   0.03900

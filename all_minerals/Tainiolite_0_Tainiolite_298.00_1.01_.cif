@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Tainiolite'
+loop_
+_publ_author_name
+'Toraya H'
+'Iwai S'
+'Marumo F'
+'Hirao M'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 146 
+_journal_year 1977
+_journal_page_first 73
+_journal_page_last 83
+_publ_section_title
+;
+ The crystal structure of taeniolite, KLiMg2Si4O10F2
+ Note: this is the 1M polytype
+;
+_database_code_amcsd 0010797
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'K.967 (Mg2.034 Li.966) Si4 O10 F2'
+_cell_length_a 5.231
+_cell_length_b 9.065
+_cell_length_c 10.140
+_cell_angle_alpha 90
+_cell_angle_beta 99.86
+_cell_angle_gamma 90
+_cell_volume 473.727
+_exptl_crystal_density_diffrn      2.834
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K   0.00000   0.50000   0.00000   0.96700
+Mg1   0.00000   0.00000   0.50000   0.70800
+Li1   0.00000   0.00000   0.50000   0.29200
+Mg2   0.00000   0.33442   0.50000   0.66300
+Li2   0.00000   0.33442   0.50000   0.33700
+Si   0.07573   0.16666   0.22829   1.00000
+O1   0.04940   0.00000   0.16500   1.00000
+O2   0.30750   0.24730   0.16500   1.00000
+O3   0.12840   0.16680   0.38710   1.00000
+F   0.63330   0.00000   0.39670   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.02409 0.02385 0.02285 0.00000 0.00417 0.00000
+Mg1 0.00848 0.00704 0.00794 0.00000 0.00256 0.00000
+Li1 0.00848 0.00704 0.00794 0.00000 0.00256 0.00000
+Mg2 0.00754 0.00778 0.00784 0.00000 0.00117 0.00000
+Li2 0.00754 0.00778 0.00784 0.00000 0.00117 0.00000
+Si 0.00552 0.00545 0.00566 0.00000 0.00123 -0.00005
+O1 0.01547 0.00599 0.00854 0.00000 0.00123 0.00000
+O2 0.00888 0.01270 0.00814 -0.00433 0.00183 -0.00041
+O3 0.00861 0.00816 0.00587 -0.00021 0.00130 0.00000
+F 0.01211 0.01195 0.01143 0.00000 0.00240 0.00000

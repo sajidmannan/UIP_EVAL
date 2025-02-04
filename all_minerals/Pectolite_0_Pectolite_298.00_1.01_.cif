@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Pectolite'
+loop_
+_publ_author_name
+'Prewitt C T'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 125 
+_journal_year 1967
+_journal_page_first 298
+_journal_page_last 316
+_publ_section_title
+;
+ Refinement of the structure of pectolite, Ca2NaHSi3O9
+;
+_database_code_amcsd 0010648
+_chemical_compound_source 'Erie railroad cut, Bergen Hill, New Jersey, USA'
+_chemical_formula_sum 'Ca2 Na H Si3 O9'
+_cell_length_a 7.988
+_cell_length_b 7.04
+_cell_length_c 7.025
+_cell_angle_alpha 90.52
+_cell_angle_beta 95.18
+_cell_angle_gamma 102.47
+_cell_volume 383.994
+_exptl_crystal_density_diffrn      2.875
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.85480   0.59360   0.14490 ?
+Ca2   0.84670   0.08390   0.14050 ?
+Na   0.55240   0.25960   0.34330 ?
+H   0.16200   0.62500   0.53000   0.03166
+Si1   0.21850   0.40150   0.33740 ?
+Si2   0.21500   0.95440   0.34400 ?
+Si3   0.45050   0.73530   0.14470 ?
+O1   0.65260   0.78710   0.12800 ?
+O2   0.33000   0.70430  -0.05350 ?
+O3   0.18640   0.49600   0.53950 ?
+O4   0.17830   0.84650   0.54110 ?
+O5   0.06330   0.38600   0.17330 ?
+O6   0.06000   0.89610   0.17680 ?
+O7   0.39920   0.53490   0.27200 ?
+O8   0.39550   0.90920   0.27460 ?
+O9   0.26280   0.19080   0.38510 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.00550 0.00311 0.00644 -0.00027 0.00110 -0.00024
+Ca2 0.00489 0.00335 0.00644 0.00000 0.00110 -0.00024
+Na 0.00672 0.01818 0.01809 -0.00108 0.00385 0.00000
+Si1 0.00305 0.00096 0.00347 -0.00054 -0.00055 -0.00024
+Si2 0.00305 0.00144 0.00347 -0.00027 -0.00028 -0.00073
+Si3 0.00092 0.00263 0.00322 -0.00081 0.00000 0.00000
+O1 0.00336 0.00311 0.00669 0.00000 0.00165 0.00073
+O2 0.00397 0.00598 0.00099 -0.00054 -0.00055 -0.00024
+O3 0.00702 0.00335 0.00273 0.00243 -0.00055 -0.00097
+O4 0.00916 0.00383 0.00297 -0.00054 0.00110 -0.00049
+O5 0.00458 0.00431 0.00322 -0.00054 -0.00028 0.00073
+O6 0.00336 0.00478 0.00520 -0.00054 -0.00165 -0.00195
+O7 0.00214 0.00287 0.00743 -0.00189 0.00000 0.00170
+O8 0.00092 0.00383 0.00917 -0.00135 0.00028 -0.00365
+O9 0.00397 0.00144 0.00595 -0.00054 -0.00083 -0.00049

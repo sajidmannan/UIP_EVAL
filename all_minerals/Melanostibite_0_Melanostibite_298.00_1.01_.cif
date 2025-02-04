@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Melanostibite'
+loop_
+_publ_author_name
+'Moore P B'
+_journal_name_full 'American Mineralogist'
+_journal_volume 53 
+_journal_year 1968
+_journal_page_first 1104
+_journal_page_last 1109
+_publ_section_title
+;
+ Substitutions of the type (Sb0.5Fe0.5)-(Ti): The crystal structure of
+ melanostibite
+;
+_database_code_amcsd 0000178
+_chemical_formula_sum 'Mn (Fe.5 Sb.5) O3'
+_cell_length_a 5.226
+_cell_length_b 5.226
+_cell_length_c 14.325
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 338.816
+_exptl_crystal_density_diffrn      5.638
+_symmetry_space_group_name_H-M 'R -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mn   0.00000   0.00000   0.13780   1.00000   0.00633
+Fe   0.00000   0.00000   0.34730   0.50000   0.00279
+Sb   0.00000   0.00000   0.34730   0.50000   0.00279
+O   0.28730  -0.02520   0.25590   1.00000   0.00747

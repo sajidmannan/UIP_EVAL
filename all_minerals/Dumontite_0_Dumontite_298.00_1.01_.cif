@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Dumontite'
+loop_
+_publ_author_name
+'Piret P'
+'Piret-Meunier J'
+_journal_name_full 'Bulletin de Mineralogie'
+_journal_volume 111 
+_journal_year 1988
+_journal_page_first 439
+_journal_page_last 442
+_publ_section_title
+;
+ Nouvelle determination de la structure cristalline
+ de la dumonite Pb2[(UO2)3O2(PO4)2]*5H2O
+;
+_database_code_amcsd 0012090
+_chemical_compound_source 'Shinkolobwe, Shaba, Zaire'
+_chemical_formula_sum 'Pb2 U3 P2 O21'
+_cell_length_a 8.118
+_cell_length_b 16.819
+_cell_length_c 6.983
+_cell_angle_alpha 90
+_cell_angle_beta 109.03
+_cell_angle_gamma 90
+_cell_volume 901.328
+_exptl_crystal_density_diffrn      5.624
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb  -0.05070   0.10520   0.36230   0.01820
+U1   0.40060   0.25000   0.70180   0.00810
+U2   0.41460   0.14170   0.20680   0.00580
+P   0.38380   0.05530   0.69120   0.01090
+O1   0.17000   0.25000   0.58800   0.01600
+O2   0.63400   0.25000   0.81800   0.01700
+O3   0.18200   0.12900   0.14200   0.01000
+O4   0.65100   0.15100   0.26800   0.01600
+O5   0.41600   0.11500   0.55000   0.01700
+O6   0.37900   0.11200   0.86300   0.01700
+O7   0.53500  -0.00500   0.77600   0.00900
+O8   0.20900   0.01600   0.59900   0.02000
+O9   0.38100   0.25000   0.01600   0.00600
+O10   0.41000   0.25000   0.38600   0.01600
+O11  -0.08600   0.16100   0.71100   0.04900
+O12  -0.14200   0.05600  -0.00400   0.03900
+O13  -0.08500   0.25000   0.16300   0.01200
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb 0.01650 0.01480 0.02250 0.00130 0.00540 0.00190
+U1 0.01230 0.00470 0.00730 0.00000 0.00330 0.00000
+U2 0.00950 0.00180 0.00660 -0.00010 0.00310 0.00050

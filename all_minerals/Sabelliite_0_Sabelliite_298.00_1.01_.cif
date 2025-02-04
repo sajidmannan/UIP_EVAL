@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Sabelliite'
+loop_
+_publ_author_name
+'Olmi F'
+'Sabelli C'
+'Trosti-Ferroni R'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 7 
+_journal_year 1995
+_journal_page_first 1331
+_journal_page_last 1337
+_publ_section_title
+;
+ The crystal structure of sabelliite
+;
+_database_code_amcsd 0006608
+_chemical_formula_sum 'Cu6 Zn2.86 As2.4 Sb.42 O21 H6'
+_cell_length_a 8.197
+_cell_length_b 8.197
+_cell_length_c 7.312
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 425.478
+_exptl_crystal_density_diffrn      4.454
+_symmetry_space_group_name_H-M 'P -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'y,-x+y,-z'
+  '-x+y,-x,z'
+  '-x,-y,-z'
+  '-y,x-y,z'
+  'x-y,x,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu   0.42530   0.29040   0.01800   1.00000   0.01178
+Zn1   0.00000   0.00000   0.00000   0.64000   0.00570
+Zn2   0.23140   0.00330   0.40860   0.37000   0.01482
+As   0.66667   0.33333   0.44870   1.00000   0.02191
+As   0.00000   0.00000   0.23480   0.20000   0.01418
+Sb   0.00000   0.00000   0.23480   0.21000   0.01418
+O1   0.36930   0.48200   0.11030   1.00000   0.01115
+O2   0.23300   0.07270   0.16440   1.00000   0.02292
+O3   0.26130   0.44960   0.46500   1.00000   0.02913
+O4   0.00000   0.00000   0.50000   1.00000   0.02533
+O5   0.66667   0.33333   0.22350   1.00000   0.02128
+H   0.35000   0.47000   0.22000   1.00000   0.04179
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.01200 0.00740 0.01625 0.00536 0.00237 0.00053
+Zn1 0.00485 0.00485 0.00758 0.00230 0.00000 0.00000
+Zn2 0.01404 0.01583 0.01463 0.00791 0.00263 0.00158
+As 0.02374 0.02374 0.01815 0.01174 0.00000 0.00000
+As 0.01251 0.01251 0.01761 0.00613 0.00000 0.00000
+Sb 0.01251 0.01251 0.01761 0.00613 0.00000 0.00000
+O1 0.01047 0.01098 0.01381 0.00689 0.00026 -0.00079
+O2 0.02272 0.01532 0.02925 0.00817 0.01104 0.00237
+O3 0.04187 0.02093 0.02438 0.01532 0.00552 -0.00263
+O4 0.02017 0.02017 0.03521 0.01021 0.00000 0.00000
+O5 0.02425 0.02425 0.01517 0.01200 0.00000 0.00000

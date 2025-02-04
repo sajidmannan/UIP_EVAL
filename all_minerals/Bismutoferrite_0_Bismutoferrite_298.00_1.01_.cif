@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Bismutoferrite'
+loop_
+_publ_author_name
+'Zhukhlistov A P'
+'Zvyagin B B'
+_journal_name_full 'Soviet Physics Crystallography'
+_journal_volume 22 
+_journal_year 1977
+_journal_page_first 419
+_journal_page_last 423
+_publ_section_title
+;
+ Determination of the crystal structures of chapmanite and bismuthoferrite by
+ high-voltage electron diffraction
+;
+_database_code_amcsd 0015576
+_chemical_compound_source 'Schneeberg, Saxony, Germany'
+_chemical_formula_sum 'Bi Fe2 Si2 O9 H'
+_cell_length_a 5.21
+_cell_length_b 9.02
+_cell_length_c 7.74
+_cell_angle_alpha 90
+_cell_angle_beta 100.667
+_cell_angle_gamma 90
+_cell_volume 357.450
+_exptl_crystal_density_diffrn      4.849
+_symmetry_space_group_name_H-M 'C m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Bi   0.41300   0.50000   0.71600
+Fe   0.50000   0.16500   0.00000
+Si   0.31600   0.16600   0.36900
+O1   0.29500   0.32800  -0.14400
+O2   0.31700   0.00000  -0.12800
+O3   0.21900   0.17000   0.14300
+O-H   0.68400   0.00000   0.14500
+O4   0.08100   0.24800   0.44800
+O5   0.32600   0.00000   0.42900

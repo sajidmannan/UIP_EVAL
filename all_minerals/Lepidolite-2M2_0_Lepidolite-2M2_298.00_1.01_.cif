@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Lepidolite-2M2'
+loop_
+_publ_author_name
+'Guggenheim S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 66 
+_journal_year 1981
+_journal_page_first 1221
+_journal_page_last 1232
+_publ_section_title
+;
+ Cation ordering in lepidolite
+ type 2M(2)  from Radkovice
+;
+_database_code_amcsd 0000850
+_chemical_formula_sum 'K Li1.24 Al1.158 Si3.492 O11 F'
+_cell_length_a 9.023
+_cell_length_b 5.197
+_cell_length_c 20.171
+_cell_angle_alpha 90
+_cell_angle_beta 99.48
+_cell_angle_gamma 90
+_cell_volume 932.952
+_exptl_crystal_density_diffrn      2.649
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K   0.50000   0.40970   0.25000   1.00000
+Li1   0.25000   0.25000   0.00000   1.00000
+Al1   0.58561   0.24370   0.00005   0.32500
+Li2   0.58561   0.24370   0.00005   0.12000
+Si1   0.79426   0.40780   0.13397   0.87300
+Al1   0.79426   0.40780   0.13397   0.12700
+Si2   0.12556   0.41360   0.13394   0.87300
+Al2   0.12556   0.41360   0.13394   0.12700
+O1   0.76760   0.39370   0.05270   1.00000
+O2   0.09050   0.42610   0.05283   1.00000
+O3   0.44680   0.42910   0.04923   0.50000
+F3   0.44680   0.42910   0.04923   0.50000
+O4   0.70580   0.17740   0.16634   1.00000
+O5   0.23800   0.17850   0.16219   1.00000
+O6   0.97160   0.37870   0.16611   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.02203 0.02080 0.02326 0.00000 0.00296 0.00000
+Li1 0.01204 0.00958 0.00983 0.00070 0.00359 0.00262
+Al1 0.00843 0.00780 0.01003 -0.00047 0.00161 -0.00005
+Li2 0.00843 0.00780 0.01003 -0.00047 0.00161 -0.00005
+Si1 0.00730 0.00602 0.00880 -0.00056 0.00135 -0.00016
+Al1 0.00730 0.00602 0.00880 -0.00056 0.00135 -0.00016
+Si2 0.00658 0.00670 0.00874 -0.00019 0.00152 0.00000
+Al2 0.00658 0.00670 0.00874 -0.00019 0.00152 0.00000
+O1 0.02287 0.01163 0.00802 0.00141 0.00090 -0.00052
+O2 0.01605 0.01806 0.00862 0.00539 0.00063 0.00016
+O3 0.02408 0.04570 0.01223 -0.01945 0.00332 0.00105
+F3 0.02408 0.04570 0.01223 -0.01945 0.00332 0.00105
+O4 0.02046 0.01341 0.01805 -0.00750 0.00386 0.00000
+O5 0.02167 0.01341 0.01464 0.00656 0.00063 -0.00136
+O6 0.00963 0.02531 0.01725 -0.00070 0.00359 0.00105

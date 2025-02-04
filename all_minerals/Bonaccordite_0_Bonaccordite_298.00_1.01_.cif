@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Bonaccordite'
+loop_
+_publ_author_name
+'Perkins D A'
+'Attfield J P'
+_journal_name_full 'Journal of the Chemical Society, Chemical Communications'
+_journal_volume 1991 
+_journal_year 1991
+_journal_page_first 229
+_journal_page_last 231
+_publ_section_title
+;
+ Resonant powder X-ray determination of the cation distribution in FeNi2BO5
+;
+_database_code_amcsd 0014105
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum '(Fe Ni2) B O5'
+_cell_length_a 9.21048
+_cell_length_b 12.23794
+_cell_length_c 3.00620
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 338.851
+_exptl_crystal_density_diffrn      5.176
+_symmetry_space_group_name_H-M 'P b a m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  'x,y,-z'
+  '-x,-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+FeM1   0.00000   0.00000   0.00000   0.08800   0.00165
+NiM1   0.00000   0.00000   0.00000   0.91200   0.00165
+FeM2   0.50000   0.00000   0.50000   0.38500   0.00165
+NiM2   0.50000   0.00000   0.50000   0.61500   0.00165
+FeM3  -0.00010   0.28140   0.00000   0.14400   0.00165
+NiM3  -0.00010   0.28140   0.00000   0.85600   0.00165
+FeM4   0.73780   0.38480   0.50000   0.61900   0.00165
+NiM4   0.73780   0.38480   0.50000   0.38100   0.00165
+B   0.27400   0.36020   0.50000   1.00000   0.00380
+O1   0.85160   0.04380   0.50000   1.00000   0.00165
+O2   0.39100   0.07630   0.00000   1.00000   0.00165
+O3   0.62760   0.13940   0.50000   1.00000   0.00165
+O4   0.10380   0.14440   0.00000   1.00000   0.00165
+O5   0.84970   0.23950   0.50000   1.00000   0.00165

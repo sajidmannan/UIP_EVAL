@@ -1,0 +1,89 @@
+data_global
+_chemical_name_mineral 'Magnesiotaaffeite-6N3S'
+loop_
+_publ_author_name
+'Nuber B'
+'Schmetzer K'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1983 
+_journal_year 1983
+_journal_page_first 393
+_journal_page_last 402
+_publ_section_title
+;
+ Crystal structure of ternary Be-Mg-Al oxides: taaffeite, BeMg3Al8O16,
+ and musgravite, BeMg2Al6O12
+ Note: formerly known as musgravite-18R
+;
+_database_code_amcsd 0014775
+_chemical_compound_source 'Musgrave Ranges, Australia'
+_chemical_formula_sum '(Mg1.63 Fe.37) Al6 Be O12'
+_cell_length_a 5.683
+_cell_length_b 5.683
+_cell_length_c 41.13
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1150.389
+_exptl_crystal_density_diffrn      3.665
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  'y,x,-z'
+  '2/3+y,1/3+x,1/3-z'
+  '1/3+y,2/3+x,2/3-z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-x,-x+y,-z'
+  '2/3-x,1/3-x+y,1/3-z'
+  '1/3-x,2/3-x+y,2/3-z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  'x-y,-y,-z'
+  '2/3+x-y,1/3-y,1/3-z'
+  '1/3+x-y,2/3-y,2/3-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg1   0.33333   0.66667   0.12020   0.94000   0.00430
+Fe1   0.33333   0.66667   0.12020   0.06000   0.00430
+Mg2   0.66667   0.33333   0.01370   0.69000   0.00450
+Fe2   0.66667   0.33333   0.01370   0.31000   0.00450
+Al1   0.00000   0.00000   0.00000   1.00000   0.00560
+Al2   0.16680   0.33360   0.05730   1.00000   0.00450
+Al3   0.00000   0.50000   0.50000   1.00000   0.00480
+Al4   0.66667   0.33333   0.09670   1.00000   0.00280
+Be   0.00000   0.00000   0.12100   1.00000   0.00450
+O1   0.29360   0.14680   0.02990   1.00000   0.00620
+O2   0.33333   0.66667   0.03410   1.00000   0.00580
+O3   0.49460   0.98920   0.08250   1.00000   0.00560
+O4   0.00000   0.00000   0.08150   1.00000   0.00530
+O5   0.14620   0.29240   0.14080   1.00000   0.00510
+O6   0.66667   0.33333   0.14020   1.00000   0.00450

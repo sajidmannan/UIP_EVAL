@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Hanauerite'
+loop_
+_publ_author_name
+'Pekov I V'
+'Zubkova N V'
+'Britvin S N'
+'Agakhanov A A'
+'Polekhovsky Y S'
+'Pushcharovsky D Y'
+'Mohn G'
+'Desor J'
+'Blass G'
+_journal_name_full 'Crystals'
+_journal_volume 13 
+_journal_year 2023
+_journal_page_first 
+_journal_page_last 1218
+_publ_section_title
+;
+ A new mineral hanauerite, AgHgSI, and common crystal chemical features of
+ natural mercury sulphohalides
+;
+_database_code_amcsd 0021231
+_chemical_compound_source 'Schone Aussicht mine, Dernbach,Westerwald, Germany'
+_chemical_formula_sum 'Hg Ag (I.755 Br.245) S'
+_cell_length_a 9.932
+_cell_length_b 4.6219
+_cell_length_c 9.891
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 454.043
+_exptl_crystal_density_diffrn      6.670
+_symmetry_space_group_name_H-M 'P m m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,z'
+  '-x,y,-z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,y,-z'
+  '1/2-x,-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Hg1   0.25000   0.50000   0.75732   1.00000   0.04130
+Hg2   0.00000   0.50000   0.50000   1.00000   0.04210
+Ag   0.08270   0.00000   0.21960   0.74400   0.06510
+Ag*   0.03880   0.00000   0.16440   0.25600   0.06510
+I1   0.25000   0.00000   0.47676   0.57000   0.03240
+Br1   0.25000   0.00000   0.47676   0.43000   0.03240
+I2   0.25000   0.00000   0.99018   0.94000   0.03490
+Br2   0.25000   0.00000   0.99018   0.06000   0.03490
+S   0.48810   0.50000   0.73860   1.00000   0.02850
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 0.03370 0.04080 0.04930 0.00000 0.00000 0.00000
+Hg2 0.05210 0.04040 0.03370 0.00000 -0.00640 0.00000
+Ag 0.09000 0.03320 0.07200 0.00000 0.03500 0.00000
+Ag' 0.09000 0.03320 0.07200 0.00000 0.03500 0.00000
+I1 0.03250 0.02330 0.04140 0.00000 0.00000 0.00000
+Br1 0.03250 0.02330 0.04140 0.00000 0.00000 0.00000
+I2 0.04320 0.03440 0.02710 0.00000 0.00000 0.00000
+Br2 0.04320 0.03440 0.02710 0.00000 0.00000 0.00000
+S 0.03200 0.02310 0.03040 0.00000 -7.00000 0.00000

@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Lawsonite'
+loop_
+_publ_author_name
+'Baur W H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 63 
+_journal_year 1978
+_journal_page_first 311
+_journal_page_last 315
+_publ_section_title
+;
+ Crystal structure refinement of lawsonite
+;
+_database_code_amcsd 0000639
+_chemical_compound_source 'Tiburon Peninsula, Marin County, California, USA'
+_chemical_formula_sum 'Ca Al2 Si2 O10 H8'
+_cell_length_a 8.795
+_cell_length_b 5.847
+_cell_length_c 13.142
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 675.819
+_exptl_crystal_density_diffrn      3.128
+_symmetry_space_group_name_H-M 'C m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '-x,y,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,1/2-z'
+  '1/2+x,1/2-y,1/2-z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  'x,y,1/2-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.33305   0.00000   0.25000 ?
+Al   0.25000   0.25000   0.00000 ?
+Si   0.98040   0.00000   0.13298 ?
+O1   0.04950   0.00000   0.25000 ?
+O2   0.37880   0.27260   0.11690 ?
+O3   0.13780   0.00000   0.06505 ?
+O-h4   0.63910   0.00000   0.04790 ?
+OW5   0.60970   0.00000   0.25000 ?
+H(w)   0.63900   0.00000   0.19400   0.03293
+H(oh)   0.58700   0.00000   0.05600   0.08866
+H(w)geom   0.67310   0.00000   0.19050 ?
+H(oh)el   0.53290   0.00000   0.07040 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01176 0.00918 0.01164 0.00000 0.00000 0.00000
+Al 0.00588 0.00535 0.00927 -0.00031 -0.00041 0.00012
+Si 0.00549 0.00594 0.00866 0.00000 0.00012 0.00000
+O1 0.00901 0.01403 0.00787 0.00000 0.00000 0.00000
+O2 0.00940 0.00814 0.01225 -0.00208 -0.00176 0.00156
+O3 0.00666 0.00727 0.01137 0.00000 0.00176 0.00000
+O-h4 0.00745 0.00831 0.01575 0.00000 0.00234 0.00000
+OW5 0.01567 0.03914 0.01225 0.00000 0.00000 0.00000

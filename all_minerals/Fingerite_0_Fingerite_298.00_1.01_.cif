@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Fingerite'
+loop_
+_publ_author_name
+'Finger L W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 70 
+_journal_year 1985
+_journal_page_first 197
+_journal_page_last 199
+_publ_section_title
+;
+ Fingerite Cu11O2(VO4)6: a new vanadium sublimate from Izalco Volcano, El
+ Salvador: crystal structure
+;
+_database_code_amcsd 0000975
+_chemical_formula_sum 'Cu11 V6 O26'
+_cell_length_a 8.158
+_cell_length_b 8.269
+_cell_length_c 8.044
+_cell_angle_alpha 107.1
+_cell_angle_beta 91.4
+_cell_angle_gamma 106.4
+_cell_volume 494.118
+_exptl_crystal_density_diffrn      4.774
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.00000   0.00000   0.00000   0.00709
+Cu2   0.84100   0.14550   0.72210   0.00811
+Cu3   0.70460   0.33720   0.50080   0.00722
+Cu4   0.58070   0.50780   0.27710   0.00899
+Cu5   0.78450   0.25220   0.12660   0.00760
+Cu6   0.37110   0.14600   0.14850   0.01418
+V1   0.90250   0.75370   0.56750   0.00519
+V2   0.18710   0.43760   0.07810   0.00481
+V3   0.58870   0.93480   0.26670   0.00494
+O1   0.70550   0.57570   0.51310   0.00811
+O2   0.78760   0.47850   0.08910   0.00887
+O3   0.36280   0.37000   0.11380   0.00937
+O4   0.81830   0.39110   0.74040   0.00861
+O5  -0.00030   0.24910   0.02000   0.00722
+O6   0.95020   0.32560   0.37680   0.01039
+O7   0.38040   0.92680   0.18140   0.00773
+O8   0.72870  -0.00930   0.11500   0.00823
+O9   0.12430   0.07300   0.24050   0.00773
+O10   0.40240   0.72240   0.73690   0.00671
+O11   0.33230   0.91330   0.53310   0.00912
+O12   0.42860   0.26450   0.71790   0.01330
+O13   0.95460   0.81850   0.39370   0.00988

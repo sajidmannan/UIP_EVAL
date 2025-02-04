@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Luogufengite'
+loop_
+_publ_author_name
+'Xu H'
+'Lee S'
+'Xu H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 102 
+_journal_year 2017
+_journal_page_first 711
+_journal_page_last 719
+_publ_section_title
+;
+ Luogufengite: A new nano-mineral of Fe2O3 polymorph with giant coercive field
+;
+_database_code_amcsd 0020692
+_chemical_compound_source 'basaltic scoria, Menan Volcanic Complex, Rexburg, Idaho, USA'
+_chemical_formula_sum 'Fe1.715 Al.235 Mg.02 Ti.03 O3'
+_cell_length_a 5.0647
+_cell_length_b 8.7131
+_cell_length_c 9.3842
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 414.118
+_exptl_crystal_density_diffrn      4.877
+_symmetry_space_group_name_H-M 'P n a 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,1/2+z'
+  '-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1   0.19410   0.15690   0.57890   1.00000
+Fe2   0.68440   0.02280   0.78930   1.00000
+Fe3   0.18780   0.15310   0.00000   0.68000
+Al3   0.18780   0.15310   0.00000   0.27000
+Mg3   0.18780   0.15310   0.00000   0.02000
+Ti3   0.18780   0.15310   0.00000   0.03000
+Fe4   0.80810   0.16020   0.30440   0.75000
+Al4   0.80810   0.16020   0.30440   0.20000
+Mg4   0.80810   0.16020   0.30440   0.02000
+Ti4   0.80810   0.16020   0.30440   0.03000
+O1   0.98120   0.33560   0.43960   1.00000
+O2   0.51060   0.49530   0.41540   1.00000
+O3   0.64770   0.98690   0.19610   1.00000
+O4   0.15690   0.15680   0.19020   1.00000
+O5   0.83250   0.17050   0.66510   1.00000
+O6   0.53910   0.17170   0.94230   1.00000

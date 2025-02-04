@@ -1,0 +1,77 @@
+data_global
+_chemical_name_mineral 'Kinoshitalite'
+loop_
+_publ_author_name
+'Gnos E'
+'Armbruster T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 85 
+_journal_year 2000
+_journal_page_first 242
+_journal_page_last 250
+_publ_section_title
+;
+ Kinoshitalite, Ba(Mg)3(Al2Si2)O10(OH,F)2, a brittle mica from a manganese
+ deposit in Oman: Paragenesis and crystal chemistry
+;
+_database_code_amcsd 0002348
+_chemical_formula_sum '(Ba.94 K.06) (Mg2.744 Mn.256) (Si2 Al2) H2 O12'
+_cell_length_a 5.316
+_cell_length_b 9.230
+_cell_length_c 10.197
+_cell_angle_alpha 90
+_cell_angle_beta 100.06
+_cell_angle_gamma 90
+_cell_volume 492.640
+_exptl_crystal_density_diffrn      3.481
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ba   0.50000   0.50000   0.50000   0.94000   0.01926
+K   0.50000   0.50000   0.50000   0.06000   0.01926
+Mg1   0.00000   0.50000   0.00000   0.92000   0.01064
+Mn1   0.00000   0.50000   0.00000   0.08000   0.01064
+Mg2   0.00000   0.16937   0.00000   0.91200   0.01115
+Mn2   0.00000   0.16937   0.00000   0.08800   0.01115
+SiT   0.07500   0.33339  -0.27599   0.50000   0.01144
+AlT   0.07500   0.33339  -0.27599   0.50000   0.01144
+H4   0.09000   0.00000  -0.19200   1.00000   0.02786
+O1   0.00810   0.50000   0.33950   1.00000   0.01887
+O2   0.16560   0.21930   0.33930   1.00000   0.01887
+O3   0.13020   0.33370  -0.11060   1.00000   0.01469
+O4   0.13150   0.00000  -0.10250   1.00000   0.01444
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba 0.02100 0.01900 0.01790 0.00000 0.00359 0.00000
+K 0.02100 0.01900 0.01790 0.00000 0.00359 0.00000
+Mg1 0.01130 0.00910 0.01180 0.00260 0.00000 0.00000
+Mn1 0.01130 0.00910 0.01180 0.00260 0.00000 0.00000
+Mg2 0.01170 0.00970 0.01200 0.00000 0.00210 0.00000
+Mn2 0.01170 0.00970 0.01200 0.00000 0.00210 0.00000
+SiT 0.01250 0.01030 0.01170 -0.00020 0.00260 0.00020
+AlT 0.01250 0.01030 0.01170 -0.00020 0.00260 0.00020
+O1 0.02430 0.01480 0.01560 0.00000 -0.00170 0.00000
+O2 0.01970 0.02160 0.01610 0.00500 0.00560 0.00400
+O3 0.01470 0.01230 0.01720 -0.00060 0.00360 0.00030
+O4 0.01430 0.01490 0.01420 0.00000 0.00230 0.00000

@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Gordaite'
+loop_
+_publ_author_name
+'Adiwidjaja G'
+'Friese K'
+'Klaska K H'
+'Schluter J'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 212 
+_journal_year 1997
+_journal_page_first 704
+_journal_page_last 707
+_publ_section_title
+;
+ The crystal structure of gordaite NaZn4(SO4)(OH)6Cl*6H2O
+;
+_database_code_amcsd 0011072
+_chemical_compound_source 'San Francisco mine, Sierra Gorda, Chile'
+_chemical_formula_sum 'Zn4 Na S Cl O16 H18'
+_cell_length_a 8.3556
+_cell_length_b 8.3556
+_cell_length_c 13.025
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 787.524
+_exptl_crystal_density_diffrn      2.641
+_symmetry_space_group_name_H-M 'P -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'y,-x+y,-z'
+  '-x+y,-x,z'
+  '-x,-y,-z'
+  '-y,x-y,z'
+  'x-y,x,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Zn1   0.00000   0.00000   0.86140   0.02360
+Zn2   0.58510   0.87150   0.99640   0.02380
+Na   0.66667   0.33333   0.41290   0.03580
+S   0.33333   0.66667   0.22370   0.02430
+Cl   0.00000   0.00000   0.31360   0.03540
+O1   0.05880   0.24650   0.09310   0.02310
+O2   0.47880   0.37210   0.07090   0.02220
+O3   0.43910   0.31590   0.29150   0.04170
+O4   0.39470   0.22310   0.52310   0.04400
+O5   0.17540   0.49340   0.26070   0.03290
+O6   0.33333   0.66667   0.10950   0.02630
+H1   0.31300   0.22100   0.86100   0.05000
+H2   0.63300   0.11300   0.15300   0.05000
+H3   0.31700   0.22900   0.29300   0.05000
+H4   0.52900   0.00200   0.27100   0.05000
+H5   0.17200   0.41200   0.41800   0.05000
+H6   0.06200   0.34500   0.49600   0.05000

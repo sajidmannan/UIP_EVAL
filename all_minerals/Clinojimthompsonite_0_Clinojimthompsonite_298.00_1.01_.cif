@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Clinojimthompsonite'
+loop_
+_publ_author_name
+'Veblen D R'
+'Burnham C W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 63 
+_journal_year 1978
+_journal_page_first 1053
+_journal_page_last 1073
+_publ_section_title
+;
+ New biopyriboles from Chester, Vermont: II. The crystal chemistry of
+ jimthompsonite, clinojimthompsonite, and chesterite, and the amphibole-mica
+ reaction
+;
+_database_code_amcsd 0000688
+_chemical_formula_sum '(Mg3.979 Fe1.021) Si6 (O18 H2)'
+_cell_length_a 9.874
+_cell_length_b 27.240
+_cell_length_c 5.316
+_cell_angle_alpha 90
+_cell_angle_beta 109.5
+_cell_angle_gamma 90
+_cell_volume 1347.819
+_exptl_crystal_density_diffrn      3.017
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg1   0.00000   0.02890   0.25000   0.96800   0.00177
+Fe1   0.00000   0.02890   0.25000   0.03200   0.00177
+Mg2   0.00000   0.08490   0.75000   0.95900   0.00203
+Fe2   0.00000   0.08490   0.75000   0.04100   0.00203
+Mg3   0.00000   0.14280   0.25000   0.90500   0.00228
+Fe3   0.00000   0.14280   0.25000   0.09500   0.00228
+Mg4   0.00000   0.20130   0.75000   0.99200   0.00190
+Fe4   0.00000   0.20130   0.75000   0.00800   0.00190
+Fe5   0.00000   0.25690   0.25000   0.84500   0.00545
+Mg5   0.00000   0.25690   0.25000   0.15500   0.00545
+Si1   0.29090   0.02770   0.76560   1.00000   0.00228
+Si2   0.28800   0.13590   0.76100   1.00000   0.00304
+Si3   0.29710   0.19620   0.26300   1.00000   0.00317
+O-H   0.11530   0.08500   0.15660   1.00000   0.00291
+O1   0.34990   0.00370   0.54130   1.00000   0.00532
+O2   0.11540   0.02780   0.65520   1.00000   0.00595
+O3   0.34490   0.08400   0.81970   1.00000   0.00418
+O4   0.11490   0.14200   0.65550   1.00000   0.00608
+O5   0.35350   0.17130   0.03440   1.00000   0.00747
+O6   0.35230   0.16280   0.53900   1.00000   0.00963
+O7   0.12190   0.19830   0.15360   1.00000   0.00570
+O8   0.37770   0.24740   0.35810   1.00000   0.00608

@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Nolanite'
+loop_
+_publ_author_name
+'Gatehouse B M'
+'Grey I E'
+'Nickel E H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 68 
+_journal_year 1983
+_journal_page_first 833
+_journal_page_last 839
+_publ_section_title
+;
+ The crystal chemistry of nolanite, (V,Fe,Ti,Al)10O14(OH)2, from Kalgoorlie,
+ Western Australia
+ sample: crystal # 1
+;
+_database_code_amcsd 0000910
+_chemical_formula_sum '(V3.45 Fe1.1 Ti.3 Al.15) (O8 H)'
+_cell_length_a 5.890
+_cell_length_b 5.890
+_cell_length_c 9.255
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 278.059
+_exptl_crystal_density_diffrn      4.594
+_symmetry_space_group_name_H-M 'P 63 m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+V1   0.16559  -0.16559   0.63700   0.69000
+Fe1   0.16559  -0.16559   0.63700   0.22000
+Ti1   0.16559  -0.16559   0.63700   0.06000
+Al1   0.16559  -0.16559   0.63700   0.03000
+V2   0.33333   0.66667   0.34970   0.69000
+Fe2   0.33333   0.66667   0.34970   0.22000
+Ti2   0.33333   0.66667   0.34970   0.06000
+Al2   0.33333   0.66667   0.34970   0.03000
+V3   0.33333   0.66667   0.95790   0.69000
+Fe3   0.33333   0.66667   0.95790   0.22000
+Ti3   0.33333   0.66667   0.95790   0.06000
+Al3   0.33333   0.66667   0.95790   0.03000
+O-H1   0.00000   0.00000   0.01290   1.00000
+O2   0.33333   0.66667   0.75210   1.00000
+O3   0.16840  -0.16840   0.23950   1.00000
+O4   0.51770  -0.51770   0.00360   1.00000

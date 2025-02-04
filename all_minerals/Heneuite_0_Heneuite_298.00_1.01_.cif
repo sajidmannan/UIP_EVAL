@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Heneuite'
+loop_
+_publ_author_name
+'Romming C'
+'Raade G'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1986 
+_journal_year 1986
+_journal_page_first 351
+_journal_page_last 359
+_publ_section_title
+;
+ The crystal structure of heneuite, CaMg5(CO3)(PO4)3(OH)
+;
+_database_code_amcsd 0014802
+_chemical_compound_source 'Tingelstadtjern serpentine-magnesite deposit, Modum, Norway'
+_chemical_formula_sum 'Ca Mg5 P3 O16 C H'
+_cell_length_a 6.311
+_cell_length_b 10.843
+_cell_length_c 8.676
+_cell_angle_alpha 95.01
+_cell_angle_beta 93.41
+_cell_angle_gamma 101.04
+_cell_volume 578.721
+_exptl_crystal_density_diffrn      3.004
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca  -0.12445   0.93712   0.68254   0.00874
+Mg1   0.31015   0.89997   0.03639   0.00671
+Mg2  -0.33605   0.38387   0.46753   0.00899
+Mg3   0.08968   0.66893   0.81954   0.00747
+Mg4  -0.41319   0.81637   0.35214   0.00709
+Mg5  -0.32745   0.54772   0.13837   0.00811
+P1   0.20109   0.17103   0.96819   0.00380
+P2  -0.21340   0.39162   0.84173   0.00469
+P3   0.36883   0.92568   0.66910   0.00431
+O11   0.36811   0.08857   0.00570   0.00849
+O12  -0.00998   0.08788   0.89017   0.00823
+O13   0.16308   0.24043   0.12442   0.00925
+O14   0.29914   0.26207   0.85071   0.00861
+O21   0.01371   0.46715   0.82241   0.00899
+O22  -0.34657   0.48435   0.91039   0.00861
+O23  -0.20487   0.28914   0.95206   0.00811
+O24  -0.32636   0.33001   0.68324   0.00937
+O31   0.56028   0.03596   0.73404   0.00798
+O32   0.23644   0.86339   0.79483   0.00811
+O33   0.46622   0.82790   0.57287   0.00937
+O34   0.21878   0.99521   0.57612   0.00912
+O-h  -0.37365   0.38441   0.23803   0.00887
+O1C  -0.15315   0.77335   0.47967   0.01115
+O2C   0.02208   0.63662   0.58241   0.01026
+O3C  -0.32222   0.57651   0.48806   0.02064
+C  -0.14906   0.66203   0.51487   0.00887
+H  -0.49880   0.33830   0.23810   0.03800

@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Aguilarite'
+loop_
+_publ_author_name
+'Bindi L'
+'Pingitore N E'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 77 
+_journal_year 2013
+_journal_page_first 21
+_journal_page_last 31
+_publ_section_title
+;
+ On the symmetry and crystal structure of aguilarite, Ag4SeS
+;
+_database_code_amcsd 0019989
+_chemical_compound_source 'San Carlos mine, Guanajuato, Mexico'
+_chemical_formula_sum 'Ag2 (Se.49 S.42 Te.09)'
+_cell_length_a 4.2478
+_cell_length_b 6.9432
+_cell_length_c 8.0042
+_cell_angle_alpha 90
+_cell_angle_beta 100.103
+_cell_angle_gamma 90
+_cell_volume 232.410
+_exptl_crystal_density_diffrn      7.984
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ag1   0.75442   0.01378   0.30116   1.00000   0.01762
+Ag2   0.28840   0.31874   0.43144   1.00000   0.01803
+Se   0.36030   0.24110   0.13054   0.49000   0.02162
+S   0.36030   0.24110   0.13054   0.42000   0.02162
+Te   0.36030   0.24110   0.13054   0.09000   0.02162
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ag1 0.01810 0.01774 0.01705 -0.00012 0.00318 0.00000
+Ag2 0.01845 0.01826 0.01740 0.00002 0.00317 0.00019
+Se 0.02150 0.02220 0.02112 -0.00033 0.00385 -0.00001
+S 0.02150 0.02220 0.02112 -0.00033 0.00385 -0.00001
+Te 0.02150 0.02220 0.02112 -0.00033 0.00385 -0.00001

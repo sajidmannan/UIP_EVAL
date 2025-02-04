@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Tetraferriannite'
+loop_
+_publ_author_name
+'Comodi P'
+'Zanazzi P F'
+'Weiss Z'
+'Rieder M'
+'Drabek M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 84 
+_journal_year 1999
+_journal_page_first 325
+_journal_page_last 332
+_publ_section_title
+;
+ "Cs-tetra-ferri-annite:" High-pressure and high-temperature behavior of a
+ potential nuclear waste disposal phase
+ T = 23 deg C, P = .001 kbar, crystal 1
+;
+_database_code_amcsd 0002208
+_chemical_formula_sum 'Cs.89 Fe3.92 Si3.04 Al.04 O12'
+_cell_length_a 5.486
+_cell_length_b 9.506
+_cell_length_c 10.818
+_cell_angle_alpha 90
+_cell_angle_beta 99.67
+_cell_angle_gamma 90
+_cell_volume 556.142
+_exptl_crystal_density_diffrn      3.676
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cs   0.00000   0.50000   0.00000   0.89000   0.02200
+Fe1   0.00000   0.00000   0.50000   1.00000   0.01100
+Fe2   0.00000   0.33230   0.50000   1.00000   0.00900
+Si   0.07970   0.16660   0.23840   0.76000   0.01100
+Fe   0.07970   0.16660   0.23840   0.23000   0.01100
+Al   0.07970   0.16660   0.23840   0.01000   0.01100
+O1   0.05880   0.00000   0.18360   1.00000   0.02000
+O2   0.31170   0.24960   0.18240   1.00000   0.02000
+O3   0.13250   0.16640   0.39580   1.00000   0.01200
+O4   0.13220   0.50000   0.40180   1.00000   0.01000

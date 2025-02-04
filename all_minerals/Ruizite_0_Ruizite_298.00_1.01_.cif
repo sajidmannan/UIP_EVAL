@@ -1,0 +1,77 @@
+data_global
+_chemical_name_mineral 'Ruizite'
+loop_
+_publ_author_name
+'Moore P B'
+'Shen J'
+'Araki T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 70 
+_journal_year 1985
+_journal_page_first 171
+_journal_page_last 181
+_publ_section_title
+;
+ Crystal chemistry of the (M2)3+ phi2 sheet: Structural principles and crystal
+ structures of ruizite, macfallite and orientite
+;
+_database_code_amcsd 0000967
+_chemical_compound_source 'Nchwaning mine, Kalahari manganese field, South Africa'
+_chemical_formula_sum 'Mn2 Ca2 Si4 O17 H6'
+_cell_length_a 9.064
+_cell_length_b 6.171
+_cell_length_c 11.976
+_cell_angle_alpha 90
+_cell_angle_beta 91.4
+_cell_angle_gamma 90
+_cell_volume 669.665
+_exptl_crystal_density_diffrn      2.878
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mn   0.25000   0.25000   0.00000   1.00000
+Ca   0.20540   0.50000   0.25990   1.00000
+Si1   0.03550   0.00000   0.15130   1.00000
+O1   0.13280   0.21650   0.12910   1.00000
+O2   0.37480   0.50000   0.09210   1.00000
+O3  -0.00630   0.00000   0.28570   1.00000
+Si2   0.10420   0.00000   0.39510   1.00000
+O4   0.20560   0.21500   0.39540   0.50000
+O-H5   0.20560   0.21500   0.39540   0.50000
+O6   0.00000   0.00000   0.50000   1.00000
+O-H7   0.36740   0.00000   0.04590   1.00000
+O-H8   0.44370   0.00000   0.27810   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn 0.00840 0.00010 0.00750 0.00080 0.00250 0.00000
+Ca 0.01570 0.00600 0.01090 0.00000 0.00280 0.00000
+Si1 0.00750 0.00190 0.00810 0.00000 0.00100 0.00000
+O1 0.01390 0.00260 0.01220 -0.00270 0.00510 -0.00250
+O2 0.01410 0.00340 0.01010 0.00000 0.00020 0.00000
+O3 0.01730 0.00690 0.00620 0.00000 0.00370 0.00000
+Si2 0.01080 0.01230 0.00810 0.00000 0.00080 0.00000
+O4 0.06730 0.01730 0.03390 -0.02630 -0.03110 0.01540
+O-H5 0.06730 0.01730 0.03390 -0.02630 -0.03110 0.01540
+O6 0.01940 0.11970 0.01720 0.00000 0.00780 0.00000
+O-H7 0.00830 0.00400 0.01210 0.00000 0.00140 0.00000
+O-H8 0.01700 0.02200 0.03320 0.00000 0.00570 0.00000

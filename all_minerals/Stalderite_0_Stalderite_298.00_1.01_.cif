@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Stalderite'
+loop_
+_publ_author_name
+'Graeser S'
+'Schwander H'
+'Wulf R'
+'Edenharter A'
+_journal_name_full 'Schweizerische Mineralogische und Petrographische Mitteilungen'
+_journal_volume 75 
+_journal_year 1995
+_journal_page_first 337
+_journal_page_last 345
+_publ_section_title
+;
+ Stalderite TlCu(Zn,Fe,Hg)2As2S6 - a new mineral related to routhierite:
+ description and crystal structure determination
+;
+_database_code_amcsd 0015409
+_chemical_compound_source 'Lengenbach, Binntal, Ct. Valais, Switzerland'
+_chemical_formula_sum 'Tl Cu (Zn1.16 Fe.46 Hg.38) As2 S6'
+_cell_length_a 9.865
+_cell_length_b 9.865
+_cell_length_c 10.938
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1064.467
+_exptl_crystal_density_diffrn      4.917
+_symmetry_space_group_name_H-M 'I -4 2 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Tl   0.00000   0.00000   0.35010   1.00000   0.04530
+Cu   0.00000   0.50000   0.25000   1.00000   0.00960
+Zn   0.22530   0.50000   0.50000   0.58000   0.01830
+Fe   0.22530   0.50000   0.50000   0.23000   0.01830
+Hg   0.22530   0.50000   0.50000   0.19000   0.01830
+As   0.26280   0.26280   0.24950   1.00000   0.01770
+S1   0.10100   0.33850   0.38010   1.00000   0.01480
+S2   0.12650   0.12650   0.13300   1.00000   0.01430

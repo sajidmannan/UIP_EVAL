@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Belovite-(La)'
+loop_
+_publ_author_name
+'Kabalov Y K'
+'Sokolova E V'
+'Pekov I V'
+_journal_name_full 'Soviet Physics Doklady'
+_journal_volume 42 
+_journal_year 1997
+_journal_page_first 344
+_journal_page_last 348
+_publ_section_title
+;
+ Crystal structure of belovite-(La)
+;
+_database_code_amcsd 0015622
+_chemical_compound_source 'Mt. Kukisvumchorr, Khibiny alkaline massif, Kola Peninsula, Russia'
+_chemical_formula_sum 'Sr2.754 Ca.06 Ba.12 Na.981 La.599 Ce.4 P3 O12 F'
+_cell_length_a 9.6641
+_cell_length_b 9.6641
+_cell_length_c 7.1825
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 580.937
+_exptl_crystal_density_diffrn      4.150
+_symmetry_space_group_name_H-M 'P -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'y,-x+y,-z'
+  '-x+y,-x,z'
+  '-x,-y,-z'
+  '-y,x-y,z'
+  'x-y,x,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+SrA3   0.23720  -0.01950   0.24490   0.91800 ?
+CaA3   0.23720  -0.01950   0.24490   0.02000 ?
+BaA3   0.23720  -0.01950   0.24490   0.04000 ?
+NaA1   0.33333   0.66667   0.01500   0.77700 ?
+LaA1   0.33333   0.66667   0.01500   0.13300 ?
+CeA1   0.33333   0.66667   0.01500   0.08000 ?
+LaA2   0.33333   0.66667   0.51200   0.46600 ?
+CeA2   0.33333   0.66667   0.51200   0.32000 ?
+NaA2   0.33333   0.66667   0.51200   0.20400 ?
+P   0.40230   0.36700   0.24280   1.00000   0.03166
+O1   0.48100   0.14900   0.74700   1.00000   0.04306
+O2   0.32600   0.26500   0.08500   1.00000   0.05699
+O3   0.36300   0.29200   0.43300   1.00000   0.02406
+O4   0.53600   0.11100   0.23500   1.00000   0.04559
+F5   0.00000   0.00000   0.28700   1.00000   0.02533
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+SrA3 0.04507 0.04578 0.05332 0.01136 -0.00914 0.00853
+CaA3 0.04507 0.04578 0.05332 0.01136 -0.00914 0.00853
+BaA3 0.04507 0.04578 0.05332 0.01136 -0.00914 0.00853
+NaA1 0.02839 0.02839 0.01829 0.01419 0.00000 0.00000
+LaA1 0.02839 0.02839 0.01829 0.01419 0.00000 0.00000
+CeA1 0.02839 0.02839 0.01829 0.01419 0.00000 0.00000
+LaA2 0.03442 0.03442 0.03580 0.01739 0.00000 0.00000
+CeA2 0.03442 0.03442 0.03580 0.01739 0.00000 0.00000
+NaA2 0.03442 0.03442 0.03580 0.01739 0.00000 0.00000

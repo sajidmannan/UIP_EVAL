@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Clinohedrite'
+loop_
+_publ_author_name
+'Venetopoulos C C'
+'Rentzeperis P J'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 144 
+_journal_year 1976
+_journal_page_first 377
+_journal_page_last 392
+_publ_section_title
+;
+ Redetermination of the crystal structure of clinohedrite, CaZnSiO4*H2O
+;
+_database_code_amcsd 0010788
+_chemical_formula_sum 'Ca Zn Si O5 H2'
+_cell_length_a 5.090
+_cell_length_b 15.829
+_cell_length_c 5.386
+_cell_angle_alpha 90
+_cell_angle_beta 103.26
+_cell_angle_gamma 90
+_cell_volume 422.379
+_exptl_crystal_density_diffrn      3.390
+_symmetry_space_group_name_H-M 'C c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.34800   0.57240   0.63840   0.00279
+Zn   0.00000   0.24928   0.00000   0.00279
+Si   0.01390   0.36180   0.51830   0.00076
+O1   0.14100   0.29340   0.34760   0.00494
+O2   0.12790   0.34060   0.81550   0.00507
+O3   0.10670   0.54590   0.94790   0.00405
+O-h1   0.14150   0.95910   0.85640   0.00887
+O-h2   0.18760   0.14430   0.94890   0.00367
+H1   0.18600   0.91600   0.72500   0.00836
+H2   0.32000   0.98600   0.94200   0.00836
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00280 0.00270 0.00260 0.00000 0.00050 0.00000
+Zn 0.00280 0.00210 0.00330 0.00000 -0.00050 0.00000
+Si 0.00040 0.00100 0.00130 0.00000 0.00050 0.00000
+O1 0.00400 0.00530 0.00450 0.00000 0.00150 0.00000
+O2 0.00870 0.00450 0.00220 0.00000 -0.00100 0.00000
+O3 0.00550 0.00240 0.00460 0.00000 0.00350 0.00000
+O-h1 0.00670 0.00770 0.01120 0.00000 0.00320 0.00000
+O-h2 0.00030 0.00480 0.00600 0.00000 0.00040 0.00000
+H1 0.00840 0.00840 0.00840 0.00000 0.00190 0.00000
+H2 0.00840 0.00840 0.00840 0.00000 0.00190 0.00000

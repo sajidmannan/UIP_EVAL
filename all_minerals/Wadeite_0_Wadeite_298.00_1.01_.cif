@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Wadeite'
+loop_
+_publ_author_name
+'Xu H'
+'Navrotsky A'
+'Balmer M L'
+'Su Y'
+_journal_name_full 'Physics and Chemistry of Minerals'
+_journal_volume 32 
+_journal_year 2005
+_journal_page_first 426
+_journal_page_last 435
+_publ_section_title
+;
+ Crystal-chemical and energetic systematics of wadeite-type phases
+ A2BSi3O9 (A = K, Cs; B = Si, Ti, Zr)
+;
+_database_code_amcsd 0008975
+_chemical_formula_sum 'K2 Zr Si3 O9'
+_cell_length_a 6.9360
+_cell_length_b 6.9360
+_cell_length_c 10.1822
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 424.219
+_exptl_crystal_density_diffrn      3.113
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+KA   0.33333   0.66667   0.05840   0.01980
+ZrB   0.00000   0.00000   0.00000   0.00700
+Si   0.38920   0.25840   0.25000   0.00580
+O1   0.48800   0.09000   0.25000   0.01120
+O2   0.25850   0.24290   0.11770   0.01120

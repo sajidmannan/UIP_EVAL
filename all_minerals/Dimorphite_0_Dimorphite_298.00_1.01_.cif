@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Dimorphite'
+loop_
+_publ_author_name
+'Whitfield H J'
+_journal_name_full 'Journal of the Chemical Society, Dalton Transactions, Inorganic Chemistry'
+_journal_volume 1973 
+_journal_year 1973
+_journal_page_first 1737
+_journal_page_last 1738
+_publ_section_title
+;
+ Crystal structure of the beta-form of tetraarsenic trisulphide
+;
+_database_code_amcsd 0014106
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'As4 S3'
+_cell_length_a 11.21
+_cell_length_b 9.90
+_cell_length_c 6.58
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 730.242
+_exptl_crystal_density_diffrn      3.601
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+As1   0.68500   0.25000   0.17410
+As2   0.41450   0.25000  -0.10450
+As3   0.57050   0.12470  -0.28800
+S1   0.70200   0.07960  -0.04560
+S2   0.48680   0.25000   0.20970
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 0.02292 0.04220 0.01426 0.00000 0.00000 -0.00231
+As2 0.01464 0.03476 0.02566 0.00000 0.00000 -0.00528
+As3 0.03883 0.01887 0.02062 0.00056 -0.00785 -0.00264
+S1 0.02674 0.02135 0.02786 -0.01743 -0.00224 -0.00033
+S2 0.00637 0.03873 0.01470 0.00000 0.00000 -0.00198

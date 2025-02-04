@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Fairfieldite'
+loop_
+_publ_author_name
+'Herwig S'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 44 
+_journal_year 2006
+_journal_page_first 1181
+_journal_page_last 1196
+_publ_section_title
+;
+ The topology of hydrogen bonding in brandtite, collinsite and fairfieldite
+;
+_database_code_amcsd 0006119
+_chemical_compound_source 'Foote mine, North Carolina, USA'
+_chemical_formula_sum 'Ca2 Mn.73 Mg.01 Fe.23 P2 O10 H4'
+_cell_length_a 5.795
+_cell_length_b 6.576
+_cell_length_c 5.496
+_cell_angle_alpha 102.39
+_cell_angle_beta 108.63
+_cell_angle_gamma 90.29
+_cell_volume 193.230
+_exptl_crystal_density_diffrn      3.088
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+CaX   0.60100   0.23370   0.33290   1.00000   0.00910
+MnM   0.00000   0.00000   0.00000   0.73000   0.00950
+MgM   0.00000   0.00000   0.00000   0.01000   0.00950
+FeM   0.00000   0.00000   0.00000   0.23000   0.00950
+PT   0.24520   0.23240   0.64750   1.00000   0.00700
+O1   0.24510   0.06930   0.39610   1.00000   0.01110
+O2   0.30500   0.11790   0.87810   1.00000   0.01010
+O3   0.00210   0.32710   0.61450   1.00000   0.01060
+O4   0.45450   0.39940   0.69570   1.00000   0.01000
+OW  -0.15290   0.29990   0.06740   1.00000   0.01190
+H1  -0.27700   0.34600  -0.07100   1.00000   0.05200
+H2  -0.07200   0.43200   0.18100   1.00000   0.05400
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+CaX 0.00930 0.00900 0.00860 0.00020 0.00300 0.00120
+MnM 0.00950 0.01050 0.00710 0.00050 0.00200 -0.00010
+MgM 0.00950 0.01050 0.00710 0.00050 0.00200 -0.00010
+FeM 0.00950 0.01050 0.00710 0.00050 0.00200 -0.00010
+PT 0.00830 0.00650 0.00590 0.00040 0.00170 0.00180
+O1 0.01290 0.01080 0.00780 -0.00040 0.00300 -0.00070
+O2 0.01170 0.01050 0.00860 0.00090 0.00240 0.00480
+O3 0.00970 0.01030 0.01140 0.00200 0.00240 0.00320
+O4 0.01060 0.00810 0.01100 -0.00070 0.00340 0.00210
+OW 0.01540 0.01020 0.00900 0.00110 0.00290 0.00150

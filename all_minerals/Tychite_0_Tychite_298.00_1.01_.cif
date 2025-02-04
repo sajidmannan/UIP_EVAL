@@ -1,0 +1,152 @@
+data_global
+_chemical_name_mineral 'Tychite'
+loop_
+_publ_author_name
+'Schmidt G R'
+'Reynard J'
+'Yang H'
+'Downs R T'
+_journal_name_full 'Acta Crystallographica, Section E'
+_journal_volume 62 
+_journal_year 2006
+_journal_page_first i207
+_journal_page_last i209
+_publ_section_title
+;
+ Tychite, Na6Mg2(SO4)(CO3)4: Structure analysis and Raman spectroscopic data
+;
+_database_code_amcsd 0010470
+_chemical_compound_source 'Searles Lake, Trona, San Bernardino County, California, USA'
+_chemical_formula_sum 'S Mg2 C4 Na6 O16'
+_cell_length_a 13.9038
+_cell_length_b 13.9038
+_cell_length_c 13.9038
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2687.822
+_exptl_crystal_density_diffrn      2.583
+_symmetry_space_group_name_H-M 'F d -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2+z'
+  '1/2+x,1/2+y,z'
+  '1/4+z,1/4+x,-y'
+  '1/4+z,3/4+x,1/2-y'
+  '3/4+z,1/4+x,1/2-y'
+  '3/4+z,3/4+x,-y'
+  '1/4+z,-x,1/4+y'
+  '1/4+z,1/2-x,3/4+y'
+  '3/4+z,-x,3/4+y'
+  '3/4+z,1/2-x,1/4+y'
+  '-z,1/4+x,1/4+y'
+  '-z,3/4+x,3/4+y'
+  '1/2-z,1/4+x,3/4+y'
+  '1/2-z,3/4+x,1/4+y'
+  '-z,-x,-y'
+  '-z,1/2-x,1/2-y'
+  '1/2-z,-x,1/2-y'
+  '1/2-z,1/2-x,-y'
+  'y,3/4-z,3/4-x'
+  'y,1/4-z,1/4-x'
+  '1/2+y,3/4-z,1/4-x'
+  '1/2+y,1/4-z,3/4-x'
+  '3/4-y,3/4-z,x'
+  '3/4-y,1/4-z,1/2+x'
+  '1/4-y,3/4-z,1/2+x'
+  '1/4-y,1/4-z,x'
+  '3/4-y,z,3/4-x'
+  '3/4-y,1/2+z,1/4-x'
+  '1/4-y,z,1/4-x'
+  '1/4-y,1/2+z,3/4-x'
+  'y,z,x'
+  'y,1/2+z,1/2+x'
+  '1/2+y,z,1/2+x'
+  '1/2+y,1/2+z,x'
+  '1/4+x,-y,1/4+z'
+  '1/4+x,1/2-y,3/4+z'
+  '3/4+x,-y,3/4+z'
+  '3/4+x,1/2-y,1/4+z'
+  '-x,1/4+y,1/4+z'
+  '-x,3/4+y,3/4+z'
+  '1/2-x,1/4+y,3/4+z'
+  '1/2-x,3/4+y,1/4+z'
+  '1/4+x,1/4+y,-z'
+  '1/4+x,3/4+y,1/2-z'
+  '3/4+x,1/4+y,1/2-z'
+  '3/4+x,3/4+y,-z'
+  '-x,-y,-z'
+  '-x,1/2-y,1/2-z'
+  '1/2-x,-y,1/2-z'
+  '1/2-x,1/2-y,-z'
+  '3/4-z,3/4-x,y'
+  '3/4-z,1/4-x,1/2+y'
+  '1/4-z,3/4-x,1/2+y'
+  '1/4-z,1/4-x,y'
+  '3/4-z,x,3/4-y'
+  '3/4-z,1/2+x,1/4-y'
+  '1/4-z,x,1/4-y'
+  '1/4-z,1/2+x,3/4-y'
+  'z,3/4-x,3/4-y'
+  'z,1/4-x,1/4-y'
+  '1/2+z,3/4-x,1/4-y'
+  '1/2+z,1/4-x,3/4-y'
+  'z,x,y'
+  'z,1/2+x,1/2+y'
+  '1/2+z,x,1/2+y'
+  '1/2+z,1/2+x,y'
+  '-y,1/4+z,1/4+x'
+  '-y,3/4+z,3/4+x'
+  '1/2-y,1/4+z,3/4+x'
+  '1/2-y,3/4+z,1/4+x'
+  '1/4+y,1/4+z,-x'
+  '1/4+y,3/4+z,1/2-x'
+  '3/4+y,1/4+z,1/2-x'
+  '3/4+y,3/4+z,-x'
+  '1/4+y,-z,1/4+x'
+  '1/4+y,1/2-z,3/4+x'
+  '3/4+y,-z,3/4+x'
+  '3/4+y,1/2-z,1/4+x'
+  '-y,-z,-x'
+  '-y,1/2-z,1/2-x'
+  '1/2-y,-z,1/2-x'
+  '1/2-y,1/2-z,-x'
+  '3/4-x,y,3/4-z'
+  '3/4-x,1/2+y,1/4-z'
+  '1/4-x,y,1/4-z'
+  '1/4-x,1/2+y,3/4-z'
+  'x,3/4-y,3/4-z'
+  'x,1/4-y,1/4-z'
+  '1/2+x,3/4-y,1/4-z'
+  '1/2+x,1/4-y,3/4-z'
+  '3/4-x,3/4-y,z'
+  '3/4-x,1/4-y,1/2+z'
+  '1/4-x,3/4-y,1/2+z'
+  '1/4-x,1/4-y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+S   0.12500   0.12500   0.12500
+Mg   0.00000   0.50000   0.00000
+C   0.03207   0.71793   0.03207
+Na   0.34379   0.12500   0.12500
+O1   0.26626   0.22529   0.35333
+O2   0.06362   0.06362   0.06362
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+S 0.01191 0.01191 0.01191 0.00000 0.00000 0.00000
+Mg 0.00903 0.00903 0.00903 -0.00030 -0.00030 -0.00030
+C 0.00869 0.00869 0.00869 -0.00005 0.00005 -0.00005
+Na 0.01389 0.02294 0.02061 -0.00774 0.00000 0.00000
+O1 0.01490 0.01169 0.01019 0.00302 0.00191 -0.00012
+O2 0.01948 0.01948 0.01948 -0.00351 -0.00351 -0.00351

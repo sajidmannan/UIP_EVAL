@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Arfvedsonite'
+loop_
+_publ_author_name
+'Hawthorne F C'
+'Ungaretti L'
+'Oberti R'
+'Bottazzi P'
+'Czamanske G K'
+_journal_name_full 'American Mineralogist'
+_journal_volume 78 
+_journal_year 1993
+_journal_page_first 733
+_journal_page_last 745
+_publ_section_title
+;
+ Li: an important component in igneous alkali amphiboles
+ Sample: A(12)
+;
+_database_code_amcsd 0001597
+_chemical_compound_source 'Questa caldera, New Mexico'
+_chemical_formula_sum 'O23.2 F.8 (Si7.824 Al.176) Mg.31 Fe3.87 Mn.58 Ti.08 Zn.04 Li.17 Na2.415 Ca.08 K.223 H1.2'
+_cell_length_a 9.840
+_cell_length_b 18.036
+_cell_length_c 5.365
+_cell_angle_alpha 90
+_cell_angle_beta 104.05
+_cell_angle_gamma 90
+_cell_volume 923.665
+_exptl_crystal_density_diffrn      3.389
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+O1   0.11110   0.09030   0.20790   1.00000   0.00912
+O2   0.12020   0.17200   0.73490   1.00000   0.00899
+O3   0.11120   0.00000   0.70760   0.60000   0.01267
+F   0.11120   0.00000   0.70760   0.40000   0.01267
+O4   0.36490   0.24880   0.79860   1.00000   0.01191
+O5   0.34880   0.12830   0.07980   1.00000   0.01178
+O6   0.34050   0.12000   0.57810   1.00000   0.01153
+O7   0.33410   0.00000   0.29700   1.00000   0.01267
+SiT1   0.28010   0.08570   0.29020   0.97800   0.00583
+AlT1   0.28010   0.08570   0.29020   0.02200   0.00583
+SiT2   0.28990   0.17050   0.80020   0.97800   0.00621
+AlT2   0.28990   0.17050   0.80020   0.02200   0.00621
+MgM1   0.00000   0.09080   0.50000   0.11000   0.00760
+Fe2+M1   0.00000   0.09080   0.50000   0.72000   0.00760
+MnM1   0.00000   0.09080   0.50000   0.17000   0.00760
+Fe2+M2   0.00000   0.18290   0.00000   0.29000   0.00722
+Fe3+M2   0.00000   0.18290   0.00000   0.65000   0.00722
+TiM2   0.00000   0.18290   0.00000   0.04000   0.00722
+ZnM2   0.00000   0.18290   0.00000   0.02000   0.00722
+LiM3   0.00000   0.00000   0.00000   0.17000   0.00747
+MgM3   0.00000   0.00000   0.00000   0.09000   0.00747
+Fe2+M3   0.00000   0.00000   0.00000   0.50000   0.00747
+MnM3   0.00000   0.00000   0.00000   0.24000   0.00747
+NaM4   0.00000   0.27700   0.50000   0.93500   0.01798
+CaM4   0.00000   0.27700   0.50000   0.04000   0.01798
+FeM4   0.00000   0.27700   0.50000   0.02500   0.01798
+KA   0.00000   0.50000   0.00000   0.08300   0.12538
+NaA   0.00000   0.50000   0.00000   0.20300   0.12538
+KAm   0.04760   0.50000   0.11470   0.07000   0.03141
+NaAm   0.04760   0.50000   0.11470   0.17100   0.03141
+H   0.19830   0.00000   0.74720   0.60000   0.02039

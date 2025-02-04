@@ -1,0 +1,99 @@
+data_global
+_chemical_name_mineral 'Oxykinoshitalite'
+loop_
+_publ_author_name
+'Kogarko L N'
+'Uvarova Y A'
+'Sokolova E'
+'Hawthorne F C'
+'Ottolini L'
+'Grice J D'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 43 
+_journal_year 2005
+_journal_page_first 1501
+_journal_page_last 1510
+_publ_section_title
+;
+ Oxykinoshitalite, a new species of mica from Fernando-do-Noronha island, Brazil:
+ Occurrence and crystal structure
+;
+_database_code_amcsd 0006061
+_chemical_compound_source 'Fernando-do-Noronha island, Brazil'
+_chemical_formula_sum 'Ba.47 K.42 Na.06 Ca.01 Mg1.36 Fe.88 Ti.75 Mn.01 Si2.312 Al1.56 O11.75 F.25 H.31'
+_cell_length_a 5.3516
+_cell_length_b 9.2817
+_cell_length_c 10.0475
+_cell_angle_alpha 90
+_cell_angle_beta 100.337
+_cell_angle_gamma 90
+_cell_volume 490.978
+_exptl_crystal_density_diffrn      3.392
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+BaI   0.00000   0.00000   0.00000   0.47000   0.02290
+KI   0.00000   0.00000   0.00000   0.42000   0.02290
+NaI   0.00000   0.00000   0.00000   0.06000   0.02290
+CaI   0.00000   0.00000   0.00000   0.01000   0.02290
+MgM1   0.00000   0.50000   0.50000   0.52000   0.01020
+Fe2+M1   0.00000   0.50000   0.50000   0.13000   0.01020
+Fe3+M1   0.00000   0.50000   0.50000   0.27000   0.01020
+Ti4+M1   0.00000   0.50000   0.50000   0.08000   0.01020
+MgM2   0.00000   0.15509   0.50000   0.42000   0.01270
+Ti4+M2   0.00000   0.15509   0.50000   0.33500   0.01270
+Fe3+M2   0.00000   0.15509   0.50000   0.16500   0.01270
+Fe2+M2   0.00000   0.15509   0.50000   0.07500   0.01270
+MnM2   0.00000   0.15509   0.50000   0.00500   0.01270
+SiT   0.57360   0.16750   0.22032   0.57800   0.01110
+AlT   0.57360   0.16750   0.22032   0.39000   0.01110
+O1   0.81790   0.23540   0.15860   1.00000   0.02270
+O2   0.63140   0.17090   0.39030   1.00000   0.01350
+O3   0.52230   0.00000   0.16030   1.00000   0.02020
+O4   0.12570   0.00000   0.39640   0.72000   0.01600
+O-H4   0.12570   0.00000   0.39640   0.15500   0.01600
+F4   0.12570   0.00000   0.39640   0.12500   0.01600
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+BaI 0.01970 0.02050 0.02850 0.00000 0.00460 0.00000
+KI 0.01970 0.02050 0.02850 0.00000 0.00460 0.00000
+NaI 0.01970 0.02050 0.02850 0.00000 0.00460 0.00000
+CaI 0.01970 0.02050 0.02850 0.00000 0.00460 0.00000
+MgM1 0.00820 0.00650 0.01670 0.00000 0.00430 0.00000
+Fe2+M1 0.00820 0.00650 0.01670 0.00000 0.00430 0.00000
+Fe3+M1 0.00820 0.00650 0.01670 0.00000 0.00430 0.00000
+Ti4+M1 0.00820 0.00650 0.01670 0.00000 0.00430 0.00000
+MgM2 0.00670 0.01750 0.01390 0.00000 0.00140 0.00000
+Ti4+M2 0.00670 0.01750 0.01390 0.00000 0.00140 0.00000
+Fe3+M2 0.00670 0.01750 0.01390 0.00000 0.00140 0.00000
+Fe2+M2 0.00670 0.01750 0.01390 0.00000 0.00140 0.00000
+MnM2 0.00670 0.01750 0.01390 0.00000 0.00140 0.00000
+SiT 0.00830 0.01060 0.01450 -0.00050 0.00240 0.00010
+AlT 0.00830 0.01060 0.01450 -0.00050 0.00240 0.00010
+O1 0.01920 0.02870 0.02100 -0.00750 0.00600 -0.00300
+O2 0.01200 0.01070 0.01800 -0.00070 0.00310 0.00070
+O3 0.02900 0.01630 0.01300 0.00000 -0.00120 0.00000
+O4 0.00930 0.02300 0.01600 0.00000 0.00310 0.00000
+O-H4 0.00930 0.02300 0.01600 0.00000 0.00310 0.00000
+F4 0.00930 0.02300 0.01600 0.00000 0.00310 0.00000

@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Fredrikssonite'
+loop_
+_publ_author_name
+'Burns P C'
+'Cooper M A'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 32 
+_journal_year 1994
+_journal_page_first 397
+_journal_page_last 403
+_publ_section_title
+;
+ Jahn-Teller-distorted MnO6 octahedra in fredrikssonite, the fourth polymorph
+ of Mg2Mn(BO3)O2
+;
+_database_code_amcsd 0005368
+_chemical_formula_sum 'Mg3.92 Fe.48 Mn1.56 Al.04 B2 O10'
+_cell_length_a 9.198
+_cell_length_b 12.528
+_cell_length_c 2.965
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 341.664
+_exptl_crystal_density_diffrn      3.796
+_symmetry_space_group_name_H-M 'P b a m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  'x,y,-z'
+  '-x,-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg1   0.00000   0.00000   0.00000   1.00000
+Mg2   0.50000   0.00000   0.50000   0.92000
+Fe2   0.50000   0.00000   0.50000   0.08000
+Mg3   0.00480   0.28000   0.00000   1.00000
+Mn4   0.74115   0.38458   0.50000   0.78000
+Fe4   0.74115   0.38458   0.50000   0.20000
+Al4   0.74115   0.38458   0.50000   0.02000
+B   0.27820   0.35980   0.50000   1.00000
+O1   0.85360   0.04490   0.50000   1.00000
+O2   0.38070   0.07860   0.00000   1.00000
+O3   0.62770   0.14230   0.50000   1.00000
+O4   0.11300   0.14220   0.00000   1.00000
+O5   0.85590   0.23490   0.50000   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 0.00570 0.00580 0.00690 -0.00070 0.00000 0.00000
+Mg2 0.00710 0.00540 0.00750 0.00140 0.00000 0.00000
+Fe2 0.00710 0.00540 0.00750 0.00140 0.00000 0.00000
+Mg3 0.00620 0.00540 0.00670 0.00090 0.00000 0.00000
+Mn4 0.00440 0.00530 0.00540 -0.00010 0.00000 0.00000
+Fe4 0.00440 0.00530 0.00540 -0.00010 0.00000 0.00000
+Al4 0.00440 0.00530 0.00540 -0.00010 0.00000 0.00000
+B 0.00880 0.00730 0.00270 -0.00060 0.00000 0.00000
+O1 0.00650 0.00760 0.00800 0.00150 0.00000 0.00000
+O2 0.00690 0.00520 0.00830 -0.00060 0.00000 0.00000
+O3 0.00580 0.00610 0.00930 0.00010 0.00000 0.00000
+O4 0.00640 0.00700 0.00820 0.00030 0.00000 0.00000
+O5 0.00650 0.00700 0.00870 -0.00160 0.00000 0.00000

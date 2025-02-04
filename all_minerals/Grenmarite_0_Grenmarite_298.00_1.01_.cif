@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Grenmarite'
+loop_
+_publ_author_name
+'Bellezza M'
+'Franzini M'
+'Larsen A O '
+'Merlino S'
+'Perchiazzi N'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 16 
+_journal_year 2004
+_journal_page_first 971
+_journal_page_last 978
+_publ_section_title
+;
+ Grenmarite, a new member of the gotzenite-seidozerite-rosenbuschite
+ group from the Langesundsfjord district, Norway: definition and crystal structure
+;
+_database_code_amcsd 0007085
+_chemical_compound_source 'Langesundsfjord district, Norway'
+_chemical_formula_sum 'Zr2.3 Mn1.3 Ti.46 Na3.56 Ca.38 Si4 O16 F2'
+_cell_length_a 5.608
+_cell_length_b 7.139
+_cell_length_c 18.575
+_cell_angle_alpha 90
+_cell_angle_beta 102.60
+_cell_angle_gamma 90
+_cell_volume 725.750
+_exptl_crystal_density_diffrn      3.691
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Zr1   0.20040   0.11970   0.07330   0.88000   0.01200
+Mn1   0.20040   0.11970   0.07330   0.12000   0.01200
+Zr2   0.00000   0.11430   0.25000   0.54000   0.01200
+Ti2   0.00000   0.11430   0.25000   0.46000   0.01200
+Mn3   0.50000   0.35330   0.25000   0.76000   0.01600
+Na3   0.50000   0.35330   0.25000   0.24000   0.01600
+Na4   0.20510   0.61510   0.06950   0.85000   0.02300
+Mn4   0.20510   0.61510   0.06950   0.15000   0.02300
+Na5   0.00000   0.61520   0.25000   0.86000   0.02300
+Ca5   0.00000   0.61520   0.25000   0.14000   0.02300
+Na6   0.50000   0.85890   0.25000   0.76000   0.02800
+Ca6   0.50000   0.85890   0.25000   0.24000   0.02800
+Si1   0.72370   0.38840   0.10340   1.00000   0.01200
+Si2   0.72030   0.84130   0.10410   1.00000   0.01200
+O1   0.73550   0.61440   0.10710   1.00000   0.02900
+O2   0.44730   0.32590   0.06610   1.00000   0.02200
+O3   0.43980   0.90150   0.07550   1.00000   0.02000
+O4   0.92560   0.32390   0.05870   1.00000   0.02000
+O5   0.90350   0.90740   0.05150   1.00000   0.01900
+O6   0.79110   0.31850   0.18910   1.00000   0.01900
+O7   0.81610   0.91000   0.18810   1.00000   0.01900
+O8   0.24390   0.12660   0.18510   1.00000   0.01900
+F   0.30250   0.58790   0.19190   1.00000   0.03400

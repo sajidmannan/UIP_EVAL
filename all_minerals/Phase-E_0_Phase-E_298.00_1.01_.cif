@@ -1,0 +1,82 @@
+data_global
+_chemical_name_mineral 'Phase-E'
+loop_
+_publ_author_name
+'Kudoh Y'
+'Finger L W'
+'Hazen R M'
+'Prewitt C T'
+'Kanzaki M'
+'Veblen D R'
+_journal_name_full 'Physics and Chemistry of Minerals'
+_journal_volume 19 
+_journal_year 1993
+_journal_page_first 357
+_journal_page_last 360
+_publ_section_title
+;
+ Phase E: A high pressure hydrous silicate with unique
+ crystal chemistry
+ Sample: 1
+;
+_database_code_amcsd 0007732
+_chemical_formula_sum 'Mg.338 Si.193 O H.533'
+_cell_length_a 2.9701
+_cell_length_b 2.9701
+_cell_length_c 13.882
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 106.053
+_exptl_crystal_density_diffrn      2.836
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  'y,x,-z'
+  '2/3+y,1/3+x,1/3-z'
+  '1/3+y,2/3+x,2/3-z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-x,-x+y,-z'
+  '2/3-x,1/3-x+y,1/3-z'
+  '1/3-x,2/3-x+y,2/3-z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  'x-y,-y,-z'
+  '2/3+x-y,1/3-y,1/3-z'
+  '1/3+x-y,2/3-y,2/3-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg1   0.00000   0.00000   0.00000   0.66400   0.01900
+Mg2   0.00000   0.00000   0.50000   0.01300   0.01900
+Si   0.00000   0.00000   0.12960   0.19300   0.01178
+O   0.00000   0.00000   0.24910   0.46700   0.02786
+O-H   0.00000   0.00000   0.24910   0.53300   0.02786

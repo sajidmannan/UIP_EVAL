@@ -1,0 +1,51 @@
+data_global
+_chemical_name_mineral 'Clinocervantite'
+loop_
+_publ_author_name
+'Basso R'
+'Lucchetti G'
+'Zefiro L'
+'Palenzona A'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 11 
+_journal_year 1999
+_journal_page_first 95
+_journal_page_last 100
+_publ_section_title
+;
+ Clinocervantite, B-Sb2O4, the natural monoclinic polymorph
+ of cervantite from the Cetine mine, Siena, Italy
+ Note: z-coordinate to O2 altered by communications with R Basso, April, 2003
+;
+_database_code_amcsd 0006763
+_chemical_compound_source 'Cetine mine, Siena, Italy'
+_chemical_formula_sum 'Sb O2'
+_cell_length_a 12.061
+_cell_length_b 4.836
+_cell_length_c 5.383
+_cell_angle_alpha 90
+_cell_angle_beta 104.60
+_cell_angle_gamma 90
+_cell_volume 303.836
+_exptl_crystal_density_diffrn      6.722
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Sb1   0.25000   0.25000   0.00000   0.00329
+Sb2   0.00000   0.28510   0.25000   0.00671
+O1   0.19180   0.05170   0.67460   0.00697
+O2   0.09390   0.41220   0.96490   0.00646

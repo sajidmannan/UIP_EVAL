@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Vapnikite'
+loop_
+_publ_author_name
+'Galuskin E V'
+'Galuskina I O'
+'Kusz J'
+'Armbruster T'
+'Marzec K M'
+'Dzierzanowski P'
+'Murashko M'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 78 
+_journal_year 2014
+_journal_page_first 571
+_journal_page_last 581
+_publ_section_title
+;
+ Vapnikite Ca3UO6 - a new double-perovskite mineral from pyrometamorphic larnite
+ rocks of the Jabel Harum, Palestinian Autonomy, Israel
+;
+_database_code_amcsd 0020159
+_chemical_compound_source 'Hatrurim Formation, Israel'
+_chemical_formula_sum 'Ca.761 U.239 O1.5'
+_cell_length_a 5.739
+_cell_length_b 5.951
+_cell_length_c 8.312
+_cell_angle_alpha 90
+_cell_angle_beta 90.4
+_cell_angle_gamma 90
+_cell_volume 283.871
+_exptl_crystal_density_diffrn      5.213
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.51380   0.55070   0.24090   0.97800   0.01400
+U1*   0.49500   0.56900   0.29400   0.02200   0.01400
+Ca2   0.50000   0.00000   0.00000   0.92000   0.00620
+U2   0.50000   0.00000   0.00000   0.08000   0.00620
+U3   0.00000   0.50000   0.00000   0.83200   0.00390
+Ca3   0.00000   0.50000   0.00000   0.16800   0.00390
+O1   0.17760   0.21170   0.92110   1.00000   0.02580
+O2   0.29580   0.68000   0.94280   1.00000   0.02790
+O3   0.37290   0.92880   0.26580   0.93000   0.01290
+O3A   0.53000   0.00500   0.27300   0.07000   0.01290
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.01440 0.00850 0.01920 0.00410 0.00230 -0.00200
+U1' 0.01440 0.00850 0.01920 0.00410 0.00230 -0.00200
+Ca2 0.00760 0.00590 0.00520 -0.00120 -0.00050 0.00070
+U2 0.00760 0.00590 0.00520 -0.00120 -0.00050 0.00070
+U3 0.00480 0.00300 0.00390 -0.00027 0.00090 -0.00009
+Ca3 0.00480 0.00300 0.00390 -0.00027 0.00090 -0.00009
+O1 0.02100 0.02500 0.03100 0.00600 -0.00720 -0.01300
+O2 0.02500 0.02500 0.03400 -0.01100 0.01400 -0.01400
+O3 0.01800 0.00600 0.01400 0.00360 0.00160 0.00140
+O3A 0.01800 0.00600 0.01400 0.00360 0.00160 0.00140

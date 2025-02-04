@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Allantoin'
+loop_
+_publ_author_name
+'Xu B'
+'Sung C'
+'Han B'
+_journal_name_full 'Crystals'
+_journal_volume 1 
+_journal_year 2011
+_journal_page_first 128
+_journal_page_last 135
+_publ_section_title
+;
+ Crystal structure characterization of natural allantoin
+ from edible lichen Umbilicaria esculenta
+ Note: T = 232 K
+;
+_database_code_amcsd 0020954
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'O3 N4 C4 H6'
+_cell_length_a 8.0004
+_cell_length_b 5.1487
+_cell_length_c 14.7501
+_cell_angle_alpha 90
+_cell_angle_beta 92.9080
+_cell_angle_gamma 90
+_cell_volume 606.799
+_exptl_crystal_density_diffrn      1.731
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+O(1)   0.23500   0.10730   0.24620   0.02400
+O(2)   0.06900   0.32180   0.42110   0.02400
+O(3)   0.63660   0.21250   0.43740   0.02800
+N(1)   0.10680   0.32020   0.12720   0.02500
+N(2)   0.21170   0.54460   0.25250   0.02100
+N(3)   0.46620   0.48590   0.35000   0.02500
+N(4)   0.34850   0.22700   0.44840   0.02200
+C(1)   0.21620   0.35320   0.40720   0.01900
+C(2)   0.49970   0.30170   0.41270   0.02100
+C(3)   0.28870   0.55230   0.34200   0.02000
+C(4)   0.18490   0.31320   0.20940   0.01900
+H1A   0.08900   0.17870   0.09730   0.03000
+H1B   0.07420   0.46630   0.10430   0.03000
+H2   0.18200   0.68680   0.22570   0.02500
+H3   0.54090   0.55690   0.31820   0.03000
+H4   0.34020   0.11490   0.49110   0.02600
+H5   0.27400   0.72670   0.36690   0.02300
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O(1) 0.03100 0.01500 0.02500 0.00300 0.00100 0.00100
+O(2) 0.02200 0.02500 0.02700 0.00100 0.00400 0.00300
+O(3) 0.02200 0.03000 0.03300 0.00400 0.00000 0.00600
+N(1) 0.03300 0.02000 0.02200 -0.00200 -0.00300 0.00000
+N(2) 0.02900 0.01300 0.01900 0.00200 -0.00200 0.00200
+N(3) 0.02000 0.02600 0.02800 -0.00200 0.00100 0.00800
+N(4) 0.02200 0.02200 0.02100 0.00200 0.00200 0.00500
+C(1) 0.02400 0.01600 0.01800 0.00100 0.00100 -0.00100
+C(2) 0.02300 0.01900 0.02100 -0.00100 0.00000 -0.00100
+C(3) 0.02300 0.01600 0.02000 -0.00100 0.00000 0.00000
+C(4) 0.01900 0.01700 0.02000 0.00000 0.00400 0.00000

@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Indium-fluor-eckermannite'
+loop_
+_publ_author_name
+'Raudsepp M'
+'Turnock A C'
+'Hawthorne F C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 72 
+_journal_year 1987
+_journal_page_first 959
+_journal_page_last 964
+_publ_section_title
+;
+ Characterization of cation ordering in synthetic scandium-fluor-eckermannite,
+ indium-fluor-eckermannite, and scandium-fluor-nyboite by Rietveld structure
+ refinement
+ Sample: FInEC-A3
+;
+_database_code_amcsd 0001116
+_chemical_formula_sum 'O22 F2 Si8 Mg4.038 In.962 Na3'
+_cell_length_a 9.8527
+_cell_length_b 18.0966
+_cell_length_c 5.2928
+_cell_angle_alpha 90
+_cell_angle_beta 103.521
+_cell_angle_gamma 90
+_cell_volume 917.553
+_exptl_crystal_density_diffrn      3.229
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+O1   0.11880   0.08440   0.22200   1.00000   0.01013
+O2   0.11640   0.16570   0.72100   1.00000   0.01013
+F3   0.10600   0.00000   0.71600   1.00000   0.01013
+O4   0.35750   0.24530   0.78900   1.00000   0.01013
+O5   0.35480   0.12610   0.08300   1.00000   0.01393
+O6   0.34390   0.11730   0.58600   1.00000   0.01393
+O7   0.34700   0.00000   0.29200   1.00000   0.01520
+Si1   0.28480   0.08400   0.29050   1.00000   0.00507
+Si2   0.28800   0.16780   0.79570   1.00000   0.00507
+Mg1   0.00000   0.08460   0.50000   1.00000   0.00760
+Mg2   0.00000   0.18220   0.00000   0.51900   0.00760
+In2   0.00000   0.18220   0.00000   0.48100   0.00760
+Mg3   0.00000   0.00000   0.00000   1.00000   0.00760
+Na4   0.00000   0.27590   0.50000   1.00000   0.01140
+NaA   0.02900   0.50000   0.07700   0.50000   0.02913

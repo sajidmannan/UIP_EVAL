@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Molysite'
+loop_
+_publ_author_name
+'Hashimoto S'
+'Forster K'
+'Moss S C'
+_journal_name_full 'Journal of Applied Crystallography'
+_journal_volume 22 
+_journal_year 1988
+_journal_page_first 173
+_journal_page_last 180
+_publ_section_title
+;
+ Structure refinement of an FeCl3 crystal using a thin plate sample
+;
+_database_code_amcsd 0012857
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Fe Cl3'
+_cell_length_a 6.0650
+_cell_length_b 6.0650
+_cell_length_c 17.420
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 554.933
+_exptl_crystal_density_diffrn      2.912
+_symmetry_space_group_name_H-M 'R -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe   0.00000   0.00000   0.33333
+Cl   0.35800   0.00000   0.07800
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe 0.02216 0.02216 0.01520 0.01108 0.00000 0.00000
+Cl 0.02026 0.02026 0.01963 0.01013 0.00000 0.00000

@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Mathiasite'
+loop_
+_publ_author_name
+'Gatehouse B M'
+'Grey I E'
+'Smyth J R'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 39 
+_journal_year 1983
+_journal_page_first 421
+_journal_page_last 422
+_publ_section_title
+;
+ Structure refinement of mathiasite, (K0.62Na0.14Ba0.14Sr0.10)
+ [Ti12.90Cr3.10Mg1.53Fe2.15Zr0.67Ca0.29V0.36]O38
+;
+_database_code_amcsd 0009973
+_chemical_compound_source 'peridotite nodules, Bultfonten kimblerlite, South Africa'
+_chemical_formula_sum '(K.62 Na.14 Ba.14 Sr.1) (Zr.7 Ca.3) Mg1.333 Fe2.2 Ti12.9 Cr3.1 V.233 Nb.233 O38'
+_cell_length_a 9.119
+_cell_length_b 9.119
+_cell_length_c 9.119
+_cell_angle_alpha 69.24
+_cell_angle_beta 69.24
+_cell_angle_gamma 69.24
+_cell_volume 639.924
+_exptl_crystal_density_diffrn      4.430
+_symmetry_space_group_name_H-M 'R -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-z,-x,-y'
+  'y,z,x'
+  '-x,-y,-z'
+  'z,x,y'
+  '-y,-z,-x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+KM0   0.00000   0.00000   0.00000   0.62000   0.01570
+NaM0   0.00000   0.00000   0.00000   0.14000   0.01570
+BaM0   0.00000   0.00000   0.00000   0.14000   0.01570
+SrM0   0.00000   0.00000   0.00000   0.10000   0.01570
+ZrM1   0.50000   0.50000   0.50000   0.70000   0.00329
+CaM1   0.50000   0.50000   0.50000   0.30000   0.00329
+MgM2   0.31110   0.31110   0.31110   0.45000   0.00456
+FeM2   0.31110   0.31110   0.31110   0.45000   0.00456
+TiM3   0.34790   0.12270   0.02320   0.15000   0.00735
+CrM3   0.34790   0.12270   0.02320   0.51670   0.00735
+FeM3   0.34790   0.12270   0.02320   0.21670   0.00735
+VM3   0.34790   0.12270   0.02320   0.03890   0.00735
+NbM3   0.34790   0.12270   0.02320   0.03890   0.00735
+MgM3   0.34790   0.12270   0.02320   0.03890   0.00735
+TiM4   0.30710   0.72080   0.14570   1.00000   0.00481
+TiM5   0.47540   0.08320   0.63860   1.00000   0.00481
+MgM6   0.36920   0.36920   0.36920   0.10000   0.02824
+O1   0.30840   0.62610   0.38200   1.00000   0.00659
+O2   0.15530   0.23940   0.93920   1.00000   0.00659
+O3   0.92180   0.45830   0.29790   1.00000   0.00659
+O4   0.14240   0.51750   0.99020   1.00000   0.00659
+O5   0.39010   0.48790   0.13430   1.00000   0.00469
+O6   0.70430   0.24340   0.07430   1.00000   0.00532
+O7   0.21330   0.21330   0.21330   1.00000   0.00570

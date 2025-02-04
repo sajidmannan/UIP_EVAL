@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Beta-diopside'
+loop_
+_publ_author_name
+'Plonka A M'
+'Dera P'
+'Irmen P'
+'Rivers M L'
+'Ehm L'
+'Parise J B'
+_journal_name_full 'Geophysical Research Letters'
+_journal_volume 39 
+_journal_year 2012
+_journal_page_first 
+_journal_page_last L24307
+_publ_section_title
+;
+ Beta-diopside, a new ultrahigh-pressure polymorph of
+ CaMgSi2O6 with six-coordinated silicon
+ Note: P = 56.1 GPa
+;
+_database_code_amcsd 0020131
+_chemical_compound_source 'synthesize from natural sample'
+_chemical_formula_sum 'Ca Mg Si2 O6'
+_cell_length_a 9.053
+_cell_length_b 7.677
+_cell_length_c 4.751
+_cell_angle_alpha 90
+_cell_angle_beta 96.34
+_cell_angle_gamma 90
+_cell_volume 328.174
+_exptl_crystal_density_diffrn      4.383
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca(1)   0.73930   0.06750   0.09010   0.00600
+Mg(1)   0.24200   0.16410   0.40320   0.00300
+Si(1)   0.51080   0.16600   0.46270   0.00600
+Si(2)   0.03160   0.85430   0.26340   0.00800
+O(1)   0.39370   0.16930   0.11290   0.00500
+O(2)   0.39130   0.48310   0.08570   0.00400
+O(3)   0.61540   0.29320   0.26730   0.00400
+O(4)   0.14250   0.35160   0.21680   0.00500
+O(5)   0.10560   0.02890   0.19830   0.00900
+O(6)   0.10820   0.70900   0.06950   0.00700

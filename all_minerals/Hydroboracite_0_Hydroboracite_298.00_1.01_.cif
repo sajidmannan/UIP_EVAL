@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Hydroboracite'
+loop_
+_publ_author_name
+'Sabelli C'
+'Stoppioni A'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 16 
+_journal_year 1978
+_journal_page_first 75
+_journal_page_last 80
+_publ_section_title
+;
+ Refinement of the crystal structure of hydroboracite
+;
+_database_code_amcsd 0005149
+_chemical_formula_sum 'Mg Ca O17 B6 H12'
+_cell_length_a 11.769
+_cell_length_b 6.684
+_cell_length_c 8.235
+_cell_angle_alpha 90
+_cell_angle_beta 102.59
+_cell_angle_gamma 90
+_cell_volume 632.222
+_exptl_crystal_density_diffrn      2.171
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Mg   0.00000   0.00000   0.00000   0.00950
+Ca   0.50000   0.47388   0.25000   0.00659
+OW1   0.00000   0.12380   0.25000   0.01279
+OW2   0.05040   0.27720   0.59660   0.01735
+O-h3   0.16670   0.90610   0.53590   0.01254
+O4   0.19100   0.34190   0.24680   0.01013
+O5   0.17580   0.55150   0.46780   0.01127
+O6   0.34870   0.72990   0.60520   0.01013
+O7   0.32660   0.61140   0.32090   0.01102
+O-h8   0.35440   0.96720   0.39360   0.01469
+O-h9   0.50930   0.71600   0.47170   0.01229
+B1   0.22510   0.71250   0.59120   0.00836
+B2   0.38480   0.76140   0.44800   0.00874
+B3   0.23250   0.50390   0.34360   0.00798
+H1   0.06400   0.19700   0.24900   0.05699
+H2   0.09200   0.37000   0.55400   0.05699
+H3  -0.02500   0.33500   0.57500   0.05699
+H4   0.23000   0.92700   0.48900   0.05699
+H5   0.35300   0.06900   0.29800   0.05699
+H6   0.44600   0.17900   0.48300   0.05699
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg 0.00822 0.00822 0.01253 -0.00241 0.00290 -0.00044
+Ca 0.00521 0.00813 0.00733 0.00000 0.00299 0.00000
+OW1 0.01176 0.01369 0.01437 0.00000 0.00566 0.00000
+OW2 0.01497 0.01401 0.02454 0.00191 0.00758 0.00218
+O-h3 0.01029 0.01322 0.01577 -0.00292 0.00617 -0.00574
+O4 0.01089 0.01161 0.00972 -0.00288 0.00613 -0.00131
+O5 0.00996 0.01365 0.01149 0.00268 0.00542 0.00365
+O6 0.00902 0.01224 0.00975 -0.00074 0.00341 0.00041
+O7 0.00936 0.01290 0.01198 -0.00253 0.00528 -0.00297
+O-h8 0.01751 0.01209 0.01417 -0.00082 0.00313 0.00395
+O-h9 0.00962 0.01186 0.01623 -0.00280 0.00449 -0.00337
+B1 0.00876 0.00923 0.00710 -0.00093 0.00168 0.00011
+B2 0.00802 0.00899 0.00975 -0.00047 0.00327 -0.00041
+B3 0.00742 0.00991 0.00671 0.00210 0.00192 0.00193

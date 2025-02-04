@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Boromuscovite'
+loop_
+_publ_author_name
+'Liang J'
+'Hawthorne F C'
+'Novak M'
+'Cerny P'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 33 
+_journal_year 1995
+_journal_page_first 859
+_journal_page_last 865
+_publ_section_title
+;
+ Crystal-structure refinement of boromuscovite polytypes using a coupled
+ Rietveld-static-structure energy-minimization method
+ Sample: 2M1 polytype
+;
+_database_code_amcsd 0005445
+_chemical_compound_source 'Recice, Czech Republic'
+_chemical_formula_sum 'Al1.92 (Si3 B) K.41 O12'
+_cell_length_a 5.090
+_cell_length_b 8.822
+_cell_length_c 19.819
+_cell_angle_alpha 90
+_cell_angle_beta 95.62
+_cell_angle_gamma 90
+_cell_volume 885.674
+_exptl_crystal_density_diffrn      2.662
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Al   0.25000   0.07900  -0.00020   0.96000   0.00595
+SiT1   0.44200   0.25400   0.13510   0.78000   0.00152
+BT1   0.44200   0.25400   0.13510   0.22000   0.00152
+SiT2   0.04500   0.42600   0.36400   0.72000   0.00215
+BT2   0.04500   0.42600   0.36400   0.28000   0.00215
+K   0.00000   0.10300   0.25000   0.41000   0.00329
+O   0.03900   0.07200   0.45410   1.00000   0.00443
+O1   0.38500   0.24800   0.05690   1.00000   0.00469
+O2   0.04300   0.43800   0.44660   1.00000   0.00367
+O3   0.41900   0.09000   0.16550   1.00000   0.00481
+O4   0.22900   0.36100   0.16360   1.00000   0.00861
+O5   0.27000   0.31400   0.34660   1.00000   0.00405

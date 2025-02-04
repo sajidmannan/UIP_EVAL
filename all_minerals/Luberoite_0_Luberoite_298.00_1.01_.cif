@@ -1,0 +1,44 @@
+data_global
+_chemical_name_mineral 'Luberoite'
+loop_
+_publ_author_name
+'Matkovic P'
+'Schubert K'
+_journal_name_full 'Journal of the Less-Common Metals'
+_journal_volume 55 
+_journal_year 1977
+_journal_page_first 185
+_journal_page_last 190
+_publ_section_title
+;
+ Kristallstruktur von Pt5Se4
+;
+_database_code_amcsd 0014140
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Pt5 Se4'
+_cell_length_a 6.577
+_cell_length_b 4.610
+_cell_length_c 11.122
+_cell_angle_alpha 90
+_cell_angle_beta 101.59
+_cell_angle_gamma 90
+_cell_volume 330.343
+_exptl_crystal_density_diffrn     12.981
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pt1   0.33100   0.33000   0.00300   0.00633
+Pt2   0.22300   0.66300   0.17400   0.00633
+Pt3   0.00000   0.00000   0.00000   0.00507
+Se1   0.91100   0.36800   0.13600   0.00507
+Se2   0.50900   0.96800   0.14100   0.00760

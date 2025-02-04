@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Magnesiochloritoid'
+loop_
+_publ_author_name
+'Ivaldi G'
+'Catti M'
+'Ferraris G'
+_journal_name_full 'American Mineralogist'
+_journal_volume 73 
+_journal_year 1988
+_journal_page_first 358
+_journal_page_last 364
+_publ_section_title
+;
+ Crystal structure at 25 and 700 C of magnesiochloritoid from a high-pressure
+ assemblage (Monte Rosa)
+ Sample at 25 C
+;
+_database_code_amcsd 0001139
+_chemical_formula_sum 'Al2 (Mg.65 Fe.35) Si O7 H2'
+_cell_length_a 9.460
+_cell_length_b 5.471
+_cell_length_c 18.182
+_cell_angle_alpha 90
+_cell_angle_beta 101.4
+_cell_angle_gamma 90
+_cell_volume 922.456
+_exptl_crystal_density_diffrn      3.332
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Al1A   0.25000   0.25000   0.00000   1.00000   0.00529
+Al2A   0.00000   0.40250   0.25000   1.00000   0.00431
+Mg1B   0.08397   0.74576   0.00088   0.65000   0.00700
+Fe1B   0.08397   0.74576   0.00088   0.35000   0.00700
+Al2B   0.24994   0.65365   0.24886   1.00000   0.00439
+Si   0.46403   0.40298   0.15595   1.00000   0.00339
+O1A   0.11460   0.39270   0.05294   1.00000   0.00735
+O-H1B   0.26460   0.94470   0.05001   1.00000   0.00697
+O1C   0.42670   0.39770   0.06359   1.00000   0.00621
+O2A   0.39450   0.15890   0.18819   1.00000   0.00494
+O2B   0.39490   0.64790   0.18730   1.00000   0.00494
+O2C   0.13930   0.90370   0.18702   1.00000   0.00494
+O2D   0.14850   0.40160   0.20164   1.00000   0.00405
+H   0.13700   0.40400   0.11200   1.00000 ?

@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Mangan-neptunite'
+loop_
+_publ_author_name
+'Zolotarev A A'
+'Krivovichev S V'
+'Yakovenchuk V N'
+_journal_name_full 'Zapiski Vserossijskogo Mineralogicheskogo Obshchestva'
+_journal_volume 136 
+_journal_year 2007
+_journal_page_first 118
+_journal_page_last 123
+_publ_section_title
+;
+ Refinement of the mangan-neptunite structure
+ Note: changed signs of z-coordinates of O12 and O14, Ti1(y) to .32364
+;
+_database_code_amcsd 0015716
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Si8 Ti2 Fe2 Na2 K Li O24'
+_cell_length_a 16.4821
+_cell_length_b 12.5195
+_cell_length_c 10.0292
+_cell_angle_alpha 90
+_cell_angle_beta 115.474
+_cell_angle_gamma 90
+_cell_volume 1868.306
+_exptl_crystal_density_diffrn      3.229
+_symmetry_space_group_name_H-M 'C c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Si1   0.14640   0.40807   0.06260   0.00610
+Si2   0.85522   0.59502  -0.05950   0.00650
+Si3   0.52338   0.22472   0.08360   0.00700
+Si4   0.47738   0.77184  -0.08550   0.00620
+Si5   0.76903   0.47365   0.11050   0.00650
+Si6   0.22894   0.52406   0.89150   0.00650
+Si7   0.89388   0.15208   0.07900   0.00690
+Si8   0.10519   0.85221  -0.08340   0.00640
+Ti1   0.34233   0.32364   0.10313   0.00620
+Ti2   0.08716   0.05326   0.11462   0.00640
+Fe1   0.66082   0.68390  -0.09788   0.01180
+Fe2  -0.08942  -0.06065   0.88539   0.01220
+Na1   0.26540   0.19740   0.31270   0.02100
+Na2   0.73680   0.80120   0.69710   0.01700
+K  -0.00131   0.42070   0.24970   0.02340
+Li   0.50070   0.43490   0.24900   0.01500
+O1   0.95800   0.05300   0.07680   0.00740
+O2   0.05020  -0.04370  -0.07020   0.00780
+O3   0.45580   0.32290   0.07290   0.00760
+O4   0.54180   0.67040  -0.06580   0.00900
+O5   0.10860   0.16720   0.26060   0.00950
+O6   0.88780   0.82610   0.72900   0.01240
+O7   0.37050   0.42950   0.22270   0.01050
+O8   0.62160   0.54980   0.73830   0.01150
+O9   0.20520   0.07270   0.09920   0.00870
+O10   0.79010  -0.08010  -0.08940   0.00870
+O11   0.71160   0.36500   0.03860   0.00970
+O12   0.29000   0.63070  -0.05000   0.01030
+O13   0.21410   0.31040   0.08000   0.00770
+O14   0.79610   0.69720  -0.06490   0.00860
+O15   0.83190   0.49540   0.02360   0.00940
+O16   0.16720   0.51050  -0.01870   0.00930
+O17   0.15860   0.45130   0.22370   0.00990
+O18   0.83850   0.55130   0.77840   0.01020
+O19   0.39680   0.21140   0.25110   0.01020
+O20   0.60420   0.79440   0.74080   0.01180
+O21   0.46280   0.11580   0.02230   0.00920
+O22   0.54030   0.87910  -0.02660   0.00870
+O23   0.92520   0.26090   0.02250   0.00920
+O24   0.06840   0.74580  -0.03410   0.01040

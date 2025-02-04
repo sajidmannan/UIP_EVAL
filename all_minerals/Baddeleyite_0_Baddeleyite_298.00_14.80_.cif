@@ -1,0 +1,45 @@
+data_global
+_chemical_name_mineral 'Baddeleyite'
+loop_
+_publ_author_name
+'Kudoh Y'
+'Takeda H'
+'Arashi H'
+_journal_name_full 'Physics and Chemistry of Minerals'
+_journal_volume 13 
+_journal_year 1986
+_journal_page_first 233
+_journal_page_last 237
+_publ_section_title
+;
+ In situ determination of crystal structure for high pressure
+ phase of ZrO2 using a diamond anvil and single crystal X-ray
+ diffraction method
+ Sample: P = 15 kbar
+;
+_database_code_amcsd 0007415
+_chemical_formula_sum 'Zr O2'
+_cell_length_a 5.120
+_cell_length_b 5.216
+_cell_length_c 5.281
+_cell_angle_alpha 90
+_cell_angle_beta 99.01
+_cell_angle_gamma 90
+_cell_volume 139.294
+_exptl_crystal_density_diffrn      5.876
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Zr   0.27540   0.03950   0.20860   0.01482
+O1   0.07100   0.33960   0.33800   0.00988
+O2   0.45510   0.76070   0.48550   0.01292

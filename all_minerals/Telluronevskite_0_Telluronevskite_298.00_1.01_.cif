@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Telluronevskite'
+loop_
+_publ_author_name
+'Ridkosil T'
+'Skala R'
+'Johan Z'
+'Srein V'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 13 
+_journal_year 2001
+_journal_page_first 177
+_journal_page_last 185
+_publ_section_title
+;
+ Telluronevskite, Bi3TeSe2, a new mineral
+;
+_database_code_amcsd 0006856
+_chemical_formula_sum 'Bi2.94 Te1.01 Se1.73 S.32'
+_cell_length_a 4.264
+_cell_length_b 4.264
+_cell_length_c 23.25
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 366.090
+_exptl_crystal_density_diffrn      8.075
+_symmetry_space_group_name_H-M 'P -3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,-x+y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+  '-x,-y,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  'x-y,x,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Bi1   0.00000   0.00000   0.12650   0.98000   0.00684
+Te1   0.00000   0.00000   0.12650   0.02000   0.00684
+Bi2   0.33333   0.66667   0.29420   0.98000   0.00684
+Te2   0.33333   0.66667   0.29420   0.02000   0.00684
+Bi3   0.66667   0.33333   0.45890   0.98000   0.00684
+Te3   0.66667   0.33333   0.45890   0.02000   0.00684
+Te1   0.33333   0.66667   0.05660   0.95000   0.01748
+Se1   0.33333   0.66667   0.05660   0.05000   0.01748
+Se1   0.66667   0.33333   0.21570   0.84000   0.01748
+S1   0.66667   0.33333   0.21570   0.16000   0.01748
+Se2   0.00000   0.00000   0.36860   0.84000   0.01748
+S2   0.00000   0.00000   0.36860   0.16000   0.01748

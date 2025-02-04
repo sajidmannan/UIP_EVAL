@@ -1,0 +1,83 @@
+data_global
+_chemical_name_mineral 'Behierite'
+loop_
+_publ_author_name
+'Range K J'
+'Wildenauer M'
+'Heyns A M'
+_journal_name_full 'Angewandte Chemie'
+_journal_volume 100 
+_journal_year 1988
+_journal_page_first 973
+_journal_page_last 975
+_publ_section_title
+;
+ Extrem kurze nichtbindende sauerstoff-sauerstoff-abstande: Die
+ kristallstrukturen von NbBO4, NaNb3O8 und NaTa3O8
+ Note: data from ICSD
+;
+_database_code_amcsd 0011990
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Nb B O4'
+_cell_length_a 6.2141
+_cell_length_b 6.2141
+_cell_length_c 5.476
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 211.456
+_exptl_crystal_density_diffrn      5.268
+_symmetry_space_group_name_H-M 'I 41/a m d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/4-y,3/4-x,1/4+z'
+  '3/4-y,1/4-x,3/4+z'
+  '1/4+y,3/4+x,1/4-z'
+  '3/4+y,1/4+x,3/4-z'
+  '1/4+y,3/4-x,1/4-z'
+  '3/4+y,1/4-x,3/4-z'
+  '1/4-y,3/4+x,1/4+z'
+  '3/4-y,1/4+x,3/4+z'
+  '1/2+x,-y,1/2+z'
+  '+x,1/2-y,+z'
+  '1/2-x,y,1/2-z'
+  '-x,1/2+y,-z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '1/4+y,1/4+x,3/4+z'
+  '3/4+y,3/4+x,1/4+z'
+  '1/4-y,1/4-x,3/4-z'
+  '3/4-y,3/4-x,1/4-z'
+  '1/4-y,1/4+x,3/4-z'
+  '3/4-y,3/4+x,1/4-z'
+  '1/4+y,1/4-x,3/4+z'
+  '3/4+y,3/4-x,1/4+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Nb   0.00000   0.75000   0.12500
+B   0.00000   0.25000   0.37500
+O   0.00000   0.07120   0.19940
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Nb 0.00140 0.00140 0.00120 0.00000 0.00000 0.00000
+B 0.00510 0.00510 0.00410 0.00000 0.00000 0.00000
+O 0.00600 0.00220 0.00290 0.00000 0.00000 -0.00020

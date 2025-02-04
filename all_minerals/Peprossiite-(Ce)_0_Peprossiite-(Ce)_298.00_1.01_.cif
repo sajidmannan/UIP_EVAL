@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Peprossiite-(Ce)'
+loop_
+_publ_author_name
+'Callegari A'
+'Caucia F'
+'Mazzi F'
+'Oberti R'
+'Ottolini L'
+'Ungaretti L'
+_journal_name_full 'American Mineralogist'
+_journal_volume 85 
+_journal_year 2000
+_journal_page_first 586
+_journal_page_last 593
+_publ_section_title
+;
+ The crystal structure of peprossiite-(Ce), and anhydrous REE and Al mica-like borate
+ with square-pyramidal coordination for Al
+ Sample: Pep1
+;
+_database_code_amcsd 0002424
+_chemical_formula_sum 'Pr.818 Ca.102 Al2 (B3.868 Si.132) O10.667'
+_cell_length_a 4.612
+_cell_length_b 4.612
+_cell_length_c 9.374
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 172.677
+_exptl_crystal_density_diffrn      3.746
+_symmetry_space_group_name_H-M 'P -6 2 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,z'
+  '-x+y,-x,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x-y,-y,z'
+  'x,y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  'y,x,z'
+  '-y,x-y,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+PrM2   0.00000   0.00000   0.00000   0.81800
+CaM2   0.00000   0.00000   0.00000   0.10200
+AlM1   0.38890   0.00000   0.50000   0.66667
+BT   0.33333   0.66667   0.22020   0.96700
+SiT   0.33333   0.66667   0.22020   0.03300
+O1   0.33333   0.66667   0.37540   1.00000
+O2   0.42150   0.00000   0.16120   1.00000
+O3   0.00000   0.00000   0.50000   0.66667
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+PrM2 0.01220 0.01220 0.00830 0.00610 0.00000 0.00000
+CaM2 0.01220 0.01220 0.00830 0.00610 0.00000 0.00000
+AlM1 0.00460 0.00480 0.00600 0.00240 0.00000 0.00000
+BT 0.00780 0.00780 0.00590 0.00390 0.00000 0.00000
+SiT 0.00780 0.00780 0.00590 0.00390 0.00000 0.00000
+O1 0.00920 0.00920 0.00540 0.00460 0.00000 0.00000
+O2 0.01310 0.00720 0.00870 0.00360 -0.00300 0.00000
+O3 0.00460 0.00460 0.00860 0.00230 0.00000 0.00000

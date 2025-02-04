@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Despujolsite'
+loop_
+_publ_author_name
+'Barkley M C'
+'Yang H'
+'Evans S H'
+'Downs R T'
+'Origlieri M J'
+_journal_name_full 'Acta Crystallographica, Section E'
+_journal_volume 67 
+_journal_year 2011
+_journal_page_first i47
+_journal_page_last i48
+_publ_section_title
+;
+ Redetermination of despujolsite, Ca3Mn4+(SO4)2(OH)6*3H2O
+;
+_database_code_amcsd 0018458
+_chemical_compound_source 'N'Chwaning III mine, Kalahari Manganese Field, South Africa'
+_chemical_formula_sum 'Ca3 Mn S2 O17 H12'
+_cell_length_a 8.5405
+_cell_length_b 8.5405
+_cell_length_c 10.8094
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 682.808
+_exptl_crystal_density_diffrn      2.546
+_symmetry_space_group_name_H-M 'P -6 2 c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  '-x+y,-x,1/2-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  'x,y,1/2-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,x-y,1/2-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.15210   0.30348   0.25000   0.01085
+Mn   0.00000   0.00000   0.00000   0.00846
+S   0.33333   0.66667   0.02544   0.00936
+O1   0.33333   0.66667  -0.11153   0.01670
+O2   0.24190   0.47842   0.06891   0.01880
+O-h3   0.89450   0.09660   0.11070   0.01090
+OW4   0.50060   0.48530   0.25000   0.01710
+H1   0.83600   0.12500   0.07600   0.02600
+H2   0.52100   0.44500   0.19300   0.04600
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01370 0.00918 0.00980 0.00580 0.00000 0.00000
+Mn 0.00919 0.00919 0.00700 0.00460 0.00000 0.00000
+S 0.01001 0.01001 0.00810 0.00501 0.00000 0.00000
+O1 0.02130 0.02130 0.00750 0.01070 0.00000 0.00000
+O2 0.02700 0.01060 0.01700 0.00800 0.00400 0.00330
+O-h3 0.00840 0.01480 0.01070 0.00670 -0.00060 -0.00040
+OW4 0.01900 0.02300 0.01360 0.01380 0.00000 0.00000

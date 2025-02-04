@@ -1,0 +1,90 @@
+data_global
+_chemical_name_mineral 'Saltonseaite'
+loop_
+_publ_author_name
+'Kampf A R'
+'Mills S J'
+'Nestola F'
+'Ciriotti M E'
+'Kasatkin A V'
+_journal_name_full 'American Mineralogist'
+_journal_volume 98 
+_journal_year 2012
+_journal_page_first 231
+_journal_page_last 235
+_publ_section_title
+;
+ Saltonseaite, K3NaMn2+Cl6, the Mn analogue of rinneite from the Salton Sea, California
+;
+_database_code_amcsd 0019751
+_chemical_compound_source 'Salton Sea, California, USA'
+_chemical_formula_sum 'K3 Na Mn Cl6'
+_cell_length_a 12.0966
+_cell_length_b 12.0966
+_cell_length_c 13.9555
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1768.490
+_exptl_crystal_density_diffrn      2.298
+_symmetry_space_group_name_H-M 'R -3 c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,1/2+z'
+  '2/3+x,1/3+x-y,5/6+z'
+  '1/3+x,2/3+x-y,1/6+z'
+  'y,x,1/2-z'
+  '2/3+y,1/3+x,5/6-z'
+  '1/3+y,2/3+x,1/6-z'
+  '-x+y,y,1/2+z'
+  '2/3-x+y,1/3+y,5/6+z'
+  '1/3-x+y,2/3+y,1/6+z'
+  '-x,-x+y,1/2-z'
+  '2/3-x,1/3-x+y,5/6-z'
+  '1/3-x,2/3-x+y,1/6-z'
+  '-y,-x,1/2+z'
+  '2/3-y,1/3-x,5/6+z'
+  '1/3-y,2/3-x,1/6+z'
+  'x-y,-y,1/2-z'
+  '2/3+x-y,1/3-y,5/6-z'
+  '1/3+x-y,2/3-y,1/6-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+K   0.29052   0.33333   0.08333   0.02685
+Na   0.00000   0.00000   0.25000   0.02882
+Mn   0.00000   0.00000   0.00000   0.01644
+Cl   0.18155   0.02713   0.10888   0.02324
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.02627 0.02558 0.02846 0.01279 -0.00274 -0.00548
+Na 0.03440 0.03440 0.01780 0.01718 0.00000 0.00000
+Mn 0.01713 0.01713 0.01504 0.00857 0.00000 0.00000
+Cl 0.02080 0.02933 0.02162 0.01406 -0.00331 -0.00062

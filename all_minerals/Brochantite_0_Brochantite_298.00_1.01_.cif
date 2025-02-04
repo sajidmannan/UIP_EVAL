@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Brochantite'
+loop_
+_publ_author_name
+'Merlino S'
+'Perchiazzi N'
+'Franco D'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 15 
+_journal_year 2003
+_journal_page_first 267
+_journal_page_last 275
+_publ_section_title
+;
+ Brochantite, Cu4SO4(OH)6: OD character, polytypism and crystal structures
+ Sample: MDO_1 polytype
+;
+_database_code_amcsd 0006971
+_chemical_compound_source 'Val Fucinaia, Tuscany, Italy'
+_chemical_formula_sum 'Cu4 S (O10 H6)'
+_cell_length_a 13.140
+_cell_length_b 9.863
+_cell_length_c 6.024
+_cell_angle_alpha 90
+_cell_angle_beta 103.16
+_cell_angle_gamma 90
+_cell_volume 760.206
+_exptl_crystal_density_diffrn      3.952
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.20610   0.99110   0.47990   0.02070
+Cu2   0.20230   0.99080  -0.02370   0.02440
+Cu3   0.11810   0.26140   0.18190   0.01850
+Cu4   0.11990   0.25710   0.68480   0.01970
+S   0.38770   0.19890   0.31670   0.02330
+O-H1   0.09360   0.13250   0.41700   0.02200
+O-H2   0.08270   0.13450  -0.08200   0.02200
+O-H3   0.15900   0.38230   0.45400   0.02100
+O-H4   0.15560   0.38260  -0.05200   0.02000
+O-H5   0.25590   0.09360   0.75800   0.02200
+O-H6   0.14280   0.89910   0.19800   0.02300
+O7   0.27970   0.14500   0.26000   0.02700
+O8   0.38220   0.35100   0.31200   0.02800
+O9   0.44350   0.14900   0.14200   0.02900
+O10   0.44150   0.15200   0.54700   0.02600

@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Triphylite'
+loop_
+_publ_author_name
+'Losey A'
+'Rakovan J F'
+'Hughes J M'
+'Francis C A'
+'Dyar M D'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 42 
+_journal_year 2004
+_journal_page_first 1105
+_journal_page_last 1115
+_publ_section_title
+;
+ Structural variation in the lithiophilite-triphylite series
+ and other olivine-group structures
+ Sample: Trip50
+;
+_database_code_amcsd 0005978
+_chemical_compound_source 'BB#7 Quarry, Norway, Maine'
+_chemical_formula_sum 'Li (Mn.497 Fe.503) P O4'
+_cell_length_a 4.7138
+_cell_length_b 10.3826
+_cell_length_c 6.0499
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 296.091
+_exptl_crystal_density_diffrn      3.529
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Li   0.00000   0.00000   0.00000   1.00000   0.01900
+Mn   0.97362   0.28199   0.25000   0.49700   0.00752
+Fe   0.97362   0.28199   0.25000   0.50300   0.00752
+P   0.41380   0.09364   0.25000   1.00000   0.00823
+O1   0.73660   0.09690   0.25000   1.00000   0.01191
+O2   0.20890   0.45620   0.25000   1.00000   0.01165
+O3   0.28130   0.16350   0.04780   1.00000   0.01229

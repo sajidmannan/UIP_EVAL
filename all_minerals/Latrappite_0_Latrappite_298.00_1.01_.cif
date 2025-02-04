@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Latrappite'
+loop_
+_publ_author_name
+'Mitchell R H'
+'Choi J B'
+'Hawthorne F C'
+'McCammon C A'
+'Burns P C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 36 
+_journal_year 1998
+_journal_page_first 107
+_journal_page_last 116
+_publ_section_title
+;
+ Latrappite: A re-investigation
+;
+_database_code_amcsd 0005539
+_chemical_compound_source 'Oka, Quebec, Canada'
+_chemical_formula_sum '(Ca.75 Na.25) (Nb.57 Fe.15 Ti.28) O3'
+_cell_length_a 5.4479
+_cell_length_b 5.5259
+_cell_length_c 7.7575
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 233.536
+_exptl_crystal_density_diffrn      4.509
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca  -0.00760   0.03590   0.25000   0.75000   0.00773
+Na  -0.00760   0.03590   0.25000   0.25000   0.00773
+Nb   0.00000   0.50000   0.00000   0.57000   0.00507
+Fe   0.00000   0.50000   0.00000   0.15000   0.00507
+Ti   0.00000   0.50000   0.00000   0.28000   0.00507
+O1   0.07640   0.48000   0.25000   1.00000   0.00671
+O2   0.70870   0.28710   0.03640   1.00000   0.00633

@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Squawcreekite'
+loop_
+_publ_author_name
+'Basso R'
+'Cabella R'
+'Lucchetti G'
+'Marescotti P'
+'Martinelli A'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 2003 
+_journal_year 2003
+_journal_page_first 407
+_journal_page_last 420
+_publ_section_title
+;
+ Structural studies on synthetic and natural Fe-Sb-oxides of MO2 type
+;
+_database_code_amcsd 0014925
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum '(Fe.5 Sb.5) O2'
+_cell_length_a 4.6334
+_cell_length_b 4.6334
+_cell_length_c 3.0728
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 65.968
+_exptl_crystal_density_diffrn      6.081
+_symmetry_space_group_name_H-M 'P 42/m n m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '1/2-y,1/2+x,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'y,x,z'
+  '-y,-x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2+y,1/2-x,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe   0.00000   0.00000   0.00000   0.50000
+Sb   0.00000   0.00000   0.00000   0.50000
+O   0.30200   0.30200   0.00000   1.00000

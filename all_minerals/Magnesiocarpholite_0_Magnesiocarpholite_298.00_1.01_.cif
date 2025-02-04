@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Magnesiocarpholite'
+loop_
+_publ_author_name
+'Viswanathan K'
+_journal_name_full 'American Mineralogist'
+_journal_volume 66 
+_journal_year 1981
+_journal_page_first 1080
+_journal_page_last 1085
+_publ_section_title
+;
+ The crystal structure of a Mg-rich carpholite
+;
+_database_code_amcsd 0000849
+_chemical_compound_source 'southeast Sfinari, West Crete'
+_chemical_formula_sum '(Mg.796 Fe.204) Al2 Si2 (O10 H4)'
+_cell_length_a 13.714
+_cell_length_b 20.079
+_cell_length_c 5.105
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1405.730
+_exptl_crystal_density_diffrn      2.881
+_symmetry_space_group_name_H-M 'C m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,1/2+y,1/2+z'
+  '1/2-x,+y,1/2+z'
+  'x,1/2-y,1/2-z'
+  '1/2+x,-y,1/2-z'
+  'x,1/2+y,-z'
+  '1/2+x,+y,-z'
+  '-x,1/2-y,z'
+  '1/2-x,-y,z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg   0.00000   0.87540   0.75000   0.79600
+Fe   0.00000   0.87540   0.75000   0.20400
+Al1   0.19090   0.75000   0.75000   1.00000
+Al2   0.00000   0.96140   0.25000   1.00000
+Si   0.19350   0.87980   0.41720   1.00000
+O-H1   0.09970   0.80990   0.87940   1.00000
+O-H2   0.06840   0.96570   0.92760   1.00000
+O1   0.20600   0.79970   0.43130   1.00000
+O2   0.08030   0.89930   0.40990   1.00000
+O3   0.24850   0.91290   0.67070   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg 0.01124 0.01205 0.00405 0.00000 0.00096 0.00000
+Fe 0.01124 0.01205 0.00405 0.00000 0.00096 0.00000
+Al1 0.01067 0.01021 0.00309 0.00000 0.00000 0.00062
+Al2 0.00991 0.01123 0.00197 0.00000 -0.00043 0.00000
+Si 0.00915 0.01021 0.00222 0.00056 0.00021 0.00036
+O-H1 0.01458 0.01675 0.00883 0.00265 0.00000 0.00021
+O-H2 0.01077 0.01246 0.00560 -0.00056 -0.00018 0.00021
+O1 0.01382 0.00960 0.00434 0.00000 0.00089 0.00104
+O2 0.01029 0.01348 0.00560 0.00167 -0.00011 0.00151
+O3 0.01315 0.01389 0.00440 -0.00140 -0.00216 0.00005

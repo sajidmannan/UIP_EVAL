@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Danburite'
+loop_
+_publ_author_name
+'Phillips M W'
+'Gibbs G V'
+'Ribbe P H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 59 
+_journal_year 1974
+_journal_page_first 79
+_journal_page_last 85
+_publ_section_title
+;
+ The crystal structure of danburite: A comparison with anorthite, albite, and
+ reedmergnerite
+;
+_database_code_amcsd 0000395
+_chemical_formula_sum 'Ca B2 Si2 O8'
+_cell_length_a 8.038
+_cell_length_b 8.752
+_cell_length_c 7.730
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 543.794
+_exptl_crystal_density_diffrn      3.003
+_symmetry_space_group_name_H-M 'P m n a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca   0.38540   0.07650   0.25000
+B1   0.25900   0.41920   0.42010
+Si2   0.05330   0.19240   0.94420
+O1   0.19300   0.06800   0.99680
+O2   0.12630   0.36500   0.95670
+O3   0.39980   0.31350   0.07810
+O4   0.51360   0.66360   0.25000
+O5   0.18380   0.42820   0.25000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00589 0.00466 0.00545 -0.00036 0.00000 0.00000
+B1 0.00393 0.00349 0.00484 0.00000 0.00000 0.00000
+Si2 0.00327 0.00272 0.00333 0.00000 0.00000 -0.00034
+O1 0.00753 0.00504 0.00878 0.00143 -0.00157 -0.00137
+O2 0.00687 0.00466 0.00666 -0.00107 -0.00220 -0.00034
+O3 0.00589 0.00621 0.00575 0.00071 0.00094 0.00069
+O4 0.00916 0.00893 0.00424 0.00178 0.00000 0.00000
+O5 0.00589 0.01009 0.00424 0.00107 0.00000 0.00000

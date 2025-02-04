@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Paracelsian'
+loop_
+_publ_author_name
+'Chiari G'
+'Gazzoni G'
+'Craig J R'
+'Gibbs G V'
+'Louisnathan S J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 70 
+_journal_year 1985
+_journal_page_first 969
+_journal_page_last 974
+_publ_section_title
+;
+ Two independent refinements of the structure of paracelsian, BaAl2Si2O8
+ Sample: CG refinement
+;
+_database_code_amcsd 0000997
+_chemical_compound_source 'Benallt Mine, Carnarvonshire, U.K.'
+_chemical_formula_sum 'Ba Al2 Si2 O8'
+_cell_length_a 9.072
+_cell_length_b 9.588
+_cell_length_c 8.577
+_cell_angle_alpha 90
+_cell_angle_beta 90.21
+_cell_angle_gamma 90
+_cell_volume 746.042
+_exptl_crystal_density_diffrn      3.343
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ba   0.89778   0.41169   0.25051   0.00800
+Al1   0.06389   0.19453   0.57128   0.00500
+Si1   0.06737   0.19879   0.93951   0.00500
+Al2   0.22539   0.92092   0.93134   0.00500
+Si2   0.23099   0.91692   0.56341   0.00600
+O1o   0.19530   0.08860   0.99850   0.01000
+O1m   0.19350   0.07370   0.50440   0.01000
+O2o   0.12850   0.36040   0.95690   0.00800
+O2m   0.13130   0.36320   0.54500   0.00800
+O3o   0.92730   0.18500   0.05750   0.01000
+O3m   0.91170   0.18520   0.44940   0.01000
+O4   0.01920   0.16660   0.76320   0.01300
+O5   0.29360   0.91070   0.74220   0.01100

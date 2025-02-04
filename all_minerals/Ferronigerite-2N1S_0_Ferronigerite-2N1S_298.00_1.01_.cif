@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Ferronigerite-2N1S'
+loop_
+_publ_author_name
+'Arakcheeva A V'
+'Pushcharovskii D Y'
+'Rastsvetaeva R K'
+'Kashaev A A'
+'Nadezhina T N'
+_journal_name_full 'Kristallografiya'
+_journal_volume 40 
+_journal_year 1995
+_journal_page_first 639
+_journal_page_last 644
+_publ_section_title
+;
+ Crystal structure of nigerite-6H
+;
+_database_code_amcsd 0018796
+_chemical_compound_source 'Eastern Siberia, Irkutsk, Russia'
+_chemical_formula_sum 'Al8.435 Fe.83 Zn.36 Sn O15 H'
+_cell_length_a 5.717
+_cell_length_b 5.717
+_cell_length_c 13.80
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 390.612
+_exptl_crystal_density_diffrn      5.588
+_symmetry_space_group_name_H-M 'P -3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,-x+y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+  '-x,-y,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  'x-y,x,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+AlM1   0.00000   0.00000   0.50000   1.00000   0.00443
+AlM2   0.16910   0.33770   0.33060   1.00000   0.00456
+AlT1   0.66667   0.33333   0.45380   0.20000   0.00646
+FeT1   0.66667   0.33333   0.45380   0.44000   0.00646
+ZnT1   0.66667   0.33333   0.45380   0.36000   0.00646
+AlT2   0.00000   0.00000   0.12350   0.61000   0.00532
+FeT2   0.00000   0.00000   0.12350   0.39000   0.00532
+AlM3   0.50000   0.00000   0.00000   0.75000   0.00773
+Sn   0.66667   0.33333   0.18720   1.00000   0.00507
+O1   0.29380   0.14710   0.41280   1.00000   0.00811
+O2   0.33333   0.66667   0.40270   1.00000   0.00659
+O3   0.00000   0.00000   0.25920   1.00000   0.00545
+O4   0.01210   0.50610   0.26040   1.00000   0.00659
+O5   0.33333   0.66667   0.07010   1.00000   0.00785
+O6   0.35180   0.17590   0.08460   1.00000   0.01254
+H   0.33333   0.66667   0.14000   1.00000   0.01267

@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Ferronigerite-6N6S'
+loop_
+_publ_author_name
+'Grey I E'
+'Gatehouse B M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 64 
+_journal_year 1979
+_journal_page_first 1255
+_journal_page_last 1264
+_publ_section_title
+;
+ The crystal structure of nigerite-24R
+;
+_database_code_amcsd 0000754
+_chemical_compound_source 'Mt Garnet, northern Queensland, Australia'
+_chemical_formula_sum 'Al7.45 Sn Fe1.4 Zn.7 O16 H'
+_cell_length_a 18.826
+_cell_length_b 18.826
+_cell_length_c 18.826
+_cell_angle_alpha 17.508
+_cell_angle_beta 17.508
+_cell_angle_gamma 17.508
+_cell_volume 527.035
+_exptl_crystal_density_diffrn      4.415
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-z,-y'
+  '-z,-x,-y'
+  'y,x,z'
+  'y,z,x'
+  '-z,-y,-x'
+  '-x,-y,-z'
+  'x,z,y'
+  'z,x,y'
+  '-y,-x,-z'
+  '-y,-z,-x'
+  'z,y,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Al(1)   0.50000   0.00000   0.50000   0.70000   0.00304
+Sn(2)   0.28684   0.28684   0.28684   1.00000   0.00393
+Al(3)   0.03070   0.03070   0.03070   0.60000   0.00659
+Fe(3)   0.03070   0.03070   0.03070   0.40000   0.00659
+Al(4)   0.75013   0.75013   0.25328   1.00000   0.00443
+Al(5)   0.12488   0.12488   0.12488   1.00000   0.00279
+Fe(6)   0.53153   0.53153   0.53153   0.50000   0.00494
+Zn(6)   0.53153   0.53153   0.53153   0.40000   0.00494
+Al(6)   0.53153   0.53153   0.53153   0.10000   0.00494
+Fe(7)   0.22047   0.22047   0.22047   0.50000   0.00836
+Zn(7)   0.22047   0.22047   0.22047   0.30000   0.00836
+Al(7)   0.22047   0.22047   0.22047   0.20000   0.00836
+Al(8)   0.00000   0.00000   0.50000   1.00000   0.00418
+O(1)   0.15580   0.15580   0.62570   1.00000   0.01191
+O-H(2)   0.35040   0.35040   0.35040   1.00000   0.01153
+O(3)   0.44200   0.44200   0.92130   1.00000   0.01241
+O(4)   0.06440   0.06440   0.06440   1.00000   0.01115
+O(5)   0.04390   0.04390   0.60260   1.00000   0.01039
+O(6)   0.56660   0.56660   0.56660   1.00000   0.00329
+O(7)   0.70560   0.70560   0.14670   1.00000   0.01229
+O(8)   0.18440   0.18440   0.18440   1.00000   0.00912

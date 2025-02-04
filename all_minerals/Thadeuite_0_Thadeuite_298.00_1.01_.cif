@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Thadeuite'
+loop_
+_publ_author_name
+'Isaacs A M'
+'Peacor D R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 67 
+_journal_year 1982
+_journal_page_first 120
+_journal_page_last 125
+_publ_section_title
+;
+ The crystal structure of thadeuite, Mg(Ca,Mn)(Mg,Fe,Mn)2(PO4)2(OH,F)2
+;
+_database_code_amcsd 0000859
+_chemical_formula_sum 'P2 Mg2.18 Fe.58 Mn.29 Ca.95 O10 H2'
+_cell_length_a 6.412
+_cell_length_b 13.563
+_cell_length_c 8.545
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 743.124
+_exptl_crystal_density_diffrn      3.248
+_symmetry_space_group_name_H-M 'C 2 2 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+P   0.16180   0.33820   0.04590   1.00000
+Mg1   0.00000   0.14600   0.25000   1.00000
+Mg2   0.35410   0.38400   0.40430   0.59000
+Fe2   0.35410   0.38400   0.40430   0.29000
+Mn2   0.35410   0.38400   0.40430   0.12000
+Mn3   0.50000   0.03610   0.25000   0.05000
+Ca3   0.50000   0.03610   0.25000   0.95000
+O1   0.11990   0.22810   0.06870   1.00000
+O2   0.33280   0.37350   0.15850   1.00000
+O3   0.27330   0.14310   0.37640   1.00000
+O4   0.03470   0.39960   0.42240   1.00000
+O-H   0.14890   0.03850   0.13220   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P 0.00521 0.01025 0.00888 0.00000 0.00083 0.00059
+Mg1 0.00229 0.01025 0.00592 0.00000 0.00056 0.00000
+Mg2 0.00583 0.01491 0.01036 0.00088 0.00028 0.00235
+Fe2 0.00583 0.01491 0.01036 0.00088 0.00028 0.00235
+Mn2 0.00583 0.01491 0.01036 0.00088 0.00028 0.00235
+Mn3 0.00833 0.01118 0.01480 0.00000 0.00028 0.00000
+Ca3 0.00833 0.01118 0.01480 0.00000 0.00028 0.00000
+O1 0.01541 0.01212 0.01591 0.00088 0.00111 0.00059
+O2 0.00708 0.02423 0.01517 -0.00176 -0.00222 -0.00352
+O3 0.01166 0.02050 0.01036 0.00000 -0.00500 -0.00470
+O4 0.01041 0.01491 0.01406 -0.00132 0.00056 0.00235
+O-H 0.01312 0.01398 0.01147 0.00220 0.00083 0.00294

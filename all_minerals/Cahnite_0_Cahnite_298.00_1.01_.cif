@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Cahnite'
+loop_
+_publ_author_name
+'Prewitt C T'
+'Buerger M J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 46 
+_journal_year 1961
+_journal_page_first 1077
+_journal_page_last 1085
+_publ_section_title
+;
+ The crystal structure of cahnite, Ca2BAsO4(OH)4
+;
+_database_code_amcsd 0000097
+_chemical_compound_source 'Franklin, New Jersey, USA'
+_chemical_formula_sum 'As B Ca2 O8 H4'
+_cell_length_a 7.11
+_cell_length_b 7.11
+_cell_length_c 6.20
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 313.423
+_exptl_crystal_density_diffrn      3.157
+_symmetry_space_group_name_H-M 'I -4'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+As   0.00000   0.00000   0.00000
+B   0.00000   0.50000   0.25000
+Ca1   0.00000   0.00000   0.50000
+Ca2   0.00000   0.50000   0.75000
+O1   0.17800   0.05400   0.16700
+O-H2   0.16000   0.44400   0.11400

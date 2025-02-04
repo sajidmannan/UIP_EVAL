@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Magnolite'
+loop_
+_publ_author_name
+'Grice J D'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 27 
+_journal_year 1989
+_journal_page_first 133
+_journal_page_last 136
+_publ_section_title
+;
+ The crystal structure of magnolite, Hg2TeO3
+;
+_database_code_amcsd 0005221
+_chemical_compound_source 'Mount Lion Mine, Colorado, USA'
+_chemical_formula_sum 'Hg2 Te O3'
+_cell_length_a 5.958
+_cell_length_b 10.576
+_cell_length_c 3.749
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 236.231
+_exptl_crystal_density_diffrn      8.109
+_symmetry_space_group_name_H-M 'P m m 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,z'
+  'x,1/2-y,z'
+  '-x,-y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Hg   0.19070   0.55280   0.00000 ?
+Te   0.44520   0.25000   0.49910 ?
+O1   0.50100   0.13000  -0.12200   0.02900
+O2   0.73400   0.25000   0.43800   0.03000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg 0.01490 0.02100 0.03510 0.00590 0.00780 -0.00440
+Te 0.00960 0.01590 0.01820 0.00000 0.00300 0.00000

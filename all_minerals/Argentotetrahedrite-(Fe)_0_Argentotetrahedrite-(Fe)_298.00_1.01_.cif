@@ -1,0 +1,106 @@
+data_global
+_chemical_name_mineral 'Argentotetrahedrite-(Fe)'
+loop_
+_publ_author_name
+'Johnson M L'
+'Burnham C W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 70 
+_journal_year 1985
+_journal_page_first 165
+_journal_page_last 170
+_publ_section_title
+;
+ Crystal structure refinement of an arsenic-bearing argentian tetrahedrite
+;
+_database_code_amcsd 0000964
+_chemical_formula_sum 'Cu7.68 Fe1.44 Ag2.118 (Sb2.7 As1.3) S13'
+_cell_length_a 10.530
+_cell_length_b 10.530
+_cell_length_c 10.530
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1167.576
+_exptl_crystal_density_diffrn      4.665
+_symmetry_space_group_name_H-M 'I -4 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-z,x,-y'
+  '1/2-z,1/2+x,1/2-y'
+  '-y,z,-x'
+  '1/2-y,1/2+z,1/2-x'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,-z,-y'
+  '1/2+x,1/2-z,1/2-y'
+  'z,-y,-x'
+  '1/2+z,1/2-y,1/2-x'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  'x,z,y'
+  '1/2+x,1/2+z,1/2+y'
+  'z,y,x'
+  '1/2+z,1/2+y,1/2+x'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-z,-x,y'
+  '1/2-z,1/2-x,1/2+y'
+  '-y,-z,x'
+  '1/2-y,1/2-z,1/2+x'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'z,-x,-y'
+  '1/2+z,1/2-x,1/2-y'
+  'y,-z,-x'
+  '1/2+y,1/2-z,1/2-x'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,z,-y'
+  '1/2-x,1/2+z,1/2-y'
+  '-z,y,-x'
+  '1/2-z,1/2+y,1/2-x'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  '-x,-z,y'
+  '1/2-x,1/2-z,1/2+y'
+  '-z,-y,x'
+  '1/2-z,1/2-y,1/2+x'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'z,x,y'
+  '1/2+z,1/2+x,1/2+y'
+  'y,z,x'
+  '1/2+y,1/2+z,1/2+x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu1   0.25000   0.50000   0.00000   0.63300 ?
+Fe1   0.25000   0.50000   0.00000   0.24000 ?
+Cu2   0.21600   0.00000   0.00000   0.64700 ?
+Ag2   0.21600   0.00000   0.00000   0.35300 ?
+Sb   0.26830   0.26830   0.26830   0.67500 ?
+As   0.26830   0.26830   0.26830   0.32500 ?
+S1   0.12380   0.12380   0.36610   1.00000 ?
+S2   0.00000   0.00000   0.00000   1.00000   0.06586
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.02752 0.00899 0.00899 0.00000 0.00000 0.00000
+Fe1 0.02752 0.00899 0.00899 0.00000 0.00000 0.00000
+Cu2 0.05673 0.06853 0.06853 0.00000 0.00000 -0.03820
+Ag2 0.05673 0.06853 0.06853 0.00000 0.00000 -0.03820
+Sb 0.01292 0.01292 0.01292 -0.00225 -0.00225 -0.00225
+As 0.01292 0.01292 0.01292 -0.00225 -0.00225 -0.00225
+S1 0.03707 0.03707 0.02191 0.01685 -0.00618 -0.00618

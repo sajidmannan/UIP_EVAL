@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Retgersite'
+loop_
+_publ_author_name
+'O'Connor B H'
+'Dale D H'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 21 
+_journal_year 1966
+_journal_page_first 705
+_journal_page_last 709
+_publ_section_title
+;
+ A neutron diffraction analysis of the crystal
+ structure of tetragonal nickel sulphate hexadeuterate
+;
+_database_code_amcsd 0009303
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ni S O10 D12'
+_cell_length_a 6.790
+_cell_length_b 6.790
+_cell_length_c 18.305
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 843.936
+_exptl_crystal_density_diffrn      2.164
+_symmetry_space_group_name_H-M 'P 41 21 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'y,x,-z'
+  '1/2-y,1/2+x,1/4+z'
+  '1/2-x,1/2+y,1/4-z'
+  '-x,-y,1/2+z'
+  '-y,-x,1/2-z'
+  '1/2+y,1/2-x,3/4+z'
+  '1/2+x,1/2-y,3/4-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ni   0.21010   0.21010   0.00000   0.01520
+S   0.71260   0.71260   0.00000   0.02153
+O4   0.62260   0.61910   0.06480   0.03420
+O5   0.92480   0.67570  -0.00030   0.02406
+O1   0.17140  -0.04890   0.05180   0.02913
+O2   0.47200   0.24490   0.05640   0.01773
+O3   0.06410   0.35640   0.08520   0.02153
+D11   0.07540  -0.14090   0.03990   0.03040
+D12   0.24930  -0.08620   0.09590   0.03546
+D21   0.56790   0.14110   0.04930   0.04179
+D22   0.54230   0.36860   0.05650   0.02786
+D31  -0.01150   0.46750   0.06810   0.03800
+D32  -0.01780   0.27330   0.11550   0.02913

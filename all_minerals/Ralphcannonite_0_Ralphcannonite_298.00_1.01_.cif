@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Ralphcannonite'
+loop_
+_publ_author_name
+'Bindi L'
+'Biagioni C'
+'Raber T'
+'Roth T'
+'Nestola F'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 79 
+_journal_year 2015
+_journal_page_first 1089
+_journal_page_last 1098
+_publ_section_title
+;
+ Ralphcannonite, AgZn2TlAs2S6, a new mineral of the routhierite isotypic
+ series from Lengenbach, Binn Valley, Switzerland
+;
+_database_code_amcsd 0020618
+_chemical_compound_source 'Lengenbach quarry, Binn Valley, Wallis, Switzerland'
+_chemical_formula_sum 'Ag.634 Zn1.331 Fe.468 Hg.318 Cu.249 Tl (As1.99 Sb.01) S6'
+_cell_length_a 9.861
+_cell_length_b 9.861
+_cell_length_c 11.125
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1081.787
+_exptl_crystal_density_diffrn      4.963
+_symmetry_space_group_name_H-M 'I -4 2 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+AgM2   0.22280   0.50000   0.50000   0.31700   0.04050
+ZnM2   0.22280   0.50000   0.50000   0.29000   0.04050
+FeM2   0.22280   0.50000   0.50000   0.23400   0.04050
+HgM2   0.22280   0.50000   0.50000   0.15900   0.04050
+ZnM1   0.00000   0.50000   0.25000   0.75100   0.03340
+CuM1   0.00000   0.50000   0.25000   0.24900   0.03340
+Tl   0.00000   0.00000   0.35240   1.00000   0.04130
+As   0.26110   0.26110   0.25870   0.99500   0.04000
+Sb   0.26110   0.26110   0.25870   0.00500   0.04000
+S1   0.09430   0.33080   0.37430   1.00000   0.03700
+S2   0.12570   0.12570   0.12950   1.00000   0.04000

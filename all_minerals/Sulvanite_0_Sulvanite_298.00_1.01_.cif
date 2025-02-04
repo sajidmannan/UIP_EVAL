@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Sulvanite'
+loop_
+_publ_author_name
+'Trojer F J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 51 
+_journal_year 1966
+_journal_page_first 890
+_journal_page_last 894
+_publ_section_title
+;
+ Refinement of the structure of sulvanite
+ Note: symmetry constraints on B(i,j) reported incorrectly
+;
+_database_code_amcsd 0000146
+_chemical_formula_sum 'Cu3 V S4'
+_cell_length_a 5.3912
+_cell_length_b 5.3912
+_cell_length_c 5.3912
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 156.695
+_exptl_crystal_density_diffrn      3.919
+_symmetry_space_group_name_H-M 'P -4 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-z,x,-y'
+  '-y,z,-x'
+  '-x,y,-z'
+  'x,-z,-y'
+  'z,-y,-x'
+  'y,-x,-z'
+  'x,z,y'
+  'z,y,x'
+  'y,x,z'
+  '-z,-x,y'
+  '-y,-z,x'
+  '-x,-y,z'
+  'z,-x,-y'
+  'y,-z,-x'
+  'x,-y,-z'
+  '-x,z,-y'
+  '-z,y,-x'
+  '-y,x,-z'
+  '-x,-z,y'
+  '-z,-y,x'
+  '-y,-x,z'
+  'z,x,y'
+  'y,z,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu   0.50000   0.00000   0.00000
+V   0.00000   0.00000   0.00000
+S   0.23720   0.23720   0.23720
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.01193 0.01796 0.01796 0.00000 0.00000 0.00000
+V 0.00530 0.00530 0.00530 0.00000 0.00000 0.00000
+S 0.01296 0.01296 0.01296 0.00265 0.00265 0.00265

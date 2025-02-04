@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Luobusaite'
+loop_
+_publ_author_name
+'Li G'
+'Sh N'
+'Xiong M'
+'Ma Z'
+'Bai W'
+'Fang Q'
+_journal_name_full 'Journal of Mineralogy and Petrology'
+_journal_volume 27 
+_journal_year 2007
+_journal_page_first 1
+_journal_page_last 5
+_publ_section_title
+;
+ Rietveld structure refinement of new mineral luobusaite (beta-FeSi2)
+;
+_database_code_amcsd 0019737
+_chemical_formula_sum 'Fe.96 Si2'
+_cell_length_a 9.8362
+_cell_length_b 7.8301
+_cell_length_c 7.8655
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 605.788
+_exptl_crystal_density_diffrn      4.815
+_symmetry_space_group_name_H-M 'C m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,1/2-y,1/2+z'
+  '1/2+x,-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,+y,1/2-z'
+  '-x,y,z'
+  '1/2-x,1/2+y,z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,-z'
+  'x,1/2+y,1/2-z'
+  '1/2+x,+y,1/2-z'
+  '-x,1/2-y,1/2+z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Fe1   0.77885   0.00000   0.00000   1.00000   0.00146
+Fe2   0.00000   0.20284   0.80213   0.92000   0.00166
+Si1   0.11806   0.26176   0.05338   1.00000   0.00382
+Si2   0.36256   0.05784   0.21333   1.00000   0.00485

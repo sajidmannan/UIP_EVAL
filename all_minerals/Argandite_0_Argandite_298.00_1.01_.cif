@@ -1,0 +1,83 @@
+data_global
+_chemical_name_mineral 'Argandite'
+loop_
+_publ_author_name
+'Brugger J'
+'Elliott P'
+'Meisser N'
+'Ansermet S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 96 
+_journal_year 2011
+_journal_page_first 1894
+_journal_page_last 1900
+_publ_section_title
+;
+ Argandite, Mn7(VO4)2(OH)8, the V analogue of allactite from the metamorphosed
+ Mn ores at Pipji, Turtmann Valley, Switzerland
+;
+_database_code_amcsd 0018517
+_chemical_compound_source 'Pipji, Turtmann Valley, Switzerland'
+_chemical_formula_sum 'Mn6.72 (V1.46 As.54) O16 H8'
+_cell_length_a 5.5038
+_cell_length_b 12.2665
+_cell_length_c 10.1055
+_cell_angle_alpha 90
+_cell_angle_beta 95.559
+_cell_angle_gamma 90
+_cell_volume 679.038
+_exptl_crystal_density_diffrn      3.659
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mn1   0.00000   0.50000   0.50000   1.00000   0.01050
+Mn2   0.23235   0.17921   0.79338   1.00000   0.01200
+Mn3   0.74927   0.56820   0.99173   0.92000   0.00950
+Mn4   0.24910   0.20769   0.50088   0.94000   0.01030
+V   0.53430   0.42008   0.70834   0.73000   0.00790
+As   0.53430   0.42008   0.70834   0.27000   0.00790
+O2   0.56170   0.42947   0.88170   1.00000   0.01260
+O-h1   0.05350   0.30600   0.88750   1.00000   0.01380
+O-h3   0.07840   0.34490   0.40600   1.00000   0.01560
+O4   0.41590   0.29650   0.66770   1.00000   0.01770
+O-h5   0.07490   0.56120   0.88700   1.00000   0.01520
+O-h6   0.54330   0.68240   0.87240   1.00000   0.01510
+O7   0.34960   0.52030   0.63750   1.00000   0.01540
+O8   0.82050   0.42730   0.66160   1.00000   0.01820
+H1   0.01300   0.34700   0.80700   1.00000   0.05300
+H3   0.19300   0.36100   0.34200   1.00000   0.05300
+H5   0.05600   0.52700   0.80100   1.00000   0.05300
+H6   0.64000   0.74600   0.86400   1.00000   0.05300
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn1 0.01170 0.00980 0.00980 -0.00100 0.00030 -0.00160
+Mn2 0.01120 0.01190 0.01240 0.00190 -0.00190 -0.00080
+Mn3 0.00720 0.00940 0.01160 -0.00020 -0.00030 0.00010
+Mn4 0.01000 0.01040 0.01050 -0.00120 0.00060 0.00000
+V 0.00740 0.00820 0.00780 0.00040 -0.00020 -0.00010
+As 0.00740 0.00820 0.00780 0.00040 -0.00020 -0.00010
+O2 0.01040 0.01430 0.01260 0.00040 -0.00140 -0.00020
+O-h1 0.01390 0.01490 0.01260 0.00080 0.00080 -0.00050
+O-h3 0.01280 0.01560 0.01830 -0.00070 0.00090 0.00050
+O4 0.02320 0.01350 0.01560 -0.00160 -0.00210 -0.00460
+O-h5 0.01230 0.01380 0.01920 -0.00110 0.00080 0.00040
+O-h6 0.01390 0.01570 0.01580 0.00280 0.00180 -0.00170
+O7 0.01620 0.01270 0.01650 0.00260 -0.00250 0.00290
+O8 0.01350 0.02700 0.01420 0.00480 0.00160 0.00170

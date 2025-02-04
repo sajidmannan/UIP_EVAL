@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Linzhiite'
+loop_
+_publ_author_name
+'Li G'
+'Bai W'
+'Shi N'
+'Fang Q'
+'Xiong M'
+'Yang J'
+'Ma Z'
+'Rong H'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 24 
+_journal_year 2012
+_journal_page_first 1047
+_journal_page_last 1052
+_publ_section_title
+;
+ Linzhiite, FeSi2, a redefined and revalidated new mineral
+ species from Luobusha, Tibet, China
+;
+_database_code_amcsd 0019595
+_chemical_compound_source 'Luobusha, Tibet, China'
+_chemical_formula_sum 'Fe Si2'
+_cell_length_a 2.696
+_cell_length_b 2.696
+_cell_length_c 5.147
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 37.411
+_exptl_crystal_density_diffrn      4.972
+_symmetry_space_group_name_H-M 'P 4/m m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x,-z'
+  '-y,x,z'
+  'x,-y,z'
+  '-x,y,-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'y,x,z'
+  '-y,-x,-z'
+  '-y,x,-z'
+  'y,-x,z'
+  '-x,y,z'
+  'x,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Fe   0.50000   0.50000   0.00000   0.00700
+Si   0.00000   0.00000   0.27170   0.00300

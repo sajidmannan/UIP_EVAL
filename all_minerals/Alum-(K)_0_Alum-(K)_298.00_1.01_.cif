@@ -1,0 +1,100 @@
+data_global
+_chemical_name_mineral 'Alum-(K)'
+loop_
+_publ_author_name
+'Biagioni C'
+'Mauro D'
+'Pasero M'
+'Bonaccorsi E'
+'Lepore G O'
+'Zaccarini F'
+'Skogby H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 105 
+_journal_year 2020
+_journal_page_first 1088
+_journal_page_last 1098
+_publ_section_title
+;
+ Crystal-chemistry of sulfates from the Apuan Alps (Tuscany, Italy).
+ VI. Tl-bearing alum-(K) and voltaite from the Fornovolasco mining complex
+;
+_database_code_amcsd 0020896
+_chemical_compound_source 'Fornovolasco mine, Apuan Alps, Italy'
+_chemical_formula_sum '(K.879 Tl.121) (Al.877 Fe.123) S2 O20 H24'
+_cell_length_a 12.2030
+_cell_length_b 12.2030
+_cell_length_c 12.2030
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1817.188
+_exptl_crystal_density_diffrn      1.820
+_symmetry_space_group_name_H-M 'P a -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+z,x,1/2-y'
+  'z,1/2-x,1/2+y'
+  '1/2-z,1/2+x,y'
+  '-z,-x,-y'
+  '1/2+y,1/2-z,-x'
+  '1/2-y,-z,1/2+x'
+  '-y,1/2+z,1/2-x'
+  'y,z,x'
+  'x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,y,1/2-z'
+  '-x,-y,-z'
+  '1/2-z,-x,1/2+y'
+  '-z,1/2+x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'z,x,y'
+  '1/2-y,1/2+z,x'
+  '1/2+y,z,1/2-x'
+  'y,1/2-z,1/2+x'
+  '-y,-z,-x'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+K   0.50000   0.50000   0.50000   0.87900   0.05260
+Tl   0.50000   0.50000   0.50000   0.12100   0.05260
+Al   0.00000   0.00000   0.00000   0.87700   0.01780
+Fe   0.00000   0.00000   0.00000   0.12300   0.01780
+S   0.30852   0.30852   0.30852   1.00000   0.02250
+OW1   0.15320   0.01817  -0.01744   1.00000   0.02560
+H11   0.20500   0.02800   0.04100   1.00000   0.06600
+H12   0.18700   0.04400  -0.08300   1.00000   0.06800
+OW2   0.04621   0.13636   0.30100   1.00000   0.03740
+H21  -0.00200   0.19500   0.29100   1.00000   0.06900
+H22   0.11500   0.16800   0.30000   1.00000   0.10000
+O3   0.24030   0.24030   0.24030   0.77000   0.06580
+O4   0.26520   0.42090   0.31150   0.77000   0.04610
+O3A   0.37610   0.37610   0.37610   0.23000   0.06580
+O4A   0.28730   0.20410   0.36460   0.23000   0.04610
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.05260 0.05260 0.05260 0.01090 0.01090 0.01090
+Tl 0.05260 0.05260 0.05260 0.01090 0.01090 0.01090
+Al 0.01780 0.01780 0.01780 -0.00030 -0.00030 -0.00030
+Fe 0.01780 0.01780 0.01780 -0.00030 -0.00030 -0.00030
+S 0.02250 0.02250 0.02250 0.00388 0.00388 0.00388
+OW1 0.01820 0.03250 0.02600 -0.00420 0.00040 0.00120
+OW2 0.04060 0.03390 0.03760 0.00260 -0.00700 -0.00690
+O3 0.06580 0.06580 0.06580 -0.01650 -0.01650 -0.01650
+O4 0.06380 0.03260 0.04200 0.02500 0.02830 0.01410
+O3A 0.06580 0.06580 0.06580 -0.01650 -0.01650 -0.01650
+O4A 0.06380 0.03260 0.04200 0.02500 0.02830 0.01410

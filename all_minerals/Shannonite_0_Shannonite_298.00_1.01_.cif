@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Shannonite'
+loop_
+_publ_author_name
+'Krivovichev S V'
+'Burns P C'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 64 
+_journal_year 2000
+_journal_page_first 1063
+_journal_page_last 1068
+_publ_section_title
+;
+ Crystal chemistry of basic lead carbonates. I. Crystal structure of synthetic
+ shannonite, Pb2O(CO3)
+;
+_database_code_amcsd 0014550
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Pb2 C O4'
+_cell_length_a 5.1465
+_cell_length_b 9.014
+_cell_length_c 9.315
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 432.128
+_exptl_crystal_density_diffrn      7.538
+_symmetry_space_group_name_H-M 'P 21 21 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.01010   0.55560   0.58425   0.01850
+Pb2   0.96730   0.24390   0.34664   0.02190
+C   0.99100   0.49200   0.89800   0.01800
+O1   0.21400   0.48500   0.83800   0.03200
+O2   0.72200   0.50200   0.33600   0.02200
+O3   0.01600  -0.02000   0.45500   0.01800
+O4   0.04300   0.32100   0.57200   0.01900
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.01880 0.01630 0.02040 0.00120 0.00040 0.00030
+Pb2 0.03360 0.01900 0.01290 0.00010 0.00140 0.00130
+O1 0.01000 0.05500 0.03100 0.01800 0.01000 0.00000
+O2 0.01400 0.02100 0.03100 0.00600 0.00900 0.00500
+O3 0.01500 0.02500 0.01500 0.00300 0.00900 0.00800
+O4 0.02800 0.02100 0.00800 0.00000 0.00500 0.00500

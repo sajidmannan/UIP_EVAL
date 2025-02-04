@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Thenardite'
+loop_
+_publ_author_name
+'Hawthorne F C'
+'Ferguson R B'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 13 
+_journal_year 1975
+_journal_page_first 181
+_journal_page_last 187
+_publ_section_title
+;
+ Anhydrous sulphates. I: Refinement of the crystal structure of celestite
+ with an appendix on the structure of thenardite
+;
+_database_code_amcsd 0005113
+_chemical_formula_sum 'Na2 S O4'
+_cell_length_a 9.829
+_cell_length_b 12.302
+_cell_length_c 5.868
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 709.537
+_exptl_crystal_density_diffrn      2.659
+_symmetry_space_group_name_H-M 'F d d d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2+z'
+  '1/2+x,1/2+y,z'
+  '3/4+x,-y,3/4+z'
+  '3/4+x,1/2-y,1/4+z'
+  '1/4+x,-y,1/4+z'
+  '1/4+x,1/2-y,3/4+z'
+  '3/4-x,y,3/4-z'
+  '3/4-x,1/2+y,1/4-z'
+  '1/4-x,y,1/4-z'
+  '1/4-x,1/2+y,3/4-z'
+  '-x,3/4+y,3/4+z'
+  '-x,1/4+y,1/4+z'
+  '1/2-x,3/4+y,1/4+z'
+  '1/2-x,1/4+y,3/4+z'
+  'x,3/4-y,3/4-z'
+  'x,1/4-y,1/4-z'
+  '1/2+x,3/4-y,1/4-z'
+  '1/2+x,1/4-y,3/4-z'
+  '3/4+x,3/4+y,-z'
+  '3/4+x,1/4+y,1/2-z'
+  '1/4+x,3/4+y,1/2-z'
+  '1/4+x,1/4+y,-z'
+  '3/4-x,3/4-y,z'
+  '3/4-x,1/4-y,1/2+z'
+  '1/4-x,3/4-y,1/2+z'
+  '1/4-x,1/4-y,z'
+  '-x,-y,-z'
+  '-x,1/2-y,1/2-z'
+  '1/2-x,-y,1/2-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na   0.44160   0.12500   0.12500
+S   0.12500   0.12500   0.12500
+O   0.21380   0.05720   0.97930
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na 0.02198 0.01955 0.01594 0.00000 0.00000 0.00077
+S 0.01116 0.01227 0.00877 0.00000 0.00000 0.00000
+O 0.01757 0.01986 0.01703 0.00190 0.00421 -0.00545

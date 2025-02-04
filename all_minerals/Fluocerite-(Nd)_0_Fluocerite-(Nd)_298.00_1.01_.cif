@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Fluocerite-(Nd)'
+loop_
+_publ_author_name
+'Oftedal I'
+_journal_name_full 'Zeitschrift fur Physikalische Chemie'
+_journal_volume 5 
+_journal_year 1929
+_journal_page_first 272
+_journal_page_last 292
+_publ_section_title
+;
+ Ueber die Kristallstruktur von Tysonit und einigen kuenstlich
+ dargestellten Lanthanidenfluoriden
+ _cod_database_code 1010985
+;
+_database_code_amcsd 0017901
+_chemical_formula_sum 'Nd F3'
+_cell_length_a 7.034
+_cell_length_b 7.034
+_cell_length_c 7.211
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 308.980
+_exptl_crystal_density_diffrn      6.489
+_symmetry_space_group_name_H-M 'P 63 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,x-y,1/2-z'
+  'x-y,x,1/2+z'
+  'y,x,-z'
+  '-y,x-y,z'
+  '-x+y,y,1/2-z'
+  '-x,-y,1/2+z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-y,-x,1/2-z'
+  'y,-x+y,1/2+z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Nd1   0.33333   0.33333   0.00000
+F1   0.38000   0.04600   0.16000
+F2   0.33333   0.66667   0.08330
+F3   0.00000   0.00000   0.25000

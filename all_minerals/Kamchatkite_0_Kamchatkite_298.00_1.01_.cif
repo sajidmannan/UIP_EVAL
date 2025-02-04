@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Kamchatkite'
+loop_
+_publ_author_name
+'Varaksina T V'
+'Fundamensky V S'
+'Filatov S K'
+'Vergasova L P'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 54 
+_journal_year 1990
+_journal_page_first 613
+_journal_page_last 616
+_publ_section_title
+;
+ The crystal structure of kamchatkite, a new naturally occuring
+ oxychloride sulphate of potassium and copper
+;
+_database_code_amcsd 0014493
+_chemical_compound_source 'Tolbachik Main Fracture eruption, Kamchatka, Russia'
+_chemical_formula_sum 'K Cu3 S2 O9 Cl'
+_cell_length_a 9.741
+_cell_length_b 12.858
+_cell_length_c 7.001
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 876.874
+_exptl_crystal_density_diffrn      3.585
+_symmetry_space_group_name_H-M 'P n a 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,1/2+z'
+  '-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+K   0.13460   0.57450   0.84720   0.02774
+Cu1   0.15200   0.14914   0.83630   0.01229
+Cu2   0.22210   0.90739   0.83530   0.01203
+Cu3  -0.00120  -0.00090   0.08110   0.01115
+S1   0.16940   0.85420   0.33940   0.01026
+S2   0.07100   0.20970   0.33530   0.01165
+O1   0.17590   0.92500   0.50690   0.01267
+O2   0.04550   0.79070   0.31880   0.01305
+O3   0.20650   0.29300   0.84230   0.01672
+O4   0.17220   0.92210   0.16450   0.02153
+O5   0.07930   0.78880   0.84580   0.01393
+O6   0.12870   0.15690   0.49910   0.02026
+O7   0.11540   0.32110   0.35090   0.01710
+O8   0.11710   0.15400   0.16230   0.01140
+O9   0.07970   0.01010   0.82270   0.00887
+Cl   0.13440   0.55860   0.33960   0.02128

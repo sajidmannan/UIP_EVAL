@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Sudoite'
+loop_
+_publ_author_name
+'Eggleton R A'
+'Bailey S W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 52 
+_journal_year 1967
+_journal_page_first 673
+_journal_page_last 689
+_publ_section_title
+;
+ Structural aspects of dioctahedral chlorite
+;
+_database_code_amcsd 0000155
+_chemical_formula_sum 'Si3.32 Al3.37 Mg2.31 O18 H8'
+_cell_length_a 5.237
+_cell_length_b 9.070
+_cell_length_c 14.285
+_cell_angle_alpha 90
+_cell_angle_beta 97.03
+_cell_angle_gamma 90
+_cell_volume 673.431
+_exptl_crystal_density_diffrn      2.645
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Si   0.23120   0.16670   0.19090   0.83000
+Al   0.23120   0.16670   0.19090   0.17000
+Al2   0.00000   0.33330   0.00000   1.00000
+Mg3   0.00000   0.16670   0.50000   0.77000
+Al3   0.00000   0.16670   0.50000   0.23000
+Mg4   0.00000   0.50000   0.50000   0.77000
+Al4   0.00000   0.50000   0.50000   0.23000
+O1   0.19000   0.16670   0.07200   1.00000
+O2   0.19430   0.00000   0.23680   1.00000
+O3   0.50660   0.23350   0.23320   1.00000
+O-H1   0.19000   0.50000   0.07200   1.00000
+O-H2   0.14210   0.00000   0.42430   1.00000
+O-H3   0.14210   0.33330   0.42430   1.00000

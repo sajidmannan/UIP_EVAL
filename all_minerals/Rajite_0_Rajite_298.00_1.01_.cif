@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Rajite'
+loop_
+_publ_author_name
+'Hanke K'
+'Kupcik V'
+'Lindqvist O'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 29 
+_journal_year 1973
+_journal_page_first 963
+_journal_page_last 970
+_publ_section_title
+;
+ The crystal structure of CuTe2O5
+;
+_database_code_amcsd 0009478
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Cu Te2 O5'
+_cell_length_a 6.871
+_cell_length_b 9.322
+_cell_length_c 7.602
+_cell_angle_alpha 90
+_cell_angle_beta 109.08
+_cell_angle_gamma 90
+_cell_volume 460.169
+_exptl_crystal_density_diffrn      5.756
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu   0.34117   0.48715   0.29408
+Te1   0.13182   0.19969   0.08684
+Te2   0.65120   0.32349   0.05685
+O1   0.50150   0.10560   0.32320
+O2   0.89560   0.18180   0.46490
+O3   0.31850   0.34830   0.09310
+O4   0.13270   0.37220   0.35600
+O5   0.61500   0.37260   0.50670
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.01060 0.00630 0.00880 -0.00160 0.00520 -0.00090
+Te1 0.00799 0.00737 0.00833 -0.00093 0.00415 -0.00073
+Te2 0.00892 0.00670 0.00663 0.00025 0.00256 -0.00005
+O1 0.00990 0.01060 0.01060 0.00100 0.00250 -0.00330
+O2 0.00850 0.01550 0.01110 -0.00250 0.00530 -0.00260
+O3 0.01130 0.01080 0.01110 -0.00440 0.00600 -0.00340
+O4 0.01460 0.01270 0.01160 -0.00300 0.00680 0.00370
+O5 0.01910 0.00620 0.01120 0.00140 0.00570 -0.00170

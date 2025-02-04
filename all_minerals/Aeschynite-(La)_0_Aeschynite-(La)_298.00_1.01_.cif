@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Aeschynite-(La)'
+loop_
+_publ_author_name
+'Fauquier D'
+'Gasperin M'
+_journal_name_full 'Bulletin de la Societe Francaise de Mineralogie et de Cristallographie'
+_journal_volume 93 
+_journal_year 1970
+_journal_page_first 258
+_journal_page_last 259
+_publ_section_title
+;
+ Synthese de monocristaux et etude structurale de La Nb Ti O6
+ _cod_database_code 1001722
+;
+_database_code_amcsd 0012132
+_chemical_formula_sum 'La (Nb Ti) O6'
+_cell_length_a 10.934
+_cell_length_b 7.572
+_cell_length_c 5.446
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 450.887
+_exptl_crystal_density_diffrn      5.534
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+La1   0.04210   0.25000   0.54030   1.00000
+Nb1   0.14450  -0.00570   0.03620   0.50000
+Ti1   0.14450  -0.00570   0.03620   0.50000
+O1  -0.02600   0.03300   0.22800   1.00000
+O2   0.21000   0.05100   0.37400   1.00000
+O3   0.14400   0.25000  -0.01900   1.00000
+O4   0.12800  -0.25000   0.12600   1.00000

@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Chervetite'
+loop_
+_publ_author_name
+'Kawahara A'
+_journal_name_full 'Bulletin de la Societe Francaise de Mineralogie et de Cristallographie'
+_journal_volume 90 
+_journal_year 1967
+_journal_page_first 279
+_journal_page_last 284
+_publ_section_title
+;
+ La structure cristalline de la chervetite
+;
+_database_code_amcsd 0012125
+_chemical_compound_source 'Mounana, Gabon'
+_chemical_formula_sum 'Pb2 V2 O7'
+_cell_length_a 13.37
+_cell_length_b 7.16
+_cell_length_c 7.11
+_cell_angle_alpha 90
+_cell_angle_beta 106
+_cell_angle_gamma 90
+_cell_volume 654.268
+_exptl_crystal_density_diffrn      6.378
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1  -0.13258   0.40961   0.05457
+Pb2   0.15443   0.19219   0.33423
+V1   0.10748   0.06010  -0.20087
+V2  -0.08527   0.32390  -0.38817
+O1   0.46243   0.38074   0.13748
+O2   0.18039   0.21684  -0.02918
+O3   0.30039   0.45473   0.32882
+O4   0.46823   0.70119   0.40100
+O5   0.04238   0.48135   0.24622
+O6   0.15793   0.83009   0.30641
+O7   0.32602   0.13500   0.40351

@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Trona'
+loop_
+_publ_author_name
+'Choi C S'
+'Mighell A D'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 38 
+_journal_year 1982
+_journal_page_first 2874
+_journal_page_last 2876
+_publ_section_title
+;
+ Neutron diffraction study of sodium sesquicarbonate dihydrate
+ Note: H3 disordered model, this is the prefered model
+;
+_database_code_amcsd 0009779
+_chemical_formula_sum 'Na3 C2 O8 H5'
+_cell_length_a 20.36
+_cell_length_b 3.48
+_cell_length_c 10.29
+_cell_angle_alpha 90
+_cell_angle_beta 106.48
+_cell_angle_gamma 90
+_cell_volume 699.124
+_exptl_crystal_density_diffrn      2.147
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na1   0.00000   0.74786   0.25000   1.00000 ?
+Na2   0.15059   0.16359   0.42612   1.00000 ?
+C   0.09303   0.26524   0.10317   1.00000 ?
+O1   0.15103   0.39845   0.10200   1.00000 ?
+O2   0.05433   0.12980   0.98823   1.00000 ?
+O3   0.07258   0.25364   0.20797   1.00000 ?
+O4   0.21207   0.66563   0.35376   1.00000 ?
+H1   0.19149   0.59393   0.25966   1.00000 ?
+H2   0.25913   0.73060   0.36351   1.00000 ?
+H3   0.00480   0.01210   0.00060   0.50000   0.02584
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 0.01854 0.01276 0.01322 0.00000 0.00703 0.00000
+Na2 0.02433 0.01724 0.01356 -0.00289 0.00586 -0.00247
+C 0.01101 0.01086 0.00582 0.00100 0.00234 0.00056
+O1 0.01487 0.02307 0.01174 -0.00203 0.00488 0.00237
+O2 0.01583 0.02326 0.00671 -0.00286 0.00264 -0.00291
+O3 0.01641 0.01547 0.00769 -0.00162 0.00595 -0.00104
+O4 0.02201 0.02348 0.01470 -0.00737 0.00771 -0.00480
+H1 0.03418 0.03515 0.02358 -0.00434 0.00732 -0.00160
+H2 0.02819 0.03896 0.03127 -0.00520 0.00800 -0.00064

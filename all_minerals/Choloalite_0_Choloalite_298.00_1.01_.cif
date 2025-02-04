@@ -1,0 +1,88 @@
+data_global
+_chemical_name_mineral 'Choloalite'
+loop_
+_publ_author_name
+'Lam A E'
+'Groat L A'
+'Grice J D'
+'Ercit T S'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 37 
+_journal_year 1999
+_journal_page_first 721
+_journal_page_last 729
+_publ_section_title
+;
+ The crystal structure of choloalite
+;
+_database_code_amcsd 0005603
+_chemical_formula_sum 'Te6 (Cu2.79 Sb.21) (Pb2.7 Ca.3) O18 Cl.92'
+_cell_length_a 12.520
+_cell_length_b 12.520
+_cell_length_c 12.520
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1962.515
+_exptl_crystal_density_diffrn      6.297
+_symmetry_space_group_name_H-M 'P 41 3 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-z,1/2+x,1/2-y'
+  '-y,1/2+z,1/2-x'
+  '-x,1/2+y,1/2-z'
+  '1/4-x,3/4+z,1/4+y'
+  '1/4-z,3/4+y,1/4+x'
+  '1/4-y,3/4+x,1/4+z'
+  '3/4-x,3/4-z,3/4-y'
+  '3/4-z,3/4-y,3/4-x'
+  '3/4-y,3/4-x,3/4-z'
+  '1/2-z,-x,1/2+y'
+  '1/2-y,-z,1/2+x'
+  '1/2-x,-y,1/2+z'
+  '1/2+z,1/2-x,-y'
+  '1/2+y,1/2-z,-x'
+  '1/2+x,1/2-y,-z'
+  '1/4+x,1/4-z,3/4+y'
+  '1/4+z,1/4-y,3/4+x'
+  '1/4+y,1/4-x,3/4+z'
+  '3/4+x,1/4+z,1/4-y'
+  '3/4+z,1/4+y,1/4-x'
+  '3/4+y,1/4+x,1/4-z'
+  'z,x,y'
+  'y,z,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Te   0.08120   0.44060   0.34010   1.00000   0.02240
+Cu   0.12500   0.23210  -0.51790   0.93000   0.01970
+Sb   0.12500   0.23210  -0.51790   0.07000   0.01970
+Pb1   0.19270   0.19270   0.19270   0.90000   0.03780
+Ca1   0.19270   0.19270   0.19270   0.10000   0.03780
+Pb2   0.37500   0.37500   0.37500   0.90000   0.02650
+Ca2   0.37500   0.37500   0.37500   0.10000   0.02650
+O1   0.02610   0.12050   0.26820   1.00000   0.04130
+O2   0.17590   0.32740   0.37380   1.00000   0.02320
+O3   0.18570   0.52000   0.26130   1.00000   0.02480
+Cl   0.87500   0.87500   0.87500   0.92000   0.05480
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te 0.02040 0.02650 0.02010 0.00340 0.00470 -0.00050
+Cu 0.01930 0.01990 0.01990 -0.00110 0.00110 0.00910
+Sb 0.01930 0.01990 0.01990 -0.00110 0.00110 0.00910
+Pb1 0.03780 0.03780 0.03780 -0.00730 -0.00730 -0.00730
+Ca1 0.03780 0.03780 0.03780 -0.00730 -0.00730 -0.00730
+Pb2 0.02650 0.02650 0.02650 -0.00760 -0.00760 -0.00760
+Ca2 0.02650 0.02650 0.02650 -0.00760 -0.00760 -0.00760
+Cl 0.05480 0.05480 0.05480 0.00240 0.00240 0.00240

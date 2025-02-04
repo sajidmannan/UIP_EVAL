@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Namansilite'
+loop_
+_publ_author_name
+'Ohashi H'
+'Osawa T'
+'Tsukimura K'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 43 
+_journal_year 1987
+_journal_page_first 605
+_journal_page_last 607
+_publ_section_title
+;
+ Refinement of the structure of manganese sodium dimetasilicate
+ Note: pyroxene
+ Note: anisoB's from ICSD
+;
+_database_code_amcsd 0010035
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Na Mn Si2 O6'
+_cell_length_a 9.513
+_cell_length_b 8.621
+_cell_length_c 5.354
+_cell_angle_alpha 90
+_cell_angle_beta 105.14
+_cell_angle_gamma 90
+_cell_volume 423.849
+_exptl_crystal_density_diffrn      3.606
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+NaM2   0.00000   0.29820   0.25000   0.00950
+MnM1   0.00000   0.90578   0.25000   0.00317
+Si   0.29402   0.08865   0.24630   0.00393
+O1   0.11720   0.07610   0.16120   0.00595
+O2   0.36090   0.25970   0.30380   0.00823
+O3   0.35630   0.00800   0.01910   0.00671
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+NaM2 0.01068 0.00704 0.00885 0.00000 -0.00084 0.00000
+MnM1 0.00286 0.00316 0.00379 0.00000 0.00139 0.00000
+Si 0.00333 0.00486 0.00368 -0.00012 0.00106 -0.00014
+O1 0.00355 0.00892 0.00533 0.00056 0.00113 0.00093
+O2 0.00884 0.00689 0.00911 -0.00301 0.00296 -0.00016
+O3 0.00508 0.01047 0.00453 0.00104 0.00137 -0.00226

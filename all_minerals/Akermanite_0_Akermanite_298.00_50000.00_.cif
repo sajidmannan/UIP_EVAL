@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Akermanite'
+loop_
+_publ_author_name
+'Merlini M'
+'Gemmi M'
+'Hanfland M'
+'Crichton W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 94 
+_journal_year 2009
+_journal_page_first 704
+_journal_page_last 709
+_publ_section_title
+;
+ High-pressure behavior of akermanite and gehlenite and phase stability
+ of the normal structures in melelites
+ Note: P = 5 GPa
+;
+_database_code_amcsd 0004933
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Mg Ca2 Si2 O7'
+_cell_length_a 7.740
+_cell_length_b 7.740
+_cell_length_c 4.932
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 295.464
+_exptl_crystal_density_diffrn      3.064
+_symmetry_space_group_name_H-M 'P -4 21 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-y,1/2-x,z'
+  'y,-x,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,z'
+  '1/2+y,1/2+x,z'
+  '-y,x,-z'
+  '1/2+x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mg   0.00000   0.00000   0.00000
+Ca   0.33430   0.16570   0.50650
+Si   0.14160   0.35840   0.93700
+O1   0.00000   0.50000  -0.19500
+O2   0.14380   0.35620   0.26000
+O3   0.08030   0.18430   0.78200

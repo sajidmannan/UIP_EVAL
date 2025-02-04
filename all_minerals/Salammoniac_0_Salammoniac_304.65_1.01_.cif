@@ -1,0 +1,85 @@
+data_global
+_chemical_name_mineral 'Salammoniac'
+loop_
+_publ_author_name
+'Sirdeshmukh D B'
+'Deshpande V T'
+_journal_name_full 'Acta Crystallographica, Section A'
+_journal_volume 26 
+_journal_year 1970
+_journal_page_first 295
+_journal_page_last 295
+_publ_section_title
+;
+ X-ray measurement of the thermal expansion of ammonium chloride
+ Sample: T = 31.5 C
+;
+_database_code_amcsd 0009319
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'N Cl'
+_cell_length_a 3.8771
+_cell_length_b 3.8771
+_cell_length_c 3.8771
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 58.280
+_exptl_crystal_density_diffrn      1.409
+_symmetry_space_group_name_H-M 'P m -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'z,-x,y'
+  '-y,z,-x'
+  'x,-y,z'
+  '-z,x,-y'
+  'y,-z,x'
+  '-x,y,-z'
+  'x,-z,-y'
+  '-z,y,x'
+  'y,-x,-z'
+  '-x,z,y'
+  'z,-y,-x'
+  '-y,x,z'
+  'x,z,y'
+  '-z,-y,-x'
+  'y,x,z'
+  '-x,-z,-y'
+  'z,y,x'
+  '-y,-x,-z'
+  'z,x,-y'
+  '-y,-z,x'
+  'x,y,-z'
+  '-z,-x,y'
+  'y,z,-x'
+  '-x,-y,z'
+  '-z,x,y'
+  'y,-z,-x'
+  '-x,y,z'
+  'z,-x,-y'
+  '-y,z,x'
+  'x,-y,-z'
+  '-x,z,-y'
+  'z,-y,x'
+  '-y,x,-z'
+  'x,-z,y'
+  '-z,y,-x'
+  'y,-x,z'
+  '-x,-z,y'
+  'z,y,-x'
+  '-y,-x,z'
+  'x,z,-y'
+  '-z,-y,x'
+  'y,x,-z'
+  '-z,-x,-y'
+  'y,z,x'
+  '-x,-y,-z'
+  'z,x,y'
+  '-y,-z,-x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+NH4   0.00000   0.00000   0.00000
+Cl   0.50000   0.50000   0.50000

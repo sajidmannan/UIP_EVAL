@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Laurelite'
+loop_
+_publ_author_name
+'Merlino S'
+'Pasero M'
+'Perchiazzi N'
+'Kampf A R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 81 
+_journal_year 1996
+_journal_page_first 1277
+_journal_page_last 1281
+_publ_section_title
+;
+ Laurelite: Its crystal structure and relationship to alpha-PbF2
+;
+_database_code_amcsd 0001838
+_chemical_formula_sum 'Pb3.5 Cl F6'
+_cell_length_a 10.267
+_cell_length_b 10.267
+_cell_length_c 3.9844
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 363.731
+_exptl_crystal_density_diffrn      7.986
+_symmetry_space_group_name_H-M 'P -6'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,-z'
+  '-y,x-y,z'
+  'x,y,-z'
+  '-x+y,-x,z'
+  '-y,x-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb1   0.58450   0.69340   0.50000   0.95500   0.01640
+Pb1*   0.57200   0.71000   0.00000   0.04500   0.05100
+Pb2   0.88550   0.59840   0.00000   0.95500   0.01620
+Pb2*   0.85300   0.56800   0.50000   0.04500   0.00200
+Pb3   0.00000   0.00000   0.50000   0.95500   0.02910
+Pb3*   0.00000   0.00000   0.00000   0.04500   0.04000
+Cl1   0.33333   0.66667   0.00000   1.00000   0.02200
+Cl2   0.66667   0.33333   0.50000   1.00000   0.02200
+F1   0.04800   0.62000   0.50000   1.00000   0.01800
+F2   0.60900   0.57000   0.00000   1.00000   0.02400
+F3   0.07900   0.86800   0.00000   1.00000   0.03900
+F4   0.83400   0.72900   0.50000   1.00000   0.02100

@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Grigorievite'
+loop_
+_publ_author_name
+'Pekov I V'
+'Zubkova N V'
+'Yapaskurt V O'
+'Kartashov P M'
+'Polekhovsky Y S'
+'Murashko M N'
+'Pushcharovsky D Y'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 26 
+_journal_year 2014
+_journal_page_first 667
+_journal_page_last 677
+_publ_section_title
+;
+ Koksharovite, CaMg2Fe3+4(VO4)6, and grigorievite, Cu3Fe3+2Al2(VO4)6,
+ two new howardevansite-group minerals from volcanic exhalations
+;
+_database_code_amcsd 0020493
+_chemical_compound_source 'Great Tolbachik Fissure Eruption, Kamchatka, Russia'
+_chemical_formula_sum 'Cu1.99 Mg.64 Ca.2 Fe1.6 Al2.2 Ti.2 (V5.94 P.06) O24'
+_cell_length_a 8.0217
+_cell_length_b 9.6858
+_cell_length_c 6.5475
+_cell_angle_alpha 103.645
+_cell_angle_beta 102.369
+_cell_angle_gamma 106.281
+_cell_volume 452.598
+_exptl_crystal_density_diffrn      3.657
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu1   0.79085   0.79860   0.77639   0.68000   0.01820
+Mg1   0.79085   0.79860   0.77639   0.32000   0.01820
+Cu2   0.00000   0.50000   0.50000   0.63000   0.03090
+Ca1   0.00000   0.50000   0.50000   0.20000   0.03090
+Fe1   0.54933   0.39565   0.12342   0.47000   0.00910
+Al1   0.54933   0.39565   0.12342   0.43000   0.00910
+Ti1   0.54933   0.39565   0.12342   0.10000   0.00910
+Al2   0.30022   0.98867   0.45950   0.67000   0.00880
+Fe2   0.30022   0.98867   0.45950   0.33000   0.00880
+V1   0.40396   0.66669   0.38827   0.99000   0.01120
+P1   0.40396   0.66669   0.38827   0.01000   0.01120
+V2   0.84538   0.73827   0.28091   0.99000   0.01040
+P2   0.84538   0.73827   0.28091   0.01000   0.01040
+V3   0.76808   0.12465   0.09204   0.99000   0.01090
+P3   0.76808   0.12465   0.09204   0.01000   0.01090
+O1   0.44220   0.85890   0.42130   1.00000   0.01210
+O2   0.47520   0.34840   0.37200   1.00000   0.01680
+O3   0.80760   0.55540   0.29230   1.00000   0.02050
+O4   0.22180   0.16100   0.50650   1.00000   0.01630
+O5   0.26750   0.01020   0.16410   1.00000   0.01720
+O6   0.46450   0.57520   0.16470   1.00000   0.01540
+O7   0.73520   0.73890   0.02500   1.00000   0.01730
+O8   0.06480   0.82580   0.33160   1.00000   0.01850
+O9   0.18950   0.58130   0.35990   1.00000   0.02540
+O10  -0.00850   0.23790   0.20630   1.00000   0.03050
+O11   0.70790   0.02960   0.26330   1.00000   0.01750
+O12   0.64990   0.24040   0.07100   1.00000   0.02270

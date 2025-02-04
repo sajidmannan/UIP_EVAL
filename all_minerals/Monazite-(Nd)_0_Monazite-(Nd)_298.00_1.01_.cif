@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Monazite-(Nd)'
+loop_
+_publ_author_name
+'Ni Y'
+'Hughes J M'
+'Mariano A N'
+_journal_name_full 'American Mineralogist'
+_journal_volume 80 
+_journal_year 1995
+_journal_page_first 21
+_journal_page_last 26
+_publ_section_title
+;
+ Crystal chemistry of the monazite and xenotime structures
+;
+_database_code_amcsd 0001702
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Nd P O4'
+_cell_length_a 6.7352
+_cell_length_b 6.9500
+_cell_length_c 6.4049
+_cell_angle_alpha 90
+_cell_angle_beta 103.68
+_cell_angle_gamma 90
+_cell_volume 291.306
+_exptl_crystal_density_diffrn      5.454
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Nd   0.28178   0.15806   0.09950   0.00355
+P   0.30370   0.16260   0.61270   0.00380
+O1   0.25020   0.00460   0.44300   0.00849
+O2   0.38150   0.33310   0.49870   0.00773
+O3   0.47470   0.10400   0.80730   0.00785
+O4   0.12490   0.21530   0.71270   0.00659

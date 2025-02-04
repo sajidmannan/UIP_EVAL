@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Kalborsite'
+loop_
+_publ_author_name
+'Malinovskii Y A'
+'Belov N V'
+_journal_name_full 'Doklady Akademii Nauk SSSR'
+_journal_volume 252 
+_journal_year 1980
+_journal_page_first 611
+_journal_page_last 615
+_publ_section_title
+;
+ Crystal structure of kalborsite
+;
+_database_code_amcsd 0012467
+_chemical_formula_sum 'K6 Al4 Si6 O24 B Cl H4'
+_cell_length_a 9.851
+_cell_length_b 9.851
+_cell_length_c 13.060
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1267.371
+_exptl_crystal_density_diffrn      2.477
+_symmetry_space_group_name_H-M 'P -4 21 c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,-x,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,x,-z'
+  '1/2+x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K1   0.00000   0.00000   0.24790
+K2   0.21960   0.21820   0.06390
+Al   0.15490   0.39010   0.31340
+Si1   0.38600   0.15870   0.30670
+Si2   0.00000   0.50000   0.00570
+O1   0.30260   0.29980   0.31630
+O2   0.09050   0.40270   0.43840
+O3   0.40170   0.09740   0.42220
+O4   0.31130   0.04840   0.23250
+O5   0.04310   0.30510   0.23020
+B   0.00000   0.00000   0.50000
+O-h6   0.44460   0.39360   0.06250
+Cl   0.00000   0.00000   0.00000
+H   0.05100   0.12200   0.56400
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K1 0.02280 0.02115 0.01697 0.00608 0.00000 0.00000
+K2 0.01229 0.03268 0.01786 0.00165 0.00254 0.00101
+Al 0.00152 0.00747 0.00658 0.00506 0.00304 -0.00241
+Si1 0.00342 0.01115 0.00925 -0.00228 0.00165 -0.00152
+Si2 0.00874 0.00519 0.00722 0.00405 0.00000 0.00000
+O1 0.02685 -0.00228 0.02077 0.00101 -0.00697 0.00329
+O2 0.03420 0.03065 0.00595 0.01102 0.01216 -0.00304
+O3 0.02001 0.01786 0.00976 0.01520 0.00304 0.00849
+O4 0.00823 0.00798 0.01457 0.00380 -0.00329 -0.01152
+O5 0.02444 0.01887 0.02787 -0.00469 0.00203 -0.00608
+B 0.01393 0.01254 0.01444 0.00000 0.00000 0.00000
+O-h6 0.02862 0.01545 0.04218 0.01507 -0.00089 -0.00570
+Cl 0.01976 0.02039 0.01988 0.00000 0.00000 0.00000

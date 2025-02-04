@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Albite-Ge'
+loop_
+_publ_author_name
+'Kroll H'
+'Flogel J'
+'Breit U'
+'Lons J'
+'Pentinghaus H'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 3 
+_journal_year 1991
+_journal_page_first 739
+_journal_page_last 749
+_publ_section_title
+;
+ Order and anti-order in Ge-substituted alkali feldspars
+ Sample: Na[AlGe3O8] synthesized at 980 deg C
+;
+_database_code_amcsd 0006422
+_chemical_formula_sum 'Na.25 (Al.25 Ge.75) O2'
+_cell_length_a 8.411
+_cell_length_b 13.291
+_cell_length_c 7.342
+_cell_angle_alpha 94.38
+_cell_angle_beta 116.28
+_cell_angle_gamma 90.87
+_cell_volume 732.681
+_exptl_crystal_density_diffrn      3.588
+_symmetry_space_group_name_H-M 'C 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na1   0.26870  -0.01970   0.17390   0.25000   0.02001
+Na2   0.28210   0.04480   0.08186   0.25000   0.02001
+Na3   0.27820   0.02940   0.11480   0.25000   0.02001
+Na4   0.26290   0.00990   0.12810   0.25000   0.02001
+AlT10   0.01093   0.15791   0.21195   0.21200   0.00937
+GeT10   0.01093   0.15791   0.21195   0.78800   0.00937
+AlT1m   0.00204   0.81216   0.22975   0.43600   0.00963
+GeT1m   0.00204   0.81216   0.22975   0.56400   0.00963
+AlT20   0.68800   0.10497   0.31316   0.15000   0.01026
+GeT20   0.68800   0.10497   0.31316   0.85000   0.01026
+AlT2m   0.67649   0.87436   0.35526   0.20200   0.00988
+GeT2m   0.67649   0.87436   0.35526   0.79800   0.00988
+OA1   0.01080   0.12740   0.97900   1.00000   0.01925
+OA2   0.57510   0.98650   0.27080   1.00000   0.01330
+OB0   0.82040   0.09140   0.18620   1.00000   0.02090
+OBm   0.80920   0.83630   0.24490   1.00000   0.03040
+OC0   0.00230   0.28370   0.28460   1.00000   0.01583
+OCm   0.01480   0.68170   0.19470   1.00000   0.01760
+OD0   0.20480   0.10590   0.37950   1.00000   0.01976
+ODm   0.19200   0.86530   0.43080   1.00000   0.02609

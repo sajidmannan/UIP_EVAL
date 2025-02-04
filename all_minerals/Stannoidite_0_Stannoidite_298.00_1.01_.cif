@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Stannoidite'
+loop_
+_publ_author_name
+'Kudoh Y'
+'Takeuchi Y'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 144 
+_journal_year 1976
+_journal_page_first 145
+_journal_page_last 160
+_publ_section_title
+;
+ The superstructure of stannoidite
+;
+_database_code_amcsd 0010783
+_chemical_compound_source 'Konjo mine, Japan'
+_chemical_formula_sum 'Zn.85 Fe2.15 Cu8 Sn2 S12'
+_cell_length_a 10.767
+_cell_length_b 5.411
+_cell_length_c 16.118
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 939.038
+_exptl_crystal_density_diffrn      4.620
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Zn1   0.00000   0.00000   0.00000   0.85000
+Fe1   0.00000   0.00000   0.00000   0.15000
+Cu2   0.50000   0.00000   0.00000   1.00000
+Cu3   0.00000   0.00000   0.50000   1.00000
+Cu4   0.25110   0.00000   0.50000   1.00000
+Fe5   0.00000   0.00000   0.32980   1.00000
+Sn6   0.00000   0.50000   0.16930   1.00000
+Cu7   0.24650   0.01070   0.16950   1.00000
+S1   0.13080   0.24430   0.08260   1.00000
+S2   0.37920   0.75580   0.08010   1.00000
+S3   0.12940   0.74880   0.25460   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 0.01762 0.01928 0.00790 0.00000 0.00000 0.00000
+Fe1 0.01762 0.01928 0.00790 0.00000 0.00000 0.00000
+Cu2 0.02760 0.02077 0.01711 0.00000 0.00000 0.00000
+Cu3 0.01997 0.02818 0.01448 0.00000 0.00000 0.00000
+Cu4 0.01821 0.01780 0.01316 0.00000 0.00000 0.00309
+Fe5 0.01586 0.01187 0.00790 -0.00295 0.00000 0.00000
+Sn6 0.00822 0.00297 0.00526 0.00030 0.00000 0.00000
+Cu7 0.02290 0.01780 0.01974 -0.00207 -0.00176 0.00353
+S1 0.01644 0.01038 0.01053 -0.00620 0.00176 -0.00619
+S2 0.01410 0.01335 0.00921 0.00797 0.00088 -0.00663
+S3 0.01233 0.00890 0.01053 -0.00915 0.00264 -0.00088

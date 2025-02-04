@@ -1,0 +1,107 @@
+data_global
+_chemical_name_mineral 'Perryite'
+loop_
+_publ_author_name
+'Marsh R E'
+_journal_name_full 'Acta Crystallographica, Section A'
+_journal_volume 50 
+_journal_year 1994
+_journal_page_first 450
+_journal_page_last 455
+_publ_section_title
+;
+ The centrosymmetric - noncentrosymmetric ambiguity: some more examples
+;
+_database_code_amcsd 0009330
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum '(Ni7.76 Fe.24) (Si2.37 P.63)'
+_cell_length_a 6.640
+_cell_length_b 6.640
+_cell_length_c 37.9819
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1450.252
+_exptl_crystal_density_diffrn      7.625
+_symmetry_space_group_name_H-M 'R -3 c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,1/2+z'
+  '2/3+x,1/3+x-y,5/6+z'
+  '1/3+x,2/3+x-y,1/6+z'
+  'y,x,1/2-z'
+  '2/3+y,1/3+x,5/6-z'
+  '1/3+y,2/3+x,1/6-z'
+  '-x+y,y,1/2+z'
+  '2/3-x+y,1/3+y,5/6+z'
+  '1/3-x+y,2/3+y,1/6+z'
+  '-x,-x+y,1/2-z'
+  '2/3-x,1/3-x+y,5/6-z'
+  '1/3-x,2/3-x+y,1/6-z'
+  '-y,-x,1/2+z'
+  '2/3-y,1/3-x,5/6+z'
+  '1/3-y,2/3-x,1/6+z'
+  'x-y,-y,1/2-z'
+  '2/3+x-y,1/3-y,5/6-z'
+  '1/3+x-y,2/3-y,1/6-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ni1   0.33167   0.41760   0.05226   0.97000   0.00690
+Fe1   0.33167   0.41760   0.05226   0.03000   0.00690
+Ni2   0.33764   0.03347   0.01744   0.97000   0.00470
+Fe2   0.33764   0.03347   0.01744   0.03000   0.00470
+Ni3   0.00000   0.00000   0.21863   0.97000   0.00560
+Fe3   0.00000   0.00000   0.21863   0.03000   0.00560
+Ni4   0.00000   0.00000   0.05959   0.97000   0.00560
+Fe4   0.00000   0.00000   0.05959   0.03000   0.00560
+Si1  -0.31572   0.00000   0.25000   0.79000   0.00560
+P1  -0.31572   0.00000   0.25000   0.21000   0.00560
+Si2   0.00000   0.00000   0.15823   0.79000   0.00430
+P2   0.00000   0.00000   0.15823   0.21000   0.00430
+Si3   0.00000   0.00000   0.00000   0.79000   0.00220
+P3   0.00000   0.00000   0.00000   0.21000   0.00220
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 0.00660 0.01140 0.00010 0.00260 0.00050 0.00070
+Fe1 0.00660 0.01140 0.00010 0.00260 0.00050 0.00070
+Ni2 0.00600 0.00740 -0.00020 0.00260 -0.00110 0.00140
+Fe2 0.00600 0.00740 -0.00020 0.00260 -0.00110 0.00140
+Ni3 0.00860 0.00860 -0.00030 0.00430 0.00000 0.00000
+Fe3 0.00860 0.00860 -0.00030 0.00430 0.00000 0.00000
+Ni4 0.00860 0.00860 -0.00040 0.00430 0.00000 0.00000
+Fe4 0.00860 0.00860 -0.00040 0.00430 0.00000 0.00000
+Si1 0.00790 0.00810 0.00070 0.00400 0.00000 0.00000
+P1 0.00790 0.00810 0.00070 0.00400 0.00000 0.00000
+Si2 0.00770 0.00770 -0.00260 0.00380 0.00000 0.00000
+P2 0.00770 0.00770 -0.00260 0.00380 0.00000 0.00000
+Si3 0.00540 0.00540 -0.00410 0.00270 0.00000 0.00000
+P3 0.00540 0.00540 -0.00410 0.00270 0.00000 0.00000

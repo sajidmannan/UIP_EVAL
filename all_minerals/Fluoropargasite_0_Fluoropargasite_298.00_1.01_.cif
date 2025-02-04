@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Fluoropargasite'
+loop_
+_publ_author_name
+'Oberti R'
+'Hawthorne F C'
+'Raudsepp M'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 9 
+_journal_year 1997
+_journal_page_first 115
+_journal_page_last 122
+_publ_section_title
+;
+ The behaviour of Mn in amphiboles: Mn in synthetic
+ fluor-edenite and synthetic fluor-pargasite
+ Sample: MFP
+;
+_database_code_amcsd 0006648
+_chemical_formula_sum 'Na.87 Ca1.65 Mg3.38 Mn1.24 Al2.85 Si6.01 O22 F2'
+_cell_length_a 9.812
+_cell_length_b 17.926
+_cell_length_c 5.308
+_cell_angle_alpha 90
+_cell_angle_beta 105.10
+_cell_angle_gamma 90
+_cell_volume 901.388
+_exptl_crystal_density_diffrn      3.213
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NaA   0.00000   0.50000   0.00000   0.17400   0.02761
+CaA   0.00000   0.50000   0.00000   0.02600   0.02761
+NaAm   0.04420   0.50000   0.09970   0.17400   0.03002
+CaAm   0.04420   0.50000   0.09970   0.02600   0.03002
+NaA2   0.00000   0.47227   0.00000   0.17400   0.03369
+CaA2   0.00000   0.47227   0.00000   0.02600   0.03369
+MgM1   0.00000   0.09012   0.50000   0.84000   0.00798
+MnM1   0.00000   0.09012   0.50000   0.16000   0.00798
+AlM2   0.00000   0.17613   0.00000   0.43000   0.00659
+MgM2   0.00000   0.17613   0.00000   0.38000   0.00659
+MnM2   0.00000   0.17613   0.00000   0.19000   0.00659
+MgM3   0.00000   0.00000   0.00000   0.94000   0.00735
+MnM3   0.00000   0.00000   0.00000   0.06000   0.00735
+MnM4   0.00000   0.27900   0.50000   0.12000   0.01089
+CaM4   0.00000   0.27900   0.50000   0.38000   0.01089
+MnM4*   0.00000   0.26570   0.50000   0.12000   0.01305
+CaM4*   0.00000   0.26570   0.50000   0.38000   0.01305
+SiT1   0.28308   0.08548   0.30233   0.52500   0.00595
+AlT1   0.28308   0.08548   0.30233   0.47500   0.00595
+SiT2   0.29281   0.17301   0.81272   0.97750   0.00722
+AlT2   0.29281   0.17301   0.81272   0.02250   0.00722
+O1   0.10757   0.08763   0.21490   1.00000   0.01051
+O2   0.11940   0.17303   0.73483   1.00000   0.01026
+F3   0.10486   0.00000   0.71233   1.00000   0.01241
+O4   0.36929   0.25143   0.78655   1.00000   0.01355
+O5   0.35293   0.14081   0.11259   1.00000   0.01343
+O6   0.34603   0.11656   0.60869   1.00000   0.01520
+O7   0.34403   0.00000   0.27491   1.00000   0.01343

@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Margarite-2M1'
+loop_
+_publ_author_name
+'Guggenheim S'
+'Bailey S W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 60 
+_journal_year 1975
+_journal_page_first 1023
+_journal_page_last 1029
+_publ_section_title
+;
+ Refinement of the margarite structure in subgroup symmetry
+;
+_database_code_amcsd 0000477
+_chemical_formula_sum 'Ca Si2 Al4 H2 O12'
+_cell_length_a 5.1038
+_cell_length_b 8.8287
+_cell_length_c 19.148
+_cell_angle_alpha 90
+_cell_angle_beta 95.46
+_cell_angle_gamma 90
+_cell_volume 858.893
+_exptl_crystal_density_diffrn      3.079
+_symmetry_space_group_name_H-M 'C c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca   0.00000   0.09320   0.25000   1.00000   0.01292
+Si1   0.46470   0.92850   0.14160   0.50000   0.01254
+Si2   0.53640   0.07520   0.85490   0.50000   0.00735
+Si3   0.45670   0.25720   0.14440   0.50000   0.00773
+Si4   0.55000   0.74370   0.85730   0.50000   0.01229
+Al1   0.46470   0.92850   0.14160   0.50000   0.01254
+Al2   0.53640   0.07520   0.85490   0.50000   0.00735
+Al3   0.45670   0.25720   0.14440   0.50000   0.00773
+Al4   0.55000   0.74370   0.85730   0.50000   0.01229
+Al5   0.74690   0.91870   0.99970   1.00000   0.00925
+Al6   0.25100   0.08630   0.99980   1.00000   0.00697
+H1   0.39700   0.63700   0.08300   1.00000   0.00988
+H2   0.60300   0.36300   0.91700   1.00000   0.00988
+O1   0.96000   0.44360   0.05120   1.00000   0.01267
+O2   0.04600   0.55850   0.93900   1.00000   0.00633
+O3   0.39500   0.25400   0.05680   1.00000   0.01140
+O4   0.61900   0.74890   0.94470   1.00000   0.00887
+O5   0.36700   0.09740   0.17750   1.00000   0.01393
+O6   0.64100   0.91670   0.82260   1.00000   0.00760
+O7   0.26600   0.77840   0.16650   1.00000   0.00633
+O8   0.71100   0.21400   0.83040   1.00000   0.01393
+O9   0.28700   0.39260   0.17850   1.00000   0.00507
+O10   0.73700   0.60800   0.82110   1.00000   0.01773
+O11   0.44800   0.56930   0.04880   1.00000   0.00507
+O12   0.54300   0.44170   0.94680   1.00000   0.01267

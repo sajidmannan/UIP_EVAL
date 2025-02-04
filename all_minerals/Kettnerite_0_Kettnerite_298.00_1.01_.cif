@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Kettnerite'
+loop_
+_publ_author_name
+'Grice J D'
+'Cooper M A'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 37 
+_journal_year 1999
+_journal_page_first 923
+_journal_page_last 927
+_publ_section_title
+;
+ Crystal-structure determination of twinned kettnerite
+;
+_database_code_amcsd 0005626
+_chemical_formula_sum 'Ca Bi C O4 F'
+_cell_length_a 3.7976
+_cell_length_b 3.7976
+_cell_length_c 13.569
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 195.689
+_exptl_crystal_density_diffrn      5.839
+_symmetry_space_group_name_H-M 'P m m n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca   0.25000   0.25000   0.40000
+Bi   0.25000   0.25000   0.09435
+C   0.75000   0.75000   0.25580
+O1   0.75000   0.25000   0.00000
+O2   0.75000   0.75000   0.15760
+O3   0.54600   0.25000  -0.29910
+F   0.75000   0.25000   0.50000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00740 0.00740 0.00960 0.00000 0.00000 0.00000
+Bi 0.01180 0.01180 0.00940 0.00000 0.00000 0.00000
+C 0.01350 0.01350 0.00340 0.00000 0.00000 0.00000
+O1 0.00710 0.00710 0.00910 0.00000 0.00000 0.00000
+O2 0.03120 0.03120 0.00780 0.00000 0.00000 0.00000
+O3 0.01480 0.01170 0.01980 0.00000 0.00470 0.00000
+F 0.01250 0.01250 0.01140 0.00000 0.00000 0.00000

@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Calomel'
+loop_
+_publ_author_name
+'Calos N J'
+'Kennard C H L'
+'Davis R L'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 187 
+_journal_year 1989
+_journal_page_first 305
+_journal_page_last 307
+_publ_section_title
+;
+ The structure of calomel, Hg2Cl2, derived from neutron powder data
+;
+_database_code_amcsd 0010993
+_chemical_formula_sum 'Hg Cl'
+_cell_length_a 4.4795
+_cell_length_b 4.4795
+_cell_length_c 10.9054
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 218.827
+_exptl_crystal_density_diffrn      7.165
+_symmetry_space_group_name_H-M 'I 4/m m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,x,-z'
+  '1/2+y,1/2+x,1/2-z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-y,x,z'
+  '1/2-y,1/2+x,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,-x,-z'
+  '1/2-y,1/2-x,1/2-z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'y,-x,z'
+  '1/2+y,1/2-x,1/2+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Hg   0.00000   0.00000   0.11900
+Cl   0.00000   0.00000   0.33560
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg 0.00010 0.00010 0.42777 0.00000 0.00000 0.00000
+Cl 0.05693 0.05693 -0.02410 0.00000 0.00000 0.00000

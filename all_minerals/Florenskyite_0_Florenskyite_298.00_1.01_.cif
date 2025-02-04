@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Florenskyite'
+loop_
+_publ_author_name
+'Ivanov A V'
+'Zolensky M E'
+'Saito A'
+'Ohsumi K'
+'Yang S V'
+'Kononkova N N'
+'Mikouchi T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 85 
+_journal_year 2000
+_journal_page_first 1082
+_journal_page_last 1086
+_publ_section_title
+;
+ Florenskyite, FeTiP, a new phosphide from the Kaidun meteorite
+;
+_database_code_amcsd 0002476
+_chemical_compound_source 'Kaidun chondritic meteorite, South Yemen'
+_chemical_formula_sum 'Fe (Ti.87 Ni.13) (P.97 Si.03)'
+_cell_length_a 6.007
+_cell_length_b 3.602
+_cell_length_c 6.897
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 149.232
+_exptl_crystal_density_diffrn      6.054
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe   0.14400   0.25000   0.56200   1.00000
+Ti   0.02500   0.25000   0.17600   0.87000
+Ni   0.02500   0.25000   0.17600   0.13000
+P   0.76600   0.25000   0.62100   0.97000
+Si   0.76600   0.25000   0.62100   0.03000

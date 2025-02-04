@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Mangano-mangani-ungarettiite'
+loop_
+_publ_author_name
+'Hawthorne F C'
+'Oberti R'
+'Cannillo E'
+'Sardone N'
+'Zanetti A'
+'Grice J D'
+'Ashley P M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 80 
+_journal_year 1995
+_journal_page_first 165
+_journal_page_last 172
+_publ_section_title
+;
+ A new anhydrous amphibole from the Hoskins mine, Grenfell, New South Wales,
+ Australia: Description and crystal structure of ungarettiite, NaNa2(Mn2Mn3)Si8O22O2
+ Sample U1
+;
+_database_code_amcsd 0001714
+_chemical_compound_source 'Hoskins mine, Grenfell, New South Wales, Australia'
+_chemical_formula_sum 'O24 Si8 Mn4.72 Mg.28 Na2.798 Ca.03 K.152'
+_cell_length_a 9.889
+_cell_length_b 18.033
+_cell_length_c 5.296
+_cell_angle_alpha 90
+_cell_angle_beta 105.08
+_cell_angle_gamma 90
+_cell_volume 911.904
+_exptl_crystal_density_diffrn      3.446
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+O1   0.12010   0.08320   0.20750   1.00000   0.00874
+O2   0.11700   0.15940   0.70870   1.00000   0.00811
+O3   0.09130   0.00000   0.71860   1.00000   0.00811
+O4   0.34880   0.24840   0.79040   1.00000   0.01216
+O5   0.35040   0.12630   0.07160   1.00000   0.01089
+O6   0.34860   0.11850   0.57520   1.00000   0.01064
+O7   0.35020   0.00000   0.29340   1.00000   0.01178
+Si1   0.28850   0.08400   0.28630   1.00000   0.00646
+Si2   0.28700   0.16800   0.78610   1.00000   0.00633
+Mn1   0.00000   0.08140   0.50000   1.00000   0.00595
+Mn2   0.00000   0.18340   0.00000   0.89000   0.00773
+Mg2   0.00000   0.18340   0.00000   0.11000   0.00773
+Mn3   0.00000   0.00000   0.00000   0.94000   0.00532
+Mg3   0.00000   0.00000   0.00000   0.06000   0.00532
+Na4   0.00000   0.27300   0.50000   0.98500   0.02001
+Ca4   0.00000   0.27300   0.50000   0.01500   0.02001
+NaAm   0.03620   0.50000   0.07820   0.20700   0.03508
+KAm   0.03620   0.50000   0.07820   0.03800   0.03508
+NaA2   0.00000   0.48730   0.00000   0.20700   0.03394
+KA2   0.00000   0.48730   0.00000   0.03800   0.03394

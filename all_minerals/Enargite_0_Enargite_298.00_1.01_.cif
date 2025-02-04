@@ -1,0 +1,45 @@
+data_global
+_chemical_name_mineral 'Enargite'
+loop_
+_publ_author_name
+'Adiwidjaja G'
+'Lohn J'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 26 
+_journal_year 1970
+_journal_page_first 1878
+_journal_page_last 1879
+_publ_section_title
+;
+ Strukturverfeinerung von enargit, Cu3AsS4
+;
+_database_code_amcsd 0009381
+_chemical_compound_source 'Butte, Montana, USA'
+_chemical_formula_sum 'Cu3 As S4'
+_cell_length_a 7.407
+_cell_length_b 6.436
+_cell_length_c 6.154
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 293.370
+_exptl_crystal_density_diffrn      4.458
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,-y,1/2+z'
+  '-x,y,z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.00000   0.15140   0.49830   0.01029
+Cu2   0.24660   0.32550   0.98660   0.01179
+As   0.00000   0.82680   0.00000 ?
+S1   0.00000   0.82260   0.64540 ?
+S2   0.00000   0.14360   0.11660   0.00100
+S3   0.25980   0.33640   0.61880 ?

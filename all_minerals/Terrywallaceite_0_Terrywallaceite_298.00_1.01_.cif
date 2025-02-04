@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Terrywallaceite'
+loop_
+_publ_author_name
+'Yang H'
+'Downs R T'
+'Evans S H'
+'Pinch W W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 98 
+_journal_year 2013
+_journal_page_first 1310
+_journal_page_last 131
+_publ_section_title
+;
+ Terrywallaceite, AgPb(Sb,Bi)3S6, isotypic with gustavite, a new mineral from
+ Mina Herminia, Julcani Mining District, Huancavelica, Peru
+;
+_database_code_amcsd 0019975
+_chemical_compound_source 'Mina Herminia, Julcani Mining District, Huancavelica, Peru'
+_chemical_formula_sum 'Ag Pb (Bi1.47 Sb1.53) S6'
+_cell_length_a 6.9764
+_cell_length_b 19.3507
+_cell_length_c 8.3870
+_cell_angle_alpha 90
+_cell_angle_beta 107.519
+_cell_angle_gamma 90
+_cell_volume 1079.714
+_exptl_crystal_density_diffrn      6.158
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ag   0.13556   0.36504   0.28477   1.00000   0.04650
+Pb   0.63960   0.25004   0.15889   1.00000   0.02545
+Bi1   0.18850   0.35966   0.79992   0.82000   0.01639
+Sb1   0.18850   0.35966   0.79992   0.18000   0.01639
+Bi2   0.25787   0.54936   0.56150   0.60000   0.01644
+Sb2   0.25787   0.54936   0.56150   0.40000   0.01644
+Bi3   0.72321   0.44406   0.92624   0.05000   0.01552
+Sb3   0.72321   0.44406   0.92624   0.95000   0.01552
+S1   0.01486   0.49183   0.28695   1.00000   0.02173
+S2   0.91317   0.33302   0.49485   1.00000   0.01888
+S3   0.50920   0.40216   0.09714   1.00000   0.02103
+S4   0.35472   0.23903   0.83895   1.00000   0.01901
+S5   0.50399   0.59671   0.35065   1.00000   0.02105
+S6   0.92091   0.33510   0.97299   1.00000   0.01878
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ag 0.05620 0.04025 0.04091 0.02565 0.01140 0.00054
+Pb 0.02400 0.02884 0.02391 0.00168 0.00780 0.00025
+Bi1 0.01527 0.01707 0.01709 -0.00127 0.00527 0.00046
+Sb1 0.01527 0.01707 0.01709 -0.00127 0.00527 0.00046
+Bi2 0.01759 0.01442 0.01688 -0.00012 0.00453 -0.00028
+Sb2 0.01759 0.01442 0.01688 -0.00012 0.00453 -0.00028
+Bi3 0.01488 0.01593 0.01649 0.00024 0.00584 -0.00098
+Sb3 0.01488 0.01593 0.01649 0.00024 0.00584 -0.00098
+S1 0.02706 0.02114 0.01848 -0.00385 0.00908 -0.00220
+S2 0.02138 0.01645 0.01936 -0.00069 0.00697 -0.00064
+S3 0.02171 0.02261 0.01982 -0.00195 0.00781 -0.00234
+S4 0.01839 0.01988 0.01838 -0.00212 0.00493 -0.00106
+S5 0.01990 0.02342 0.02063 -0.00004 0.00731 0.00050
+S6 0.02056 0.01590 0.02061 0.00275 0.00728 0.00184

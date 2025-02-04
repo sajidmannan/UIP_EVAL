@@ -1,0 +1,84 @@
+data_global
+_chemical_name_mineral 'Kernite'
+loop_
+_publ_author_name
+'Cooper W F'
+'Larsen F K'
+'Coppens P'
+'Giese R F'
+_journal_name_full 'American Mineralogist'
+_journal_volume 58 
+_journal_year 1973
+_journal_page_first 21
+_journal_page_last 31
+_publ_section_title
+;
+ Electron population analysis of accurate diffraction data. V. Structure and
+ one-center charge refinement of the light-atom mineral kernite,
+ Na2B4O6(OH)2.3H2O
+ high order refinement
+;
+_database_code_amcsd 0000299
+_chemical_formula_sum 'Na2 B4 O11'
+_cell_length_a 7.0172
+_cell_length_b 9.1582
+_cell_length_c 15.6774
+_cell_angle_alpha 90
+_cell_angle_beta 108.861
+_cell_angle_gamma 90
+_cell_volume 953.409
+_exptl_crystal_density_diffrn      1.848
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na1   0.31955   0.46475   0.31101
+Na2   0.18630   0.36643   0.07250
+B1   0.55273   0.16795   0.42167
+B2   0.55341   0.23234   0.26876
+B3   0.57436   0.48043   0.19985
+B4   0.86821   0.31364   0.24187
+O1   0.51303   0.02489   0.39723
+O2   0.44005   0.09874   0.24093
+O3   0.76703   0.20541   0.26847
+O4   0.46474   0.35118   0.20878
+O5   0.79135   0.44849   0.21502
+O6   0.06237   0.29048   0.23979
+O7   0.58424   0.29343   0.01027
+O8   0.77571   0.03319   0.06818
+O9   0.56505   0.27295   0.36308
+O10   0.03858   0.06198   0.41477
+O11   0.16766   0.11746   0.07650
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na1 0.02395 0.01504 0.02542 0.00132 0.01537 0.00117
+Na2 0.03027 0.02001 0.03167 -0.00136 -0.00469 0.00131
+B1 0.02015 0.00888 0.01148 -0.00163 0.00644 -0.00220
+B2 0.01193 0.00616 0.01048 -0.00006 0.00419 0.00138
+B3 0.01220 0.00540 0.00959 0.00025 0.00414 0.00069
+B4 0.00994 0.01338 0.01974 0.00129 0.00579 0.00048
+O1 0.02636 0.00659 0.00937 -0.00163 0.00729 -0.00048
+O2 0.01722 0.00531 0.00881 -0.00305 0.00364 -0.00007
+O3 0.01112 0.01045 0.02219 0.00373 0.00629 0.00551
+O4 0.00907 0.00493 0.01227 -0.00022 0.00289 0.00234
+O5 0.01171 0.01041 0.02553 0.00065 0.00983 0.00289
+O6 0.01179 0.02018 0.04549 0.00243 0.01392 0.00069
+O7 0.05643 0.01453 0.00981 0.00934 0.01243 0.00330
+O8 0.03699 0.02634 0.02565 0.00807 0.01542 0.00709
+O9 0.02464 0.00739 0.00992 -0.00373 0.00684 -0.00131
+O10 0.02810 0.03008 0.01996 0.00776 0.00843 0.00392
+O11 0.02560 0.02277 0.01896 -0.00092 0.00180 -0.00110

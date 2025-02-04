@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Rinmanite'
+loop_
+_publ_author_name
+'Holtstam D'
+'Gatedal K'
+'Soderberg K'
+'Norrestam R'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 39 
+_journal_year 2001
+_journal_page_first 1675
+_journal_page_last 1683
+_publ_section_title
+;
+ Rinmanite, Zn2Sb2Mg2Fe4O14(OH)2, a new mineral species with a
+ nolanite-type structure from the Garpenberg Norra mine, Dalarna, Sweden
+;
+_database_code_amcsd 0005757
+_chemical_compound_source 'Garpenberg Norra mine, Dalarna, Sweden'
+_chemical_formula_sum 'Fe1.77 Mg1.26 Sb Zn.81 Mn.16 O8 H'
+_cell_length_a 5.9889
+_cell_length_b 5.9889
+_cell_length_c 9.353
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 290.520
+_exptl_crystal_density_diffrn      5.053
+_symmetry_space_group_name_H-M 'P 63 m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+FeM1   0.16910  -0.16910   0.68620   0.59000   0.02890
+MgM1   0.16910  -0.16910   0.68620   0.41000   0.02890
+SbM2   0.33333   0.66667   0.39920   1.00000   0.00250
+ZnM3   0.66667   0.33333   0.50000   0.81000   0.00470
+MnM3   0.66667   0.33333   0.50000   0.16000   0.00470
+MgM3   0.66667   0.33333   0.50000   0.03000   0.00470
+O-h1   0.00000   0.00000   0.07530   1.00000   0.00100
+O2   0.33333   0.66667   0.79070   1.00000   0.02600
+O3   0.17230  -0.17230   0.28720   1.00000   0.00500
+O4   0.52090  -0.52090   0.04280   1.00000   0.00120
+H   0.00000   0.00000  -0.00670   1.00000   0.00100

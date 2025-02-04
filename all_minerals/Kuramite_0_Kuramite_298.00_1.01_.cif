@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Kuramite'
+loop_
+_publ_author_name
+'Chen X'
+'Wada H'
+'Sato A'
+'Mieno M'
+_journal_name_full 'Journal of Solid State Chemistry'
+_journal_volume 139 
+_journal_year 1998
+_journal_page_first 144
+_journal_page_last 151
+_publ_section_title
+;
+ Synthesis, electrical conductivity, and crystal structure of Cu4Sn7S16 and
+ structure refinement of Cu2SnS3
+;
+_database_code_amcsd 0013950
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Cu.999 Sn.501 S1.5'
+_cell_length_a 5.413
+_cell_length_b 5.413
+_cell_length_c 10.824
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 317.149
+_exptl_crystal_density_diffrn      1.791
+_symmetry_space_group_name_H-M 'I -4 2 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu   0.00000   0.00000   0.00000   0.37500
+CuM1   0.00000   0.50000   0.25000   0.21150
+SnM1   0.00000   0.50000   0.25000   0.16350
+SnM2   0.00000   0.00000   0.50000   0.17360
+CuM2   0.00000   0.00000   0.50000   0.20140
+S   0.24610   0.24610   0.12310   0.37500
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.02000 0.02000 0.02400 0.00000 0.00000 0.00000
+CuM1 0.01900 0.01900 0.01800 0.00000 0.00000 0.00000
+SnM1 0.01900 0.01900 0.01800 0.00000 0.00000 0.00000
+SnM2 0.01800 0.01800 0.02100 0.00000 0.00000 0.00000
+CuM2 0.01800 0.01800 0.02100 0.00000 0.00000 0.00000
+S 0.01500 0.01500 0.01500 -0.00100 -0.00100 -0.00100

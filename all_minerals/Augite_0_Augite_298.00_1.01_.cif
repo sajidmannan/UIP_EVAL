@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Augite'
+loop_
+_publ_author_name
+'Clark J'
+'Appleman D'
+'Papike J'
+_journal_name_full 'Mineralogical Society of America Special Paper'
+_journal_volume 2 
+_journal_year 1969
+_journal_page_first 31
+_journal_page_last 50
+_publ_section_title
+;
+ Crystal-chemical characterization of clinopyroxenes based on eight new
+ structure refinements
+ _cod_database_code 1000035
+;
+_database_code_amcsd 0000001
+_chemical_compound_source 'Kakanui, New Zealand'
+_chemical_formula_sum 'Na.09 Ca.616 Mg.902 Fe.21 Al.342 Ti.02 Si1.82 O6'
+_cell_length_a 9.699
+_cell_length_b 8.844
+_cell_length_c 5.272
+_cell_angle_alpha 90
+_cell_angle_beta 106.97
+_cell_angle_gamma 90
+_cell_volume 432.531
+_exptl_crystal_density_diffrn      3.343
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Na1   0.00000   0.29520   0.25000   0.09000
+Ca1   0.00000   0.29520   0.25000   0.61600
+Mg1   0.00000   0.90630   0.25000   0.71500
+Mg2   0.00000   0.29520   0.25000   0.18700
+Fe1   0.00000   0.29520   0.25000   0.10700
+Fe2   0.00000   0.90630   0.25000   0.10300
+Al1   0.00000   0.90630   0.25000   0.18200
+Al2   0.28960   0.09240   0.23530   0.08000
+Ti1   0.28960   0.09240   0.23530   0.01000
+Si1   0.28960   0.09240   0.23530   0.91000
+O1   0.11500   0.08650   0.14020   1.00000
+O2   0.36470   0.25300   0.32600   1.00000
+O3   0.32560   0.01850   0.00130   1.00000

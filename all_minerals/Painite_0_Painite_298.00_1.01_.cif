@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Painite'
+loop_
+_publ_author_name
+'Moore P B'
+'Araki T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 61 
+_journal_year 1976
+_journal_page_first 88
+_journal_page_last 94
+_publ_section_title
+;
+ Painite, CaZrB[Al9O18]: Its crystal structure and relation to jeremejevite,
+ B5[X3Al6(OH)3O15], and fluoborite, B3[Mg9(F,OH)9O9]
+;
+_database_code_amcsd 0000495
+_chemical_formula_sum 'Zr Ca Al9 B O18'
+_cell_length_a 8.715
+_cell_length_b 8.715
+_cell_length_c 8.472
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 557.252
+_exptl_crystal_density_diffrn      4.011
+_symmetry_space_group_name_H-M 'P 63'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x-y,x,1/2+z'
+  '-y,x-y,z'
+  '-x,-y,1/2+z'
+  '-x+y,-x,z'
+  'y,-x+y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Zr   0.66667   0.33333   0.25000   0.00722
+Ca   0.00000   0.00000   0.49290   0.01558
+Al1   0.33290   0.33730   0.74900   0.00773
+Al2   0.34250   0.36250   0.07910   0.00798
+Al3   0.34370   0.35960   0.42240   0.00684
+B   0.33330   0.66670   0.24950   0.01064
+O1   0.39920   0.55180   0.24950   0.01026
+O2   0.40520   0.52370   0.59190   0.00874
+O3   0.40600   0.52350   0.90700   0.00684
+O4   0.32810   0.21860   0.25030   0.00874
+O5   0.30190   0.19350   0.58070   0.00735
+O6   0.29830   0.19120   0.91650   0.00925

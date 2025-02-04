@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Mineevite-(Y)'
+loop_
+_publ_author_name
+'Yamonva N A'
+'Pushcharovskii D Y'
+'Vyatkin S V'
+'Khomyakov A P'
+_journal_name_full 'Soviet Physics Crystallography'
+_journal_volume 37 
+_journal_year 1992
+_journal_page_first 753
+_journal_page_last 756
+_publ_section_title
+;
+ Crystal structure of the new native sulfate-carbonate
+ Na25BaTR2(CO3)11(HCO3)4(SO4)2F2Cl
+ Note: OH occupancies chosen to reproduce chemical formula
+;
+_database_code_amcsd 0015592
+_chemical_compound_source 'Lovozero pegmatites, Kola peninsula, Russia'
+_chemical_formula_sum 'Na25 Ba (Y1.1 Gd.5 Dy.4) C15 S2 O53 F2 Cl H4'
+_cell_length_a 8.811
+_cell_length_b 8.811
+_cell_length_c 37.03
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 2489.629
+_exptl_crystal_density_diffrn      2.832
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na1   0.09950   0.44780   0.03330   1.00000   0.00633
+Na2   0.09890   0.44970   0.32490   1.00000   0.01393
+Na3   0.33333   0.66667   0.69160   1.00000   0.00380
+Na4   0.11230   0.67070   0.60640   1.00000   0.01140
+Na5   0.35700   0.37700   0.25000   1.00000   0.01013
+Na6   0.00000   0.00000   0.39740   1.00000   0.00887
+Ba   0.00000   0.00000   0.00000   1.00000   0.00608
+Y   0.00000   0.00000   0.19842   0.55000   0.00633
+Gd   0.00000   0.00000   0.19842   0.25000   0.00633
+Dy   0.00000   0.00000   0.19842   0.20000   0.00633
+C1   0.07700   0.34800   0.54650   1.00000   0.00380
+C2   0.35500   0.07200   0.25000   1.00000   0.00253
+C3   0.06900   0.31600   0.66280   1.00000   0.00253
+S   0.33333   0.66667   0.39300   1.00000   0.00127
+O1   0.25100   0.11300   0.05940   0.75000   0.00887
+O-H1   0.25100   0.11300   0.05940   0.25000   0.00887
+O2   0.22400   0.08800   0.15090   1.00000   0.00127
+O3   0.09200   0.65600   0.72020   1.00000   0.01140
+O4   0.10900   0.46600   0.64930   1.00000   0.00633
+O5   0.18600   0.02500   0.25000   0.66667   0.00887
+O-H5   0.18600   0.02500   0.25000   0.33333   0.00887
+O6   0.33200   0.03800   0.52300   1.00000   0.00507
+O7   0.15000   0.51000   0.55910   0.75000   0.00380
+O-H7   0.15000   0.51000   0.55910   0.25000   0.00380
+O8   0.24800   0.29200   0.31060   1.00000   0.00127
+O9   0.18700   0.49600   0.40580   1.00000   0.01140
+O10   0.33333   0.66667   0.35190   1.00000   0.00253
+F   0.33333   0.66667   0.50220   1.00000   0.00253
+Cl   0.33333   0.66667   0.25000   1.00000   0.01140

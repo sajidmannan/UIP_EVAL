@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Yoshimuraite'
+loop_
+_publ_author_name
+'McDonald A M'
+'Grice J D'
+'Chao G Y'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 38 
+_journal_year 2000
+_journal_page_first 649
+_journal_page_last 656
+_publ_section_title
+;
+ The crystal structure of yoshimuraite, a layered Ba-Mn-Ti silicophosphate,
+ with comments on five-coordinated Ti
+;
+_database_code_amcsd 0005651
+_chemical_formula_sum 'Ba2 Mn2 (Ti.78 Fe.22) Si2.17 P.46 S.34 O13 H'
+_cell_length_a 6.999
+_cell_length_b 14.748
+_cell_length_c 5.386
+_cell_angle_alpha 93.62
+_cell_angle_beta 89.98
+_cell_angle_gamma 95.50
+_cell_volume 552.277
+_exptl_crystal_density_diffrn      4.385
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ba1   0.33664   0.32839   0.22065   1.00000
+Ba2   0.82198   0.39244  -0.26926   1.00000
+Mn1   0.00000   0.00000   0.00000   1.00000
+Mn2   0.24817  -0.00484   0.49933   1.00000
+Mn3   0.00000   0.50000   0.00000   1.00000
+Ti   0.79479   0.20281   0.19897   0.78000
+Fe   0.79479   0.20281   0.19897   0.22000
+Si1   0.06444   0.18813  -0.30518   1.00000
+Si2   0.51303   0.18517   0.69546   1.00000
+P   0.71812   0.52290   0.25371   0.46000
+S   0.71812   0.52290   0.25371   0.34000
+Si   0.71812   0.52290   0.25371   0.17000
+O1   0.68966   0.41905   0.23644   1.00000
+O2   0.60802   0.23223   0.45759   1.00000
+O3  -0.00953   0.23529  -0.04731   1.00000
+O4  -0.00825   0.23654   0.45609   1.00000
+O5   0.60787   0.23087  -0.04905   1.00000
+O6   0.82858   0.55356   0.03761   1.00000
+O7   0.17183   0.44764   0.51800   1.00000
+O8   0.48855  -0.07530   0.32539   1.00000
+O9  -0.22796   0.08182   0.18342   1.00000
+O10   0.29597   0.21492   0.69743   1.00000
+O-H11   0.26219   0.06656   0.17306   1.00000
+O12   0.01737   0.07821  -0.32642   1.00000
+O13   0.53965   0.57034   0.26244   1.00000

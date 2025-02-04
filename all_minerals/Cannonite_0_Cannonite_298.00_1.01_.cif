@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Cannonite'
+loop_
+_publ_author_name
+'Golic L'
+'Graunar M'
+'Lazarini F'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 38 
+_journal_year 1982
+_journal_page_first 2881
+_journal_page_last 2883
+_publ_section_title
+;
+ catena-Di-mu-hydroxo-mu3-oxo-dibismuth(III) sulfate
+;
+_database_code_amcsd 0009782
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Bi2 S O7 H2'
+_cell_length_a 7.692
+_cell_length_b 13.87
+_cell_length_c 5.688
+_cell_angle_alpha 90
+_cell_angle_beta 109.01
+_cell_angle_gamma 90
+_cell_volume 573.745
+_exptl_crystal_density_diffrn      6.530
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Bi1   0.53563   0.15689   0.40586   0.00870
+Bi2   0.18997   0.13397   0.71429   0.01270
+S   0.87450   0.13310   0.09930   0.01000
+O   0.38980   0.23170   0.65000   0.01100
+O-H1   0.32540   0.05220   0.49970   0.01200
+O-H2   0.39660   0.07520   0.03780   0.01500
+O1   0.73640   0.20280   0.12390   0.02000
+O2   0.90090   0.05750   0.29070   0.02000
+O3   0.05240   0.18240   0.13200   0.02400
+O4   0.80730   0.09060  -0.14530   0.02600
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 0.00900 0.00850 0.00870 0.00060 0.00430 0.00070
+Bi2 0.01050 0.01190 0.01690 0.00040 0.00780 0.00110
+S 0.00760 0.00950 0.01210 -0.00010 0.00410 0.00070

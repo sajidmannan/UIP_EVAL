@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Stibnite'
+loop_
+_publ_author_name
+'Kyono A'
+'Kimata M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 89 
+_journal_year 2004
+_journal_page_first 932
+_journal_page_last 940
+_publ_section_title
+;
+ Structural variations induced by difference of the inert pair effect
+ in the stibnite-bismuthinite solid solution series (Sb,Bi)2S3
+ Sample #1
+;
+_database_code_amcsd 0003549
+_chemical_formula_sum 'Sb2 S3'
+_cell_length_a 11.282
+_cell_length_b 3.8296
+_cell_length_c 11.225
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 484.982
+_exptl_crystal_density_diffrn      4.652
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Sb1   0.47063   0.25000   0.32602   0.01545
+Sb2   0.35061   0.75000   0.03603   0.01938
+S1   0.29220   0.25000   0.19180   0.01469
+S2   0.54960   0.75000   0.12310   0.01520
+S3   0.37480   0.75000   0.43880   0.01570
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb1 0.01930 0.01060 0.01640 0.00000 -0.00170 0.00000
+Sb2 0.01810 0.01690 0.02300 0.00000 0.00440 0.00000
+S1 0.01580 0.01460 0.01350 0.00000 0.00090 0.00000
+S2 0.01650 0.01260 0.01660 0.00000 0.00160 0.00000
+S3 0.02190 0.01140 0.01370 0.00000 -0.00280 0.00000

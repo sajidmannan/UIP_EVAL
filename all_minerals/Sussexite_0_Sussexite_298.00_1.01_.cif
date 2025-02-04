@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Sussexite'
+loop_
+_publ_author_name
+'Hoffmann C'
+'Armbruster T'
+_journal_name_full 'Schweizerische Mineralogische und Petrographische Mitteilungen'
+_journal_volume 75 
+_journal_year 1995
+_journal_page_first 123
+_journal_page_last 133
+_publ_section_title
+;
+ Crystal structure of a (001) twinned sussexite Mn2B2O4(OH)2 from the Kalahari
+ Manganese Field South Africa
+;
+_database_code_amcsd 0015408
+_chemical_compound_source 'Nchwaning II Mine, Kalahari Manganese Field, South Africa'
+_chemical_formula_sum '(Mn.906 Mg.094) B O3 H'
+_cell_length_a 3.287
+_cell_length_b 10.718
+_cell_length_c 12.866
+_cell_angle_alpha 90
+_cell_angle_beta 94.75
+_cell_angle_gamma 90
+_cell_volume 451.713
+_exptl_crystal_density_diffrn      3.290
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+MnM1   0.22960   0.13888   0.50637   0.92100   0.00870
+MgM1   0.22960   0.13888   0.50637   0.07900   0.00870
+Mn2   0.71540   0.41978   0.41041   0.89100   0.00980
+Mg2   0.71540   0.41978   0.41041   0.10900   0.00980
+B1   0.75480   0.16720   0.14100   1.00000   0.00710
+B2   0.62630   0.04760   0.30730   1.00000   0.01510
+O1   0.77290   0.06450   0.07800   1.00000   0.01300
+O2   0.76080   0.28730   0.10440   1.00000   0.01400
+O3   0.71860   0.15220   0.24850   1.00000   0.01740
+O4   0.60260   0.45230   0.24290   1.00000   0.01720
+O5   0.72360   0.04380   0.41290   1.00000   0.01390
+O6   0.20990   0.29320   0.40350   1.00000   0.01300
+H4   0.33000   0.61560   0.80250   1.00000   0.05000
+H6   0.81500   0.75370   0.16440   1.00000   0.05000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+MnM1 0.00840 0.00810 0.00950 0.00020 0.00130 -0.00050
+MgM1 0.00840 0.00810 0.00950 0.00020 0.00130 -0.00050
+Mn2 0.00920 0.01190 0.00850 -0.00060 0.00150 0.00030
+Mg2 0.00920 0.01190 0.00850 -0.00060 0.00150 0.00030
+B1 0.00830 0.00670 0.00640 0.00250 0.00150 -0.00160
+B2 0.01160 0.02280 0.01170 0.00120 0.00500 0.00110
+O1 0.01520 0.01150 0.01230 -0.00200 0.00150 -0.00010
+O2 0.01540 0.01220 0.01460 0.00190 0.00350 0.00140
+O3 0.02740 0.01400 0.01120 -0.00330 0.00320 -0.00050
+O4 0.02580 0.01540 0.01000 0.00390 -0.00060 -0.00370
+O5 0.01520 0.01420 0.01240 0.00210 0.00190 0.00130
+O6 0.01490 0.01270 0.01140 -0.00260 0.00080 0.00240

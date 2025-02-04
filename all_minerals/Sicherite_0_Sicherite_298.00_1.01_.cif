@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Sicherite'
+loop_
+_publ_author_name
+'Graeser S'
+'Berlepsch P'
+'Makovicky E'
+'Balic-Zunic T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 86 
+_journal_year 2001
+_journal_page_first 1087
+_journal_page_last 1093
+_publ_section_title
+;
+ Sicherite, TlAg2(As,Sb)3S6 - a new sulfosalt from Lengenbach (Binntal, Switzerland):
+ Description and structure determination
+;
+_database_code_amcsd 0002673
+_chemical_compound_source 'Lengenbach quarry, Binnatal, Switzerland'
+_chemical_formula_sum 'Tl Ag2 As2.03 Sb.97 S6'
+_cell_length_a 12.418
+_cell_length_b 15.427
+_cell_length_c 5.6895
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1089.952
+_exptl_crystal_density_diffrn      5.379
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,1/2+y,1/2-z'
+  '-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Tl1   0.25000   0.23322   0.87013   1.00000   0.03965
+Ag1   0.07814   0.80769   0.15465   1.00000   0.05860
+As1   0.25000   0.96410   0.80600   0.57000   0.02570
+Sb1   0.25000   0.95890   0.79600   0.43000   0.03100
+As2   0.09500   0.05510   0.29490   0.73000   0.02430
+Sb2   0.09550   0.05240   0.30690   0.27000   0.02920
+S1   0.25000   0.14175   0.37050   1.00000   0.02720
+S2   0.25000   0.89253   0.16150   1.00000   0.02730
+S3   0.10710   0.06197   0.88660   1.00000   0.02730
+S4   0.97803   0.16637   0.33230   1.00000   0.03470
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 0.03737 0.03540 0.04620 0.00000 0.00000 0.00179
+Ag1 0.04180 0.03970 0.09440 -0.01220 -0.01760 0.01710
+As1 0.01900 0.03300 0.02600 0.00000 0.00000 -0.00200
+Sb1 0.03800 0.02110 0.03600 0.00000 0.00000 0.00300
+As2 0.01570 0.02480 0.03200 0.00420 0.00000 0.00230
+Sb2 0.04000 0.03100 0.01700 0.00200 -0.00080 -0.00350
+S1 0.02180 0.02990 0.02990 0.00000 0.00000 -0.00500
+S2 0.02390 0.02580 0.03220 0.00000 0.00000 0.00230
+S3 0.02140 0.03130 0.02900 -0.00310 -0.00130 0.00220
+S4 0.02650 0.02940 0.04840 0.00250 0.00170 -0.00060

@@ -1,0 +1,98 @@
+data_global
+_chemical_name_mineral 'Rossmanite'
+loop_
+_publ_author_name
+'Selway J B'
+'Novak M'
+'Hawthorne F C'
+'Cerny P'
+'Ottolini L'
+'Kyser T K'
+_journal_name_full 'American Mineralogist'
+_journal_volume 83 
+_journal_year 1998
+_journal_page_first 896
+_journal_page_last 900
+_publ_section_title
+;
+ Rossmanite, _(LiAl2)Al6(Si6O18)(BO3)3(OH)4, a new alkali-deficient tourmaline:
+ Description and crystal structure
+;
+_database_code_amcsd 0002029
+_chemical_compound_source 'Rozna, Moravia, Czech Republic'
+_chemical_formula_sum 'Na.43 Al8.16 Li.84 Si6 B3 O30.9 F.1 H3.83'
+_cell_length_a 15.770
+_cell_length_b 15.770
+_cell_length_c 7.085
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1525.927
+_exptl_crystal_density_diffrn      3.059
+_symmetry_space_group_name_H-M 'R 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+NaX   0.00000   0.00000   0.84080   0.43000
+AlY   0.06084   0.93916   0.43730   0.72000
+LiY   0.06084   0.93916   0.43730   0.28000
+AlZ   0.25942   0.29637   0.46560   1.00000
+SiT   0.18965   0.19163   0.07210   1.00000
+B   0.89078   0.10922   0.61980   1.00000
+O-H1   0.00000   0.00000   0.30150   0.83000
+F1   0.00000   0.00000   0.30150   0.10000
+O1   0.00000   0.00000   0.30150   0.07000
+O2   0.93952   0.06048   0.58090   1.00000
+O-H3   0.12998   0.87002   0.56470   1.00000
+O4   0.90516   0.09484  -0.00170   1.00000
+O5   0.09386   0.90614  -0.02290   1.00000
+O6   0.18346   0.19363   0.29880   1.00000
+O7   0.28630   0.28694  -0.00340   1.00000
+O8   0.27035   0.20965   0.63590   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+NaX 0.02370 0.02370 0.01930 0.01185 0.00000 0.00000
+AlY 0.00510 0.00510 0.00790 0.00140 0.00120 -0.00120
+LiY 0.00510 0.00510 0.00790 0.00140 0.00120 -0.00120
+AlZ 0.00690 0.00460 0.00450 0.00290 -0.00100 -0.00010
+SiT 0.00410 0.00450 0.00500 0.00210 0.00050 0.00020
+B 0.00530 0.00530 0.00510 0.00210 0.00000 0.00000
+O-H1 0.02160 0.02160 0.00820 0.01080 0.00000 0.00000
+F1 0.02160 0.02160 0.00820 0.01080 0.00000 0.00000
+O1 0.02160 0.02160 0.00820 0.01080 0.00000 0.00000
+O2 0.01380 0.01380 0.01080 0.01120 -0.00010 0.00010
+O-H3 0.00950 0.00950 0.00650 -0.00120 0.00110 -0.00110
+O4 0.00660 0.00660 0.00830 -0.00010 -0.00030 0.00030
+O5 0.00750 0.00750 0.00770 -0.00010 -0.00100 0.00100
+O6 0.00810 0.00790 0.00510 0.00340 0.00030 0.00000
+O7 0.00540 0.00620 0.00610 0.00170 0.00140 -0.00030
+O8 0.00870 0.00490 0.00790 0.00350 -0.00310 -0.00090

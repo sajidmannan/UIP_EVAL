@@ -1,0 +1,140 @@
+data_global
+_chemical_name_mineral 'Rudashevskyite'
+loop_
+_publ_author_name
+'Britvin S N'
+'Bogdanova A N'
+'Boldyreva M M'
+'Aksenova G Y'
+_journal_name_full 'American Mineralogist'
+_journal_volume 93 
+_journal_year 2008
+_journal_page_first 902
+_journal_page_last 909
+_publ_section_title
+;
+ Rudashevskyite, the Fe-dominant analogue of sphalerite, a new mineral:
+ Description and crystal structure
+ Sample: Domain 1
+;
+_database_code_amcsd 0004582
+_chemical_compound_source 'Indarch meteorite'
+_chemical_formula_sum '(Fe.61 Zn.35 Mn.04) S'
+_cell_length_a 5.441
+_cell_length_b 5.441
+_cell_length_c 5.441
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 161.078
+_exptl_crystal_density_diffrn      3.761
+_symmetry_space_group_name_H-M 'F -4 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2+z'
+  '1/2+x,1/2+y,z'
+  '-z,x,-y'
+  '-z,1/2+x,1/2-y'
+  '1/2-z,x,1/2-y'
+  '1/2-z,1/2+x,-y'
+  '-y,z,-x'
+  '-y,1/2+z,1/2-x'
+  '1/2-y,z,1/2-x'
+  '1/2-y,1/2+z,-x'
+  '-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,y,1/2-z'
+  '1/2-x,1/2+y,-z'
+  'x,-z,-y'
+  'x,1/2-z,1/2-y'
+  '1/2+x,-z,1/2-y'
+  '1/2+x,1/2-z,-y'
+  'z,-y,-x'
+  'z,1/2-y,1/2-x'
+  '1/2+z,-y,1/2-x'
+  '1/2+z,1/2-y,-x'
+  'y,-x,-z'
+  'y,1/2-x,1/2-z'
+  '1/2+y,-x,1/2-z'
+  '1/2+y,1/2-x,-z'
+  'x,z,y'
+  'x,1/2+z,1/2+y'
+  '1/2+x,z,1/2+y'
+  '1/2+x,1/2+z,y'
+  'z,y,x'
+  'z,1/2+y,1/2+x'
+  '1/2+z,y,1/2+x'
+  '1/2+z,1/2+y,x'
+  'y,x,z'
+  'y,1/2+x,1/2+z'
+  '1/2+y,x,1/2+z'
+  '1/2+y,1/2+x,z'
+  '-z,-x,y'
+  '-z,1/2-x,1/2+y'
+  '1/2-z,-x,1/2+y'
+  '1/2-z,1/2-x,y'
+  '-y,-z,x'
+  '-y,1/2-z,1/2+x'
+  '1/2-y,-z,1/2+x'
+  '1/2-y,1/2-z,x'
+  '-x,-y,z'
+  '-x,1/2-y,1/2+z'
+  '1/2-x,-y,1/2+z'
+  '1/2-x,1/2-y,z'
+  'z,-x,-y'
+  'z,1/2-x,1/2-y'
+  '1/2+z,-x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'y,-z,-x'
+  'y,1/2-z,1/2-x'
+  '1/2+y,-z,1/2-x'
+  '1/2+y,1/2-z,-x'
+  'x,-y,-z'
+  'x,1/2-y,1/2-z'
+  '1/2+x,-y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '-x,z,-y'
+  '-x,1/2+z,1/2-y'
+  '1/2-x,z,1/2-y'
+  '1/2-x,1/2+z,-y'
+  '-z,y,-x'
+  '-z,1/2+y,1/2-x'
+  '1/2-z,y,1/2-x'
+  '1/2-z,1/2+y,-x'
+  '-y,x,-z'
+  '-y,1/2+x,1/2-z'
+  '1/2-y,x,1/2-z'
+  '1/2-y,1/2+x,-z'
+  '-x,-z,y'
+  '-x,1/2-z,1/2+y'
+  '1/2-x,-z,1/2+y'
+  '1/2-x,1/2-z,y'
+  '-z,-y,x'
+  '-z,1/2-y,1/2+x'
+  '1/2-z,-y,1/2+x'
+  '1/2-z,1/2-y,x'
+  '-y,-x,z'
+  '-y,1/2-x,1/2+z'
+  '1/2-y,-x,1/2+z'
+  '1/2-y,1/2-x,z'
+  'z,x,y'
+  'z,1/2+x,1/2+y'
+  '1/2+z,x,1/2+y'
+  '1/2+z,1/2+x,y'
+  'y,z,x'
+  'y,1/2+z,1/2+x'
+  '1/2+y,z,1/2+x'
+  '1/2+y,1/2+z,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Fe   0.00000   0.00000   0.00000   0.61000   0.04100
+Zn   0.00000   0.00000   0.00000   0.35000   0.04100
+Mn   0.00000   0.00000   0.00000   0.04000   0.04100
+S   0.25000   0.25000   0.25000   1.00000   0.05600

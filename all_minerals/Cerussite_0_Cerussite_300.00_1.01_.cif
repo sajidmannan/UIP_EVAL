@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Cerussite'
+loop_
+_publ_author_name
+'Ye Y'
+'Smyth J R'
+'Boni P'
+_journal_name_full 'American Mineralogist'
+_journal_volume 97 
+_journal_year 2012
+_journal_page_first 707
+_journal_page_last 712
+_publ_section_title
+;
+ Crystal structure and thermal expansion of aragonite-group carbonates
+ by single-crystal X-ray diffraction
+ Note: T = 300 K
+;
+_database_code_amcsd 0018859
+_chemical_compound_source 'Tsumeb, Namibia'
+_chemical_formula_sum 'Pb Ca.001 C O3'
+_cell_length_a 5.1820
+_cell_length_b 8.4953
+_cell_length_c 6.1436
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 270.458
+_exptl_crystal_density_diffrn      6.563
+_symmetry_space_group_name_H-M 'P m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb   0.25000   0.41706   0.75405   0.99900   0.01330
+Ca   0.25000   0.41706   0.75405   0.00100   0.01330
+C   0.25000   0.76480  -0.08960   1.00000   0.01500
+O1   0.25000   0.91250  -0.09450   1.00000   0.02200
+O2   0.46330   0.68640  -0.08690   1.00000   0.01980
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb 0.01330 0.01460 0.01210 0.00000 0.00000 0.00010
+Ca 0.01330 0.01460 0.01210 0.00000 0.00000 0.00010
+C 0.00900 0.03300 0.00200 0.00000 0.00000 0.00000
+O1 0.02700 0.01400 0.02600 0.00000 0.00000 -0.00700
+O2 0.02200 0.02100 0.01600 0.00300 0.00100 0.00100

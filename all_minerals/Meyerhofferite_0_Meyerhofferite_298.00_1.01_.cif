@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Meyerhofferite'
+loop_
+_publ_author_name
+'Burns P C'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 31 
+_journal_year 1993
+_journal_page_first 305
+_journal_page_last 312
+_publ_section_title
+;
+ Hydrogen bonding in meyerhofferite: An X-ray and structure energy study
+ from Mount Blanco, Death Valley, California
+;
+_database_code_amcsd 0005296
+_chemical_compound_source 'Mount Blanco, Death Valley, California, USA'
+_chemical_formula_sum 'Ca B3 O9 H7'
+_cell_length_a 6.632
+_cell_length_b 8.337
+_cell_length_c 6.4748
+_cell_angle_alpha 90.81
+_cell_angle_beta 101.97
+_cell_angle_gamma 86.76
+_cell_volume 349.653
+_exptl_crystal_density_diffrn      2.123
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.01073   0.37602   0.24440   0.01060
+B1   0.31680   0.79740   0.48550   0.01120
+B2   0.28790   0.63230   0.16540   0.00960
+B3   0.03930   0.26520   0.69920   0.00940
+O1   0.40420   0.73580   0.32740   0.01370
+O-h2   0.42240   0.88740   0.64830   0.01550
+O3   0.11500   0.77760   0.49250   0.01250
+O-h4   0.33630   0.46170   0.20590   0.01490
+O5   0.06170   0.65190   0.14810   0.00990
+O-h6   0.16940   0.37990   0.61860   0.01190
+OW7   0.15210   0.10710   0.21120   0.01610
+O-h8   0.15400   0.12230   0.79890   0.01520
+O-h9   0.33150   0.67110   0.95640   0.01290
+H1   0.56300   0.90100   0.64200   0.02000
+H2   0.45300   0.42900   0.14800   0.02000
+H3   0.31300   0.35200   0.64200   0.02000
+H4   0.25300   0.06500   0.73300   0.02000
+H5   0.37300   0.77900   0.95100   0.02000
+H6   0.05200   0.03200   0.22700   0.02000
+H7   0.16400   0.10400   0.06600   0.02000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01180 0.01130 0.00910 -0.00130 0.00270 0.00030
+B1 0.01140 0.01210 0.01000 -0.00240 0.00160 -0.00110
+B2 0.00810 0.01190 0.00960 -0.00030 0.00350 -0.00020
+B3 0.00840 0.01090 0.00930 -0.00030 0.00300 -0.00020
+O1 0.00950 0.01830 0.01350 -0.00280 0.00300 -0.00490
+O-h2 0.01170 0.01910 0.01590 -0.00510 0.00250 -0.00500
+O3 0.00970 0.01860 0.00980 -0.00430 0.00290 -0.00300
+O-h4 0.01260 0.01240 0.02140 0.00280 0.00820 0.00210
+O5 0.00730 0.01290 0.00960 0.00030 0.00250 -0.00200
+O-h6 0.00880 0.01510 0.01270 -0.00280 0.00370 0.00080
+OW7 0.01740 0.01530 0.01570 -0.00050 0.00360 -0.00050
+O-h8 0.01680 0.01450 0.01510 0.00610 0.00690 0.00240
+O-h9 0.01240 0.01600 0.01170 -0.00150 0.00530 0.00050

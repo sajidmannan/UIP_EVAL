@@ -1,0 +1,51 @@
+data_global
+_chemical_name_mineral 'Liguowuite'
+loop_
+_publ_author_name
+'Xue Y'
+'Sun N'
+'He H'
+'Chen A'
+'Yang Y'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 34 
+_journal_year 2022
+_journal_page_first 95
+_journal_page_last 108
+_publ_section_title
+;
+ Liguowuite, WO3, a new member of the A-site vacant perovskite type
+ minerals from the Panzhihua-Xichang region, China
+;
+_database_code_amcsd 0021075
+_chemical_compound_source 'Nanyang village, Panzhihua-Xichang region, China'
+_chemical_formula_sum 'W O3'
+_cell_length_a 7.32582
+_cell_length_b 7.54767
+_cell_length_c 7.71128
+_cell_angle_alpha 90
+_cell_angle_beta 90.678
+_cell_angle_gamma 90
+_cell_volume 426.349
+_exptl_crystal_density_diffrn      7.224
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+W1   0.24669   0.02814   0.28658   0.00032
+W2   0.25482   0.03452   0.78125   0.00032
+O1   0.00250   0.03500   0.21060   0.00032
+O2   0.99740   0.46360   0.21610   0.00032
+O3   0.28400   0.26050   0.28480   0.00032
+O4   0.20990   0.25680   0.73180   0.00032
+O5   0.28270   0.03830   0.00460   0.00032
+O6   0.28560   0.48400   0.99440   0.00032

@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Gersdorffite'
+loop_
+_publ_author_name
+'Foecker A J'
+'Jeitschko W'
+_journal_name_full 'Journal of Solid State Chemistry'
+_journal_volume 162 
+_journal_year 2001
+_journal_page_first 69
+_journal_page_last 78
+_publ_section_title
+;
+ The atomic order of the pnictogen and chalcogen atoms in equiatomic ternary
+ compounds TPnCh (T = Ni, Pd; Pn = P, As, Sb; Ch = S, Se, Te)
+;
+_database_code_amcsd 0014008
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ni As S'
+_cell_length_a 5.6888
+_cell_length_b 5.6888
+_cell_length_c 5.6888
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 184.103
+_exptl_crystal_density_diffrn      5.977
+_symmetry_space_group_name_H-M 'P 21 3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-z,-x,1/2+y'
+  '-z,1/2+x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'z,x,y'
+  '1/2+y,1/2-z,-x'
+  '1/2-y,-z,1/2+x'
+  '-y,1/2+z,1/2-x'
+  'y,z,x'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ni   0.99440   0.99440   0.99440   0.00470
+As   0.61820   0.61820   0.61820   0.00680
+S   0.38490   0.38490   0.38490   0.00130
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni 0.00470 0.00470 0.00470 0.00020 0.00020 0.00020
+As 0.00680 0.00680 0.00680 0.00020 0.00020 0.00020
+S 0.00130 0.00130 0.00130 0.00010 0.00010 0.00010

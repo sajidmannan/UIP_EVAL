@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Edgarite'
+loop_
+_publ_author_name
+'Anzenhofer K'
+'van den Berg J M'
+'Cossee P'
+'Helle J N'
+_journal_name_full 'Journal of Physics and Chemistry of Solids'
+_journal_volume 31 
+_journal_year 1970
+_journal_page_first 1057
+_journal_page_last 1067
+_publ_section_title
+;
+ The crystal structures and magnetic susceptibilities of MnNb3S6, FeNb3S6,
+ CoNb3S6 and NiNb3S6
+;
+_database_code_amcsd 0013199
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Fe Nb3 S6'
+_cell_length_a 5.761
+_cell_length_b 5.761
+_cell_length_c 12.201
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 350.689
+_exptl_crystal_density_diffrn      4.990
+_symmetry_space_group_name_H-M 'P 63 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,x-y,1/2-z'
+  'x-y,x,1/2+z'
+  'y,x,-z'
+  '-y,x-y,z'
+  '-x+y,y,1/2-z'
+  '-x,-y,1/2+z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-y,-x,1/2-z'
+  'y,-x+y,1/2+z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe   0.33333   0.66667   0.25000
+NbII   0.00000   0.00000   0.00000
+NbI   0.33333   0.66667  -0.00110
+S   0.33260   0.00220   0.37210
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe 0.02648 0.02648 0.15837 0.01324 0.00000 0.00000
+NbII 0.01148 0.01148 0.01659 0.00574 0.00000 0.00000
+NbI 0.01148 0.01148 0.01131 0.00574 0.00000 0.00000

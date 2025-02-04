@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Almeidaite'
+loop_
+_publ_author_name
+'Kastsvetaeva R K'
+'Aksenov S M'
+'Chukanov N V'
+'Menezes L A D'
+_journal_name_full 'Doklady Chemistry'
+_journal_volume 455 
+_journal_year 2014
+_journal_page_first 53
+_journal_page_last 57
+_publ_section_title
+;
+ Crystal structure of almeidaite, a new mineral of the crichtonite group
+;
+_database_code_amcsd 0020510
+_chemical_compound_source 'Novo Horizonte, Bahia, Brazil'
+_chemical_formula_sum 'Pb.6 Sr.1 Mn.8 Y.4 Zn1.5 Fe4.9 Ti13.4 O38 H.82'
+_cell_length_a 10.4359
+_cell_length_b 10.4359
+_cell_length_c 21.0471
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1985.101
+_exptl_crystal_density_diffrn      4.604
+_symmetry_space_group_name_H-M 'R -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb1   0.00000   0.00000   0.00000   0.60000   0.04950
+Sr1   0.00000   0.00000   0.00000   0.10000   0.04950
+Mn1  -0.66667  -0.33333   0.16667   0.60000   0.01000
+Y1  -0.66667  -0.33333   0.16667   0.40000   0.01000
+Zn1   0.00000   0.00000   0.30930   0.75000   0.00980
+Fe1  -0.14570   0.03790   0.16550   0.73330   0.01060
+Ti1  -0.14570   0.03790   0.16550   0.23330   0.01060
+Mn2  -0.14570   0.03790   0.16550   0.03330   0.01060
+Ti2  -0.42290  -0.01370   0.06560   1.00000   0.00980
+Ti3   0.08820   0.33790   0.05890   1.00000   0.01090
+Fe2   0.00000   0.00000   0.36810   0.25000   0.02100
+O1  -0.30750  -0.07550   0.22640   1.00000   0.00780
+O2  -0.30000  -0.06480   0.00640   1.00000   0.01110
+O3  -0.25820   0.10520   0.11640   1.00000   0.00870
+O4   0.04590   0.17350   0.10980   1.00000   0.00880
+O5  -0.47850  -0.20090   0.10290   1.00000   0.01200
+O6   0.05170   0.19740   0.33610   1.00000   0.00980
+O7   0.00000   0.00000   0.21500   0.59000   0.00910
+O-H7   0.00000   0.00000   0.21500   0.41000   0.00910

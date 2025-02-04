@@ -1,0 +1,82 @@
+data_global
+_chemical_name_mineral 'Neustadtelite'
+loop_
+_publ_author_name
+'Krause W'
+'Bernhardt H J'
+'McCammon C A'
+'Effenberger H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 87 
+_journal_year 2002
+_journal_page_first 726
+_journal_page_last 738
+_publ_section_title
+;
+ Neustadtelite and cobaltneustadtelite, the Fe- and Co- analogues of medenbachite
+;
+_database_code_amcsd 0002815
+_chemical_formula_sum 'Bi1.96 Ca.04 Fe1.5 Co.38 Ni.04 Al.05 Zn.01 Cu.01 As2 O12 H2'
+_cell_length_a 4.566
+_cell_length_b 6.158
+_cell_length_c 8.972
+_cell_angle_alpha 95.52
+_cell_angle_beta 99.51
+_cell_angle_gamma 92.85
+_cell_volume 247.095
+_exptl_crystal_density_diffrn      5.821
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Bi1   0.16150   0.29550   0.40120   0.49000
+Ca1   0.16150   0.29550   0.40120   0.01000
+Bi2   0.25900   0.32250   0.39340   0.49000
+Ca2   0.25900   0.32250   0.39340   0.01000
+FeM1   0.00000   0.00000   0.00000   1.00000
+FeM2   0.00000   0.50000   0.00000   0.50000
+CoM2   0.00000   0.50000   0.00000   0.38000
+NiM2   0.00000   0.50000   0.00000   0.04000
+AlM2   0.00000   0.50000   0.00000   0.05000
+ZnM2   0.00000   0.50000   0.00000   0.01000
+CuM2   0.00000   0.50000   0.00000   0.01000
+As   0.54620   0.79130   0.21425   1.00000
+O1   0.32810   0.56030   0.19630   1.00000
+O-H2   0.15310   0.74270   0.89020   1.00000
+O3   0.34430   0.00630   0.17640   1.00000
+O4   0.22690   0.24220   0.91980   1.00000
+O5   0.26990   0.61960   0.53530   1.00000
+O6   0.24720   0.14360   0.61330   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 0.04040 0.02720 0.02530 0.01530 0.00360 0.00100
+Ca1 0.04040 0.02720 0.02530 0.01530 0.00360 0.00100
+Bi2 0.03500 0.02470 0.02530 0.01140 0.00310 0.00230
+Ca2 0.03500 0.02470 0.02530 0.01140 0.00310 0.00230
+FeM1 0.01940 0.01880 0.01910 0.00700 0.00170 0.00180
+FeM2 0.01710 0.01470 0.01770 0.00540 0.00380 0.00450
+CoM2 0.01710 0.01470 0.01770 0.00540 0.00380 0.00450
+NiM2 0.01710 0.01470 0.01770 0.00540 0.00380 0.00450
+AlM2 0.01710 0.01470 0.01770 0.00540 0.00380 0.00450
+ZnM2 0.01710 0.01470 0.01770 0.00540 0.00380 0.00450
+CuM2 0.01710 0.01470 0.01770 0.00540 0.00380 0.00450
+As 0.02080 0.01890 0.01960 0.00750 0.00290 0.00310
+O1 0.02500 0.02000 0.03200 0.00700 0.00300 0.01100
+O-H2 0.02400 0.02200 0.02500 0.00300 -0.00300 0.00700
+O3 0.01500 0.02600 0.02800 0.00400 -0.00100 0.00700
+O4 0.02800 0.02600 0.01800 0.01300 0.00700 0.00200
+O5 0.02600 0.04000 0.02000 0.00500 -0.00400 -0.00800
+O6 0.03400 0.04000 0.02500 0.00700 -0.00700 -0.00300

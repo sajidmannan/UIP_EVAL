@@ -1,0 +1,83 @@
+data_global
+_chemical_name_mineral 'Wakefieldite-(Y)'
+loop_
+_publ_author_name
+'Lohmuller G'
+'Schmidt G'
+'Deppisch B'
+'Gramlich V'
+'Scheringer C'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 29 
+_journal_year 1973
+_journal_page_first 141
+_journal_page_last 142
+_publ_section_title
+;
+ Die kristallstrukturen von yttrium-vanadat, lutetium-phosphat und lutetium-arsenat
+;
+_database_code_amcsd 0009472
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Y V O4'
+_cell_length_a 7.120
+_cell_length_b 7.120
+_cell_length_c 6.289
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 318.817
+_exptl_crystal_density_diffrn      4.247
+_symmetry_space_group_name_H-M 'I 41/a m d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/4-y,3/4-x,1/4+z'
+  '3/4-y,1/4-x,3/4+z'
+  '1/4+y,3/4+x,1/4-z'
+  '3/4+y,1/4+x,3/4-z'
+  '1/4+y,3/4-x,1/4-z'
+  '3/4+y,1/4-x,3/4-z'
+  '1/4-y,3/4+x,1/4+z'
+  '3/4-y,1/4+x,3/4+z'
+  '1/2+x,-y,1/2+z'
+  '+x,1/2-y,+z'
+  '1/2-x,y,1/2-z'
+  '-x,1/2+y,-z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '1/4+y,1/4+x,3/4+z'
+  '3/4+y,3/4+x,1/4+z'
+  '1/4-y,1/4-x,3/4-z'
+  '3/4-y,3/4-x,1/4-z'
+  '1/4-y,1/4+x,3/4-z'
+  '3/4-y,3/4+x,1/4-z'
+  '1/4+y,1/4-x,3/4+z'
+  '3/4+y,3/4-x,1/4+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Y   0.00000   0.75000   0.12500
+V   0.00000   0.25000   0.37500
+O   0.00000   0.43520   0.20010
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Y 0.00290 0.00290 0.00178 0.00000 0.00000 0.00000
+V 0.00288 0.00288 0.00202 0.00000 0.00000 0.00000
+O 0.01418 0.00724 0.00797 0.00000 0.00000 0.00125

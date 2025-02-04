@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Manganocolumbite'
+loop_
+_publ_author_name
+'Tarantino S C'
+'Zema M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 90 
+_journal_year 2005
+_journal_page_first 1291
+_journal_page_last 1300
+_publ_section_title
+;
+ Mixing and ordering behavior in manganocolumbite-ferrocolumbite solid solution:
+ A single-crystal X-ray diffraction study
+ Sample: RIO n5 Qm=1 from Rio Arriba Co., Globe Mine, U.S.A.
+;
+_database_code_amcsd 0003828
+_chemical_formula_sum 'Fe.534 Mn.457 Ti.063 Sn.001 Ca.001 Nb1.836 Ta.094 W.014 O6'
+_cell_length_a 14.3434
+_cell_length_b 5.7415
+_cell_length_c 5.0665
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 417.240
+_exptl_crystal_density_diffrn      5.480
+_symmetry_space_group_name_H-M 'P b c n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+FeA   0.00000   0.32435   0.25000   0.53400   0.00790
+MnA   0.00000   0.32435   0.25000   0.45700   0.00790
+TiA   0.00000   0.32435   0.25000   0.00700   0.00790
+SnA   0.00000   0.32435   0.25000   0.00100   0.00790
+CaA   0.00000   0.32435   0.25000   0.00100   0.00790
+NbB   0.16206   0.17992   0.74297   0.91800   0.00630
+TaB   0.16206   0.17992   0.74297   0.04700   0.00630
+TiB   0.16206   0.17992   0.74297   0.02800   0.00630
+WB   0.16206   0.17992   0.74297   0.00700   0.00630
+O1   0.09738   0.10110   0.06330   1.00000   0.00840
+O2   0.08183   0.38420   0.59630   1.00000   0.00980
+O3   0.24378   0.12460   0.41380   1.00000   0.00800

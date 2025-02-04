@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Lithiophosphate'
+loop_
+_publ_author_name
+'Zemann J'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 13 
+_journal_year 1960
+_journal_page_first 863
+_journal_page_last 867
+_publ_section_title
+;
+ Die kristallstruktur von lithiumphosphat, Li3PO4
+ Note: this is the quenchable high-temperature form
+;
+_database_code_amcsd 0009246
+_chemical_formula_sum 'Li3 P O4'
+_cell_length_a 6.12
+_cell_length_b 10.53
+_cell_length_c 4.93
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 317.707
+_exptl_crystal_density_diffrn      2.421
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,1/2+y,1/2-z'
+  '-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Li1   0.49500   0.16200   0.30400   0.01393
+Li2   0.75000   0.42200   0.19600   0.01393
+P   0.25000   0.41150   0.30800   0.00633
+O1   0.04200   0.34200   0.20500   0.01140
+O2   0.25000   0.05200   0.29500   0.01140
+O3   0.75000   0.09000   0.12500   0.01140

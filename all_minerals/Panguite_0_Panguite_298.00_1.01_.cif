@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Panguite'
+loop_
+_publ_author_name
+'Ma C'
+'Tschauner O'
+'Beckett J R'
+'Rossman G R'
+'Liu W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 97 
+_journal_year 2012
+_journal_page_first 1219
+_journal_page_last 1225
+_publ_section_title
+;
+ Panguite, (Ti4+,Sc,Al,Mg,Zr,Ca)1.8O3, a new ultra-refractory titania mineral
+ from the Allende meteorite: Synchrotron micro-diffraction and EBSD
+;
+_database_code_amcsd 0019144
+_chemical_compound_source 'Allende, Chihuahua, Mexico'
+_chemical_formula_sum 'Ti1.67 O3'
+_cell_length_a 9.781
+_cell_length_b 9.778
+_cell_length_c 9.815
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 938.693
+_exptl_crystal_density_diffrn      3.622
+_symmetry_space_group_name_H-M 'P b c a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ti1   0.47910   0.03530   0.33300   0.86000   0.06020
+Ti2   0.00800   0.24740   0.46200   0.81000   0.06870
+Ti3   0.24626   0.47104   0.00002   0.87000   0.06690
+Ti4   0.24600   0.25330   0.24770   0.80000   0.05680
+O1   0.39300   0.15000   0.38000   1.00000   0.20000
+O2   0.42490   0.43300   0.19800   1.00000   0.07100
+O3   0.14000   0.37640   0.39400   1.00000   0.03460
+O4   0.09970   0.35109   0.10870   1.00000   0.04200
+O5   0.10800   0.11060   0.35300   1.00000   0.05900
+O6   0.35100   0.11000   0.10000   1.00000   0.20000

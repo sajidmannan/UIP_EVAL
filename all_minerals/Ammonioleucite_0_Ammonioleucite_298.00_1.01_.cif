@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Ammonioleucite'
+loop_
+_publ_author_name
+'Yamada M'
+'Miyawaki R'
+'Nakai I'
+'Izumi F'
+'Nagashima K'
+_journal_name_full 'Mineralogical Journal'
+_journal_volume 20 
+_journal_year 1998
+_journal_page_first 105
+_journal_page_last 112
+_publ_section_title
+;
+ A Rietveld analysis of the crystal structure of ammonioleucite
+;
+_database_code_amcsd 0014433
+_chemical_formula_sum 'N.53 K.34 Al.89 Si2.11 O6'
+_cell_length_a 13.2106
+_cell_length_b 13.2106
+_cell_length_c 13.7210
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2394.588
+_exptl_crystal_density_diffrn      2.219
+_symmetry_space_group_name_H-M 'I 41/a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '3/4+y,1/4-x,1/4-z'
+  '1/4+y,3/4-x,3/4-z'
+  '3/4-y,1/4+x,1/4+z'
+  '1/4-y,3/4+x,3/4+z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '3/4-y,3/4+x,3/4-z'
+  '1/4-y,1/4+x,1/4-z'
+  '3/4+y,3/4-x,3/4+z'
+  '1/4+y,1/4-x,1/4+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NH4   0.35800   0.36800   0.11200   0.53000   0.08232
+K   0.35800   0.36800   0.11200   0.34000   0.08232
+Al1   0.06320   0.39500   0.16720   0.29660   0.01216
+Si1   0.06320   0.39500   0.16720   0.70330   0.01216
+Al2   0.16680   0.61150   0.12500   0.29660   0.01127
+Si2   0.16680   0.61150   0.12500   0.70330   0.01127
+Al3   0.39000   0.64180   0.08720   0.29660   0.01229
+Si3   0.39000   0.64180   0.08720   0.70330   0.01229
+O1   0.12400   0.30400   0.11100   1.00000   0.03002
+O2   0.10600   0.50700   0.12600   1.00000   0.02938
+O3   0.13000   0.66300   0.22460   1.00000   0.02305
+O4   0.12500   0.67000   0.03100   1.00000   0.02381
+O5   0.29210   0.58300   0.12400   1.00000   0.02520
+O6   0.48200   0.62700   0.16200   1.00000   0.02368

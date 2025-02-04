@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Britholite-(Y)'
+loop_
+_publ_author_name
+'Noe D C'
+'Hughes J M'
+'Mariano A N'
+'Drexler J W'
+'Kato A'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 206 
+_journal_year 1993
+_journal_page_first 233
+_journal_page_last 246
+_publ_section_title
+;
+ The crystal structure of monoclinic britholite-(Ce) and britholite-(Y)
+ Note: unannealed sample
+;
+_database_code_amcsd 0011044
+_chemical_compound_source 'Suishoyama, Japan'
+_chemical_formula_sum 'Y4.48 Lu.32 Ca.2 Si3 O12.07 (F.93 H.07)'
+_cell_length_a 9.4216
+_cell_length_b 9.4138
+_cell_length_c 6.7639
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120.0284
+_cell_volume 519.389
+_exptl_crystal_density_diffrn      4.843
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Y1a   0.33380   0.66620   0.00450   0.88000   0.03331
+Lu1a   0.33380   0.66620   0.00450   0.12000   0.03331
+Y1b   0.33290   0.66700   0.50780   0.80000   0.01102
+Ca1b   0.33290   0.66700   0.50780   0.20000   0.01102
+Y2a   0.99470   0.24220   0.25900   0.93000   0.02267
+Lu2a   0.99470   0.24220   0.25900   0.07000   0.02267
+Y2b   0.24230   0.24730   0.75700   0.94000   0.02216
+Lu2b   0.24230   0.24730   0.75700   0.06000   0.02216
+Y2c   0.24730   0.00500   0.25700   0.93000   0.02343
+Lu2c   0.24730   0.00500   0.25700   0.07000   0.02343
+Si1   0.02600   0.62700   0.25000   1.00000   0.01279
+Si2   0.37270   0.39920   0.27400   1.00000   0.01406
+Si3   0.60100   0.97380   0.25000   1.00000   0.01418
+O1a   0.83200   0.50700   0.25900   1.00000   0.03040
+O1b   0.49100   0.32200   0.27500   1.00000   0.03420
+O1c   0.67500   0.16900   0.25500   1.00000   0.03040
+O2a   0.40300   0.87040   0.23800   1.00000   0.02026
+O2b   0.46800   0.59600   0.23600   1.00000   0.01773
+O2c   0.13000   0.53360   0.28800   1.00000   0.02280
+O3a   0.62800   0.89600   0.06200   1.00000   0.02280
+O3b   0.68600   0.92500   0.44200   1.00000   0.02913
+O3c   0.26600   0.36700   0.06100   1.00000   0.01900
+O3d   0.23700   0.31000   0.43800   1.00000   0.03926
+O3e   0.07500   0.76100   0.08500   1.00000   0.02913
+O3f   0.10200   0.73300   0.46800   1.00000   0.02406
+F   0.00000   0.99700   0.23100   0.93000   0.06713
+O-H   0.00000   0.99700   0.23100   0.07000   0.06713

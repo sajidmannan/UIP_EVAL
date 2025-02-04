@@ -1,0 +1,86 @@
+data_global
+_chemical_name_mineral 'Mackayite'
+loop_
+_publ_author_name
+'Pertlik F'
+'Gieren A'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1977 
+_journal_year 1977
+_journal_page_first 145
+_journal_page_last 154
+_publ_section_title
+;
+ Verfeinerung der kristallstruktur von mackayite Fe(OH)[Te2O5]
+;
+_database_code_amcsd 0014758
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Fe Te2 O6 H'
+_cell_length_a 11.80
+_cell_length_b 11.80
+_cell_length_c 15.10
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2102.524
+_exptl_crystal_density_diffrn      5.156
+_symmetry_space_group_name_H-M 'I 41/a c d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/4-y,3/4-x,3/4+z'
+  '3/4-y,1/4-x,1/4+z'
+  '1/4+y,3/4+x,3/4-z'
+  '3/4+y,1/4+x,1/4-z'
+  '1/4+y,3/4-x,1/4-z'
+  '3/4+y,1/4-x,3/4-z'
+  '1/4-y,3/4+x,1/4+z'
+  '3/4-y,1/4+x,3/4+z'
+  '1/2+x,-y,z'
+  '+x,1/2-y,1/2+z'
+  '1/2-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '1/4+y,1/4+x,1/4+z'
+  '3/4+y,3/4+x,3/4+z'
+  '1/4-y,1/4-x,1/4-z'
+  '3/4-y,3/4-x,3/4-z'
+  '1/4-y,1/4+x,3/4-z'
+  '3/4-y,3/4+x,1/4-z'
+  '1/4+y,1/4-x,3/4+z'
+  '3/4+y,3/4-x,1/4+z'
+  '-x,y,1/2+z'
+  '1/2-x,1/2+y,+z'
+  'x,-y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe   0.00000   0.25000   0.23036
+Te   0.29844   0.34749   0.11144
+O1   0.26084   0.51084   0.12500
+O2   0.38237   0.37791   0.00531
+O3   0.38768   0.17442   0.06165
+O-H   0.42941   0.67941   0.12500
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe 0.00836 0.00861 0.01760 -0.00089 0.00000 0.00000
+Te 0.01342 0.01507 0.02824 -0.00025 -0.00013 0.00051
+O1 0.01495 0.01495 0.02609 0.00380 0.00418 -0.00418
+O2 0.01558 0.00976 0.02622 0.00190 0.01090 0.00177
+O3 0.01242 0.00570 0.04166 0.00076 -0.00025 0.00190
+O-H 0.01368 0.01368 0.01317 -0.00355 0.00126 -0.00126

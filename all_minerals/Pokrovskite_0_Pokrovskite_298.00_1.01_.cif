@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Pokrovskite'
+loop_
+_publ_author_name
+'Perchiazzi N'
+'Merlino S'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 18 
+_journal_year 2006
+_journal_page_first 787
+_journal_page_last 792
+_publ_section_title
+;
+ The malachite-rosasite group: crystal structures of glaukosphaerite and
+ pokrovskite
+;
+_database_code_amcsd 0007185
+_chemical_formula_sum 'Mg1.76 C O5 H2'
+_cell_length_a 12.2396
+_cell_length_b 9.3506
+_cell_length_c 3.1578
+_cell_angle_alpha 90
+_cell_angle_beta 96.445
+_cell_angle_gamma 90
+_cell_volume 359.119
+_exptl_crystal_density_diffrn      2.530
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+MgMe1   0.21220   0.00450   0.98300   0.88000   0.01267
+MgMe2   0.39890   0.77100   0.57400   0.88000   0.01267
+C   0.15030  -0.26370   0.53650   1.00000   0.07472
+O1   0.14990  -0.12790   0.44480   1.00000   0.03800
+O2   0.24000  -0.33770   0.53070   1.00000   0.03800
+O3   0.06120  -0.32490   0.63390   1.00000   0.03800
+O-H4   0.36560   0.91620   0.06200   1.00000   0.03800
+O-H5   0.42940   0.62660   0.10300   1.00000   0.03800

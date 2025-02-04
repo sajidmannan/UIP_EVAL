@@ -1,0 +1,88 @@
+data_global
+_chemical_name_mineral 'Chloraluminite'
+loop_
+_publ_author_name
+'Buchanan D R'
+'Harris P M'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 24 
+_journal_year 1968
+_journal_page_first 954
+_journal_page_last 960
+_publ_section_title
+;
+ A neutron and X-ray diffraction investigation of aluminium chloride hexahydrate
+ Sample: single crystal X-ray diffraction data
+;
+_database_code_amcsd 0009341
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Al Cl3 O6 H12'
+_cell_length_a 11.827
+_cell_length_b 11.827
+_cell_length_c 11.895
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1440.935
+_exptl_crystal_density_diffrn      1.669
+_symmetry_space_group_name_H-M 'R -3 c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,1/2+z'
+  '2/3+x,1/3+x-y,5/6+z'
+  '1/3+x,2/3+x-y,1/6+z'
+  'y,x,1/2-z'
+  '2/3+y,1/3+x,5/6-z'
+  '1/3+y,2/3+x,1/6-z'
+  '-x+y,y,1/2+z'
+  '2/3-x+y,1/3+y,5/6+z'
+  '1/3-x+y,2/3+y,1/6+z'
+  '-x,-x+y,1/2-z'
+  '2/3-x,1/3-x+y,5/6-z'
+  '1/3-x,2/3-x+y,1/6-z'
+  '-y,-x,1/2+z'
+  '2/3-y,1/3-x,5/6+z'
+  '1/3-y,2/3-x,1/6+z'
+  'x-y,-y,1/2-z'
+  '2/3+x-y,1/3-y,5/6-z'
+  '1/3+x-y,2/3-y,1/6-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Al   0.00000   0.00000   0.00000   0.01089
+Cl   0.26840   0.00000   0.25000   0.02090
+O   0.10700   0.14550   0.09060   0.02014
+H   0.07000   0.18800   0.14500 ?
+H*   0.20300   0.19700   0.08400 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al 0.01807 0.01807 0.01219 0.00904 0.00000 0.00000
+Cl 0.02445 0.02817 0.01864 0.01408 -0.00247 -0.00494
+O 0.02020 0.02232 0.02150 0.00744 0.00000 -0.00679

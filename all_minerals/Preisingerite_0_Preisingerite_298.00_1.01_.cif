@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Preisingerite'
+loop_
+_publ_author_name
+'Bedlivy D'
+'Mereiter K'
+_journal_name_full 'American Mineralogist'
+_journal_volume 67 
+_journal_year 1982
+_journal_page_first 833
+_journal_page_last 840
+_publ_section_title
+;
+ Preisingerite, Bi3O(OH)(AsO4)2, a new species from San Juan Province, Argentina:
+ Its description and crystal structure
+;
+_database_code_amcsd 0000873
+_chemical_formula_sum 'Bi3 As2 O10'
+_cell_length_a 9.993
+_cell_length_b 7.404
+_cell_length_c 6.937
+_cell_angle_alpha 87.82
+_cell_angle_beta 115.01
+_cell_angle_gamma 111.07
+_cell_volume 430.074
+_exptl_crystal_density_diffrn      7.234
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Bi1   0.52327   0.41421   0.75230   0.01317
+Bi2   0.29838   0.74044   0.55549   0.01267
+Bi3   0.07735   0.16090   0.28045   0.01773
+As1   0.69520   0.01720   0.92150   0.01368
+As2   0.09610   0.37200   0.78620   0.01317
+O1   0.37770   0.53820   0.47590   0.01773
+O2   0.30660   0.15490   0.55790   0.01646
+O3   0.85900   0.02750   0.89430   0.01773
+O4   0.55690  -0.20840   0.86020   0.03040
+O5   0.62100   0.15960   0.75260   0.01267
+O6   0.76840   0.10520   0.18110   0.02026
+O7   0.25840   0.51010   0.74970   0.01267
+O8  -0.04680   0.46370   0.69020   0.01267
+O9   0.02090   0.14980   0.63620   0.01520
+O10   0.16950   0.37270   0.05060   0.02026
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 0.01381 0.01494 0.01190 0.00190 0.00747 0.00469
+Bi2 0.01216 0.01115 0.01621 0.00266 0.00785 0.00431
+Bi3 0.01381 0.01634 0.02115 -0.00051 0.00747 0.00405
+As1 0.01165 0.01330 0.01583 0.00380 0.00659 0.00380
+As2 0.00886 0.01102 0.01684 -0.00051 0.00544 0.00114

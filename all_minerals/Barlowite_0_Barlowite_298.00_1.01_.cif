@@ -1,0 +1,83 @@
+data_global
+_chemical_name_mineral 'Barlowite'
+loop_
+_publ_author_name
+'Elliott P'
+'Cooper M A'
+'Pring A'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 78 
+_journal_year 2014
+_journal_page_first 1755
+_journal_page_last 1762
+_publ_section_title
+;
+ Barlowite, Cu4FBr(OH)6, a new mineral isostructural with claringbullite:
+ description and crystal structure
+;
+_database_code_amcsd 0020634
+_chemical_compound_source 'Great Australia mine, Cloncurry, Queensland, Australia'
+_chemical_formula_sum 'Cu3.99 Br.95 Cl.09 F O5.85 H5.85'
+_cell_length_a 6.6786
+_cell_length_b 6.6786
+_cell_length_c 9.2744
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 358.251
+_exptl_crystal_density_diffrn      4.182
+_symmetry_space_group_name_H-M 'P 63/m m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x,-x+y,-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+  'x-y,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu1   0.50000   0.00000   0.00000   1.00000   0.01449
+Cu2   0.37107   0.74210   0.75000   0.33000   0.01230
+Br   0.66667   0.33333   0.75000   0.95000   0.01840
+Cl   0.66667   0.33333   0.75000   0.09000   0.01840
+F   0.00000   0.00000   0.75000   1.00000   0.02500
+O   0.20189   0.79811   0.90797   0.97500   0.01250
+H   0.12250   0.87750   0.87100   0.97500   0.04400
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.01064 0.01000 0.02260 0.00498 -0.00191 -0.00382
+Cu2 0.01130 0.01790 0.00980 0.00900 0.00000 0.00000
+Br 0.02010 0.02010 0.01510 0.01003 0.00000 0.00000
+Cl 0.02010 0.02010 0.01510 0.01003 0.00000 0.00000
+F 0.02120 0.02120 0.03300 0.01060 0.00000 0.00000
+O 0.01080 0.01080 0.01590 0.00540 -0.00090 0.00090

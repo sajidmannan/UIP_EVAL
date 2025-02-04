@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Bergslagite'
+loop_
+_publ_author_name
+'Hansen S'
+'Falth L'
+'Johnson O'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 166 
+_journal_year 1984
+_journal_page_first 73
+_journal_page_last 80
+_publ_section_title
+;
+ Bergslagite, a mineral with tetrahedral berylloarsenate sheet anions
+ Note: anisoB's from ICSD
+;
+_database_code_amcsd 0010863
+_chemical_formula_sum 'Ca Be As O5 H'
+_cell_length_a 4.8818
+_cell_length_b 7.809
+_cell_length_c 10.127
+_cell_angle_alpha 90
+_cell_angle_beta 90.16
+_cell_angle_gamma 90
+_cell_volume 386.060
+_exptl_crystal_density_diffrn      3.527
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.99850   0.11170   0.32840   0.00925
+Be   0.55100   0.41470   0.33810   0.00785
+As   0.47900   0.27511   0.07950   0.00519
+O1   0.24000   0.41370   0.03100   0.01254
+O2   0.67790   0.28970   0.45290   0.01229
+O3   0.69060   0.34520   0.19920   0.01178
+O4   0.31060   0.10440   0.14390   0.01254
+O-H   0.22260   0.41270   0.33080   0.01191
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00773 0.01112 0.00862 -0.00116 0.00100 -0.00096
+As 0.00604 0.00584 0.00353 0.00077 -0.00015 -0.00008
+O1 0.01570 0.01174 0.00935 0.00521 -0.00050 0.00040
+O2 0.01087 0.01390 0.01247 -0.00058 0.00250 0.00441
+O3 0.01087 0.01699 0.00779 0.00039 -0.00125 -0.00040
+O4 0.01207 0.00896 0.01663 -0.00135 0.00225 0.00200
+O-H 0.00724 0.01730 0.01195 -0.00097 0.00075 -0.00240

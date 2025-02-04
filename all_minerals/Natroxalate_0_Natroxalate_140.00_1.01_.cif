@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Natroxalate'
+loop_
+_publ_author_name
+'Reed D A'
+'Olmstead M M'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 37 
+_journal_year 1981
+_journal_page_first 938
+_journal_page_last 939
+_publ_section_title
+;
+ Sodium oxalate structure refinement
+ Sample: T = 140 K
+;
+_database_code_amcsd 0009741
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Na C O2'
+_cell_length_a 3.449
+_cell_length_b 5.243
+_cell_length_c 10.375
+_cell_angle_alpha 90
+_cell_angle_beta 92.66
+_cell_angle_gamma 90
+_cell_volume 187.410
+_exptl_crystal_density_diffrn      2.375
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na   0.30200   0.05650   0.35520
+C   0.11350   0.04350   0.06340
+O1   0.16570  -0.12220   0.15110
+O2   0.22740   0.27040   0.06910
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na 0.01457 0.00773 0.00646 0.00241 -0.00089 -0.00127
+C 0.00798 0.00874 0.01203 0.00203 0.00633 -0.00051
+O1 0.01659 0.01089 0.00684 -0.00063 -0.00051 0.00203
+O2 0.01824 0.00747 0.00937 -0.00165 -0.00051 -0.00076

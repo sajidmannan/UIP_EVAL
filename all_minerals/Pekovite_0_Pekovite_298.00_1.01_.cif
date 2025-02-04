@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Pekovite'
+loop_
+_publ_author_name
+'Pautov L A'
+'Agakhanov A A'
+'Sokolova E V'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 42 
+_journal_year 2004
+_journal_page_first 107
+_journal_page_last 119
+_publ_section_title
+;
+ Maleevite, BaB2Si2O8, and pekovite, SrB2Si2O8, new mineral species from the
+ Dara-i-Pioz alkaline massif, Northern Tajikistan: Description and crystal structure
+;
+_database_code_amcsd 0005929
+_chemical_compound_source 'Dara-i-Pioz alkaline massif, Northern Tajikistan'
+_chemical_formula_sum 'Sr B2 Si2 O8'
+_cell_length_a 8.155
+_cell_length_b 7.919
+_cell_length_c 8.921
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 576.113
+_exptl_crystal_density_diffrn      3.383
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+SrA   0.38756   0.25000   0.07841   0.00898
+BT1   0.26500   0.08080   0.41530   0.00490
+SiT2   0.06105   0.94094   0.19163   0.00500
+O1   0.20020   0.98330   0.06880   0.00850
+O2   0.13440   0.96370   0.35970   0.00710
+O3   0.41030   0.07250   0.32070   0.00750
+O4   0.49240   0.75000   0.32770   0.00770
+O5   0.19510   0.25000   0.41270   0.00860
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+SrA 0.01290 0.00370 0.01030 0.00000 -0.00050 0.00000
+BT1 0.00830 0.00000 0.00630 -0.00070 0.00070 -0.00060
+SiT2 0.00820 0.00060 0.00610 -0.00020 -0.00010 -0.00020
+O1 0.01370 0.00470 0.00710 -0.00330 0.00210 -0.00180
+O2 0.01140 0.00440 0.00550 -0.00170 -0.00120 -0.00020
+O3 0.01130 0.00070 0.01060 0.00150 0.00330 -0.00050
+O4 0.01270 0.00010 0.01000 0.00000 0.00190 0.00000
+O5 0.00780 0.00460 0.01300 0.00000 0.00260 0.00000

@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Gallium'
+loop_
+_publ_author_name
+'Bosio L'
+'Defrain A'
+'Curien H'
+'Rimsky A'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 25 
+_journal_year 1969
+_journal_page_first 995
+_journal_page_last 995
+_publ_section_title
+;
+ Structure cristalline du gallium-beta
+ Sample: at T = 248.15 K
+ Note: structure known as beta phase
+;
+_database_code_amcsd 0009351
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ga'
+_cell_length_a 2.766
+_cell_length_b 8.053
+_cell_length_c 3.332
+_cell_angle_alpha 90
+_cell_angle_beta 92.02
+_cell_angle_gamma 90
+_cell_volume 74.173
+_exptl_crystal_density_diffrn      6.244
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ga   0.00000   0.13100   0.25000

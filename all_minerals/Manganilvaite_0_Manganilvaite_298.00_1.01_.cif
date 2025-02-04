@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Manganilvaite'
+loop_
+_publ_author_name
+'Zotov N'
+'Kockelmann W'
+'Jacobsen S D'
+'Mitov I'
+'Paneva D'
+'Vassileva R D'
+'Bonev I K'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 43 
+_journal_year 2005
+_journal_page_first 1043
+_journal_page_last 1053
+_publ_section_title
+;
+ Structure and cation order in manganilvaite:
+ a combined X-ray-diffraction, neutron-diffraction and mossbauer study
+ Sample: Ossikovo Pb-Zn skarn, Rhodope Mountains, Bulgaria
+ Sample: powder X-ray + neutron analysis
+;
+_database_code_amcsd 0006024
+_chemical_formula_sum 'Ca.903 Mn.6 Fe2.497 Si2 O9 H'
+_cell_length_a 13.0250
+_cell_length_b 8.8514
+_cell_length_c 5.8486
+_cell_angle_alpha 90
+_cell_angle_beta 90.167
+_cell_angle_gamma 90
+_cell_volume 674.279
+_exptl_crystal_density_diffrn      4.037
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca   0.81500   0.37290   0.76300   0.90300   0.00540
+Mn   0.81500   0.37290   0.76300   0.09700   0.00540
+Fe2+M11   0.89120   0.05040   0.00720   0.83000   0.00490
+Fe3+M11   0.89120   0.05040   0.00720   0.17000   0.00490
+Fe2+M12   0.88860   0.05010   0.49530   0.17000   0.00490
+Fe3+M12   0.88860   0.05010   0.49530   0.83000   0.00490
+MnM2   0.94210   0.73950   0.25610   0.50300   0.00490
+Fe2+M2   0.94210   0.73950   0.25610   0.49700   0.00490
+Si1   0.95870   0.36930   0.25990   1.00000   0.00370
+Si2   0.68200   0.22620   0.24390   1.00000   0.00370
+O1   0.01000   0.02700   0.73780   1.00000   0.00027
+O21   0.93760   0.27310   0.01400   1.00000   0.00027
+O22   0.93400   0.27220   0.47990   1.00000   0.00027
+O3   0.77640   0.10710   0.25980   1.00000   0.00027
+O41   0.67620   0.33300   0.02080   1.00000   0.00027
+O42   0.66780   0.32580   0.48420   1.00000   0.00027
+O5   0.58360   0.10180   0.26160   1.00000   0.00027
+O6   0.60280   0.02150   0.76050   1.00000   0.00027
+O7   0.79730   0.11200   0.74220   1.00000   0.00027
+H   0.72850   0.06440   0.75490   1.00000   0.02050

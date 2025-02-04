@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Carmichaelite'
+loop_
+_publ_author_name
+'Wang L'
+'Rouse R C'
+'Essene E J'
+'Peacor D R'
+'Zhang Y'
+_journal_name_full 'American Mineralogist'
+_journal_volume 85 
+_journal_year 2000
+_journal_page_first 792
+_journal_page_last 800
+_publ_section_title
+;
+ Carmichaelite, a new hydroxyl-bearing titanate from Garnet Ridge, Arizona
+;
+_database_code_amcsd 0002458
+_chemical_formula_sum 'Ti6.83 V.12 Nb.05 Cr2.09 Fe.96 Al.36 Mg.6 O22'
+_cell_length_a 7.706
+_cell_length_b 4.5583
+_cell_length_c 20.187
+_cell_angle_alpha 90
+_cell_angle_beta 92.334
+_cell_angle_gamma 90
+_cell_volume 708.506
+_exptl_crystal_density_diffrn      4.108
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ti1   0.50000   0.00000   0.00000   1.00000   0.01646
+Ti2   0.05620   0.00700   0.31130   0.94000   0.00380
+V2   0.05620   0.00700   0.31130   0.06000   0.00380
+Ti3   0.41280   0.99200   0.36910   0.97500   0.00431
+Nb3   0.41280   0.99200   0.36910   0.02500   0.00431
+Ti4   0.13280   0.99900   0.94480   1.00000   0.00722
+Cr5   0.32710   0.00000   0.73960   0.77500   0.00823
+Cr6   0.21870   0.01600   0.57470   0.27000   0.00887
+Fe6   0.21870   0.01600   0.57470   0.17000   0.00887
+Al6   0.21870   0.01600   0.57470   0.18000   0.00887
+Mg7   0.27990   0.04000   0.20460   0.14000   0.00760
+Fe8   0.23750   0.02100   0.10510   0.31000   0.00633
+Mg8   0.23750   0.02100   0.10510   0.16000   0.00633
+O1   0.70300   0.29300   0.48660   1.00000   0.03166
+O2   0.25900   0.25500   0.80740   1.00000   0.01393
+O3   0.17300   0.28300   0.16370   1.00000   0.02660
+O4   0.80700   0.28300   0.11930   1.00000   0.02153
+O5   0.62400   0.21500   0.35020   1.00000   0.01140
+O6   0.06600   0.25200   0.02060   1.00000   0.03293
+O7   0.35500   0.28600   0.43720   1.00000   0.02913
+O8   0.52300   0.25300   0.21400   1.00000   0.03420
+O9   0.88900   0.24000   0.25640   1.00000   0.01140
+O10   0.98600   0.23300   0.39300   1.00000   0.01520
+O11   0.43600   0.28300   0.07310   1.00000   0.02913

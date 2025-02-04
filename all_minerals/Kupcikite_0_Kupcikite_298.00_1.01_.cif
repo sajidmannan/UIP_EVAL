@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Kupcikite'
+loop_
+_publ_author_name
+'Topa D'
+'Makovicky E'
+'Balic-Zunic T'
+'Paar W H'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 41 
+_journal_year 2003
+_journal_page_first 1155
+_journal_page_last 1166
+_publ_section_title
+;
+ Kupcikite, Cu3.4Fe0.6Bi5S10, a new Cu-Bi sulfosalt from
+ Felbertal, Austria, and its crystal structure
+;
+_database_code_amcsd 0005882
+_chemical_compound_source 'Felbertal, Austria'
+_chemical_formula_sum 'Cu3.42 Fe.58 Bi5 S10'
+_cell_length_a 17.512
+_cell_length_b 3.9103
+_cell_length_c 12.869
+_cell_angle_alpha 90
+_cell_angle_beta 108.56
+_cell_angle_gamma 90
+_cell_volume 835.401
+_exptl_crystal_density_diffrn      6.421
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu1   0.40070   0.00000   0.47190   1.00000   0.04640
+Cu2   0.21580   0.00000   0.06020   0.45000   0.03650
+Fe2   0.21580   0.00000   0.06020   0.29000   0.03650
+Cu3   0.19250   0.00000   0.06880   0.26000   0.03400
+Bi1   0.50000   0.00000   0.00000   1.00000   0.03390
+Bi2   0.41619   0.50000   0.22470   1.00000   0.03490
+Bi3   0.19776   0.50000   0.33891   1.00000   0.03390
+S1   0.54540   0.50000   0.16690   1.00000   0.03130
+S2   0.34650   0.00000   0.02430   1.00000   0.03230
+S3   0.26140   0.00000   0.24820   1.00000   0.03030
+S4   0.48270   0.00000   0.36260   1.00000   0.03240
+S5   0.33530   0.50000   0.49700   1.00000   0.02730
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.04310 0.03740 0.06500 0.00000 0.02580 0.00000
+Bi1 0.03890 0.02750 0.03450 0.00000 0.01080 0.00000
+Bi2 0.03640 0.03350 0.03580 0.00000 0.01300 0.00000
+Bi3 0.03300 0.03290 0.03450 0.00000 0.00880 0.00000
+S1 0.03400 0.02900 0.03100 0.00000 0.01000 0.00000
+S2 0.03500 0.02800 0.03400 0.00000 0.01100 0.00000
+S3 0.03200 0.02800 0.03100 0.00000 0.01100 0.00000
+S4 0.03400 0.03100 0.03100 0.00000 0.00900 0.00000
+S5 0.02700 0.02600 0.02900 0.00000 0.00900 0.00000

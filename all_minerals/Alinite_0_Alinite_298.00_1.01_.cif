@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Alinite'
+loop_
+_publ_author_name
+'Ilinets A M'
+'Bikbau M Y'
+'Nudelman B I'
+'Bolotina N B'
+_journal_name_full 'Kristallografiya'
+_journal_volume 34 
+_journal_year 1989
+_journal_page_first 71
+_journal_page_last 77
+_publ_section_title
+;
+ The peculiarities of the atomic-structure of alinite and jasmundite
+ Note: Cr-bearing material
+;
+_database_code_amcsd 0020212
+_chemical_formula_sum 'Ca9.6 Mg1.4 (Si3 Al) O18 Cl'
+_cell_length_a 10.485
+_cell_length_b 10.485
+_cell_length_c 8.609
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 946.432
+_exptl_crystal_density_diffrn      2.995
+_symmetry_space_group_name_H-M 'I 4/m m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,x,-z'
+  '1/2+y,1/2+x,1/2-z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-y,x,z'
+  '1/2-y,1/2+x,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,-x,-z'
+  '1/2-y,1/2-x,1/2-z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'y,-x,z'
+  '1/2+y,1/2-x,1/2+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.00000   0.26170   0.29090   1.00000   0.01862
+Ca2   0.00000   0.00000   0.00000   1.00000   0.00899
+Ca3   0.00000   0.50000   0.00000   0.30000   0.00836
+Mg3   0.00000   0.50000   0.00000   0.70000   0.00836
+Si1   0.21070   0.21070   0.00000   0.75000   0.00709
+Al1   0.21070   0.21070   0.00000   0.25000   0.00709
+O1   0.17970   0.36470   0.00000   1.00000   0.01874
+O2   0.14450   0.14450   0.15290   1.00000   0.01165
+O3   0.00000   0.50000   0.25000   1.00000   0.01900
+Cl   0.00000   0.00000   0.50000   1.00000   0.02964

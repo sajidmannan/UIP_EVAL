@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Carnotite'
+loop_
+_publ_author_name
+'Sundberg I'
+'Sillen L G'
+_journal_name_full 'Arkiv for Kemi'
+_journal_volume 1 
+_journal_year 1949
+_journal_page_first 337
+_journal_page_last 351
+_publ_section_title
+;
+ On the crystal structure of KUO2VO4 (synthetic anhydrous carnotite)
+;
+_database_code_amcsd 0012038
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'K U V O6'
+_cell_length_a 6.59
+_cell_length_b 8.403
+_cell_length_c 10.43
+_cell_angle_alpha 90
+_cell_angle_beta 104.2
+_cell_angle_gamma 90
+_cell_volume 559.922
+_exptl_crystal_density_diffrn      5.031
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K   0.54000   0.25000   0.35000
+U   0.98600   0.02600   0.18400
+V   0.11000   0.17000   0.41000
+O1   0.69000   0.05000   0.15000
+O2   0.28000   0.00500   0.22000
+O3   0.31000   0.04000   0.47000
+O4   0.11000   0.29000   0.28000
+O5   0.11000   0.29000   0.54000
+O6   0.90000   0.06000   0.38000

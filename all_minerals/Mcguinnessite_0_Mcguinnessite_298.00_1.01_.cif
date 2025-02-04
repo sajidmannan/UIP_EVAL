@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Mcguinnessite'
+loop_
+_publ_author_name
+'Perchiazzi N'
+_journal_name_full 'Zeitschrift fur Kristallographie Supplement'
+_journal_volume 23 
+_journal_year 2006
+_journal_page_first 505
+_journal_page_last 510
+_publ_section_title
+;
+ Crystal structure determination and Rietveld refinement of rosasite
+ and mcguinnessite
+;
+_database_code_amcsd 0011133
+_chemical_compound_source 'Red Mountain, California, USA'
+_chemical_formula_sum '(Cu.94 Mg1.06) C O5 H2'
+_cell_length_a 12.9181
+_cell_length_b 9.3923
+_cell_length_c 3.1622
+_cell_angle_alpha 90
+_cell_angle_beta 111.233
+_cell_angle_gamma 90
+_cell_volume 357.626
+_exptl_crystal_density_diffrn      3.334
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu1   0.21170  -0.00430   0.44600   0.79000   0.01470
+Mg1   0.21170  -0.00430   0.44600   0.21000   0.01470
+Mg2   0.39200   0.22830   0.17900   0.85000   0.01960
+Cu2   0.39200   0.22830   0.17900   0.15000   0.01960
+C   0.13740   0.27050   0.66140   1.00000   0.08300
+O1   0.13110   0.13600   0.72400   1.00000   0.04200
+O2   0.22890   0.33610   0.87080   1.00000   0.02700
+O3   0.04770   0.34310   0.49000   1.00000   0.03300
+O-H4   0.35180   0.09070   0.61400   1.00000   0.03300
+O-H5   0.42350   0.37690  -0.25700   1.00000   0.01200

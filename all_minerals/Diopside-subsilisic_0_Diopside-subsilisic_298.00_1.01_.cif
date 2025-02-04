@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Diopside-subsilisic'
+loop_
+_publ_author_name
+'Redhammer G J'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 10 
+_journal_year 1998
+_journal_page_first 439
+_journal_page_last 452
+_publ_section_title
+;
+ Mossbauer spectroscopy and Rietveld refinement on synthetic
+ ferri-Tschermak's molecule CaFe3+(Fe3+Si)O6 substituted diopside
+ Sample: fts30/#2
+;
+_database_code_amcsd 0006724
+_chemical_formula_sum 'Ca Mg.733 Fe.597 Si1.67 O6'
+_cell_length_a 9.7844
+_cell_length_b 8.9132
+_cell_length_c 5.2989
+_cell_angle_alpha 90
+_cell_angle_beta 105.883
+_cell_angle_gamma 90
+_cell_volume 444.476
+_exptl_crystal_density_diffrn      3.499
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+CaM2   0.00000   0.30310   0.25000   1.00000   0.00659
+MgM1   0.00000   0.90670   0.25000   0.73300   0.00570
+FeM1   0.00000   0.90670   0.25000   0.26700   0.00570
+SiT   0.28680   0.09400   0.22720   0.83500   0.00671
+FeT   0.28680   0.09400   0.22720   0.16500   0.00671
+O1   0.11460   0.08850   0.13450   1.00000   0.00507
+O2   0.36290   0.25160   0.32340   1.00000   0.00380
+O3   0.35100   0.02150   0.99860   1.00000   0.00507

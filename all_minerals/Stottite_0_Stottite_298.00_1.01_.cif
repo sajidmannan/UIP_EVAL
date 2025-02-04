@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Stottite'
+loop_
+_publ_author_name
+'Ross C R'
+'Bernstein L R'
+'Waychunas G A'
+_journal_name_full 'American Mineralogist'
+_journal_volume 73 
+_journal_year 1988
+_journal_page_first 657
+_journal_page_last 661
+_publ_section_title
+;
+ Crystal-structure refinement of stottite, FeGe(OH)6
+;
+_database_code_amcsd 0001167
+_chemical_formula_sum 'Fe Ge (O6 H6)'
+_cell_length_a 7.594
+_cell_length_b 7.594
+_cell_length_c 7.488
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 431.824
+_exptl_crystal_density_diffrn      3.545
+_symmetry_space_group_name_H-M 'P 42/n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'y,1/2-x,1/2-z'
+  '-y,1/2+x,1/2+z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  '1/2-y,x,1/2-z'
+  '1/2+y,-x,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe   0.00000   0.00000   0.00000
+Ge   0.50000   0.00000   0.00000
+O-H1   0.26700   0.44300   0.58300
+O-H2   0.57300   0.26800   0.56500
+O-H3   0.43700   0.42100   0.26700
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe 0.00847 0.00555 0.01079 0.00088 0.00029 0.00058
+Ge 0.00497 0.00643 0.01023 0.00000 -0.00029 0.00000
+O-H1 0.01461 0.01870 0.01392 0.00175 0.00086 -0.00374
+O-H2 0.01432 0.00964 0.01449 -0.00175 -0.00346 -0.00029
+O-H3 0.01256 0.01841 0.01505 -0.00351 -0.00202 0.00000

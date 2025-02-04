@@ -1,0 +1,84 @@
+data_global
+_chemical_name_mineral 'Matsubaraite'
+loop_
+_publ_author_name
+'Miyajima H'
+'Miyawaki R'
+'Ito K'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 14 
+_journal_year 2002
+_journal_page_first 1119
+_journal_page_last 1128
+_publ_section_title
+;
+ Matsubaraite, Sr4Ti5(Si2O7)2O8, a new mineral, the Sr-Ti analogue
+ of perrierite in jadeitite from the Itoigawa-Ohmi district,
+ Niigata Prefecture, Japan
+;
+_database_code_amcsd 0006952
+_chemical_compound_source 'Itoigawa-Ohmi district, Niigata Prefecture, Japan'
+_chemical_formula_sum 'Sr4 Ti5 Si4 O22'
+_cell_length_a 13.850
+_cell_length_b 5.631
+_cell_length_c 11.8920
+_cell_angle_alpha 90
+_cell_angle_beta 114.143
+_cell_angle_gamma 90
+_cell_volume 846.323
+_exptl_crystal_density_diffrn      4.137
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Sr1   0.76487   0.00000   0.73287   0.00758
+Sr2   0.54607   0.50000   0.73841   0.00788
+Ti1   0.00000   0.50000   0.50000   0.00488
+Ti2   0.50000   0.74369   0.00000   0.00573
+Ti3   0.27126   0.00000   0.00074   0.00616
+Si1   0.40654   0.00000   0.73070   0.00450
+Si2   0.84194   0.00000   0.45339   0.00520
+O1   0.06287   0.26520   0.18240   0.00690
+O2   0.29210   0.24910   0.11850   0.00640
+O3   0.39456   0.26010   0.41890   0.00830
+O4   0.09370   0.00000   0.99980   0.00760
+O5   0.40460   0.00000  -0.00070   0.00760
+O6   0.47090   0.00000   0.64420   0.00870
+O7   0.27910   0.00000   0.65630   0.01000
+O8   0.14780   0.00000   0.41090   0.01030
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 0.00811 0.00870 0.00640 0.00000 0.00344 0.00000
+Sr2 0.00790 0.01000 0.00602 0.00000 0.00315 0.00000
+Ti1 0.00690 0.00540 0.00270 0.00000 0.00240 0.00000
+Ti2 0.00910 0.00450 0.00320 0.00000 0.00210 0.00000
+Ti3 0.00830 0.00480 0.00520 0.00000 0.00260 0.00000
+Si1 0.00580 0.00610 0.00190 0.00000 0.00200 0.00000
+Si2 0.00590 0.00560 0.00390 0.00000 0.00180 0.00000
+O1 0.00980 0.00660 0.00410 -0.00100 0.00250 0.00080
+O2 0.01040 0.00550 0.00340 0.00000 0.00290 -0.00020
+O3 0.00950 0.00770 0.00770 0.00170 0.00330 0.00040
+O4 0.00670 0.00540 0.01140 0.00000 0.00440 0.00000
+O5 0.00620 0.00750 0.00980 0.00000 0.00380 0.00000
+O6 0.01010 0.01170 0.00500 0.00000 0.00380 0.00000
+O7 0.00650 0.01400 0.00690 0.00000 0.00000 0.00000
+O8 0.01270 0.01310 0.00580 0.00000 0.00440 0.00000

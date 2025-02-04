@@ -1,0 +1,90 @@
+data_global
+_chemical_name_mineral 'Garnet'
+loop_
+_publ_author_name
+'Fujino K'
+'Momoi H'
+'Sawamoto H'
+'Kumazawa M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 71 
+_journal_year 1986
+_journal_page_first 781
+_journal_page_last 785
+_publ_section_title
+;
+ Crystal structure and chemistry of MnSiO3 tetragonal garnet
+;
+_database_code_amcsd 0001021
+_chemical_formula_sum 'Mn4 Si4 O12'
+_cell_length_a 11.774
+_cell_length_b 11.774
+_cell_length_c 11.636
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1613.065
+_exptl_crystal_density_diffrn      4.316
+_symmetry_space_group_name_H-M 'I 41/a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/4+y,3/4-x,1/4-z'
+  '3/4+y,1/4-x,3/4-z'
+  '1/4-y,3/4+x,1/4+z'
+  '3/4-y,1/4+x,3/4+z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '1/4-y,1/4+x,3/4-z'
+  '3/4-y,3/4+x,1/4-z'
+  '1/4+y,1/4-x,3/4+z'
+  '3/4+y,3/4-x,1/4+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+MnD1   0.12580   0.00790   0.25900   1.00000
+MnD2   0.00000   0.25000   0.62350   1.00000
+MnOc1   0.00000   0.00000   0.50000   0.98000
+SiOc1   0.00000   0.00000   0.50000   0.02000
+SiOc2   0.00000   0.00000   0.00000   0.98000
+MnOc2   0.00000   0.00000   0.00000   0.02000
+SiT1   0.00000   0.25000   0.37500   1.00000
+SiT2   0.00000   0.25000   0.87500   1.00000
+SiT3   0.12620   0.01430   0.75970   1.00000
+O1   0.03020   0.06170   0.67300   1.00000
+O2   0.04650  -0.04110   0.86270   1.00000
+O3   0.22240   0.10990   0.80640   1.00000
+O4   0.20980  -0.07960   0.70390   1.00000
+O5  -0.06490   0.16650   0.46540   1.00000
+O6  -0.10340   0.21520   0.78580   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+MnD1 0.00485 0.00688 0.01001 -0.00007 0.00111 117.99046
+MnD2 0.00934 0.00751 0.00508 -0.00140 0.00000 0.00000
+MnOc1 0.00513 0.00583 0.00480 -0.00042 -0.00049 0.00132
+SiOc1 0.00513 0.00583 0.00480 -0.00042 -0.00049 -0.00132
+SiOc2 0.00309 0.00534 0.00700 -0.00014 0.00042 -0.00035
+MnOc2 0.00309 0.00534 0.00700 -0.00014 0.00042 -0.00035
+SiT1 0.00716 0.00716 0.00391 0.00000 0.00000 0.00000
+SiT2 0.00492 0.00492 0.00151 0.00000 0.00000 0.00000
+SiT3 0.00421 0.00442 0.00432 0.00056 0.00042 -0.00153
+O1 0.00709 0.00674 0.00412 0.00028 -0.00180 -0.00062
+O2 0.00632 0.00534 0.00425 0.00077 0.00118 -0.00153
+O3 0.00611 0.00492 0.00789 0.00000 0.00014 -0.00028
+O4 0.00653 0.00541 0.00700 -0.00155 0.00153 -0.00153
+O5 0.00618 0.00913 0.00309 -0.00211 0.00250 0.00035
+O6 0.00386 0.00611 0.00617 0.00140 0.00021 0.00153

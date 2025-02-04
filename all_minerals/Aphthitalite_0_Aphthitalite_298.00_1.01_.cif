@@ -1,0 +1,51 @@
+data_global
+_chemical_name_mineral 'Aphthitalite'
+loop_
+_publ_author_name
+'Okada K'
+'Ossaka J'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 36 
+_journal_year 1980
+_journal_page_first 919
+_journal_page_last 921
+_publ_section_title
+;
+ Structures of potassium sodium sulphate and tripotassium sodium disulphate
+;
+_database_code_amcsd 0009708
+_chemical_formula_sum 'K3 Na S2 O8'
+_cell_length_a 5.6801
+_cell_length_b 5.6801
+_cell_length_c 7.309
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 204.221
+_exptl_crystal_density_diffrn      2.703
+_symmetry_space_group_name_H-M 'P -3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,-x+y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+  '-x,-y,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  'x-y,x,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K1   0.00000   0.00000   0.00000
+Na2   0.00000   0.00000   0.50000
+K3   0.66667   0.33333   0.68310
+S   0.66667   0.33333   0.23380
+O1   0.66667   0.33333   0.03160
+O2   0.80730  -0.80730   0.30180

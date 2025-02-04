@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Paakkonenite'
+loop_
+_publ_author_name
+'Bonazzi P'
+'Borrini D'
+'Mazzi F'
+'Olmi F'
+_journal_name_full 'American Mineralogist'
+_journal_volume 80 
+_journal_year 1995
+_journal_page_first 1054
+_journal_page_last 1058
+_publ_section_title
+;
+ Crystal structure and twinning of Sb2AsS2, the synthetic analogue of
+ paakkonenite
+;
+_database_code_amcsd 0001758
+_chemical_formula_sum 'Sb2 As S2'
+_cell_length_a 10.75
+_cell_length_b 3.959
+_cell_length_c 12.49
+_cell_angle_alpha 90
+_cell_angle_beta 115.25
+_cell_angle_gamma 90
+_cell_volume 480.777
+_exptl_crystal_density_diffrn      5.285
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sb1  -0.04520   0.00000   0.17550
+Sb2   0.31190   0.50000   0.39790
+As  -0.10580   0.50000   0.01560
+S1   0.21140   0.00000   0.23760
+S2   0.09370   0.50000   0.40840
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb1 0.03300 0.01500 0.03000 0.00000 0.01700 0.00000
+Sb2 0.02700 0.02700 0.05800 0.00000 0.02200 0.00000
+As 0.02500 0.01500 0.01100 0.00000 0.00500 0.00000
+S1 0.03000 0.02000 0.00500 0.00000 0.01000 0.00000
+S2 0.03100 0.02000 0.05700 0.00000 0.02900 0.00000

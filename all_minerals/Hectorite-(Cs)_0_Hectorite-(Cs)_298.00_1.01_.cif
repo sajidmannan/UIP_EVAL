@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Hectorite-(Cs)'
+loop_
+_publ_author_name
+'Breu J'
+'Seidl W'
+'Stoll A'
+_journal_name_full 'Zeitschrift fur Anorganische und Allgemeine Chemie'
+_journal_volume 629 
+_journal_year 2003
+_journal_page_first 503
+_journal_page_last 515
+_publ_section_title
+;
+ Fehlordnung bei smectiten in abhangigkeit vom zwischenschichtkation
+ Note: isostructural with hectorite
+;
+_database_code_amcsd 0015819
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Cs.601 (Mg2.398 Li.602) Si4 O10 F2'
+_cell_length_a 5.2401
+_cell_length_b 9.0942
+_cell_length_c 10.7971
+_cell_angle_alpha 90
+_cell_angle_beta 99.21
+_cell_angle_gamma 90
+_cell_volume 507.897
+_exptl_crystal_density_diffrn      2.960
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cs   0.00000   0.00000   0.00000   0.60150   0.02000
+Mg1   0.00000   0.16650   0.50000   0.80500   0.00960
+Li1   0.00000   0.16650   0.50000   0.19500   0.00960
+Mg2   0.50000   0.00000   0.50000   0.78800   0.00830
+Li2   0.50000   0.00000   0.50000   0.21200   0.00830
+Si   0.08110   0.33318   0.24443   1.00000   0.00840
+O1   0.13120   0.33290   0.39472   1.00000   0.00980
+O2  -0.44130   0.00000   0.18870   1.00000   0.01370
+O3   0.18560   0.24840  -0.18845   1.00000   0.01400
+F   0.13730   0.00000   0.40640   1.00000   0.01260
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cs 0.01910 0.02190 0.01910 0.00000 0.00360 0.00000
+Mg1 0.00700 0.00940 0.01260 0.00000 0.00220 0.00000
+Li1 0.00700 0.00940 0.01260 0.00000 0.00220 0.00000
+Mg2 0.00520 0.00900 0.01120 0.00000 0.00250 0.00000
+Li2 0.00520 0.00900 0.01120 0.00000 0.00250 0.00000
+Si 0.00650 0.00850 0.01040 0.00030 0.00190 0.00040
+O1 0.00870 0.00870 0.01200 -0.00040 0.00200 0.00010
+O2 0.01700 0.01200 0.01180 0.00000 0.00200 0.00000
+O3 0.01320 0.01720 0.01140 0.00010 0.00160 0.00260
+F 0.01050 0.01380 0.01380 0.00000 0.00260 0.00000

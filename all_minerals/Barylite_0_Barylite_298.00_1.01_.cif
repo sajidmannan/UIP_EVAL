@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Barylite'
+loop_
+_publ_author_name
+'Robinson P D'
+'Fang J H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 62 
+_journal_year 1977
+_journal_page_first 167
+_journal_page_last 169
+_publ_section_title
+;
+ Barylite, BaBe2Si2O7: its space group and crystal structure
+;
+_database_code_amcsd 0000560
+_chemical_compound_source 'amazonite pocket, Park County, Colorado, USA'
+_chemical_formula_sum 'Ba Be2 Si2 O7'
+_cell_length_a 9.820
+_cell_length_b 11.670
+_cell_length_c 4.690
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 537.471
+_exptl_crystal_density_diffrn      3.998
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ba   0.15160   0.75000   0.24700   0.01001
+Be   0.16100   0.50200   0.70300   0.00760
+Si   0.08850   0.37790   0.19950   0.00633
+O1   0.42910   0.38460   0.21750   0.00798
+O2   0.18740   0.47120   0.35580   0.00646
+O3   0.10720   0.38680   0.85920   0.00937
+O4   0.14540   0.25000   0.29580   0.00633

@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Woodhouseite'
+loop_
+_publ_author_name
+'Pabst A'
+_journal_name_full 'American Mineralogist'
+_journal_volume 32 
+_journal_year 1947
+_journal_page_first 16
+_journal_page_last 30
+_publ_section_title
+;
+ Some computations on svanbergite, woodhouseite and alunite
+;
+_database_code_amcsd 0000036
+_chemical_formula_sum 'Ca Al3 (S P) O14 H6'
+_cell_length_a 6.75
+_cell_length_b 6.75
+_cell_length_c 6.75
+_cell_angle_alpha 62.07
+_cell_angle_beta 62.07
+_cell_angle_gamma 62.07
+_cell_volume 227.532
+_exptl_crystal_density_diffrn      3.022
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-z,-y'
+  '-z,-x,-y'
+  'y,x,z'
+  'y,z,x'
+  '-z,-y,-x'
+  '-x,-y,-z'
+  'x,z,y'
+  'z,x,y'
+  '-y,-x,-z'
+  '-y,-z,-x'
+  'z,y,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca   0.00000   0.00000   0.00000   1.00000
+Al   0.50000   0.00000   0.00000   1.00000
+S   0.31000   0.31000   0.31000   0.50000
+P   0.31000   0.31000   0.31000   0.50000
+O1   0.40500   0.40500   0.40500   1.00000
+O   0.52000   0.16000   0.16000   1.00000
+O-H  -0.12000   0.27000   0.27000   1.00000

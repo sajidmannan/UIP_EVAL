@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Arsenoclasite'
+loop_
+_publ_author_name
+'Moore P B'
+'Molin-Case J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 56 
+_journal_year 1971
+_journal_page_first 1539
+_journal_page_last 1552
+_publ_section_title
+;
+ Crystal chemistry of the basic manganese arsenates: V. Mixed manganese
+ coordination in the atomic arrangement of arsenoclasite
+;
+_database_code_amcsd 0000259
+_chemical_formula_sum 'Mn5 As2 (O12 H4)'
+_cell_length_a 18.29
+_cell_length_b 5.75
+_cell_length_c 9.31
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 979.109
+_exptl_crystal_density_diffrn      4.210
+_symmetry_space_group_name_H-M 'P 21 21 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Mn1   0.43230   0.26970   0.75220   0.00823
+Mn2   0.03030   0.05440   0.88860   0.00773
+Mn3   0.22140   0.07120   0.85820   0.00747
+Mn4   0.12410   0.55870   0.87960   0.00963
+Mn5   0.31640   0.58040   0.00090   0.00899
+As1   0.37440   0.11170   0.07190   0.00101
+As2   0.12430   0.19280   0.18380   0.00013
+O-H1   0.05190   0.73500   0.02150   0.01241
+O-H2   0.20250   0.38440   0.73970   0.01216
+O-H3   0.04120   0.36760   0.75690   0.01140
+O-H4   0.21710   0.74610  -0.02820   0.01140
+O5   0.14610   0.44410   0.26430   0.00785
+O6   0.12790   0.23240   0.00120   0.01317
+O7   0.17620  -0.02770   0.23320   0.01102
+O8   0.03800   0.09800   0.22820   0.01267
+O9   0.37550   0.11030   0.25080   0.01203
+O10   0.29340   0.21870   0.02060   0.00874
+O11   0.43420   0.30070  -0.00040   0.01102
+O12   0.39160   0.84480   0.01550   0.01355

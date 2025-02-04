@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Calcirtite'
+loop_
+_publ_author_name
+'Pyatenko Y A'
+'Pudovkina Z V'
+_journal_name_full 'Soviet Physics Crystallography'
+_journal_volume 6 
+_journal_year 1961
+_journal_page_first 155
+_journal_page_last 157
+_publ_section_title
+;
+ The crystal structure of calcirtite; a new derivative structure of CaF2-CeO2 type
+ Note: ideal structure
+;
+_database_code_amcsd 0019375
+_chemical_compound_source 'Gornoe Ozero alkaline-ultrabasic Massif, Yakutia, Russia'
+_chemical_formula_sum 'Ca2 Zr5 Ti2 O16'
+_cell_length_a 15.30
+_cell_length_b 15.30
+_cell_length_c 10.20
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2387.718
+_exptl_crystal_density_diffrn      4.941
+_symmetry_space_group_name_H-M 'I 41/a c d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,1/2-x,3/4+z'
+  '1/2-y,-x,1/4+z'
+  '1/2+y,1/2+x,-z'
+  '+y,+x,1/2-z'
+  '1/2+y,1/2-x,1/2-z'
+  '+y,-x,-z'
+  '-y,1/2+x,1/4+z'
+  '1/2-y,+x,3/4+z'
+  '1/2+x,1/2-y,z'
+  '+x,-y,1/2+z'
+  '1/2-x,y,1/4-z'
+  '-x,1/2+y,3/4-z'
+  '1/2+x,y,3/4-z'
+  '+x,1/2+y,1/4-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,+z'
+  '1/2+y,x,1/4+z'
+  '+y,1/2+x,3/4+z'
+  '-y,-x,1/2-z'
+  '1/2-y,1/2-x,-z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2+y,-x,3/4+z'
+  '+y,1/2-x,1/4+z'
+  '-x,y,1/2+z'
+  '1/2-x,1/2+y,+z'
+  'x,1/2-y,3/4-z'
+  '1/2+x,-y,1/4-z'
+  '-x,1/2-y,1/4-z'
+  '1/2-x,-y,3/4-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca1   0.00000   0.00000   0.25000   1.00000
+Ca2   0.16667   0.16667   0.25000   0.50000
+Zr2   0.16667   0.16667   0.25000   0.50000
+Ti3   0.33333   0.33333   0.25000   1.00000
+Zr4   0.16667   0.00000   0.50000   1.00000
+O1   0.25000   0.25000   0.12500   1.00000
+O2   0.25000   0.08333   0.12500   1.00000
+O3   0.25000   0.08333   0.37500   1.00000
+O4   0.08333   0.08333   0.12500   1.00000
+O5   0.08333   0.08333   0.62500   1.00000

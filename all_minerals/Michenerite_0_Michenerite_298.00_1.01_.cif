@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Michenerite'
+loop_
+_publ_author_name
+'Childs J D'
+'Hall S R'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 12 
+_journal_year 1973
+_journal_page_first 61
+_journal_page_last 65
+_publ_section_title
+;
+ The crystal structure of michenerite, PdBiTe
+;
+_database_code_amcsd 0005092
+_chemical_formula_sum 'Pd Te Bi.88 Sb.11'
+_cell_length_a 6.642
+_cell_length_b 6.642
+_cell_length_c 6.642
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 293.020
+_exptl_crystal_density_diffrn      9.777
+_symmetry_space_group_name_H-M 'P 21 3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-z,-x,1/2+y'
+  '-z,1/2+x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'z,x,y'
+  '1/2+y,1/2-z,-x'
+  '1/2-y,-z,1/2+x'
+  '-y,1/2+z,1/2-x'
+  'y,z,x'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pd   0.00480   0.00480   0.00480   1.00000
+Te   0.62700   0.62700   0.62700   1.00000
+Bi   0.36840   0.36840   0.36840   0.88000
+Sb   0.36840   0.36840   0.36840   0.11000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pd 0.00920 0.00920 0.00920 0.00010 0.00010 0.00010
+Te 0.00990 0.00990 0.00990 0.00090 0.00090 0.00090
+Bi 0.00890 0.00890 0.00890 0.00120 0.00120 0.00120
+Sb 0.00890 0.00890 0.00890 0.00120 0.00120 0.00120

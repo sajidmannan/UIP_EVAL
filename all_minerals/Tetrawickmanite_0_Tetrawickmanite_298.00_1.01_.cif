@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Tetrawickmanite'
+loop_
+_publ_author_name
+'Lafuente B'
+'Yang H'
+'Downs R T'
+_journal_name_full 'Acta Crystallographica, Section E'
+_journal_volume 71 
+_journal_year 2015
+_journal_page_first 234
+_journal_page_last 237
+_publ_section_title
+;
+ Crystal structure of tetrawickmanite, Mn2+Sn4+(OH)6
+;
+_database_code_amcsd 0020227
+_chemical_compound_source 'Langban, Sweden'
+_chemical_formula_sum 'Mn Sn O6 H6'
+_cell_length_a 7.8655
+_cell_length_b 7.8655
+_cell_length_c 7.7938
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 482.172
+_exptl_crystal_density_diffrn      3.798
+_symmetry_space_group_name_H-M 'P 42/n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'y,1/2-x,1/2-z'
+  '-y,1/2+x,1/2+z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  '1/2-y,x,1/2-z'
+  '1/2+y,-x,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mn   0.50000   0.00000   0.00000   1.00000   0.01017
+Sn   0.50000   0.00000   0.50000   1.00000   0.00790
+O1   0.74065  -0.05652   0.58940   1.00000   0.01330
+O2   0.42512  -0.23929   0.56923   1.00000   0.01380
+O3   0.43079   0.08165   0.74014   1.00000   0.01130
+H1   0.77200  -0.17100   0.51700   0.50000   0.03000
+H2   0.74000  -0.02500   0.69900   0.50000   0.03000
+H3   0.29700  -0.29200   0.52500   0.50000   0.03000
+H4   0.45500  -0.25200   0.70700   0.50000   0.03000
+H5   0.46500   0.21500   0.74300   1.00000   0.03000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn 0.01020 0.01020 0.01012 0.00040 0.00047 0.00021
+Sn 0.00751 0.00801 0.00817 -0.00042 0.00044 0.00029
+O1 0.00980 0.01740 0.01280 -0.00020 -0.00110 0.00140
+O2 0.01470 0.00910 0.01760 0.00010 0.00090 0.00120
+O3 0.01450 0.01070 0.00870 -0.00020 0.00050 -0.00060

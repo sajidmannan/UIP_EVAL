@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Paranatisite'
+loop_
+_publ_author_name
+'Sokolova E V'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 40 
+_journal_year 2002
+_journal_page_first 947
+_journal_page_last 960
+_publ_section_title
+;
+ Reconsideration of the crystal structure of paranatisite and the crystal
+ chemistry of [M2T2_12] sheets
+;
+_database_code_amcsd 0005777
+_chemical_formula_sum 'Ti3 Si2 Na4 O10'
+_cell_length_a 9.181
+_cell_length_b 4.800
+_cell_length_c 9.811
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 432.359
+_exptl_crystal_density_diffrn      3.470
+_symmetry_space_group_name_H-M 'P m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,z'
+  '-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ti(1)   0.00000   0.03420   0.45940   0.00570
+Ti(2A)   0.50000   0.52480   0.17820   0.01200
+Ti(2B)   0.50000   0.47770   0.24220   0.00600
+Si(1)   0.24961  -0.00040   0.20950   0.00650
+Na(1)  -0.24955   0.49650   0.46140   0.01200
+Na(2)   0.00000   0.49800   0.21380   0.01660
+Na(3)   0.50000   0.09260  -0.04060   0.01290
+O(1)   0.14610   0.14430   0.59340   0.01190
+O(2)   0.64970   0.75220   0.27300   0.01240
+O(3)   0.00000  -0.32020   0.46220   0.01280
+O(4)   0.14690   0.14520   0.32290   0.01050
+O(5)   0.35110   0.23940   0.13960   0.00930
+O(6)   0.50000  -0.35330   0.01120   0.01450
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ti(1) 0.00010 0.00900 0.00790 0.00000 0.00000 0.00100
+Ti(2B) 0.00400 0.00900 0.00500 0.00000 0.00000 0.00100
+Na(1) 0.00650 0.01460 0.01480 0.00300 -0.00120 0.00080
+Na(2) 0.01670 0.01800 0.01510 0.00000 0.00000 0.00600
+Na(3) 0.00650 0.01580 0.01650 0.00000 0.00000 -0.00300
+O(1) 0.00600 0.01400 0.01600 -0.00300 -0.00200 0.00300
+O(2) 0.00700 0.01500 0.01600 -0.00200 0.00100 0.00200
+O(3) 0.00900 0.01400 0.01500 0.00000 0.00000 -0.00200
+O(4) 0.00200 0.01700 0.01200 0.00400 0.00500 0.00050
+O(5) 0.00200 0.00900 0.01700 -0.00300 0.00200 -0.00050
+O(6) 0.00300 0.01600 0.02500 0.00000 0.00000 -0.00020

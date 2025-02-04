@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Avogadrite'
+loop_
+_publ_author_name
+'Brunton G'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 25 
+_journal_year 1969
+_journal_page_first 2161
+_journal_page_last 2162
+_publ_section_title
+;
+ The crystal structure of KBF4
+;
+_database_code_amcsd 0009363
+_chemical_formula_sum 'K B F4'
+_cell_length_a 8.6588
+_cell_length_b 5.4800
+_cell_length_c 7.0299
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 333.570
+_exptl_crystal_density_diffrn      2.507
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K   0.18449   0.25000   0.16110
+B   0.06260   0.25000   0.68970
+F1   0.17890   0.25000   0.55600
+F2  -0.08140   0.25000   0.60490
+F3   0.07740   0.04400   0.80390
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.01405 0.02784 0.02904 0.00000 -0.00043 0.00000
+B 0.01443 0.02160 0.02779 0.00000 -0.00278 0.00000
+F1 0.04178 0.04366 0.03831 0.00000 0.01542 0.00000
+F2 0.02849 0.05857 0.06134 0.00000 -0.02189 0.00000
+F3 0.03494 0.02632 0.04131 -0.00024 0.00247 0.00820

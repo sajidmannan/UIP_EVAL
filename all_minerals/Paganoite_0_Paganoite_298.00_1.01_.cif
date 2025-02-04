@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Paganoite'
+loop_
+_publ_author_name
+'Roberts A C'
+'Burns P C'
+'Gault R A'
+'Criddle A J'
+'Feinglos M N'
+'Stirling J A R'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 13 
+_journal_year 2001
+_journal_page_first 167
+_journal_page_last 175
+_publ_section_title
+;
+ Paganoite, NiBiAsO5, a new mineral from Johanngeorgenstadt,
+ Saxony, Germany: description and crystal structure
+;
+_database_code_amcsd 0006855
+_chemical_compound_source 'Johanngeorgenstadt, Saxony, Germany'
+_chemical_formula_sum 'Ni Bi As O5'
+_cell_length_a 6.7127
+_cell_length_b 6.8293
+_cell_length_c 5.2345
+_cell_angle_alpha 107.625
+_cell_angle_beta 95.409
+_cell_angle_gamma 111.158
+_cell_volume 207.616
+_exptl_crystal_density_diffrn      6.760
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ni   0.36340   0.73450   0.83070   0.01330
+Bi   0.23608   0.96812   0.40945   0.01270
+As   0.18640   0.38750   0.15780   0.01080
+O1   0.50100   0.05000   0.77000   0.01180
+O2   0.22800   0.62800   0.41600   0.01190
+O3   0.23500   0.42300   0.86400   0.01670
+O4  -0.08300   0.20200   0.08400   0.01450
+O5   0.34700   0.27500   0.26800   0.01630
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni 0.00990 0.01700 0.01290 0.00570 0.00230 0.00490
+Bi 0.00770 0.01830 0.01340 0.00670 0.00360 0.00550
+As 0.00720 0.01440 0.01080 0.00510 0.00150 0.00380
+O1 0.00700 0.02370 0.00700 0.00950 0.00240 0.00470
+O2 0.01220 0.01490 0.01280 0.00870 0.00480 0.00650
+O3 0.01760 0.01480 0.01940 0.00970 0.00340 0.00510
+O4 0.01110 0.01660 0.01600 0.00550 0.00450 0.00610
+O5 0.00870 0.02040 0.02370 0.00800 0.00480 0.01030

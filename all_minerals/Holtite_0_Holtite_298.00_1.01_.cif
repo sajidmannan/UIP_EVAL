@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Holtite'
+loop_
+_publ_author_name
+'Kazantsev S S'
+'Pushcharovsky D Y'
+'Pasero M'
+'Merlino S'
+'Zubkova N V'
+'Kabalov Y K '
+'Voloshin A V'
+_journal_name_full 'Crystallography Reports'
+_journal_volume 50 
+_journal_year 2005
+_journal_page_first 42
+_journal_page_last 47
+_publ_section_title
+;
+ Crystal structure of holtite I
+;
+_database_code_amcsd 0019739
+_chemical_compound_source 'Voroni Tundry deposit, Kola Peninsula, Russia'
+_chemical_formula_sum 'Al6.454 Ta.258 Si2.43 As.21 Sb.36 B O17.64 H'
+_cell_length_a 4.695
+_cell_length_b 11.906
+_cell_length_c 20.38
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1139.215
+_exptl_crystal_density_diffrn      3.747
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Al1   0.40140   0.75000   0.24989   0.61600   0.01200
+Ta1   0.40140   0.75000   0.24989   0.25800   0.01200
+Al2   0.55760   0.61046   0.47309   1.00000   0.00800
+Al3   0.05930   0.49050   0.43184   0.98200   0.00900
+Al4   0.05990   0.35970   0.29009   0.93700   0.01100
+Si1   0.08890   0.75000   0.40642   0.81000   0.01500
+As1   0.08890   0.75000   0.40642   0.09000   0.01500
+Sb1*   0.11400   0.75000   0.38530   0.10000   0.00500
+Si2   0.58880   0.52312   0.32877   0.81000   0.01360
+As2   0.58880   0.52312   0.32877   0.06000   0.01360
+Sb2*   0.60920   0.56360   0.31676   0.13000   0.01000
+B   0.23100   0.25000   0.46650   1.00000   0.01200
+O1   0.37840   0.75000   0.45640   1.00000   0.00900
+O2   0.15690   0.75000   0.33040   0.90000   0.02600
+O3   0.89280   0.63890   0.45510   1.00000   0.00900
+O4   0.40290   0.43410   0.28220   1.00000   0.00900
+O5   0.39570   0.55090   0.39440   1.00000   0.00800
+O6   0.88310   0.45090   0.35120   1.00000   0.01000
+O7   0.65930   0.63310   0.28860   0.87000   0.01800
+O8   0.17150   0.25000   0.34930   1.00000   0.01100
+O9   0.25360   0.35060   0.44760   1.00000   0.00700
+O-H10   0.75670   0.25000   0.27390   1.00000   0.01300
+O11   0.75110   0.46690   0.48870   1.00000   0.07000

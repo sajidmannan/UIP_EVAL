@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Hydroxylclinohumite'
+loop_
+_publ_author_name
+'Robinson K'
+'Gibbs G V'
+'Ribbe P H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 58 
+_journal_year 1973
+_journal_page_first 43
+_journal_page_last 49
+_publ_section_title
+;
+ The crystal structures of the humite minerals. IV. Clinohumite and
+ titanclinohumite
+;
+_database_code_amcsd 0000301
+_chemical_formula_sum 'Mg8.42 Fe.58 Si4 O18 H2'
+_cell_length_a 4.7441
+_cell_length_b 10.2501
+_cell_length_c 13.6635
+_cell_angle_alpha 100.786
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 652.683
+_exptl_crystal_density_diffrn      3.253
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg1c   0.50000   0.00000   0.50000   0.90000   0.00519
+Fe1c   0.50000   0.00000   0.50000   0.10000   0.00519
+Mg1n   0.49770   0.94630   0.27380   0.91000   0.00519
+Fe1n   0.49770   0.94630   0.27380   0.09000   0.00519
+Mg25   0.01010   0.13980   0.17030   0.97000   0.00519
+Fe25   0.01010   0.13980   0.17030   0.03000   0.00519
+Mg26   0.51010   0.25030   0.38880   0.88000   0.00532
+Fe26   0.51010   0.25030   0.38880   0.12000   0.00532
+Mg3   0.49390   0.87800   0.04280   1.00000   0.00570
+Si1   0.07410   0.06630   0.38910   1.00000   0.00228
+Si2   0.07590   0.17710   0.83540   1.00000   0.00266
+O11   0.73150   0.06330   0.38710   1.00000   0.00469
+O12   0.28320   0.42110   0.38770   1.00000   0.00735
+O13   0.21920   0.11300   0.29360   1.00000   0.00532
+O14   0.21880   0.15860   0.48530   1.00000   0.00659
+O21   0.23530   0.32180   0.16100   1.00000   0.00684
+O22   0.78020   0.94830   0.16190   1.00000   0.00380
+O23   0.72550   0.28030   0.26250   1.00000   0.00431
+O24   0.72960   0.22620   0.06990   1.00000   0.00367
+O-H   0.26290   0.04530   0.05580   1.00000   0.00899

@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Garutiite'
+loop_
+_publ_author_name
+'McDonald A M'
+'Proenza J A'
+'Zaccarini F'
+'Rudashevsky N S'
+'Cabri L J'
+'Stanley C J'
+'Rudashevsky V N'
+'Melgarejo J C'
+'Lewis J F'
+'Longo F'
+'Bakker R J'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 22 
+_journal_year 2010
+_journal_page_first 293
+_journal_page_last 304
+_publ_section_title
+;
+ Garutiite, (Ni,Fe,Ir), a new hexagonal polymorph of native Ni from
+ Loma Peguera, Dominican Republic
+;
+_database_code_amcsd 0007336
+_chemical_compound_source 'Loma Peguera, Dominican Republic'
+_chemical_formula_sum 'Ni.421 Fe.316 Ir.202 Pt.032 Co.008 Cu.006 Rh.006 Ru.004 Os.003'
+_cell_length_a 2.6939
+_cell_length_b 2.6939
+_cell_length_c 4.2732
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 26.856
+_exptl_crystal_density_diffrn     11.114
+_symmetry_space_group_name_H-M 'P 63/m m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x,-x+y,-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+  'x-y,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ni   0.33333   0.66667   0.25000   0.42100
+Fe   0.33333   0.66667   0.25000   0.31600
+Ir   0.33333   0.66667   0.25000   0.20200
+Pt   0.33333   0.66667   0.25000   0.03200
+Co   0.33333   0.66667   0.25000   0.00800
+Cu   0.33333   0.66667   0.25000   0.00600
+Rh   0.33333   0.66667   0.25000   0.00600
+Ru   0.33333   0.66667   0.25000   0.00400
+Os   0.33333   0.66667   0.25000   0.00300

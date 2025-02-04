@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Lindbergite'
+loop_
+_publ_author_name
+'Soleimannejad J'
+'Aghabozorg H'
+'Hooshmand S'
+'Ghadermaz M'
+'Gharamaleki J A'
+_journal_name_full 'Acta Crystallographica, Section E'
+_journal_volume 63 
+_journal_year 2007
+_journal_page_first m2389
+_journal_page_last m2390
+_publ_section_title
+;
+ The monoclinic polymorph of catena-poly [[diaquamanganese(II)]-mu-oxalato-4O1,O2:O1',O2']
+;
+_database_code_amcsd 0019963
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Mn C2 O6 H4'
+_cell_length_a 11.7648
+_cell_length_b 5.6440
+_cell_length_c 9.6367
+_cell_angle_alpha 90
+_cell_angle_beta 125.843
+_cell_angle_gamma 90
+_cell_volume 518.704
+_exptl_crystal_density_diffrn      2.292
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Mn   0.50000   0.56903   0.75000   0.00841
+C   0.55073   0.07019   0.85025   0.00840
+O1   0.58713   0.87221   0.92326   0.01030
+O2   0.58807   0.26771   0.92238   0.00973
+O3   0.31804   0.56581   0.75879   0.01160
+H1   0.23460   0.61370   0.65320   0.01400
+H2   0.33040   0.65690   0.84950   0.01400
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn 0.01051 0.00518 0.00806 0.00000 0.00461 0.00000
+C 0.00800 0.01010 0.00700 0.00010 0.00440 0.00010
+O1 0.01240 0.00670 0.00850 0.00030 0.00430 0.00070
+O2 0.01240 0.00650 0.00800 -0.00050 0.00470 -0.00060
+O3 0.01210 0.01210 0.00860 0.00050 0.00490 -0.00090

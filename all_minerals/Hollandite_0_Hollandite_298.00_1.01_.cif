@@ -1,0 +1,83 @@
+data_global
+_chemical_name_mineral 'Hollandite'
+loop_
+_publ_author_name
+'Post J E'
+'Von Dreele R B'
+'Buseck P R'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 38 
+_journal_year 1982
+_journal_page_first 1056
+_journal_page_last 1065
+_publ_section_title
+;
+ Symmetry and cation displacements in hollandites:
+ structure refinements of hollandite, cryptomelane and priderite
+ Note: Anisotropic displacement factors from ICSD
+;
+_database_code_amcsd 0009759
+_chemical_compound_source 'Stuor Njuoskes, Sweden'
+_chemical_formula_sum 'Ba.34 Pb.08 Mn3.24 Fe.64 Al.12 O8'
+_cell_length_a 10.026
+_cell_length_b 2.8782
+_cell_length_c 9.729
+_cell_angle_alpha 90
+_cell_angle_beta 91.03
+_cell_angle_gamma 90
+_cell_volume 280.703
+_exptl_crystal_density_diffrn      4.830
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ba   0.00000   0.00000   0.00000   0.34000   0.01400
+Pb   0.00000   0.20200   0.00000   0.04000   0.03600
+Mn4+1   0.85183   0.00000   0.33266   0.75000   0.00490
+Mn3+1   0.85183   0.00000   0.33266   0.06000   0.00490
+Fe1   0.85183   0.00000   0.33266   0.16000   0.00490
+Al1   0.85183   0.00000   0.33266   0.03000   0.00490
+Mn4+2   0.33670   0.00000   0.15345   0.75000   0.00500
+Mn3+2   0.33670   0.00000   0.15345   0.06000   0.00500
+Fe2   0.33670   0.00000   0.15345   0.16000   0.00500
+Al2   0.33670   0.00000   0.15345   0.03000   0.00500
+O1   0.65830   0.00000   0.30220   1.00000   0.00880
+O2   0.65520   0.00000   0.04140   1.00000   0.00840
+O3   0.29400   0.00000   0.35020   1.00000   0.00880
+O4   0.04150   0.00000   0.32220   1.00000   0.00790
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba 0.01370 0.02000 0.01440 0.00000 0.00000 0.00000
+Pb 0.03100 0.05900 0.02900 0.00060 0.00000 0.00000
+Mn4+1 0.00630 0.00260 0.00740 -0.00010 0.00000 0.00000
+Mn3+1 0.00630 0.00260 0.00740 -0.00010 0.00000 0.00000
+Fe1 0.00630 0.00260 0.00740 -0.00010 0.00000 0.00000
+Al1 0.00630 0.00260 0.00740 -0.00010 0.00000 0.00000
+Mn4+2 0.00710 0.00280 0.00640 0.00060 0.00000 0.00000
+Mn3+2 0.00710 0.00280 0.00640 0.00060 0.00000 0.00000
+Fe2 0.00710 0.00280 0.00640 0.00060 0.00000 0.00000
+Al2 0.00710 0.00280 0.00640 0.00060 0.00000 0.00000
+O1 0.01000 0.00710 0.00910 0.00000 0.00000 0.00000
+O2 0.01280 0.00560 0.00800 0.00060 0.00000 0.00000
+O3 0.00920 0.00740 0.00960 -0.00030 0.00000 0.00000
+O4 0.00680 0.00530 0.01330 0.00090 0.00000 0.00000

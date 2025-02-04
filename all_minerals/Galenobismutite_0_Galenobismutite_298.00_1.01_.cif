@@ -1,0 +1,82 @@
+data_global
+_chemical_name_mineral 'Galenobismutite'
+loop_
+_publ_author_name
+'Pinto D'
+'Balic-Zunic T'
+'Garavelli A'
+'Makovicky E'
+'Vurro F'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 44 
+_journal_year 2006
+_journal_page_first 159
+_journal_page_last 175
+_publ_section_title
+;
+ Comparative crystal-structure study of Ag-free lillianite
+ and galenobismutite from Vulcano, Aeolian Islands, Italy
+;
+_database_code_amcsd 0006073
+_chemical_compound_source 'Vulcano, Aeolian Islands, Italy'
+_chemical_formula_sum 'Pb Bi2 (S3.87 Se.13)'
+_cell_length_a 11.815
+_cell_length_b 14.593
+_cell_length_c 4.0814
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 703.700
+_exptl_crystal_density_diffrn      7.169
+_symmetry_space_group_name_H-M 'P m n a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb3   0.24696   0.65307   0.25000   0.75000   0.02610
+Bi3   0.24696   0.65307   0.25000   0.25000   0.02610
+Bi1   0.06791   0.39037   0.25000   1.00000   0.01670
+Bi2   0.10151   0.90529   0.25000   0.75000   0.02040
+Pb2   0.10151   0.90529   0.25000   0.25000   0.02040
+S1   0.33520   0.01520   0.25000   0.95000   0.01900
+Se1   0.33520   0.01520   0.25000   0.05000   0.01900
+S2   0.25960   0.29660   0.25000   0.98000   0.01400
+Se2   0.25960   0.29660   0.25000   0.02000   0.01400
+S3   0.05600   0.09310   0.25000   0.97000   0.01700
+Se3   0.05600   0.09310   0.25000   0.03000   0.01700
+S4   0.01850   0.71250   0.25000   0.97000   0.01500
+Se4   0.01850   0.71250   0.25000   0.03000   0.01500
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb3 0.03360 0.02430 0.02040 0.00760 0.00000 0.00000
+Bi3 0.03360 0.02430 0.02040 0.00760 0.00000 0.00000
+Bi1 0.01860 0.01750 0.01410 0.00120 0.00000 0.00000
+Bi2 0.02340 0.02660 0.01130 0.00080 0.00000 0.00000
+Pb2 0.02340 0.02660 0.01130 0.00080 0.00000 0.00000
+S1 0.01900 0.02100 0.01700 0.00300 0.00000 0.00000
+Se1 0.01900 0.02100 0.01700 0.00300 0.00000 0.00000
+S2 0.01700 0.01400 0.01300 0.00300 0.00000 0.00000
+Se2 0.01700 0.01400 0.01300 0.00300 0.00000 0.00000
+S3 0.01500 0.01900 0.01800 -0.00200 0.00000 0.00000
+Se3 0.01500 0.01900 0.01800 -0.00200 0.00000 0.00000
+S4 0.01700 0.01500 0.01400 -0.00300 0.00000 0.00000
+Se4 0.01700 0.01500 0.01400 -0.00300 0.00000 0.00000

@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Catapleite'
+loop_
+_publ_author_name
+'Brunovskii B'
+_journal_name_full 'Trav. Inst. Lomonossoff'
+_journal_volume 6 
+_journal_year 1935
+_journal_page_first 34
+_journal_page_last 44
+_publ_section_title
+;
+ Die Struktur des Katapleits (Na2 Zr Si3 O9 * 2(H2 O))
+ _cod_database_code 1011345
+;
+_database_code_amcsd 0018182
+_chemical_formula_sum 'Zr Si3 Na2 O11.001'
+_cell_length_a 7.39
+_cell_length_b 7.39
+_cell_length_c 10.05
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 475.319
+_exptl_crystal_density_diffrn      2.777
+_symmetry_space_group_name_H-M 'P 63/m m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x,-x+y,-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+  'x-y,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Zr1   0.00000   0.00000   0.00000   1.00000
+Si1   0.20000   0.80000   0.25000   1.00000
+Na1   0.33333   0.66667   0.08000   1.00000
+O1   0.47000   0.53000   0.25000   1.00000
+O2   0.13500   0.86500   0.12500   1.00000
+O3   0.50000   0.00000   0.00000   0.66700

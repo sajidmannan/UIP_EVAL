@@ -1,0 +1,90 @@
+data_global
+_chemical_name_mineral 'Klochite'
+loop_
+_publ_author_name
+'Bojar H P'
+'Walter F'
+'Hauzenberger C'
+'Postl W'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 49 
+_journal_year 2011
+_journal_page_first 1115
+_journal_page_last 1124
+_publ_section_title
+;
+ Klochite, K_2(Fe2+Fe3+)Zn3[Si12O30], a new milarite-type mineral species
+ from the Kloch volcano, Styria, Austria
+;
+_database_code_amcsd 0018643
+_chemical_compound_source 'Kloch volcano, Bad Radkersburg district, Styria, Austria'
+_chemical_formula_sum 'K.81 Na.35 (Fe1.74 Mn.26) Zn2.79 Si12 O30'
+_cell_length_a 10.120
+_cell_length_b 10.120
+_cell_length_c 14.298
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1268.139
+_exptl_crystal_density_diffrn      3.013
+_symmetry_space_group_name_H-M 'P 6/m c c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,-z'
+  'x-y,x,z'
+  '-y,-x,1/2+z'
+  'y,x,1/2-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'x,x-y,1/2+z'
+  '-x,-x+y,1/2-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,-z'
+  'y,-x+y,z'
+  '-x+y,y,1/2+z'
+  'x-y,-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+KC   0.00000   0.00000   0.25000   0.81000   0.01300
+NaC   0.00000   0.00000   0.25000   0.19000   0.01300
+NaB   0.33333   0.66667   0.00000   0.08000   0.03000
+FeA   0.33333   0.66667   0.25000   0.87000   0.00630
+MnA   0.33333   0.66667   0.25000   0.13000   0.00630
+ZnT2   0.50000   0.00000   0.25000   0.93000   0.00810
+SiT1   0.11653   0.35251   0.10978   1.00000   0.00790
+O1   0.13030   0.39110   0.00000   1.00000   0.01350
+O2   0.22110   0.27730   0.13540   1.00000   0.01460
+O3   0.15860   0.49930   0.17200   1.00000   0.01030
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+KC 0.01400 0.01400 0.01000 0.00690 0.00000 0.00000
+NaC 0.01400 0.01400 0.01000 0.00690 0.00000 0.00000
+FeA 0.00710 0.00710 0.00470 0.00350 0.00000 0.00000
+MnA 0.00710 0.00710 0.00470 0.00350 0.00000 0.00000
+ZnT2 0.00960 0.00740 0.00640 0.00370 0.00000 0.00000
+SiT1 0.00840 0.01070 0.00480 0.00490 -0.00030 -0.00060
+O1 0.01600 0.02000 0.00500 0.00900 0.00000 0.00000
+O2 0.01800 0.02000 0.01030 0.01350 -0.00170 -0.00110
+O3 0.01190 0.01160 0.00810 0.00630 0.00010 -0.00050

@@ -1,0 +1,91 @@
+data_global
+_chemical_name_mineral 'Edgrewite'
+loop_
+_publ_author_name
+'Galuskin E V'
+'Lazic B'
+'Armbruster T'
+'Galuskina I O'
+'Pertsev N N'
+'Gazeev V M'
+'Wlodyka R'
+'Dulski M'
+'Dzierzanowski P'
+'Zadov A E'
+'Dubrovinsky L S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 97 
+_journal_year 2012
+_journal_page_first 1998
+_journal_page_last 2006
+_publ_section_title
+;
+ Edgrewite Ca9(SiO4)4F2-hydroxyledgrewite Ca9(SiO4)4(OH)2, a new series
+ of calcium humite-group minerals from altered xenoliths in the ignimbrite
+ of Upper Chegem caldera, Northern Caucasus, Kabardino-Balkaria, Russia
+;
+_database_code_amcsd 0019557
+_chemical_compound_source 'Upper Chegem caldera, Northern Caucasus, Kabardino-Balkaria, Russia'
+_chemical_formula_sum 'Ca9 Si4 O17.04 F.96'
+_cell_length_a 5.0687
+_cell_length_b 11.3579
+_cell_length_c 15.4004
+_cell_angle_alpha 100.598
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 871.474
+_exptl_crystal_density_diffrn      2.911
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.50000   0.00000   0.50000   1.00000   0.00692
+Ca2   0.49508   0.94666   0.27370   1.00000   0.00698
+Ca3   0.00478   0.13653   0.17283   1.00000   0.00645
+Ca4   0.50769   0.25407   0.38901   1.00000   0.00606
+Ca5   0.49245   0.87168   0.04256   1.00000   0.00696
+Si1   0.07123   0.06835   0.38955   1.00000   0.00430
+Si2   0.07549   0.17901   0.83411   1.00000   0.00466
+O1   0.75110   0.06609   0.38803   1.00000   0.00740
+O2   0.29860   0.43501   0.38809   1.00000   0.00620
+O3   0.20280   0.11311   0.30359   1.00000   0.00700
+O4   0.20170   0.15466   0.47638   1.00000   0.00730
+O5   0.25500   0.32030   0.16362   1.00000   0.00750
+O6   0.79500   0.95261   0.16185   1.00000   0.00680
+O7   0.70410   0.28081   0.25414   1.00000   0.00730
+O8   0.70730   0.23059   0.08118   1.00000   0.00670
+O9   0.22850   0.04040   0.04450   0.52000   0.00920
+F9   0.26190   0.04590   0.05850   0.48000   0.00920
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.00440 0.00980 0.00750 0.00020 -0.00100 0.00390
+Ca2 0.00458 0.00820 0.00785 0.00077 0.00088 0.00066
+Ca3 0.00553 0.00596 0.00842 0.00040 -0.00017 0.00282
+Ca4 0.00513 0.00561 0.00779 -0.00014 -0.00006 0.00211
+Ca5 0.00614 0.00750 0.00770 0.00003 -0.00082 0.00270
+Si1 0.00170 0.00530 0.00640 -0.00007 -0.00003 0.00240
+Si2 0.00230 0.00520 0.00700 0.00021 0.00012 0.00260
+O1 0.00320 0.00920 0.01010 -0.00020 -0.00050 0.00270
+O2 0.00540 0.00470 0.00920 -0.00030 0.00040 0.00350
+O3 0.00590 0.00820 0.00780 -0.00070 0.00040 0.00380
+O4 0.00540 0.00900 0.00770 0.00020 0.00010 0.00160
+O5 0.00440 0.00770 0.01130 0.00000 -0.00010 0.00410
+O6 0.00710 0.00410 0.01000 0.00020 0.00110 0.00310
+O7 0.00610 0.00780 0.00870 0.00070 -0.00020 0.00330
+O8 0.00590 0.00790 0.00650 0.00010 -0.00020 0.00230

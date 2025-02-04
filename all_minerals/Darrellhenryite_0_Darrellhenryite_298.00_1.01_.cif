@@ -1,0 +1,101 @@
+data_global
+_chemical_name_mineral 'Darrellhenryite'
+loop_
+_publ_author_name
+'Novak M'
+'Ertl A'
+'Povondra P'
+'Galiova M V'
+'Rossman G R'
+'Pristacz H'
+'Prem M'
+'Giester G'
+'Gadas P'
+'Skoda R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 98 
+_journal_year 2013
+_journal_page_first 1886
+_journal_page_last 1892
+_publ_section_title
+;
+ Darrellhenryite, Na(LiAl2)Al6(BO3)3Si6O18(OH)3O, a new mineral from the tourmaline supergroup
+;
+_database_code_amcsd 0020016
+_chemical_compound_source 'Nova Ves near Cesky Krumlov, southern Bohemia, Moldanubian Zone, Czech Republic'
+_chemical_formula_sum 'Na.561 Al7.953 Li1.047 Si6 B3 O30.66 F.34 H3'
+_cell_length_a 15.809
+_cell_length_b 15.809
+_cell_length_c 7.0890
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1534.350
+_exptl_crystal_density_diffrn      3.038
+_symmetry_space_group_name_H-M 'R 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NaX   0.00000   0.00000   0.75090   0.56100   0.01990
+AlY   0.87800   0.93900   0.34846   0.65100   0.00677
+LiY   0.87800   0.93900   0.34846   0.34900   0.00677
+AlZ   0.70347   0.74017   0.37588   1.00000   0.00539
+SiT   0.80823   0.81027   0.98406   1.00000   0.00450
+B   0.89096   0.78193   0.53067   1.00000   0.00565
+O1   0.00000   0.00000   0.20790   0.66000   0.02520
+F1   0.00000   0.00000   0.20790   0.34000   0.02520
+O2   0.93962   0.87924   0.49377   1.00000   0.01253
+O3   0.73727   0.86864   0.47722   1.00000   0.01241
+O4   0.90589   0.81179   0.91064   1.00000   0.00847
+O5   0.81242   0.90621   0.88830   1.00000   0.00912
+O6   0.80533   0.81595   0.21009   1.00000   0.00702
+O7   0.71341   0.71375   0.90703   1.00000   0.00641
+O8   0.79052   0.72987   0.54631   1.00000   0.00707
+H3   0.74000   0.87000   0.60000   1.00000   0.05100
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+NaX 0.02120 0.02120 0.01750 0.01060 0.00000 0.00000
+AlY 0.00750 0.00515 0.00840 0.00374 -0.00232 -0.00116
+LiY 0.00750 0.00515 0.00840 0.00374 -0.00232 -0.00116
+AlZ 0.00528 0.00675 0.00442 0.00321 0.00018 0.00073
+SiT 0.00462 0.00423 0.00461 0.00218 -0.00016 -0.00036
+B 0.00560 0.00540 0.00590 0.00270 -0.00001 0.00000
+O1 0.03180 0.03180 0.01200 0.01590 0.00000 0.00000
+F1 0.03180 0.03180 0.01200 0.01590 0.00000 0.00000
+O2 0.01730 0.00470 0.01140 0.00233 0.00045 0.00090
+O3 0.02640 0.01080 0.00520 0.01320 -0.00190 -0.00093
+O4 0.00700 0.01300 0.00740 0.00648 -0.00047 -0.00090
+O5 0.01480 0.00740 0.00760 0.00740 0.00140 0.00070
+O6 0.00690 0.00840 0.00480 0.00318 0.00007 -0.00066
+O7 0.00580 0.00590 0.00550 0.00145 0.00025 -0.00102
+O8 0.00480 0.00860 0.00770 0.00321 0.00082 0.00302

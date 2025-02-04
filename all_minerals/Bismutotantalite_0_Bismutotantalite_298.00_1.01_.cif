@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Bismutotantalite'
+loop_
+_publ_author_name
+'Galliski M A'
+'Marquez-Zavalia M F'
+'Cooper M A'
+'Cerny P'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 39 
+_journal_year 2001
+_journal_page_first 103
+_journal_page_last 110
+_publ_section_title
+;
+ Bismutotantalite from northwestern Argentina: Description and
+ crystal structure
+ Sample: [Bi] phase
+;
+_database_code_amcsd 0005704
+_chemical_compound_source 'northwestern Argentina'
+_chemical_formula_sum '(Bi.98 Sb.02) (Ta.89 Nb.11) O4'
+_cell_length_a 4.9652
+_cell_length_b 11.7831
+_cell_length_c 5.6462
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 330.333
+_exptl_crystal_density_diffrn      8.897
+_symmetry_space_group_name_H-M 'P n c 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  '-x,y,1/2+z'
+  'x,-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Bi   0.22147   0.50000   0.25000   0.98000   0.01010
+Sb   0.22147   0.50000   0.25000   0.02000   0.01010
+Ta   0.25000   0.75000   0.64078   0.89000   0.00680
+Nb   0.25000   0.75000   0.64078   0.11000   0.00680
+O(1)   0.49543   0.69489   0.36094   1.00000   0.01390
+O(2)   0.08657   0.59742   0.58723   1.00000   0.01100
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi 0.00830 0.01120 0.01080 0.00000 0.00000 0.00110
+Sb 0.00830 0.01120 0.01080 0.00000 0.00000 0.00110
+Ta 0.00660 0.00680 0.00690 -0.00010 0.00000 0.00000
+Nb 0.00660 0.00680 0.00690 -0.00010 0.00000 0.00000
+O(1) 0.01360 0.01380 0.01420 -0.00060 0.00400 -0.00070
+O(2) 0.01430 0.00820 0.01050 -0.00400 0.00350 0.00050

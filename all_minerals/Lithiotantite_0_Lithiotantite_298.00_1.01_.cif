@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Lithiotantite'
+loop_
+_publ_author_name
+'Menezes L A D'
+'Yang H'
+'Downs R T'
+'Chaves M L S C'
+'Persiano A C'
+_journal_name_full 'Acta Crystallographica, Section E'
+_journal_volume 68 
+_journal_year 2012
+_journal_page_first i27
+_journal_page_last i28
+_publ_section_title
+;
+ Lithiotantite, ideally LiTa3O8
+;
+_database_code_amcsd 0018780
+_chemical_compound_source 'Murundu mine, the Jenipapo District, Itinga, Minas Gerais, Brazil'
+_chemical_formula_sum '(Ta2.18 Nb.82) (Li.96 Mn.03 Na.01) O8'
+_cell_length_a 7.4425
+_cell_length_b 5.0493
+_cell_length_c 15.2452
+_cell_angle_alpha 90
+_cell_angle_beta 107.381
+_cell_angle_gamma 90
+_cell_volume 546.747
+_exptl_crystal_density_diffrn      7.376
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+TaM1   0.74765   0.24400   0.07791   0.64100   0.00508
+NbM1   0.74765   0.24400   0.07791   0.35900   0.00508
+TaM2   0.98987   0.24084   0.33689   0.66500   0.00466
+NbM2   0.98987   0.24084   0.33689   0.33500   0.00466
+TaM3   0.50096   0.23890   0.33301   0.87400   0.00528
+NbM3   0.50096   0.23890   0.33301   0.12600   0.00528
+LiM4   0.23910   0.25610   0.07940   0.96000   0.00300
+MnM4   0.23910   0.25610   0.07940   0.03000   0.00300
+NaM4   0.23910   0.25610   0.07940   0.01000   0.00300
+O1   0.00020   0.06080   0.09790   1.00000   0.00640
+O2   0.41760   0.06700   0.21810   1.00000   0.00590
+O3   0.76530   0.10080   0.34430   1.00000   0.00730
+O4   0.53680   0.42100   0.10110   1.00000   0.00640
+O5   0.91440   0.41120   0.21540   1.00000   0.00540
+O6   0.64360   0.39310   0.46060   1.00000   0.00780
+O7   0.85240   0.56370   0.04890   1.00000   0.00730
+O8   0.27550   0.41230   0.34440   1.00000   0.00630
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+TaM1 0.00614 0.00390 0.00485 0.00065 0.00108 -0.00033
+NbM1 0.00614 0.00390 0.00485 0.00065 0.00108 -0.00033
+TaM2 0.00518 0.00380 0.00496 0.00056 0.00143 0.00038
+NbM2 0.00518 0.00380 0.00496 0.00056 0.00143 0.00038
+TaM3 0.00517 0.00520 0.00565 -0.00042 0.00190 -0.00014
+NbM3 0.00517 0.00520 0.00565 -0.00042 0.00190 -0.00014

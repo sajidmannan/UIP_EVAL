@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Teschemacherite'
+loop_
+_publ_author_name
+'Pertlik F'
+_journal_name_full 'Tschermaks Mineralogische und Petrographische Mitteilungen'
+_journal_volume 29 
+_journal_year 1981
+_journal_page_first 67
+_journal_page_last 74
+_publ_section_title
+;
+ Verfeinerung der kristallstruktur des teschemacherits, (NH4)CO2(OH)
+;
+_database_code_amcsd 0015683
+_chemical_formula_sum 'N H5 C O3'
+_cell_length_a 7.255
+_cell_length_b 10.709
+_cell_length_c 8.746
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 679.510
+_exptl_crystal_density_diffrn      1.546
+_symmetry_space_group_name_H-M 'P c c n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,y,1/2+z'
+  '1/2+x,-y,1/2-z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+N   0.24560   0.01200   0.41520   0.02964
+H1   0.30000   0.05700   0.34900   0.01393
+H2   0.65100   0.02800   0.12500   0.02280
+H3   0.20700   0.05100   0.49800   0.01900
+H4   0.82400   0.05100   0.05500   0.01393
+C   0.00880   0.24700   0.15660   0.02280
+O1   0.98510   0.19070   0.03250   0.03432
+O2   0.96490   0.18120   0.28110   0.03407
+O3   0.06770   0.35660   0.17110   0.03052
+H5   0.98600   0.23000   0.36500   0.02153
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+N 0.03280 0.02440 0.03178 -0.00039 0.00096 -0.00190
+C 0.02720 0.01859 0.02248 0.00354 0.00000 0.00190
+O1 0.05306 0.02847 0.02209 -0.00512 0.00064 -0.00190
+O2 0.05786 0.02266 0.02170 -0.00394 0.00354 0.00190
+O3 0.04133 0.02092 0.02945 -0.00354 -0.00161 0.00190

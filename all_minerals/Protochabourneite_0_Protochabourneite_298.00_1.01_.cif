@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Protochabourneite'
+loop_
+_publ_author_name
+'Orlandi P'
+'Biagioni C'
+'Moelo Y'
+'Bonaccorsi E'
+'Paar W H'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 51 
+_journal_year 2013
+_journal_page_first 475
+_journal_page_last 494
+_publ_section_title
+;
+ Lead-antimony sulfosalts from Tuscany (Italy). XIII. Protochabourneite,
+ ~Tl2Pb(Sb9-8As1-2)S10S17, from the Monte Arsiccio mine:
+ occurrence, crystal structure, and relationship with chabourneite
+;
+_database_code_amcsd 0020049
+_chemical_compound_source 'Monte Arsiccio mine, Apuan Alps, Tuscany, Italy'
+_chemical_formula_sum 'Tl1.7 Pb1.6 Sb8.8 As.9 S17'
+_cell_length_a 8.150
+_cell_length_b 8.716
+_cell_length_c 21.579
+_cell_angle_alpha 85.18
+_cell_angle_beta 96.94
+_cell_angle_gamma 88.60
+_cell_volume 1515.333
+_exptl_crystal_density_diffrn      5.179
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Tl1   0.46570   0.59780   0.18388   1.00000   0.07020
+Tl2   0.45170   0.09910   0.18031   0.70000   0.07000
+Pb2   0.45170   0.09910   0.18031   0.30000   0.07000
+Pb1   0.01010   0.09270   0.27277   1.00000   0.05840
+Sb1   0.03570   0.77900   0.47663   0.90000   0.04060
+As1   0.03570   0.77900   0.47663   0.10000   0.04060
+Sb2   0.30070   0.48030   0.43880   1.00000   0.03670
+Sb3   0.63560   0.77760   0.37853   1.00000   0.03880
+Sb4   0.68520   0.10850   0.02106   1.00000   0.03800
+Sb5   0.34250   0.05070   0.42918   1.00000   0.04080
+Sb6   0.66210   0.30670   0.36511   1.00000   0.04040
+Sb7   0.10400   0.36170   0.11215   1.00000   0.03950
+Sb8   0.94730   0.59060   0.26960   0.70000   0.04650
+Pb8   0.99090   0.59620   0.27980   0.30000   0.04650
+Sb9   0.02630   0.86170   0.12617   0.55000   0.03950
+As9   0.02630   0.86170   0.12617   0.45000   0.03950
+Sb10   0.29520   0.37040  -0.00011   0.65000   0.03800
+As10   0.29520   0.37040  -0.00011   0.35000   0.03800
+S1  -0.14430   0.58120   0.42580   1.00000   0.03700
+S2   0.13000   0.25260   0.39840   1.00000   0.03450
+S3  -0.13280   0.64110   0.15710   1.00000   0.04040
+S4   0.17550   0.84420   0.38060   1.00000   0.03850
+S5  -0.17910   0.97540   0.44500   1.00000   0.04290
+S6   0.55760   0.33280   0.06630   1.00000   0.03900
+S7   0.47240   0.10270   0.32960   1.00000   0.03880
+S8   0.75240   0.35870   0.25900   1.00000   0.04280
+S9   0.16510   0.16380   0.05670   1.00000   0.04370
+S10   0.44750   0.51960   0.34110   1.00000   0.03500
+S11  -0.15000   0.06490   0.15150   1.00000   0.03790
+S12   0.18950   0.56150   0.06060   1.00000   0.04150
+S13   0.54010   0.89070   0.07000   1.00000   0.03880
+S14   0.51240   0.30160   0.49140   1.00000   0.03560
+S15   0.74140   0.81130   0.27700   1.00000   0.04130
+S16   0.18320   0.33220   0.21200   1.00000   0.04060
+S17   0.20290   0.84700   0.22150   1.00000   0.05390

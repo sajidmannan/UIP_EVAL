@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Reinerite'
+loop_
+_publ_author_name
+'Ghose S'
+'Boving P'
+'LaChapelle W A'
+'Wan C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 62 
+_journal_year 1977
+_journal_page_first 1129
+_journal_page_last 1134
+_publ_section_title
+;
+ Reinerite, Zn3(AsO3)2: an arsenite with a novel type of Zn-tetrahedral
+ double chain
+;
+_database_code_amcsd 0000602
+_chemical_formula_sum 'Zn3 As2 O6'
+_cell_length_a 6.092
+_cell_length_b 14.407
+_cell_length_c 7.811
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 685.551
+_exptl_crystal_density_diffrn      4.283
+_symmetry_space_group_name_H-M 'P b a m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  'x,y,-z'
+  '-x,-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1   0.00000   0.50000   0.31453
+Zn2   0.56494   0.77908   0.78434
+As1   0.91312   0.87436   0.50000
+As2   0.22305   0.90126   0.00000
+O1   0.33040   0.06080   0.50000
+O2   0.33490   0.28070   0.00000
+O3   0.15190   0.19970   0.32620
+O4   0.09040   0.39650   0.17360
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 0.02352 0.01041 0.00779 -0.00027 0.00000 0.00000
+Zn2 0.01512 0.01304 0.01116 0.00009 -0.00140 -0.00051
+As1 0.01472 0.01188 0.00921 -0.00116 0.00000 0.00000
+As2 0.01592 0.01062 0.01035 0.00289 0.00000 0.00000
+O1 0.02452 0.01567 0.01088 0.00703 0.00000 0.00000
+O2 0.02074 0.01304 0.01045 0.00378 0.00000 0.00000
+O3 0.01579 0.02292 0.01651 0.00258 0.00128 0.00924
+O4 0.02580 0.01030 0.01409 -0.00191 0.00851 -0.00239

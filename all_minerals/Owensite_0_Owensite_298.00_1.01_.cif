@@ -1,0 +1,110 @@
+data_global
+_chemical_name_mineral 'Owensite'
+loop_
+_publ_author_name
+'Szymanski J T'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 33 
+_journal_year 1995
+_journal_page_first 671
+_journal_page_last 677
+_publ_section_title
+;
+ The crystal structure of owensite, (Ba,Pb)6(Cu,Fe,Ni)25S27, a new member of the
+ djerfisherite group
+;
+_database_code_amcsd 0005435
+_chemical_formula_sum '(Cu13.092 Fe11.908) Ba5.438 Pb.562 S27'
+_cell_length_a 10.349
+_cell_length_b 10.349
+_cell_length_c 10.349
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1108.396
+_exptl_crystal_density_diffrn      4.833
+_symmetry_space_group_name_H-M 'P m -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'z,-x,y'
+  '-y,z,-x'
+  'x,-y,z'
+  '-z,x,-y'
+  'y,-z,x'
+  '-x,y,-z'
+  'x,-z,-y'
+  '-z,y,x'
+  'y,-x,-z'
+  '-x,z,y'
+  'z,-y,-x'
+  '-y,x,z'
+  'x,z,y'
+  '-z,-y,-x'
+  'y,x,z'
+  '-x,-z,-y'
+  'z,y,x'
+  '-y,-x,-z'
+  'z,x,-y'
+  '-y,-z,x'
+  'x,y,-z'
+  '-z,-x,y'
+  'y,z,-x'
+  '-x,-y,z'
+  '-z,x,y'
+  'y,-z,-x'
+  '-x,y,z'
+  'z,-x,-y'
+  '-y,z,x'
+  'x,-y,-z'
+  '-x,z,-y'
+  'z,-y,x'
+  '-y,x,-z'
+  'x,-z,y'
+  '-z,y,-x'
+  'y,-x,z'
+  '-x,-z,y'
+  'z,y,-x'
+  '-y,-x,z'
+  'x,z,-y'
+  '-z,-y,x'
+  'y,x,-z'
+  '-z,-x,-y'
+  'y,z,x'
+  '-x,-y,-z'
+  'z,x,y'
+  '-y,-z,-x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu1   0.50000   0.50000   0.50000   0.52370 ?
+Fe1   0.50000   0.50000   0.50000   0.47630 ?
+Cu2   0.36416   0.36416   0.13806   0.52370 ?
+Fe2   0.36416   0.36416   0.13806   0.47630 ?
+Ba   0.00000   0.00000   0.30420   0.90640 ?
+Pb   0.01490   0.01490   0.27400   0.02340   0.01520
+S1   0.00000   0.00000   0.00000   1.00000 ?
+S2   0.24422   0.50000   0.00000   1.00000 ?
+S3   0.50000   0.50000   0.25858   1.00000 ?
+S4   0.21703   0.21703   0.21703   1.00000 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.01600 0.01600 0.01600 0.00000 0.00000 0.00000
+Fe1 0.01600 0.01600 0.01600 0.00000 0.00000 0.00000
+Cu2 0.01670 0.01670 0.02170 -0.00160 0.00040 0.00040
+Fe2 0.01670 0.01670 0.02170 -0.00160 0.00040 0.00040
+Ba 0.01540 0.01540 0.01200 0.00000 0.00000 0.00000
+S1 0.01390 0.01390 0.01390 0.00000 0.00000 0.00000
+S2 0.01380 0.01470 0.01330 0.00000 0.00000 0.00000
+S3 0.01500 0.01500 0.01020 0.00000 0.00000 0.00000
+S4 0.01600 0.01600 0.01600 0.00230 0.00230 0.00230

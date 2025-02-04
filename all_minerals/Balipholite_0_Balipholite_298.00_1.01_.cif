@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Balipholite'
+loop_
+_publ_author_name
+'X-ray Laboratory'
+'Wuhan Geologic College'
+'Geology Laboratory'
+'Hunan Geology Bureau'
+'Geology Team 654'
+'Hunan Geology Bureau'
+_journal_name_full 'Scientia Geologica Sinica'
+_journal_volume 1 
+_journal_year 1977
+_journal_page_first 65
+_journal_page_last 82
+_publ_section_title
+;
+ Balipholite BaMg2LiAl3[Si2O6]2(OH,F)8 and its crystal structure
+;
+_database_code_amcsd 0019222
+_chemical_formula_sum 'Ba Mg2 Li Al3 Si4 O16.64 (F3.36 H4.64)'
+_cell_length_a 13.60
+_cell_length_b 20.24
+_cell_length_c 5.16
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1420.362
+_exptl_crystal_density_diffrn      3.371
+_symmetry_space_group_name_H-M 'C m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,1/2+y,1/2+z'
+  '1/2-x,+y,1/2+z'
+  'x,1/2-y,1/2-z'
+  '1/2+x,-y,1/2-z'
+  'x,1/2+y,-z'
+  '1/2+x,+y,-z'
+  '-x,1/2-y,z'
+  '1/2-x,-y,z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ba   0.00000   0.25000   0.75000   1.00000
+Mg   0.00000   0.04100   0.75000   1.00000
+Li1   0.00000   0.11900   0.25000   0.50000
+Al1   0.00000   0.11900   0.25000   0.50000
+Al2   0.19400   0.25000   0.25000   1.00000
+Si   0.19200   0.11900   0.91900   1.00000
+O-H1   0.07000   0.03300   0.43400   0.58000
+F1   0.07000   0.03300   0.43400   0.42000
+O-H2   0.09400   0.19500   0.38700   0.58000
+F2   0.09400   0.19500   0.38700   0.42000
+O3   0.20200   0.19700   0.88800   1.00000
+O4   0.25000   0.09100   0.17700   1.00000
+O5   0.07900   0.10600   0.89600   1.00000

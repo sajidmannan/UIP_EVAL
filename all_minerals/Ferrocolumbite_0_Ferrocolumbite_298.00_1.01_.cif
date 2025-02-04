@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Ferrocolumbite'
+loop_
+_publ_author_name
+'Tarantino S C'
+'Zema M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 90 
+_journal_year 2005
+_journal_page_first 1291
+_journal_page_last 1300
+_publ_section_title
+;
+ Mixing and ordering behavior in manganocolumbite-ferrocolumbite solid solution:
+ A single-crystal X-ray diffraction study
+ Sample: BRA n3 Qm=1 from S. Jose de Safira, Minas Gerais, Brazil
+;
+_database_code_amcsd 0003826
+_chemical_formula_sum 'Fe.202 Mn.767 Ti.036 Sc.001 Ca.001 Sn.001 Nb1.91 Ta.08 W.002 O6'
+_cell_length_a 14.2877
+_cell_length_b 5.7363
+_cell_length_c 5.0561
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 414.391
+_exptl_crystal_density_diffrn      5.508
+_symmetry_space_group_name_H-M 'P b c n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+FeA   0.00000   0.32935   0.25000   0.20200   0.00660
+MnA   0.00000   0.32935   0.25000   0.76700   0.00660
+TiA   0.00000   0.32935   0.25000   0.02800   0.00660
+ScA   0.00000   0.32935   0.25000   0.00100   0.00660
+CaA   0.00000   0.32935   0.25000   0.00100   0.00660
+SnA   0.00000   0.32935   0.25000   0.00100   0.00660
+NbB   0.16151   0.18026   0.74792   0.95500   0.00470
+TaB   0.16151   0.18026   0.74792   0.04000   0.00470
+TiB   0.16151   0.18026   0.74792   0.00400   0.00470
+WB   0.16151   0.18026   0.74792   0.00100   0.00470
+O1   0.09697   0.10323   0.06932   1.00000   0.00690
+O2   0.08150   0.38359   0.59769   1.00000   0.00800
+O3   0.24388   0.12397   0.41844   1.00000   0.00610

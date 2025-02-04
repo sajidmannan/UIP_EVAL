@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Alamosite'
+loop_
+_publ_author_name
+'Boucher M L'
+'Peacor D R'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 126 
+_journal_year 1968
+_journal_page_first 98
+_journal_page_last 111
+_publ_section_title
+;
+ The crystal structure of alamosite, PbSiO3
+;
+_database_code_amcsd 0010657
+_chemical_compound_source 'Alamos, Sonora, Mexico'
+_chemical_formula_sum 'Pb Si O3'
+_cell_length_a 11.23
+_cell_length_b 7.08
+_cell_length_c 12.26
+_cell_angle_alpha 90
+_cell_angle_beta 113.25
+_cell_angle_gamma 90
+_cell_volume 895.613
+_exptl_crystal_density_diffrn      6.303
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,y,1/2-z'
+  '1/2+x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.54470   0.06670   0.67390   0.00823
+Pb2   0.40960   0.38570   0.84690   0.00671
+Pb3   0.29890   0.30410   0.09990   0.00722
+Si1   0.61800   0.12540   0.15390   0.00443
+Si2   0.52920   0.40700   0.39140   0.00557
+Si3   0.71220   0.18240   0.96160   0.00253
+O1   0.50000   0.50000   0.50000   0.00975
+O2   0.75000   0.22490   0.25000   0.00937
+O3   0.64180   0.24580   0.45760   0.01887
+O4   0.65810   0.05970   0.04190   0.00722
+O5   0.50700   0.28750   0.10710   0.00431
+O6   0.57580   0.94420   0.21320   0.01393
+O7   0.40410   0.29350   0.30360   0.00925
+O8   0.42090   0.42650   0.67100   0.00975
+O9   0.62690   0.37280   0.91590   0.01545
+O10   0.71390   0.04970   0.85380   0.00317

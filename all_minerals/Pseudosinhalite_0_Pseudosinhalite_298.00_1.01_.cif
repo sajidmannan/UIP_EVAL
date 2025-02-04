@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Pseudosinhalite'
+loop_
+_publ_author_name
+'Daniels P'
+'Krosse S'
+'Werding G'
+'Schreyer W'
+_journal_name_full 'Contributions to Mineralogy and Petrology'
+_journal_volume 128 
+_journal_year 1997
+_journal_page_first 261
+_journal_page_last 271
+_publ_section_title
+;
+ "Pseudosinhalite", a new hydrous MgAl-borate: synthesis, phase characterization,
+ crystal structure, and PT-stability
+;
+_database_code_amcsd 0012323
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Al3 Mg2 B2 O10 H'
+_cell_length_a 7.455
+_cell_length_b 4.330
+_cell_length_c 9.825
+_cell_angle_alpha 90
+_cell_angle_beta 110.68
+_cell_angle_gamma 90
+_cell_volume 296.717
+_exptl_crystal_density_diffrn      3.494
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+AlM1   0.00000   0.00000   0.00000   1.00000   0.00490
+AlM2  -0.19293   0.01587  -0.32576   0.90000   0.00430
+MgM2  -0.19293   0.01587  -0.32576   0.10000   0.00430
+AlM3  -0.42210   0.00736  -0.11008   0.10000   0.00480
+MgM3  -0.42210   0.00736  -0.11008   0.90000   0.00480
+B   0.20610   0.08670  -0.36180   1.00000   0.00530
+O1  -0.20570   0.25390  -0.13410   1.00000   0.00600
+O2  -0.38260  -0.27620  -0.24905   1.00000   0.00600
+O3  -0.03700  -0.26680  -0.16062   1.00000   0.00620
+O4  -0.20300  -0.25010   0.00070   1.00000   0.00560
+O5  -0.41570   0.25350  -0.45081   1.00000   0.00680
+H   0.50000   0.41100   0.00000   0.50000   0.02800

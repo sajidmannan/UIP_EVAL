@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Spodumene'
+loop_
+_publ_author_name
+'Cameron M'
+'Sueno S'
+'Prewitt C T'
+'Papike J J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 58 
+_journal_year 1973
+_journal_page_first 594
+_journal_page_last 618
+_publ_section_title
+;
+ High-temperature crystal chemistry of acmite, diopside, hedenbergite, jadeite,
+ spodumene, and ureyite
+ T = 24 C
+ pyroxene
+;
+_database_code_amcsd 0000355
+_chemical_formula_sum 'Si2 Al Li O6'
+_cell_length_a 9.463
+_cell_length_b 8.392
+_cell_length_c 5.218
+_cell_angle_alpha 90
+_cell_angle_beta 110.15
+_cell_angle_gamma 90
+_cell_volume 389.017
+_exptl_crystal_density_diffrn      3.177
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si   0.29410   0.09350   0.25600
+Al1   0.00000   0.90660   0.25000
+Li2   0.00000   0.27520   0.25000
+O1   0.10990   0.08230   0.14020
+O2   0.36460   0.26730   0.30090
+O3   0.35650   0.98710   0.05780
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Si 0.00167 0.00210 0.00180 -0.00068 0.00066 -0.00019
+Al1 0.00215 0.00260 0.00170 0.00000 0.00049 0.00000
+Li2 0.01214 0.01440 0.01651 0.00000 0.00446 0.00000
+O1 0.00256 0.00389 0.00216 -0.00036 0.00015 0.00002
+O2 0.00554 0.00426 0.00771 -0.00249 0.00339 -0.00061
+O3 0.00387 0.00858 0.00278 0.00092 0.00056 -0.00247

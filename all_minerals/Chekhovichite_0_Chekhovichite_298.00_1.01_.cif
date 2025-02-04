@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Chekhovichite'
+loop_
+_publ_author_name
+'Rossell H J'
+'Leblanc M'
+'Ferey G'
+'Bevan D J M'
+'Simpson D J'
+'Taylor M R'
+_journal_name_full 'Australian Journal of Chemistry'
+_journal_volume 45 
+_journal_year 1992
+_journal_page_first 1415
+_journal_page_last 1425
+_publ_section_title
+;
+ On the crystal structure of Bi2Te4O11
+;
+_database_code_amcsd 0012058
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Bi2 Te4 O11'
+_cell_length_a 6.9909
+_cell_length_b 7.9593
+_cell_length_c 18.8963
+_cell_angle_alpha 90
+_cell_angle_beta 95.176
+_cell_angle_gamma 90
+_cell_volume 1047.153
+_exptl_crystal_density_diffrn      7.005
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Bi1   0.56400   0.11800   0.42160   0.01102
+Bi2   0.56420   0.11000   0.91420   0.01140
+Te1   0.27680   0.16050   0.24600   0.00798
+Te2   0.91410   0.11940   0.57430   0.00785
+Te3   0.24270   0.09040   0.75480   0.01203
+Te4   0.89320   0.13920   0.07180   0.00849
+O1   0.94100   0.17000   0.47770   0.01013
+O2   0.92100   0.17200   0.97070   0.01267
+O3   0.27000   0.15900   0.58450   0.01520
+O4   0.27500   0.14500   0.34480   0.01900
+O5   0.56200   0.02500   0.76350   0.02406
+O6   0.95400   0.15300   0.75070   0.02533
+O7   0.64400   0.07100   0.54130   0.01520
+O8   0.34800   0.16900   0.10760   0.01900
+O9   0.67100   0.02000   0.03650   0.01140
+O10   0.80200   0.10400   0.19080   0.03420
+O11   0.31000   0.22300   0.83490   0.02786

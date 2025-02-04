@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Burkeite'
+loop_
+_publ_author_name
+'Giuseppetti G'
+'Mazzi F'
+'Tadini C'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1988 
+_journal_year 1988
+_journal_page_first 203
+_journal_page_last 221
+_publ_section_title
+;
+ The crystal structure of synthetic burkeite Na4SO4(CO3)t(SO4)1-t
+ Sample A
+ Note sign of y-coordinate for O3 and O5 altered to reproduce reported bond lengths
+;
+_database_code_amcsd 0014823
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Na4 C.61 S1.39 O7.39'
+_cell_length_a 5.170
+_cell_length_b 9.217
+_cell_length_c 7.058
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 336.327
+_exptl_crystal_density_diffrn      2.588
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,-y,1/2+z'
+  '1/2-x,y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na1   0.25000   0.75090   0.00510   1.00000   0.02837
+Na2   0.25000   0.42540   0.25000   1.00000   0.06915
+Na3   0.75000   0.87540   0.25000   1.00000   0.02774
+CT1   0.75000   0.55840   0.25000   0.61000   0.02039
+ST1   0.75000   0.55840   0.25000   0.39000   0.02039
+ST2   0.29510   0.09130   0.25000   0.50000   0.01469
+O1   0.75000   0.42260   0.25000   0.85000   0.04813
+O2   0.53570   0.64030   0.25000   0.88000   0.03673
+O3   0.75000  -0.46930   0.08190   0.15000   0.06966
+O4   0.93070   0.58090   0.09510   0.12000   0.07599
+O5   0.19270  -0.16450   0.08150   0.50000   0.03166
+O6   0.21640  -0.06320   0.25000   0.50000   0.01900
+O7   0.57980   0.10570   0.25000   0.50000   0.02786

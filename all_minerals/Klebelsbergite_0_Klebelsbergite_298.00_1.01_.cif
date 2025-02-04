@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Klebelsbergite'
+loop_
+_publ_author_name
+'Manchetti S'
+'Sabelli C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 65 
+_journal_year 1980
+_journal_page_first 931
+_journal_page_last 935
+_publ_section_title
+;
+ The crystal structure of klebelsbergite Sb4O4(OH)2SO4
+;
+_database_code_amcsd 0000795
+_chemical_formula_sum 'Sb4 S O10 H2'
+_cell_length_a 5.766
+_cell_length_b 11.274
+_cell_length_c 14.887
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 967.743
+_exptl_crystal_density_diffrn      4.675
+_symmetry_space_group_name_H-M 'P c a 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,-y,z'
+  '1/2-x,y,1/2+z'
+  '-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Sb1   0.47890   0.35960   0.25000 ?
+Sb2   0.39170   0.08740   0.09140 ?
+Sb3   0.15260   0.40780   0.43220 ?
+Sb4   0.04830   0.14120   0.26730 ?
+S   0.67800   0.25950   0.50830 ?
+O1   0.85250   0.25050   0.43120 ?
+O2   0.64000   0.38770   0.52850 ?
+O3   0.46270   0.20260   0.48490 ?
+O4   0.77420   0.20150   0.58990 ?
+O5   0.28560   0.46270   0.18230 ?
+O6   0.30770   0.20260   0.18210 ?
+O7   0.42380   0.49190   0.36570 ?
+O8   0.11780   0.00690   0.16420 ?
+O9   0.27230   0.05150   0.34130 ?
+O10   0.19940   0.30880   0.32130 ?
+H1   0.30100   0.51300   0.12900   0.05066
+H2   0.33700   0.10100   0.38900   0.05066
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb1 0.00994 0.01867 0.01572 0.00165 0.00174 0.00085
+Sb2 0.01011 0.01223 0.01010 0.00132 0.00000 0.00000
+Sb3 0.00943 0.01288 0.01010 0.00165 -0.00087 0.00085
+Sb4 0.01196 0.01674 0.01460 0.00263 0.00261 -0.00170
+S 0.01078 0.02189 0.01235 -0.00033 -0.00304 0.00170
+O1 0.03217 0.04185 0.00674 0.00132 0.00652 0.01105
+O2 0.04851 0.01095 0.02695 -0.00066 -0.01392 -0.00085
+O3 0.02307 0.09594 0.02807 -0.03491 0.00087 -0.02976
+O4 0.02156 0.08049 0.01010 0.02536 0.00652 0.02381
+O5 0.02796 0.01288 0.01684 0.01449 0.00043 0.00510
+O6 0.01297 0.01674 0.00898 -0.00560 0.00957 0.00085
+O7 0.00893 0.03928 0.00561 -0.01350 0.00565 -0.01020
+O8 0.00438 0.01159 0.01123 0.00198 -0.00565 0.00425
+O9 0.04514 0.02318 0.01572 -0.00856 -0.02522 0.00085
+O10 0.01651 0.01030 0.01235 -0.00626 0.00913 -0.01105

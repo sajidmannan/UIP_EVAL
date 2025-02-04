@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Tridymite'
+loop_
+_publ_author_name
+'Dollase W A'
+'Baur W H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 61 
+_journal_year 1976
+_journal_page_first 971
+_journal_page_last 978
+_publ_section_title
+;
+ The superstructure of meteoritic low tridymite solved by computer simulation
+;
+_database_code_amcsd 0000531
+_chemical_compound_source 'Steinbach meteorite, Saxony, Germany'
+_chemical_formula_sum 'Si O2'
+_cell_length_a 18.524
+_cell_length_b 5.0032
+_cell_length_c 23.810
+_cell_angle_alpha 90
+_cell_angle_beta 105.82
+_cell_angle_gamma 90
+_cell_volume 2123.110
+_exptl_crystal_density_diffrn      2.256
+_symmetry_space_group_name_H-M 'C c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Si1   0.55070   0.54100   0.56420   0.01140
+Si2   0.70360   0.94700   0.73740   0.01520
+Si3   0.41980   0.54900   0.62250   0.00887
+Si4   0.57510   0.04300   0.79550   0.01393
+Si5   0.92470   0.54800   0.69710   0.01013
+Si6   0.76430   0.94400   0.53860   0.01140
+Si7   0.80230   0.44900   0.76610   0.01013
+Si8   0.64530   0.04100   0.60270   0.00887
+Si9   0.85310   0.46300   0.90160   0.01267
+Si10   0.94930   0.96600   0.93580   0.01267
+Si11   0.72440   0.55900   0.96050   0.01140
+Si12   0.56970   0.54900   0.87020   0.01393
+O1   0.57490   0.35100   0.81820   0.01520
+O2   0.57070   0.84000   0.84760   0.01900
+O3   0.73150   0.13800   0.48510   0.02280
+O4   0.75090   0.64400   0.51520   0.02153
+O5   0.41550   0.35200   0.67410   0.03673
+O6   0.41270   0.85200   0.64340   0.02406
+O7   0.87730   0.16400   0.92130   0.02280
+O8   0.91600   0.66800   0.93610   0.03040
+O9   0.77410   0.14500   0.75380   0.02280
+O10   0.73360   0.64300   0.74020   0.02786
+O11   0.61950   0.34100   0.58470   0.01520
+O12   0.58110   0.84300   0.56610   0.02406
+O13   0.49660   0.51100   0.60620   0.03420
+O14   0.35330   0.48900   0.56650   0.01267
+O15   0.64980   0.00500   0.67110   0.02280
+O16   0.65240   0.99600   0.78050   0.02533
+O17   0.86360   0.49900   0.73280   0.02280
+O18   0.83610   0.50300   0.83330   0.03293
+O19   0.50520   0.99300   0.73980   0.02280
+O20   0.63690   0.51100   0.92680   0.03673
+O21   0.99270   0.99200   0.88680   0.01773
+O22   0.50000   0.46800   0.50000   0.02786
+O23   0.72520   0.99100   0.58980   0.02913
+O24   0.77440   0.52100   0.91550   0.01900

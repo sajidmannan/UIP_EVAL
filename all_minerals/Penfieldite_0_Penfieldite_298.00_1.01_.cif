@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Penfieldite'
+loop_
+_publ_author_name
+'Merlino S'
+'Pasero M'
+'Perchiazzi N'
+'Gianfagna A'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 59 
+_journal_year 1995
+_journal_page_first 341
+_journal_page_last 347
+_publ_section_title
+;
+ X-ray and electron diffraction study of penfieldite:
+ average structure and multiple cells
+;
+_database_code_amcsd 0014517
+_chemical_compound_source 'Etruscan iron slag, Baratti beach, Piombiono, Tuscany, Italy'
+_chemical_formula_sum 'Pb2 Cl3 (O H)'
+_cell_length_a 11.393
+_cell_length_b 11.393
+_cell_length_c 4.024
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 452.340
+_exptl_crystal_density_diffrn      5.922
+_symmetry_space_group_name_H-M 'P -6'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,-z'
+  '-y,x-y,z'
+  'x,y,-z'
+  '-x+y,-x,z'
+  '-y,x-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.62210   0.53860   0.50000   0.01532
+Pb2   0.17430   0.27390   0.00000   0.01456
+Cl1   0.85640   0.80590   0.50000   0.01140
+Cl2   0.82720   0.53240   0.00000   0.01773
+Cl3   0.32120   0.46830   0.50000   0.01646
+O-H   0.59000   0.65200   0.00000   0.01267

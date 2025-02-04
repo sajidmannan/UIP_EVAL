@@ -1,0 +1,90 @@
+data_global
+_chemical_name_mineral 'Titantaramellite'
+loop_
+_publ_author_name
+'Mazzi F'
+'Rossi G'
+_journal_name_full 'American Mineralogist'
+_journal_volume 65 
+_journal_year 1980
+_journal_page_first 123
+_journal_page_last 128
+_publ_section_title
+;
+ The crystal structure of taramellite
+ Note: y-coordinate of Ba2 changed from .75 to reproduce reported bond lengths
+;
+_database_code_amcsd 0000773
+_chemical_compound_source 'Rush Creek, Fresno County, California, USA'
+_chemical_formula_sum 'Ba4 (Ti3 Fe) Si8 B2 O29 Cl.95'
+_cell_length_a 12.220
+_cell_length_b 13.952
+_cell_length_c 7.128
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1215.277
+_exptl_crystal_density_diffrn      4.079
+_symmetry_space_group_name_H-M 'P m m n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ba1   0.75000   0.25000   0.23620   1.00000
+Ba2   0.25000   0.25000   0.46710   1.00000
+Ba3   0.25000   0.47160   0.00780   1.00000
+Ti   0.62850   0.50260   0.47580   0.75000
+Fe   0.62850   0.50260   0.47580   0.25000
+Si1   0.48960   0.36590   0.20620   1.00000
+Si2   0.47360   0.64410   0.20510   1.00000
+B   0.25000   0.65850   0.27870   1.00000
+O1   0.50870   0.25000   0.22170   1.00000
+O2   0.51910   0.75000   0.26560   1.00000
+O3   0.25000   0.57540   0.40940   1.00000
+O4   0.75000   0.57110   0.36090   1.00000
+O5   0.53830   0.60900   0.01620   1.00000
+O6   0.38100   0.39940   0.31490   1.00000
+O7   0.60660   0.41180   0.26280   1.00000
+O8   0.34530   0.64770   0.14580   1.00000
+O9   0.49380   0.57180   0.37410   1.00000
+O10   0.25000   0.75000   0.37800   1.00000
+Cl   0.25000   0.25000  -0.00490   0.95000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba1 0.00908 0.01085 0.03629 0.00000 0.00000 0.00000
+Ba2 0.01664 0.00690 0.02780 0.00000 0.00000 0.00000
+Ba3 0.00983 0.01085 0.01004 0.00000 0.00000 -0.00101
+Ti 0.01059 0.00986 0.00901 0.00086 -0.00088 -0.00151
+Fe 0.01059 0.00986 0.00901 0.00086 -0.00088 -0.00151
+Si1 0.00605 0.00493 0.00618 0.00000 0.00000 -0.00101
+Si2 0.00757 0.00493 0.00643 0.00000 0.00044 0.00050
+B 0.00303 0.00000 0.00335 0.00000 0.00000 0.00000
+O1 0.02194 0.00493 0.01647 0.00000 -0.00574 0.00000
+O2 0.01513 0.00394 0.01210 0.00000 -0.00221 0.00000
+O3 0.02118 0.00789 0.01261 0.00000 0.00000 0.00302
+O4 0.05901 0.00986 0.01158 0.00000 0.00000 -0.00252
+O5 0.00983 0.01183 0.00721 0.00259 0.00088 0.00050
+O6 0.00908 0.01183 0.00849 0.00086 0.00177 -0.00302
+O7 0.00983 0.01085 0.01184 0.00000 -0.00132 -0.00302
+O8 0.00530 0.01183 0.01364 0.00000 0.00132 -0.00302
+O9 0.01891 0.00888 0.00695 -0.00173 0.00088 0.00302
+O10 0.01513 0.01381 0.00566 0.00000 0.00000 0.00000
+Cl 0.01740 0.01085 0.00849 0.00000 0.00000 0.00000

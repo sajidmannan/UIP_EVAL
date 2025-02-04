@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Stenonite'
+loop_
+_publ_author_name
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 22 
+_journal_year 1984
+_journal_page_first 245
+_journal_page_last 251
+_publ_section_title
+;
+ The crystal structure of stenonite and the classification of the
+ aluminofluoride minerals
+;
+_database_code_amcsd 0005196
+_chemical_formula_sum 'Sr2 Al C F5 O3'
+_cell_length_a 5.450
+_cell_length_b 8.704
+_cell_length_c 13.150
+_cell_angle_alpha 90
+_cell_angle_beta 98.72
+_cell_angle_gamma 90
+_cell_volume 616.583
+_exptl_crystal_density_diffrn      3.848
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sr1   0.21630   0.35970   0.91040
+Sr2   0.20840  -0.11080   0.90140
+Al   0.86660   0.12710   0.66890
+C   0.31360   0.87740   0.13800
+F1   0.19980   0.22450   0.09050
+F2   0.17540   0.50470   0.08730
+F3   0.56340   0.22800   0.23490
+F4   0.55240   0.52650   0.22640
+F5   0.58270   0.37070   0.06980
+O1   0.49790   0.87730   0.08770
+O2   0.09190   0.87590   0.09020
+O3   0.35760   0.86950   0.23560
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr1 0.02293 0.01689 0.01969 0.00024 0.00319 -0.00115
+Sr2 0.02323 0.02111 0.02054 0.00143 0.00355 -0.00057
+Al 0.02485 0.01650 0.01883 0.00024 0.00284 0.00287
+C 0.03323 0.01305 0.02482 0.01116 0.00213 -0.00344
+F1 0.03602 0.02763 0.01883 -0.01259 0.00426 -0.00688
+F2 0.03720 0.04337 0.01797 0.01306 0.01029 0.00172
+F3 0.03087 0.02303 0.02054 0.01116 0.00426 0.00229
+F4 0.03470 0.02418 0.02482 -0.01259 0.00461 -0.00229
+F5 0.03131 0.01075 0.02482 0.00404 0.01100 -0.00401
+O1 0.02543 0.02456 0.02739 -0.00855 0.00922 0.00172
+O2 0.02132 0.02341 0.02311 -0.00546 0.00213 0.00401
+O3 0.01970 0.04030 0.03252 0.00499 0.00851 0.00057

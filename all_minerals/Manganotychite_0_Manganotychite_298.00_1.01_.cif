@@ -1,0 +1,143 @@
+data_global
+_chemical_name_mineral 'Manganotychite'
+loop_
+_publ_author_name
+'Krivovichev S V'
+'Panikorovskii T L'
+'Bazai A V'
+'Sidorov M Y'
+_journal_name_full 'Crystals'
+_journal_volume 13 
+_journal_year 2023
+_journal_page_first 
+_journal_page_last 800
+_publ_section_title
+;
+ The crystal structure of manganotychite, Na6Mn2(CO3)4(SO4),
+ and structural relations in the northupite group
+ Note: coordinates of S atom modified from those reported
+;
+_database_code_amcsd 0021220
+_chemical_compound_source 'Alluaiv Mountain, Lovozero massif, Kola peninsula, Russia'
+_chemical_formula_sum 'Na6 (Mn1.74 Mg.26) S C4 O16'
+_cell_length_a 14.0015
+_cell_length_b 14.0015
+_cell_length_c 14.0015
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2744.882
+_exptl_crystal_density_diffrn      2.787
+_symmetry_space_group_name_H-M 'F d -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2+z'
+  '1/2+x,1/2+y,z'
+  '1/4+z,1/4+x,-y'
+  '1/4+z,3/4+x,1/2-y'
+  '3/4+z,1/4+x,1/2-y'
+  '3/4+z,3/4+x,-y'
+  '1/4+z,-x,1/4+y'
+  '1/4+z,1/2-x,3/4+y'
+  '3/4+z,-x,3/4+y'
+  '3/4+z,1/2-x,1/4+y'
+  '-z,1/4+x,1/4+y'
+  '-z,3/4+x,3/4+y'
+  '1/2-z,1/4+x,3/4+y'
+  '1/2-z,3/4+x,1/4+y'
+  '-z,-x,-y'
+  '-z,1/2-x,1/2-y'
+  '1/2-z,-x,1/2-y'
+  '1/2-z,1/2-x,-y'
+  'y,3/4-z,3/4-x'
+  'y,1/4-z,1/4-x'
+  '1/2+y,3/4-z,1/4-x'
+  '1/2+y,1/4-z,3/4-x'
+  '3/4-y,3/4-z,x'
+  '3/4-y,1/4-z,1/2+x'
+  '1/4-y,3/4-z,1/2+x'
+  '1/4-y,1/4-z,x'
+  '3/4-y,z,3/4-x'
+  '3/4-y,1/2+z,1/4-x'
+  '1/4-y,z,1/4-x'
+  '1/4-y,1/2+z,3/4-x'
+  'y,z,x'
+  'y,1/2+z,1/2+x'
+  '1/2+y,z,1/2+x'
+  '1/2+y,1/2+z,x'
+  '1/4+x,-y,1/4+z'
+  '1/4+x,1/2-y,3/4+z'
+  '3/4+x,-y,3/4+z'
+  '3/4+x,1/2-y,1/4+z'
+  '-x,1/4+y,1/4+z'
+  '-x,3/4+y,3/4+z'
+  '1/2-x,1/4+y,3/4+z'
+  '1/2-x,3/4+y,1/4+z'
+  '1/4+x,1/4+y,-z'
+  '1/4+x,3/4+y,1/2-z'
+  '3/4+x,1/4+y,1/2-z'
+  '3/4+x,3/4+y,-z'
+  '-x,-y,-z'
+  '-x,1/2-y,1/2-z'
+  '1/2-x,-y,1/2-z'
+  '1/2-x,1/2-y,-z'
+  '3/4-z,3/4-x,y'
+  '3/4-z,1/4-x,1/2+y'
+  '1/4-z,3/4-x,1/2+y'
+  '1/4-z,1/4-x,y'
+  '3/4-z,x,3/4-y'
+  '3/4-z,1/2+x,1/4-y'
+  '1/4-z,x,1/4-y'
+  '1/4-z,1/2+x,3/4-y'
+  'z,3/4-x,3/4-y'
+  'z,1/4-x,1/4-y'
+  '1/2+z,3/4-x,1/4-y'
+  '1/2+z,1/4-x,3/4-y'
+  'z,x,y'
+  'z,1/2+x,1/2+y'
+  '1/2+z,x,1/2+y'
+  '1/2+z,1/2+x,y'
+  '-y,1/4+z,1/4+x'
+  '-y,3/4+z,3/4+x'
+  '1/2-y,1/4+z,3/4+x'
+  '1/2-y,3/4+z,1/4+x'
+  '1/4+y,1/4+z,-x'
+  '1/4+y,3/4+z,1/2-x'
+  '3/4+y,1/4+z,1/2-x'
+  '3/4+y,3/4+z,-x'
+  '1/4+y,-z,1/4+x'
+  '1/4+y,1/2-z,3/4+x'
+  '3/4+y,-z,3/4+x'
+  '3/4+y,1/2-z,1/4+x'
+  '-y,-z,-x'
+  '-y,1/2-z,1/2-x'
+  '1/2-y,-z,1/2-x'
+  '1/2-y,1/2-z,-x'
+  '3/4-x,y,3/4-z'
+  '3/4-x,1/2+y,1/4-z'
+  '1/4-x,y,1/4-z'
+  '1/4-x,1/2+y,3/4-z'
+  'x,3/4-y,3/4-z'
+  'x,1/4-y,1/4-z'
+  '1/2+x,3/4-y,1/4-z'
+  '1/2+x,1/4-y,3/4-z'
+  '3/4-x,3/4-y,z'
+  '3/4-x,1/4-y,1/2+z'
+  '1/4-x,3/4-y,1/2+z'
+  '1/4-x,1/4-y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na   0.37500   0.65892   0.37500   1.00000   0.01930
+Mn   0.50000   0.50000   0.50000   0.87000   0.09200
+Mg   0.50000   0.50000   0.50000   0.13000   0.09200
+S   0.12500   0.12500   0.12500   1.00000   0.01210
+C   0.47028   0.47028   0.27972   1.00000   0.00980
+O1   0.31404   0.81404   0.43596   1.00000   0.01940
+O2   0.48237   0.52891   0.34933   1.00000   0.01370

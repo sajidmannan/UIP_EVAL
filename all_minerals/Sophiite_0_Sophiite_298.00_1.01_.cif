@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Sophiite'
+loop_
+_publ_author_name
+'Semenova T F'
+'Rozhdestvenskaya I V'
+'Filatov S K'
+'Vergasova L P'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 56 
+_journal_year 1992
+_journal_page_first 241
+_journal_page_last 245
+_publ_section_title
+;
+ Crystal structure and physical properties of sophiite, Zn2(SeO3)Cl2, a new mineral
+ Note: y(Zn2) corrected
+;
+_database_code_amcsd 0014495
+_chemical_compound_source 'Tolbachik Main Fracture Eruption, Kamchatka, Russia'
+_chemical_formula_sum 'Zn2 Se Cl2 O3'
+_cell_length_a 10.251
+_cell_length_b 15.223
+_cell_length_c 7.666
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1196.287
+_exptl_crystal_density_diffrn      3.649
+_symmetry_space_group_name_H-M 'P c c n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,y,1/2+z'
+  '1/2+x,-y,1/2-z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Zn1   0.49420   0.38500   0.34930   0.02166
+Zn2   0.72340   0.46910   0.10160   0.02330
+Se   0.46360   0.59090   0.22410   0.01545
+Cl1   0.28450   0.37780   0.43200   0.02698
+Cl2   0.59100   0.29760   0.15990   0.03635
+O1   0.40980   0.58630   0.43200   0.01773
+O2   0.54730   0.49470   0.20970   0.01900
+O3   0.31640   0.55750   0.14760   0.01773
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 0.02115 0.02330 0.02052 -0.00152 0.00152 -0.00507
+Zn2 0.01457 0.03913 0.01621 0.00633 -0.00139 -0.00241
+Se 0.01304 0.01659 0.01684 -0.00025 0.00177 -0.00012
+Cl1 0.01900 0.02534 0.03673 -0.00380 0.00507 0.00380
+Cl2 0.05193 0.02659 0.03040 0.01014 0.00887 -0.00380
+O1 0.01266 0.03040 0.01140 -0.00380 0.00380 -0.00380
+O2 0.00886 0.02026 0.02660 0.00253 0.00887 0.00127
+O3 0.01647 0.02407 0.01267 0.00633 0.00887 -0.00127

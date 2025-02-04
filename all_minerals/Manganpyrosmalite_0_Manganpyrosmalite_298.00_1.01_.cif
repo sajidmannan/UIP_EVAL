@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Manganpyrosmalite'
+loop_
+_publ_author_name
+'Kato T'
+'Takeuchi Y'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 21 
+_journal_year 1983
+_journal_page_first 1
+_journal_page_last 6
+_publ_section_title
+;
+ The pyrosmalite group of minerals I. Structure refinement of
+ Manganpyrosmalite
+ Sample 1: Iron-rich manganpyrosmalite, Kyurazawa mine, Japan
+;
+_database_code_amcsd 0005189
+_chemical_formula_sum 'Mn4.48 Fe3.7 Si5.82 O23.35 Cl1.65 H8.35'
+_cell_length_a 13.391
+_cell_length_b 13.391
+_cell_length_c 7.139
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1108.649
+_exptl_crystal_density_diffrn      3.165
+_symmetry_space_group_name_H-M 'P -3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,-x+y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+  '-x,-y,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  'x-y,x,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+MnM1   0.00000   0.00000   0.00000   0.56000   0.01482
+FeM1   0.00000   0.00000   0.00000   0.44000   0.01482
+MnM2   0.25490   0.00000   0.00000   0.56000   0.01064
+FeM2   0.25490   0.00000   0.00000   0.44000   0.01064
+MnM3   0.50000   0.00000   0.00000   0.56000   0.00925
+FeM3   0.50000   0.00000   0.00000   0.44000   0.00925
+MnM4   0.50260   0.25130   0.02220   0.56000   0.00811
+FeM4   0.50260   0.25130   0.02220   0.44000   0.00811
+Si   0.43750   0.10460   0.62450   0.97000   0.00684
+Fe   0.43750   0.10460   0.62450   0.03000   0.00684
+O1   0.34130   0.00000   0.50000   1.00000   0.01406
+O2   0.56400   0.12800   0.55820   1.00000   0.01241
+O3   0.43160   0.21580   0.55510   1.00000   0.01102
+O4   0.41990   0.08410   0.84910   1.00000   0.00861
+Cl1   0.16800   0.08400   0.77560   0.55000   0.02647
+O-H1   0.16800   0.08400   0.77560   0.45000   0.02647
+O-H2   0.33660   0.16830   0.13300   1.00000   0.01153
+O-H3   0.58090   0.16180   0.14500   1.00000   0.01127
+O-H4   0.33333   0.66667   0.12180   1.00000   0.00507

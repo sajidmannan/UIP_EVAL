@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Cejkaite'
+loop_
+_publ_author_name
+'Ondrus P'
+'Skala R'
+'Veselovsky F'
+'Sejkora J'
+'Vitti C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 88 
+_journal_year 2003
+_journal_page_first 686
+_journal_page_last 693
+_publ_section_title
+;
+ Cejkaite, the triclinic polymorph of Na4(UO2)(CO3)3 - a new mineral
+ from Jachymov, Czech Republic
+;
+_database_code_amcsd 0003078
+_chemical_formula_sum 'Na4 U C3 O11'
+_cell_length_a 9.291
+_cell_length_b 9.292
+_cell_length_c 12.895
+_cell_angle_alpha 90.73
+_cell_angle_beta 90.82
+_cell_angle_gamma 120.00
+_cell_volume 963.750
+_exptl_crystal_density_diffrn      3.736
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na1   0.00000   0.00000   0.00000
+Na1a   0.00000   0.00000   0.50000
+Na2   0.00000   0.00000   0.25300
+Na3   0.43180   0.30560   0.12220
+Na3a   0.11480   0.69040   0.36730
+Na3b   0.31760   0.43850   0.37770
+Na3c   0.42840   0.12490   0.61660
+Na3d   0.12510   0.43450   0.87140
+Na3e   0.31000   0.88240   0.87840
+U1   0.32680   0.66090   0.12990
+U1a   0.32400   0.65830   0.62790
+C1   0.07860   0.32290   0.14200
+C1a   0.25490   0.92950   0.14900
+C1b   0.33400   0.07510   0.39300
+C1c   0.07300   0.75480   0.63700
+C1d   0.25520   0.31690   0.67430
+C1e   0.32190   0.25680   0.85500
+O1   0.33480   0.66890   0.27230
+O1a   0.33320   0.67180   0.77010
+O2   0.33400   0.67060   0.98920
+O2a   0.32390   0.67130   0.48710
+O11   0.03900   0.43910   0.13400
+O11a   0.40070   0.95060   0.12600
+O11b   0.46320   0.05420   0.39400
+O11c   0.03940   0.60030   0.63500
+O11d   0.39700   0.44300   0.64700
+O11e   0.45200   0.40580   0.86500
+O12   0.14610   0.77060   0.15300
+O12a   0.23570   0.37680   0.16300
+O12b   0.38650   0.23490   0.39500
+O12c   0.15260   0.37470   0.67200
+O12d   0.23360   0.85540   0.65000
+O12e   0.38030   0.15450   0.85900
+O13   0.21390   0.03380   0.12600
+O13a   0.04520   0.22160   0.38210
+O13b   0.18440   0.96710   0.38130
+O13c   0.21580   0.18650   0.62430
+O13d   0.03560   0.82110   0.87530
+O13e   0.17760   0.21550   0.88040

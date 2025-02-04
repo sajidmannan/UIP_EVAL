@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Robinsonite'
+loop_
+_publ_author_name
+'Skowron A'
+'Brown I D'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 46 
+_journal_year 1990
+_journal_page_first 527
+_journal_page_last 531
+_publ_section_title
+;
+ Refinement of the structure of robinsonite, Pb4Sb6S13
+;
+_database_code_amcsd 0010117
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Sb4.95 Pb5.05 S13'
+_cell_length_a 23.698
+_cell_length_b 3.980
+_cell_length_c 24.466
+_cell_angle_alpha 90
+_cell_angle_beta 93.9
+_cell_angle_gamma 90
+_cell_volume 2302.241
+_exptl_crystal_density_diffrn      5.960
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+SbM1   0.69010   0.50000   0.79830   0.59000   0.02000
+PbM1   0.69010   0.50000   0.79830   0.41000   0.02000
+SbM2   0.50530   0.50000   0.81170   0.15000   0.02700
+PbM2   0.50530   0.50000   0.81170   0.85000   0.02700
+SbM3   0.43650   0.00000   0.94380   0.92000   0.02600
+PbM3   0.43650   0.00000   0.94380   0.08000   0.02600
+SbM4   0.61720   0.00000   0.92280   0.84000   0.02700
+PbM4   0.61720   0.00000   0.92280   0.16000   0.02700
+SbM10   0.50680   0.50000   0.35270   0.84000   0.02500
+PbM10   0.50680   0.50000   0.35270   0.16000   0.02500
+SbM11   0.42060   0.50000   0.51140   0.76000   0.03400
+PbM11   0.42060   0.50000   0.51140   0.24000   0.03400
+SbM12   0.34310   0.50000   0.67060   0.73000   0.02900
+PbM12   0.34310   0.50000   0.67060   0.27000   0.02900
+PbM13   0.18110   0.00000   0.66270   1.00000   0.03200
+PbM14   0.26980   0.00000   0.52160   1.00000   0.02100
+SbM15   0.35590   0.00000   0.36940   0.12000   0.03800
+PbM15   0.35590   0.00000   0.36940   0.88000   0.03800
+S1   0.69210   0.50000   0.90880   1.00000   0.01500
+S2   0.52580   0.50000   0.92510   1.00000   0.01900
+S3   0.41990   0.00000   0.84440   1.00000   0.01200
+S4   0.59340   0.00000   0.82350   1.00000   0.01500
+S5   0.76270   0.00000   0.81320   1.00000   0.02000
+S6   0.36290   0.50000   0.95070   1.00000   0.01700
+S10   0.40900   0.50000   0.31010   1.00000   0.01800
+S11   0.32790   0.50000   0.45790   1.00000   0.01600
+S12   0.25090   0.50000   0.61080   1.00000   0.01300
+S13   0.30460   0.00000   0.72810   1.00000   0.02600
+S14   0.37820   0.00000   0.57660   1.00000   0.01900
+S15   0.45450   0.00000   0.43470   1.00000   0.02400
+S16   0.53350   0.00000   0.28960   1.00000   0.03100

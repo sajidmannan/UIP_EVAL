@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Aramayoite'
+loop_
+_publ_author_name
+'Effenberger H'
+'Paar W H'
+'Topa D'
+'Criddle A J'
+'Fleck M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 87 
+_journal_year 2002
+_journal_page_first 753
+_journal_page_last 764
+_publ_section_title
+;
+ The new mineral baumstarkite and a structural reinvestigation of
+ aramayoite and miargyrite
+;
+_database_code_amcsd 0002821
+_chemical_formula_sum 'Ag (Sb.666 Bi.334) S2'
+_cell_length_a 7.813
+_cell_length_b 8.268
+_cell_length_c 8.880
+_cell_angle_alpha 100.32
+_cell_angle_beta 104.07
+_cell_angle_gamma 90.18
+_cell_volume 546.763
+_exptl_crystal_density_diffrn      5.884
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ag1   0.11503   0.42287   0.14742   1.00000
+Ag2   0.30433   0.07450   0.84722   1.00000
+Ag3   0.00914   0.74334   0.49858   1.00000
+Sb1   0.64238   0.41787   0.16524   0.93700
+Bi1   0.64238   0.41787   0.16524   0.06300
+Sb2   0.16700   0.91841   0.16979   0.96300
+Bi2   0.16700   0.91841   0.16979   0.03700
+Bi3   0.49374   0.24679   0.49421   0.90300
+Sb3   0.49374   0.24679   0.49421   0.09700
+S1   0.85745   0.20464   0.20003   1.00000
+S2   0.38019   0.25024   0.16822   1.00000
+S3   0.73044   0.52180   0.46193   1.00000
+S4  -0.02532   0.69719   0.19690   1.00000
+S5   0.43666   0.76178   0.18244   1.00000
+S6   0.23938   0.02194   0.46306   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ag1 0.04790 0.04140 0.05650 0.02050 0.01560 0.00600
+Ag2 0.05000 0.04000 0.05300 -0.01700 0.01940 0.00190
+Ag3 0.02780 0.03870 0.02490 0.00140 0.00540 0.00590
+Sb1 0.01820 0.01630 0.01950 0.00172 0.00499 0.00364
+Bi1 0.01820 0.01630 0.01950 0.00172 0.00499 0.00364
+Sb2 0.01740 0.01650 0.01930 0.00243 0.00389 0.00267
+Bi2 0.01740 0.01650 0.01930 0.00243 0.00389 0.00267
+Bi3 0.02031 0.01733 0.01897 0.00126 0.00456 0.00252
+Sb3 0.02031 0.01733 0.01897 0.00126 0.00456 0.00252
+S1 0.01790 0.01990 0.02360 0.00460 0.00380 0.00320
+S2 0.01850 0.02240 0.01870 -0.00130 0.00390 0.00370
+S3 0.01990 0.01900 0.01890 0.00110 0.00350 0.00070
+S4 0.02080 0.02240 0.02410 -0.00210 0.00530 0.00310
+S5 0.01870 0.02200 0.01830 0.00620 0.00410 0.00320
+S6 0.02080 0.01980 0.01850 0.00120 0.00530 0.00010

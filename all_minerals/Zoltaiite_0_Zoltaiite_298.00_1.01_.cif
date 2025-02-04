@@ -1,0 +1,88 @@
+data_global
+_chemical_name_mineral 'Zoltaiite'
+loop_
+_publ_author_name
+'Bartholomew P R'
+'Mancini F'
+'Cahill C L'
+'Harlow G E'
+'Bernhardt H J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 90 
+_journal_year 2005
+_journal_page_first 1655
+_journal_page_last 1660
+_publ_section_title
+;
+ Zoltaiite, a new barium-vanadium nesosubsilicate mineral from British Columbia:
+ Description and crystal structure
+ Sample: Wigwam Pb-Zn deposit, southeast of Revelstoke, British Columbia, Canada
+;
+_database_code_amcsd 0003940
+_chemical_formula_sum 'Ba V11.748 Fe.48 Mg.03 Cr.336 Al.018 Ti1.31 Si2 O27'
+_cell_length_a 7.601
+_cell_length_b 7.601
+_cell_length_c 9.219
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 461.271
+_exptl_crystal_density_diffrn      4.796
+_symmetry_space_group_name_H-M 'P -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'y,-x+y,-z'
+  '-x+y,-x,z'
+  '-x,-y,-z'
+  '-y,x-y,z'
+  'x-y,x,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ba   0.00000   0.00000   0.50000   1.00000   0.00930
+V3+1   0.20700   0.95570   0.13770   0.91500   0.00650
+Fe3+1   0.20700   0.95570   0.13770   0.06000   0.00650
+Fe2+1   0.20700   0.95570   0.13770   0.02000   0.00650
+Mg1   0.20700   0.95570   0.13770   0.00500   0.00650
+V3+2   0.08690   0.45890   0.63550   0.92800   0.00720
+Cr2   0.08690   0.45890   0.63550   0.05600   0.00720
+Al2   0.08690   0.45890   0.63550   0.00300   0.00720
+V4+3   0.33333   0.66667   0.35780   0.34500   0.00820
+Ti4+3   0.33333   0.66667   0.35780   0.65500   0.00820
+Si   0.33333   0.66667   0.94090   1.00000   0.00670
+O1   0.17770   0.74550   0.99080   1.00000   0.00730
+O2   0.29570   0.44740   0.50430   1.00000   0.00920
+O3   0.66667   0.33333   0.24030   1.00000   0.00770
+O4   0.03850   0.22550   0.75110   1.00000   0.00760
+O5   0.09520   0.48390   0.25930   1.00000   0.00800
+O6   0.00000   0.00000   0.00000   1.00000   0.00660
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba 0.00980 0.00980 0.00840 0.00490 0.00000 0.00000
+V3+1 0.00660 0.00550 0.00680 0.00260 0.00050 0.00030
+Fe3+1 0.00660 0.00550 0.00680 0.00260 0.00050 0.00030
+Fe2+1 0.00660 0.00550 0.00680 0.00260 0.00050 0.00030
+Mg1 0.00660 0.00550 0.00680 0.00260 0.00050 0.00030
+V3+2 0.00790 0.00640 0.00720 0.00340 0.00010 0.00020
+Cr2 0.00790 0.00640 0.00720 0.00340 0.00010 0.00020
+Al2 0.00790 0.00640 0.00720 0.00340 0.00010 0.00020
+V4+3 0.00810 0.00810 0.00850 0.00400 0.00000 0.00000
+Ti4+3 0.00810 0.00810 0.00850 0.00400 0.00000 0.00000
+Si 0.00790 0.00790 0.00420 0.00390 0.00000 0.00000
+O1 0.00740 0.00710 0.00870 0.00450 0.00080 -0.00100
+O2 0.00970 0.00730 0.00840 0.00250 0.00020 0.00060
+O3 0.00870 0.00870 0.00560 0.00430 0.00000 0.00000
+O4 0.00870 0.00950 0.00630 0.00580 -0.00140 -0.00080
+O5 0.00850 0.00830 0.00740 0.00420 -0.00060 -0.00370
+O6 0.00470 0.00470 0.01050 0.00230 0.00000 0.00000

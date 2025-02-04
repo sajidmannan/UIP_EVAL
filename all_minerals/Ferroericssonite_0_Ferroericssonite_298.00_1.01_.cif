@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Ferroericssonite'
+loop_
+_publ_author_name
+'Kampf A R'
+'Roberts A C'
+'Venance K E'
+'Dunning G E'
+'Walstrom R E'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 49 
+_journal_year 2011
+_journal_page_first 587
+_journal_page_last 594
+_publ_section_title
+;
+ Ferroericssonite, the Fe2+ analogue of ericssonite, from eastern Fresno County, California, U.S.A.
+;
+_database_code_amcsd 0018382
+_chemical_compound_source 'Esquire #8 claim, Big Creek, eastern Fresno County, California, USA'
+_chemical_formula_sum 'Ba Fe3 Si2 O8.77 (Cl.23 H.77)'
+_cell_length_a 20.3459
+_cell_length_b 7.0119
+_cell_length_c 5.3879
+_cell_angle_alpha 90
+_cell_angle_beta 94.874
+_cell_angle_gamma 90
+_cell_volume 765.877
+_exptl_crystal_density_diffrn      4.425
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ba   0.22505   0.00000   0.24144   1.00000   0.00956
+Fe1   0.00000   0.26153   0.00000   1.00000   0.01210
+Fe2   0.00000   0.00000   0.50000   1.00000   0.01240
+Fe3   0.00000   0.50000   0.50000   1.00000   0.01070
+Fe4   0.14026   0.50000   0.21580   1.00000   0.00680
+Si   0.13431   0.22566   0.71250   1.00000   0.00620
+O-H1   0.05550   0.00000   0.18020   0.77000   0.03800
+Cl1   0.05550   0.00000   0.18020   0.23000   0.03800
+O2   0.15740   0.00000   0.71950   1.00000   0.01260
+O3   0.05466   0.24550   0.68460   1.00000   0.00990
+O4   0.16858   0.30900   0.97320   1.00000   0.01050
+O5   0.16897   0.30920   0.47610   1.00000   0.01050
+O6   0.04970   0.50000   0.19220   1.00000   0.01010
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba 0.01130 0.00810 0.00930 0.00000 0.00105 0.00000
+Fe1 0.01500 0.01260 0.00910 0.00000 0.00330 0.00000
+Fe2 0.01470 0.01180 0.01060 0.00000 0.00040 0.00000
+Fe3 0.01390 0.01060 0.00820 0.00000 0.00380 0.00000
+Fe4 0.00880 0.00600 0.00570 0.00000 0.00070 0.00000
+Si 0.00860 0.00520 0.00470 0.00050 0.00020 0.00020
+O-H1 0.07300 0.02500 0.01700 0.00000 0.00600 0.00000
+Cl1 0.07300 0.02500 0.01700 0.00000 0.00600 0.00000
+O2 0.01200 0.00600 0.01900 0.00000 0.00210 0.00000
+O3 0.00850 0.01110 0.01010 0.00150 0.00150 -0.00080
+O4 0.01350 0.01030 0.00760 -0.00050 0.00080 -0.00070
+O5 0.01250 0.01050 0.00860 0.00070 0.00130 0.00280
+O6 0.00900 0.01100 0.01000 0.00000 0.00300 0.00000

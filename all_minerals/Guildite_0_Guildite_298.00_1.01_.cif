@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Guildite'
+loop_
+_publ_author_name
+'Wan C'
+'Ghose S'
+'Rossman G R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 63 
+_journal_year 1978
+_journal_page_first 478
+_journal_page_last 483
+_publ_section_title
+;
+ Guildite, a layer structure with a ferric hydroxy-sulphate chain and its optical
+ absorption spectra
+ Note: OW2 y-coordinate changed in order to reproduce OW2 bond lengths
+ Note: O6 z-coordinated change from .433 to .0433 to ensure SO4 group
+;
+_database_code_amcsd 0000661
+_chemical_formula_sum 'Fe Cu S2 H4 O13'
+_cell_length_a 9.786
+_cell_length_b 7.134
+_cell_length_c 7.263
+_cell_angle_alpha 90
+_cell_angle_beta 105.28
+_cell_angle_gamma 90
+_cell_volume 489.130
+_exptl_crystal_density_diffrn      2.686
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Fe   0.00000   0.00000   0.00000   0.00988
+Cu   0.34970   0.25000   0.62240   0.01583
+S1   0.01800   0.25000   0.63620   0.00899
+S2   0.70560   0.25000   0.88280   0.00937
+H1   0.03500   0.25000   0.22900   0.06485
+H2   0.73800   0.06100   0.44300   0.04433
+H3   0.44500   0.25000   0.90200   0.04433
+O1   0.11720   0.25000   0.51630   0.01456
+O2   0.04890   0.08120   0.76120   0.01608
+O3   0.87270   0.25000   0.52230   0.01684
+O4   0.79440   0.07980   0.89030   0.01621
+O5   0.59670   0.25000   0.70280   0.01532
+O6   0.64360   0.25000   0.04330   0.02305
+O-h   0.04870   0.25000   0.11480   0.00975
+OW1   0.37310   0.25000   0.35480   0.06485
+OW2   0.64980   0.47650   0.37730   0.05193
+OW3   0.35490   0.25000   0.90390   0.04306

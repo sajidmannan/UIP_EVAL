@@ -1,0 +1,49 @@
+data_global
+_chemical_name_mineral 'Euclase'
+loop_
+_publ_author_name
+'Hazen R M'
+'Au A Y'
+'Finger L W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 71 
+_journal_year 1986
+_journal_page_first 977
+_journal_page_last 984
+_publ_section_title
+;
+ High-pressure crystal chemistry of beryl (Be3Al2Si6O18) and euclase (BeAlSiO4OH)
+ Sample: Pressure = .001 kbar
+;
+_database_code_amcsd 0001036
+_chemical_formula_sum 'Si Al Be O5 H'
+_cell_length_a 4.780
+_cell_length_b 14.322
+_cell_length_c 4.6335
+_cell_angle_alpha 90
+_cell_angle_beta 100.310
+_cell_angle_gamma 90
+_cell_volume 312.084
+_exptl_crystal_density_diffrn      3.088
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Si   0.17752   0.10027   0.53639   0.00494
+Al   0.24877   0.44470   0.95708   0.00570
+Be   0.17410   0.30060   0.45710   0.00760
+O1   0.38180   0.03240   0.76300   0.00659
+O2   0.38000   0.37700   0.65210   0.00633
+O3   0.34310   0.19980   0.52480   0.00671
+O4   0.10060   0.05310   0.21130   0.00633
+O5   0.15960   0.33200   0.12060   0.00899
+H   0.06300   0.30200   0.01100   0.03040

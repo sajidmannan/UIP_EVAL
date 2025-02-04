@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Pauflerite'
+loop_
+_publ_author_name
+'Krivovichev S V'
+'Vergasova L P'
+'Britvin S N'
+'Filatov S K'
+'Kahlenberg V'
+'Ananiev V V'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 45 
+_journal_year 2007
+_journal_page_first 921
+_journal_page_last 927
+_publ_section_title
+;
+ Pauflerite, B-VO(SO4), a new mineral species from the Tolbachik volcano,
+ Kamchatka Peninsula, Russia
+;
+_database_code_amcsd 0006150
+_chemical_compound_source 'Great Fissure Tolbachik eruption, Kamchatka Peninsula, Russia'
+_chemical_formula_sum 'V S O5'
+_cell_length_a 7.3890
+_cell_length_b 6.2740
+_cell_length_c 7.0788
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 328.163
+_exptl_crystal_density_diffrn      3.299
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+V   0.33473   0.25000   0.26710   0.00820
+S   0.37696   0.75000   0.36810   0.00640
+O1   0.37520   0.56270   0.24340   0.01200
+O2   0.12640   0.25000   0.33240   0.01270
+O3   0.54480   0.75000   0.48070   0.01240
+O4   0.21570   0.75000   0.49010   0.01250
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V 0.00960 0.00600 0.00910 0.00000 -0.00200 0.00000
+S 0.00630 0.00550 0.00740 0.00000 -0.00060 0.00000
+O1 0.01910 0.00550 0.01150 -0.00050 0.00050 -0.00190
+O2 0.00940 0.01390 0.01460 0.00000 -0.00090 0.00000
+O3 0.00840 0.01980 0.00880 0.00000 -0.00290 0.00000
+O4 0.01010 0.01960 0.00780 0.00000 0.00180 0.00000

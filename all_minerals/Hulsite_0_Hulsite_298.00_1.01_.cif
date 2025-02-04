@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Hulsite'
+loop_
+_publ_author_name
+'Konnert J A'
+'Appleman D E'
+'Clark J R'
+'Finger L W'
+'Kato T'
+'Miura Y'
+_journal_name_full 'American Mineralogist'
+_journal_volume 61 
+_journal_year 1976
+_journal_page_first 116
+_journal_page_last 122
+_publ_section_title
+;
+ Crystal structure and cation distribution of hulsite, a tin-iron borate
+;
+_database_code_amcsd 0000497
+_chemical_formula_sum 'Sn.2 Fe2.63 Mg1.12 B2 O10'
+_cell_length_a 10.695
+_cell_length_b 3.102
+_cell_length_c 5.432
+_cell_angle_alpha 90
+_cell_angle_beta 94.2
+_cell_angle_gamma 90
+_cell_volume 179.727
+_exptl_crystal_density_diffrn      3.506
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,z'
+  '-x,y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Sn   0.00000   0.00000   0.00000   0.20000   0.00177
+Fe1   0.00000   0.00000   0.00000   0.27000   0.00177
+Fe2   0.50000   0.00000   0.50000   0.50000   0.00139
+Fe3   0.50000   0.00000   0.00000   0.50000   0.00266
+Fe4   0.00000   0.50000   0.50000   0.36000   0.00139
+Mg4   0.00000   0.50000   0.50000   0.16000   0.00139
+Fe5   0.27470   0.50000   0.21870   0.50000   0.00215
+Mg5   0.27470   0.50000   0.21870   0.48000   0.00215
+B1   0.24100   0.00000   0.71100   1.00000   0.00228
+O1   0.11200   0.00000   0.69700   1.00000   0.00532
+O2   0.30500   0.00000   0.50200   1.00000   0.00747
+O3   0.30500   0.00000   0.94300   1.00000   0.00380
+O4   0.09100   0.50000   0.18700   1.00000   0.00469
+O5   0.46900   0.50000   0.24600   1.00000   0.00405

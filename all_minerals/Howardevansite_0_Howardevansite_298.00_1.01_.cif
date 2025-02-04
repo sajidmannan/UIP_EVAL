@@ -1,0 +1,88 @@
+data_global
+_chemical_name_mineral 'Howardevansite'
+loop_
+_publ_author_name
+'Hughes J M'
+'Drexler J W'
+'Campana C F'
+'Malinconico M L'
+_journal_name_full 'American Mineralogist'
+_journal_volume 73 
+_journal_year 1988
+_journal_page_first 181
+_journal_page_last 186
+_publ_section_title
+;
+ Howardevansite, NaCuFe2(VO4)3, a new fumarolic sublimate from
+ Izalco volcano, El Salvador: Descriptive mineralogy and crystal structure
+ Note: Displacement ellipsoid for Na1 is not positive-definite
+;
+_database_code_amcsd 0001138
+_chemical_formula_sum 'Cu2 Fe4 V6 Na2 O24'
+_cell_length_a 8.198
+_cell_length_b 9.773
+_cell_length_c 6.6510
+_cell_angle_alpha 103.82
+_cell_angle_beta 101.99
+_cell_angle_gamma 106.74
+_cell_volume 473.098
+_exptl_crystal_density_diffrn      3.812
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu   0.78675   0.79562   0.77650   1.00000
+Fe1   0.54817   0.39238   0.11910   1.00000
+Fe2   0.29616   0.98522   0.45530   1.00000
+V1   0.41010   0.66723   0.38930   1.00000
+V2   0.83830   0.73926   0.27550   1.00000
+V3   0.77100   0.12589   0.09130   1.00000
+Na1   0.00000   0.50000   0.50000   1.00000
+Na2   0.02340   0.55090  -0.01600   0.50000
+O1   0.44500   0.85700   0.42010   1.00000
+O2   0.48210   0.35020   0.37130   1.00000
+O3   0.80140   0.55560   0.26370   1.00000
+O4   0.22010   0.16420   0.50350   1.00000
+O5   0.27290   0.00750   0.15990   1.00000
+O6   0.47290   0.57940   0.17010   1.00000
+O7   0.72870   0.74210   0.02440   1.00000
+O8   0.05520   0.82100   0.31840   1.00000
+O9   0.19810   0.58000   0.33850   1.00000
+O10   0.99070   0.23650   0.18970   1.00000
+O11   0.71760   0.03610   0.26740   1.00000
+O12   0.65920   0.24440   0.06780   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.01890 0.03097 0.01387 0.01499 0.00925 0.01455
+Fe1 0.01053 0.00865 0.00771 0.00488 0.00398 0.00402
+Fe2 0.01053 0.00949 0.01002 0.00404 0.00375 0.00388
+V1 0.00939 0.00582 0.00674 0.00337 0.00340 0.00263
+V2 0.00825 0.00741 0.00578 0.00337 0.00340 0.00249
+V3 0.00825 0.00773 0.00559 0.00387 0.00351 0.00319
+Na1 0.00740 0.12516 0.09901 0.03873 0.03372 0.11278
+Na2 0.02533 0.05182 0.01599 0.02189 -0.00808 -0.00970
+O1 0.00626 0.00678 0.01136 0.00421 0.00234 0.00194
+O2 0.01366 0.01355 0.00944 0.00371 0.00468 0.00623
+O3 0.01594 0.01315 0.01657 0.00707 0.00702 0.00623
+O4 0.01736 0.01435 0.00771 0.01044 0.00702 0.00707
+O5 0.01935 0.01594 0.00867 0.00960 0.00585 0.00762
+O6 0.01907 0.00797 0.00616 0.00657 0.00468 0.00319
+O7 0.01594 0.01555 0.01040 0.00792 0.00585 0.00651
+O8 0.01138 0.01594 0.01541 -0.00101 0.00468 0.00416
+O9 0.01053 0.01594 0.03082 0.00185 0.00000 0.00693
+O10 0.01110 0.02431 0.01541 0.00135 0.00117 0.00693
+O11 0.02248 0.01754 0.00809 0.00640 0.00702 0.00610
+O12 0.01850 0.01674 0.01425 0.01213 0.00351 0.00277

@@ -1,0 +1,91 @@
+data_global
+_chemical_name_mineral 'Sogdianite'
+loop_
+_publ_author_name
+'Cooper M A'
+'Hawthorne F C'
+'Grew E S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 84 
+_journal_year 1999
+_journal_page_first 764
+_journal_page_last 768
+_publ_section_title
+;
+ The crystal chemistry of sogdianite, a milarite-group mineral
+ Note: U(1,2) for Li2 changed to match symmetry constraints
+;
+_database_code_amcsd 0002224
+_chemical_compound_source 'Dara-i-Pioz, Tadjikistan'
+_chemical_formula_sum '(Zr.76 Fe.73 Ti.38 Al.13) Na1.7 K Si12 Li3 O30'
+_cell_length_a 10.053
+_cell_length_b 10.053
+_cell_length_c 14.211
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1243.789
+_exptl_crystal_density_diffrn      2.798
+_symmetry_space_group_name_H-M 'P 6/m c c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,-z'
+  'x-y,x,z'
+  '-y,-x,1/2+z'
+  'y,x,1/2-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'x,x-y,1/2+z'
+  '-x,-x+y,1/2-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,-z'
+  'y,-x+y,z'
+  '-x+y,y,1/2+z'
+  'x-y,-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+ZrA   0.33333   0.66667   0.25000   0.38000
+FeA   0.33333   0.66667   0.25000   0.36500
+TiA   0.33333   0.66667   0.25000   0.19000
+AlA   0.33333   0.66667   0.25000   0.06500
+NaB   0.33333   0.66667   0.01920   0.42500
+KC   0.00000   0.00000   0.25000   1.00000
+Si1   0.11664   0.35485   0.11056   1.00000
+Li2   0.00000   0.50000   0.25000   1.00000
+O1   0.13250   0.39710   0.00000   1.00000
+O2   0.22110   0.27780   0.13506   1.00000
+O3   0.16186   0.50410   0.17134   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+ZrA 0.00360 0.00360 0.00470 0.00180 0.00000 0.00000
+FeA 0.00360 0.00360 0.00470 0.00180 0.00000 0.00000
+TiA 0.00360 0.00360 0.00470 0.00180 0.00000 0.00000
+AlA 0.00360 0.00360 0.00470 0.00180 0.00000 0.00000
+NaB 0.01790 0.01790 0.03950 0.00900 0.00000 0.00000
+KC 0.01870 0.01870 0.02100 0.00930 0.00000 0.00000
+Si1 0.00670 0.00750 0.00660 0.00370 0.00000 -0.00070
+Li2 0.01330 0.01830 0.01320 0.00915 0.00000 0.00000
+O1 0.03020 0.01940 0.00730 0.01200 0.00000 0.00000
+O2 0.01450 0.01870 0.01940 0.01310 -0.00150 -0.00130
+O3 0.01140 0.00990 0.01260 0.00560 -0.00160 -0.00360

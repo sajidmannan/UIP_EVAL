@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Kermesite'
+loop_
+_publ_author_name
+'Kupcik V'
+_journal_name_full 'Naturwissenschaften'
+_journal_volume 54 
+_journal_year 1967
+_journal_page_first 114
+_journal_page_last 114
+_publ_section_title
+;
+ Die kristallstruktur des kermesits, Sb2S2O
+;
+_database_code_amcsd 0014693
+_chemical_formula_sum 'Sb2 S2 O'
+_cell_length_a 20.971
+_cell_length_b 8.16
+_cell_length_c 20.378
+_cell_angle_alpha 90
+_cell_angle_beta 101.5
+_cell_angle_gamma 90
+_cell_volume 3417.146
+_exptl_crystal_density_diffrn      5.033
+_symmetry_space_group_name_H-M 'F 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2+z'
+  '1/2+x,1/2+y,z'
+  '-x,-y,-z'
+  '-x,1/2-y,1/2-z'
+  '1/2-x,-y,1/2-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+SbI   0.10170   0.75030   0.18440   0.01127
+SbI*   0.35170   0.00030   0.18440   0.01127
+SbII   0.09640   0.24850   0.18490   0.01216
+SbII*   0.34640   0.49850   0.18490   0.01216
+SbIII   0.19450   0.00040   0.07270   0.01672
+SbIII*   0.44450   0.25040   0.07270   0.01672
+SbIV   0.19090   0.50220   0.04190   0.01684
+SbIV*   0.44090   0.75220   0.04190   0.01684
+SI   0.19740   0.26040   0.14820   0.01621
+SI*   0.44740   0.51040   0.14820   0.01621
+SII   0.20680   0.74770   0.15530   0.01381
+SII*   0.45680   0.99770   0.15530   0.01381
+SIII   0.07880   0.00310   0.04490   0.01013
+SIII*   0.32880   0.25310   0.04490   0.01013
+SIV   0.07990   0.48870   0.04610   0.01596
+SIV*   0.32990   0.73870   0.04610   0.01596
+OI   0.11760  -0.01720   0.21250   0.02267
+OI*   0.36760   0.23280   0.21250   0.02267
+OII   0.12950   0.47860   0.21560   0.01456
+OII*   0.37950   0.72860   0.21560   0.01456

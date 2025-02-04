@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Natalyite'
+loop_
+_publ_author_name
+'Secco L'
+'Martignago F'
+'Dal Negro A'
+'Reznitskii L Z'
+'Sklyarov E V'
+_journal_name_full 'American Mineralogist'
+_journal_volume 87 
+_journal_year 2002
+_journal_page_first 709
+_journal_page_last 714
+_publ_section_title
+;
+ Crystal chemistry of Cr-V-rich clinopyroxenes
+ Sample 3
+;
+_database_code_amcsd 0002808
+_chemical_formula_sum 'Si1.986 Al.04 Cr.165 V.403 Mg.402 Fe.003 Ti.001 (Ca.418 Na.582) O6'
+_cell_length_a 9.6631
+_cell_length_b 8.8263
+_cell_length_c 5.2709
+_cell_angle_alpha 90
+_cell_angle_beta 106.601
+_cell_angle_gamma 90
+_cell_volume 430.814
+_exptl_crystal_density_diffrn      3.424
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+SiT   0.28940   0.09181   0.23283   0.99300   0.00410
+AlT   0.28940   0.09181   0.23283   0.00700   0.00410
+CrM1   0.00000   0.90538   0.25000   0.16500   0.00506
+VM1   0.00000   0.90538   0.25000   0.40300   0.00506
+MgM1   0.00000   0.90538   0.25000   0.40200   0.00506
+AlM1   0.00000   0.90538   0.25000   0.02600   0.00506
+FeM1   0.00000   0.90538   0.25000   0.00300   0.00506
+TiM1   0.00000   0.90538   0.25000   0.00100   0.00506
+CaM2   0.00000   0.30170   0.25000   0.41800   0.00973
+NaM2   0.00000   0.30170   0.25000   0.58200   0.00973
+O1   0.11481   0.08181   0.14013   1.00000   0.00675
+O2   0.36049   0.25395   0.31026   1.00000   0.00806
+O3   0.35154   0.01331   0.00309   1.00000   0.00694

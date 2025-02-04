@@ -1,0 +1,84 @@
+data_global
+_chemical_name_mineral 'Hrabakite'
+loop_
+_publ_author_name
+'Sejkora J'
+'Skacha P'
+'Plasil J'
+'Dolnicek Z'
+'Ulmanova J'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 85 
+_journal_year 2021
+_journal_page_first 189
+_journal_page_last 196
+_publ_section_title
+;
+ Hrabakite, Ni9PbSbS8, a new member of the hauchecornite group from Pribram,
+ Czech Republic
+;
+_database_code_amcsd 0020959
+_chemical_compound_source 'Pribram, Czech Republic'
+_chemical_formula_sum '(Sb1.039 Pb.961) Ni8.84 Co.08 Fe.08 S8'
+_cell_length_a 7.3085
+_cell_length_b 7.3085
+_cell_length_c 5.3969
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 288.271
+_exptl_crystal_density_diffrn      6.395
+_symmetry_space_group_name_H-M 'P 4/m m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x,-z'
+  '-y,x,z'
+  'x,-y,z'
+  '-x,y,-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'y,x,z'
+  '-y,-x,-z'
+  '-y,x,-z'
+  'y,-x,z'
+  '-x,y,z'
+  'x,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Sb1   0.00000   0.00000   0.00000   0.30200   0.01040
+Pb1   0.00000   0.00000   0.00000   0.69800   0.01040
+Sb2   0.50000   0.50000   0.50000   0.73700   0.01010
+Pb2   0.50000   0.50000   0.50000   0.26300   0.01010
+Ni3   0.00000   0.00000   0.50000   0.92000   0.00800
+Co3   0.00000   0.00000   0.50000   0.08000   0.00800
+Ni4   0.50000   0.81894   0.25308   0.99000   0.01210
+Fe4   0.50000   0.81894   0.25308   0.01000   0.01210
+S1   0.68790   0.00000   0.50000   1.00000   0.00740
+S2   0.27080   0.72920   0.00000   1.00000   0.00980
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb1 0.01090 0.01090 0.00950 0.00000 0.00000 0.00000
+Pb1 0.01090 0.01090 0.00950 0.00000 0.00000 0.00000
+Sb2 0.00930 0.00930 0.01180 0.00000 0.00000 0.00000
+Pb2 0.00930 0.00930 0.01180 0.00000 0.00000 0.00000
+Ni3 0.00680 0.00680 0.01030 0.00000 0.00000 0.00000
+Co3 0.00680 0.00680 0.01030 0.00000 0.00000 0.00000
+Ni4 0.00930 0.01820 0.00900 0.00000 0.00000 -0.00250
+Fe4 0.00930 0.01820 0.00900 0.00000 0.00000 -0.00250
+S1 0.00540 0.00830 0.00860 0.00000 0.00000 0.00000
+S2 0.00950 0.00950 0.01030 -0.00190 0.00000 0.00000

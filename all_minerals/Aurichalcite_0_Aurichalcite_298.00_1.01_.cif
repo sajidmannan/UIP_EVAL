@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Aurichalcite'
+loop_
+_publ_author_name
+'Harding M M'
+'Kariuki B M'
+'Cernik R'
+'Cressey G'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 50 
+_journal_year 1994
+_journal_page_first 673
+_journal_page_last 676
+_publ_section_title
+;
+ The structure of aurichalcite, (Cu,Zn)5(OH)6(CO3)2, determined from
+ a microcrystal
+;
+_database_code_amcsd 0009883
+_chemical_formula_sum 'Cu2 Zn3 (O12 C2) H6'
+_cell_length_a 13.82
+_cell_length_b 6.419
+_cell_length_c 5.29
+_cell_angle_alpha 90
+_cell_angle_beta 101.04
+_cell_angle_gamma 90
+_cell_volume 460.594
+_exptl_crystal_density_diffrn      3.932
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu1   0.23710   0.75000   0.92820   0.50000   0.00900
+Zn1   0.23710   0.75000   0.92820   0.50000   0.00900
+Cu2   0.24780   0.49720   0.42060   0.50000   0.00900
+Zn2   0.24780   0.49720   0.42060   0.50000   0.00900
+Zn3   0.12420   0.25000   0.86550   1.00000   0.00900
+Cu4   0.39130   0.25000   0.88390   0.50000   0.00900
+Zn4   0.39130   0.25000   0.88390   0.50000   0.00900
+O-H1   0.31150   0.75000   0.29900   1.00000   0.00600
+O-H2   0.32820   0.98270   0.76070   1.00000   0.00400
+O-H3   0.18040   0.25000   0.54460   1.00000   0.00700
+O-H4   0.16170   0.00090   0.07110   1.00000   0.01200
+C1   0.44490   0.25000   0.36530   1.00000 ?
+O11   0.35150   0.25000   0.29810   1.00000   0.01800
+O12   0.48630   0.25000   0.60910   1.00000   0.04000
+O13   0.50090   0.25000   0.19640   1.00000   0.01100
+C2   0.05360   0.75000   0.51410   1.00000 ?
+O21   0.15210   0.75000   0.59160   1.00000   0.00800
+O22   0.01830   0.75000   0.27370   1.00000   0.00700
+O23   0.00600   0.75000   0.69900   1.00000   0.02200

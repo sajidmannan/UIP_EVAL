@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Heftetjernite'
+loop_
+_publ_author_name
+'Kolitsch U'
+'Kristiansen R'
+'Raade G'
+'Tillmanns E'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 22 
+_journal_year 2010
+_journal_page_first 309
+_journal_page_last 316
+_publ_section_title
+;
+ Heftetjernite, a new scandium mineral from the Heftetjern pegmatite, Tordal, Norway
+;
+_database_code_amcsd 0007337
+_chemical_compound_source 'the Heftetjern pegmatite, Tordal, Norway'
+_chemical_formula_sum '(Sc.5 Sn.2 Mn.18 Fe.07 Ti.05) (Ta.58 Nb.42) O4'
+_cell_length_a 4.784
+_cell_length_b 5.693
+_cell_length_c 5.120
+_cell_angle_alpha 90
+_cell_angle_beta 91.15
+_cell_angle_gamma 90
+_cell_volume 139.417
+_exptl_crystal_density_diffrn      6.441
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Sc   0.50000   0.67390   0.25000   0.50000   0.00540
+Sn   0.50000   0.67390   0.25000   0.20000   0.00540
+Mn   0.50000   0.67390   0.25000   0.18000   0.00540
+Fe   0.50000   0.67390   0.25000   0.07000   0.00540
+Ti   0.50000   0.67390   0.25000   0.05000   0.00540
+Ta   0.00000   0.17541   0.25000   0.58000   0.00513
+Nb   0.00000   0.17541   0.25000   0.42000   0.00513
+O1   0.21970   0.10760   0.93250   1.00000   0.01010
+O2   0.26440   0.38450   0.40670   1.00000   0.00970
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc 0.00460 0.00650 0.00510 0.00000 0.00044 0.00000
+Sn 0.00460 0.00650 0.00510 0.00000 0.00044 0.00000
+Mn 0.00460 0.00650 0.00510 0.00000 0.00044 0.00000
+Fe 0.00460 0.00650 0.00510 0.00000 0.00044 0.00000
+Ti 0.00460 0.00650 0.00510 0.00000 0.00044 0.00000
+Ta 0.00486 0.00506 0.00546 0.00000 -0.00057 0.00000
+Nb 0.00486 0.00506 0.00546 0.00000 -0.00057 0.00000
+O1 0.01010 0.01010 0.01030 -0.00100 0.00010 -0.00120
+O2 0.00920 0.00990 0.00980 0.00170 -0.00050 0.00000

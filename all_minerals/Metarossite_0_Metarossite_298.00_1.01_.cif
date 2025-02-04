@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Metarossite'
+loop_
+_publ_author_name
+'Kelsey C H'
+'Barnes W H'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 6 
+_journal_year 1960
+_journal_page_first 448
+_journal_page_last 466
+_publ_section_title
+;
+ The crystal structure of metarossite
+;
+_database_code_amcsd 0005077
+_chemical_compound_source 'Thompson's, Utah, USA'
+_chemical_formula_sum 'Ca V2 O8'
+_cell_length_a 6.21
+_cell_length_b 7.06
+_cell_length_c 7.76
+_cell_angle_alpha 92.97
+_cell_angle_beta 96.65
+_cell_angle_gamma 105.78
+_cell_volume 323.957
+_exptl_crystal_density_diffrn      2.767
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.75950   0.46650   0.14700   0.03800
+V1   0.44850   0.10200   0.33600   0.03800
+V2   0.37500   0.58300   0.34500   0.03800
+O1   0.39150   0.84000   0.41700   0.05066
+O2   0.51700   0.39200   0.38350   0.05066
+O3   0.86100   0.75550   0.36550   0.05066
+O4   0.10500   0.47300   0.33450   0.05066
+O5   0.19300   0.06350   0.23500   0.05066
+O6   0.62450   0.11700   0.18700   0.05066
+O7   0.43000   0.60000   0.14600   0.05066
+O8   0.00700   0.72100   0.01300   0.05066

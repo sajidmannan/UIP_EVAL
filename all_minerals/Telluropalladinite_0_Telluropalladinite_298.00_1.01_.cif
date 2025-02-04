@@ -1,0 +1,51 @@
+data_global
+_chemical_name_mineral 'Telluropalladinite'
+loop_
+_publ_author_name
+'Matkovic P'
+'Schubert K'
+_journal_name_full 'Journal of the Less-Common Metals'
+_journal_volume 58 
+_journal_year 1978
+_journal_page_first P39
+_journal_page_last P46
+_publ_section_title
+;
+ Kristallstruktur von Pd9Te4
+;
+_database_code_amcsd 0014141
+_chemical_formula_sum 'Pd9 Te4'
+_cell_length_a 7.458
+_cell_length_b 13.938
+_cell_length_c 8.839
+_cell_angle_alpha 90
+_cell_angle_beta 91.97
+_cell_angle_gamma 90
+_cell_volume 918.267
+_exptl_crystal_density_diffrn     10.620
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pd1   0.20540   0.32300   0.10560   0.01013
+Pd2   0.27460   0.69570   0.17210   0.01140
+Pd3   0.03730   0.06230   0.38450   0.01140
+Pd4   0.11210   0.45220   0.36140   0.01267
+Pd5   0.02720   0.65350   0.39560   0.02280
+Pd6   0.16970   0.86130   0.36090   0.01267
+Pd7   0.34550   0.16960   0.30020   0.01140
+Pd8   0.49890   0.36880   0.30880   0.01140
+Pd9   0.41620   0.56460   0.39110   0.01013
+Te1   0.24500   0.00360   0.14590   0.00760
+Te2   0.30120   0.50660   0.10730   0.00887
+Te3   0.04950   0.26420   0.35810   0.00887
+Te4   0.46300   0.75160   0.43180   0.00633

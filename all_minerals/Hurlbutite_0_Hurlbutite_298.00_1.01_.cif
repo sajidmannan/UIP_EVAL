@@ -1,0 +1,52 @@
+data_global
+_chemical_name_mineral 'Hurlbutite'
+loop_
+_publ_author_name
+'Lindbloom J T'
+'Gibbs G V'
+'Ribbe P H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 59 
+_journal_year 1974
+_journal_page_first 1267
+_journal_page_last 1271
+_publ_section_title
+;
+ The crystal structure of hurlbutite: A comparison with danburite and anorthite
+;
+_database_code_amcsd 0000431
+_chemical_formula_sum 'Ca P2 Be2 O8'
+_cell_length_a 8.299
+_cell_length_b 8.782
+_cell_length_c 7.798
+_cell_angle_alpha 90
+_cell_angle_beta 90.5
+_cell_angle_gamma 90
+_cell_volume 568.311
+_exptl_crystal_density_diffrn      2.899
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.38690   0.08630   0.24400   0.00836
+P1m   0.26260   0.41770   0.43950   0.00912
+Be1o   0.26800   0.42150   0.07070   0.00950
+P2o   0.05880   0.19760  -0.06060   0.00481
+Be2m   0.05660   0.19490   0.56980   0.00912
+O1o   0.19280   0.08880   0.00280   0.00760
+O1m   0.18810   0.07370   0.49650   0.00747
+O2o   0.12240   0.36340  -0.05500   0.00684
+O2m   0.12960   0.36890   0.56300   0.00988
+O3o   0.42150   0.30960   0.06750   0.00912
+O3m   0.40340   0.30650   0.43710   0.00773
+O4   0.49990   0.65530   0.23880   0.00925
+O5   0.18540   0.41990   0.25910   0.00975

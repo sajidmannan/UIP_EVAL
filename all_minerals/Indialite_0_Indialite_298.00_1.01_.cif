@@ -1,0 +1,83 @@
+data_global
+_chemical_name_mineral 'Indialite'
+loop_
+_publ_author_name
+'Daniels P'
+_journal_name_full 'American Mineralogist'
+_journal_volume 77 
+_journal_year 1992
+_journal_page_first 407
+_journal_page_last 411
+_publ_section_title
+;
+ Structural effects of the incorporation of large-radius alkalis in high
+ cordierite
+;
+_database_code_amcsd 0001448
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Mg2 (Al4.281 Si4.719) O18 Cs.281'
+_cell_length_a 9.801
+_cell_length_b 9.801
+_cell_length_c 9.381
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 780.406
+_exptl_crystal_density_diffrn      2.647
+_symmetry_space_group_name_H-M 'P 6/m c c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,-z'
+  'x-y,x,z'
+  '-y,-x,1/2+z'
+  'y,x,1/2-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'x,x-y,1/2+z'
+  '-x,-x+y,1/2-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,-z'
+  'y,-x+y,z'
+  '-x+y,y,1/2+z'
+  'x-y,-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg   0.33333   0.66667   0.25000   1.00000
+Al1   0.50000   0.50000   0.25000   0.92700
+Si1   0.50000   0.50000   0.25000   0.07300
+Al2   0.37350   0.26630   0.00000   0.25000
+Si2   0.37350   0.26630   0.00000   0.75000
+O1   0.48440   0.34890   0.14390   1.00000
+O2   0.22990   0.30700   0.00000   1.00000
+Cs   0.00000   0.00000   0.25000   0.28100
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg 0.01190 0.01190 0.01790 0.00595 0.00000 0.00000
+Al1 0.00960 0.00960 0.01290 0.00480 0.00000 0.00000
+Si1 0.00960 0.00960 0.01290 0.00480 0.00000 0.00000
+Al2 0.01150 0.00920 0.01430 0.00620 0.00000 0.00000
+Si2 0.01150 0.00920 0.01430 0.00620 0.00000 0.00000
+O1 0.01630 0.01320 0.01690 0.00900 -0.00280 -0.00010
+O2 0.01960 0.02320 0.03120 0.01550 0.00000 0.00000
+Cs 0.04060 0.04060 0.05580 0.02030 0.00000 0.00000

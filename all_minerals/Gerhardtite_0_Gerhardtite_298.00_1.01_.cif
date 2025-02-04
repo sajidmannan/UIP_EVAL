@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Gerhardtite'
+loop_
+_publ_author_name
+'Bovio B'
+'Locchi S'
+_journal_name_full 'Journal of Crystallographic and Spectroscopic Research'
+_journal_volume 12 
+_journal_year 1982
+_journal_page_first 507
+_journal_page_last 517
+_publ_section_title
+;
+ Crystal structure of the orthorhombic basic copper nitrate, Cu2(OH)3NO3
+;
+_database_code_amcsd 0013022
+_chemical_compound_source 'Kalabi, Jadotville, Katanga'
+_chemical_formula_sum 'Cu2 O6 N H3'
+_cell_length_a 6.087
+_cell_length_b 13.813
+_cell_length_c 5.597
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 470.594
+_exptl_crystal_density_diffrn      3.389
+_symmetry_space_group_name_H-M 'P 21 21 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.73000   0.24730   0.50090 ?
+Cu2   0.48200   0.25100   0.00830 ?
+O1   0.48910   0.13720   0.68820 ?
+O2   0.62110   0.00400   0.54990 ?
+O3   0.39290   0.00080   0.85920 ?
+N   0.49940   0.04550   0.69490 ?
+O4   0.48680   0.32250   0.38120   0.00684
+O5   0.72600   0.31010   0.82240   0.00532
+O6   0.23800   0.31210   0.82350   0.00215
+H1   0.45630   0.38550   0.43070   0.00684
+H2   0.79250   0.37030   0.79940   0.00532
+H3   0.21250   0.37980   0.81560   0.00215
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.00657 0.01353 0.01047 -0.00043 -0.00017 -0.00235
+Cu2 0.00375 0.01547 0.01127 0.00043 0.00017 -0.00078
+O1 0.00563 0.01160 0.02698 -0.00469 -0.00397 -0.00039
+O2 0.08634 0.03093 0.00508 0.02002 0.01502 0.00313
+O3 0.04993 0.02803 0.01000 -0.00128 0.01208 0.00822
+N 0.01633 0.02223 0.00381 -0.00213 -0.00345 -0.00666

@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Kufahrite'
+loop_
+_publ_author_name
+'Sidorov E G'
+'Kutyrev A V'
+'Zhitova E S'
+'Agakhanov A A'
+'Sandimirova E I'
+'Vymazalova A'
+'Chubarov V M'
+'Zolotarev A A'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 85 
+_journal_year 2021
+_journal_page_first 254
+_journal_page_last 261
+_publ_section_title
+;
+ Kufahrite, PtPb, a new mineral from Ledyanoy Creek placer, Galmoenan ultramafic
+ complex, Koryak Highlands, Russia
+;
+_database_code_amcsd 0020963
+_chemical_compound_source 'Ledyanoy Creek placer, Galmoenan ultramafic complex, Koryak Highlands, Russia'
+_chemical_formula_sum '(Pt.94 Rh.06) Pb.83 Sb.19'
+_cell_length_a 4.2492
+_cell_length_b 4.2492
+_cell_length_c 5.486
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 85.783
+_exptl_crystal_density_diffrn     14.892
+_symmetry_space_group_name_H-M 'P 63/m m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x,-x+y,-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+  'x-y,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Pt   0.33333   0.66667   0.25000   0.94000
+Rh   0.33333   0.66667   0.25000   0.06000
+Pb   0.00000   0.00000   0.00000   0.83000
+Sb   0.00000   0.00000   0.00000   0.19000

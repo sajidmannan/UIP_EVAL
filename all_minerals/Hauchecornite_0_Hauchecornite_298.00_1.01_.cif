@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Hauchecornite'
+loop_
+_publ_author_name
+'Kocman V'
+'Nuffield E W'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 12 
+_journal_year 1974
+_journal_page_first 269
+_journal_page_last 274
+_publ_section_title
+;
+ The crystal structure of antimonian hauchecornite from Westphalia
+;
+_database_code_amcsd 0005099
+_chemical_compound_source 'Westphalia'
+_chemical_formula_sum 'Bi1.3 Sb.7 Ni9 S8'
+_cell_length_a 7.300
+_cell_length_b 7.300
+_cell_length_c 5.402
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 287.873
+_exptl_crystal_density_diffrn      6.585
+_symmetry_space_group_name_H-M 'P 4/m m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x,-z'
+  '-y,x,z'
+  'x,-y,z'
+  '-x,y,-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'y,x,z'
+  '-y,-x,-z'
+  '-y,x,-z'
+  'y,-x,z'
+  '-x,y,z'
+  'x,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Bi   0.00000   0.00000   0.00000   1.00000
+SbM   0.50000   0.50000   0.50000   0.70000
+BiM   0.50000   0.50000   0.50000   0.30000
+Ni1   0.00000   0.00000   0.50000   1.00000
+Ni2   0.18076   0.50000   0.25249   1.00000
+S1   0.31274   0.00000   0.50000   1.00000
+S2   0.26961   0.26961   0.00000   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi 0.01404 0.01404 0.00414 0.00000 0.00000 0.00000
+SbM 0.01215 0.01215 0.00857 0.00000 0.00000 0.00000
+BiM 0.01215 0.01215 0.00857 0.00000 0.00000 0.00000
+Ni1 0.00783 0.00783 0.00665 0.00000 0.00000 0.00000
+Ni2 0.02268 0.01404 0.00754 0.00000 0.00280 0.00000
+S1 0.00729 0.01026 0.00340 0.00000 0.00000 0.00000
+S2 0.00081 0.00891 0.00488 0.00054 0.00000 0.00000

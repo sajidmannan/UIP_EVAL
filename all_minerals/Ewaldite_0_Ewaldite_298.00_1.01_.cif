@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Ewaldite'
+loop_
+_publ_author_name
+'Donnay G'
+'Preston H'
+_journal_name_full 'Tschermaks Mineralogische und Petrographische Mitteilungen'
+_journal_volume 15 
+_journal_year 1971
+_journal_page_first 201
+_journal_page_last 212
+_publ_section_title
+;
+ Ewaldite, a new barium calcium carbonate II. Its crystal structure
+ Note: unlocated carbonate group
+;
+_database_code_amcsd 0015637
+_chemical_formula_sum 'Ba Ca.48 Ce.2 Na.15 K.11 Sr.03 U.02 C O3'
+_cell_length_a 5.284
+_cell_length_b 5.284
+_cell_length_c 12.78
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 309.020
+_exptl_crystal_density_diffrn      2.791
+_symmetry_space_group_name_H-M 'P 63 m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ba   0.33333   0.66667   0.00000   1.00000 ?
+Ca   0.33333   0.66667   0.30500   0.48000 ?
+Ce   0.33333   0.66667   0.30500   0.20000 ?
+Na   0.33333   0.66667   0.30500   0.15000 ?
+K   0.33333   0.66667   0.30500   0.11000 ?
+Sr   0.33333   0.66667   0.30500   0.03000 ?
+U   0.33333   0.66667   0.30500   0.02000 ?
+C   0.00000   0.00000   0.42200   1.00000   0.02913
+O   0.13700  -0.13700   0.42500   1.00000   0.03420
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba 0.02533 0.02533 0.02090 0.01267 0.00000 0.00000
+Ca 0.02558 0.02558 0.03027 0.01279 0.00000 0.00000
+Ce 0.02558 0.02558 0.03027 0.01279 0.00000 0.00000
+Na 0.02558 0.02558 0.03027 0.01279 0.00000 0.00000
+K 0.02558 0.02558 0.03027 0.01279 0.00000 0.00000
+Sr 0.02558 0.02558 0.03027 0.01279 0.00000 0.00000
+U 0.02558 0.02558 0.03027 0.01279 0.00000 0.00000

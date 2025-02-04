@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Caminite'
+loop_
+_publ_author_name
+'Keefer K D'
+'Hochella M F'
+'de Jong B H W S'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 37 
+_journal_year 1981
+_journal_page_first 1003
+_journal_page_last 1006
+_publ_section_title
+;
+ The structure of the magnesium hydroxide sulfate hydrate MgSO4.1/3Mg(OH)2.1/3H2O
+;
+_database_code_amcsd 0018250
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Mg1.333 S O5 H1.333'
+_cell_length_a 5.242
+_cell_length_b 5.242
+_cell_length_c 12.995
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 357.084
+_exptl_crystal_density_diffrn      2.712
+_symmetry_space_group_name_H-M 'I 41/a m d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/4-y,3/4-x,1/4+z'
+  '3/4-y,1/4-x,3/4+z'
+  '1/4+y,3/4+x,1/4-z'
+  '3/4+y,1/4+x,3/4-z'
+  '1/4+y,3/4-x,1/4-z'
+  '3/4+y,1/4-x,3/4-z'
+  '1/4-y,3/4+x,1/4+z'
+  '3/4-y,1/4+x,3/4+z'
+  '1/2+x,-y,1/2+z'
+  '+x,1/2-y,+z'
+  '1/2-x,y,1/2-z'
+  '-x,1/2+y,-z'
+  '1/2+x,y,1/2-z'
+  '+x,1/2+y,-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+  '1/4+y,1/4+x,3/4+z'
+  '3/4+y,3/4+x,1/4+z'
+  '1/4-y,1/4-x,3/4-z'
+  '3/4-y,3/4-x,1/4-z'
+  '1/4-y,1/4+x,3/4-z'
+  '3/4-y,3/4+x,1/4-z'
+  '1/4+y,1/4-x,3/4+z'
+  '3/4+y,3/4-x,1/4+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg   0.00000   0.00000   0.50000   0.66667   0.02330
+S   0.00000   0.75000   0.12500   1.00000   0.01203
+O1   0.00000   0.51950   0.18950   1.00000   0.02140
+O2   0.00000   0.25000   0.37500   1.00000   0.02191
+H   0.00000   0.42000   0.41000   0.33333   0.05066

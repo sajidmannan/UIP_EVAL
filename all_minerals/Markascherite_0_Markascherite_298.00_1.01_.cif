@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Markascherite'
+loop_
+_publ_author_name
+'Yang H'
+'Jenkins R A'
+'Thompson R M'
+'Downs R T'
+'Evans S H'
+'Bloch E M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 97 
+_journal_year 2012
+_journal_page_first 197
+_journal_page_last 202
+_publ_section_title
+;
+ Markascherite, Cu3(MoO4)(OH)4, a new mineral species polymorphic with szenicsite,
+ from Copper Creek, Pinal County, Arizona, U.S.A.
+;
+_database_code_amcsd 0018649
+_chemical_compound_source 'Copper Creek, Pinal County, Arizona, USA'
+_chemical_formula_sum 'Cu3 Mo O8 H8'
+_cell_length_a 9.9904
+_cell_length_b 5.9934
+_cell_length_c 5.5255
+_cell_angle_alpha 90
+_cell_angle_beta 97.428
+_cell_angle_gamma 90
+_cell_volume 328.071
+_exptl_crystal_density_diffrn      4.278
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1  -0.00037   0.25000  -0.00385   0.01030
+Cu2   0.00000   0.50000   0.50000   0.00980
+Cu3   0.50000   0.50000   0.00000   0.01300
+Mo   0.32101   0.25000   0.42366   0.00980
+O1   0.14320   0.25000   0.35330   0.01380
+O2   0.39400   0.25000   0.13650   0.01530
+O3   0.36360   0.01370   0.59750   0.02100
+O-H4   0.10160   0.75000   0.40400   0.01260
+O-H5   0.39220   0.75000   0.08550   0.01590
+O-H6   0.09130   0.50290   0.85140   0.01150
+H1   0.17300   0.75000   0.44000   0.03000
+H2   0.36700   0.75000   0.25000   0.03000
+H3   0.16500   0.51600   0.83700   0.03000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.01610 0.00650 0.00900 0.00000 0.00400 0.00000
+Cu2 0.01390 0.00740 0.00860 -0.00010 0.00390 0.00090
+Cu3 0.01250 0.01140 0.01630 -0.00040 0.00710 0.00020
+Mo 0.00920 0.01070 0.00990 0.00000 0.00220 0.00000
+O1 0.01100 0.01500 0.01500 0.00000 0.00100 0.00000
+O2 0.01400 0.01600 0.01700 0.00000 0.00800 0.00000
+O3 0.02100 0.02000 0.02200 0.00400 0.00000 0.00730
+O-H4 0.01400 0.00900 0.01500 0.00000 0.00100 0.00000
+O-H5 0.01400 0.01800 0.01700 0.00000 0.00700 0.00000
+O-H6 0.01100 0.01100 0.01300 -0.00020 0.00300 0.00110

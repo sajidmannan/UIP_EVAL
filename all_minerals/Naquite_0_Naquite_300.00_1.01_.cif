@@ -1,0 +1,51 @@
+data_global
+_chemical_name_mineral 'Naquite'
+loop_
+_publ_author_name
+'Vocadlo L'
+'Knight K S'
+'Price G D'
+'Wood I G'
+_journal_name_full 'Physics and Chemistry of Minerals'
+_journal_volume 29 
+_journal_year 2002
+_journal_page_first 132
+_journal_page_last 139
+_publ_section_title
+;
+ Thermal expansion and crystal structure of FeSi between 4 and 1173 K
+ determined by time-of-flight neutron powder diffraction
+ Sample: T = 300 K, epsilon FeSi phase
+;
+_database_code_amcsd 0008632
+_chemical_formula_sum 'Fe Si'
+_cell_length_a 4.55070
+_cell_length_b 4.55070
+_cell_length_c 4.55070
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 94.240
+_exptl_crystal_density_diffrn      5.916
+_symmetry_space_group_name_H-M 'P 21 3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-z,-x,1/2+y'
+  '-z,1/2+x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'z,x,y'
+  '1/2+y,1/2-z,-x'
+  '1/2-y,-z,1/2+x'
+  '-y,1/2+z,1/2-x'
+  'y,z,x'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe   0.13652   0.13652   0.13652
+Si  -0.15760  -0.15760  -0.15760

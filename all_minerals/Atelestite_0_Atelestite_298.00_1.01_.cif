@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Atelestite'
+loop_
+_publ_author_name
+'Mereiter K'
+'Preisinger A'
+_journal_name_full 'Anzeiger der Osterreichische Akademie der Wissenschaften'
+_journal_volume 123 
+_journal_year 1986
+_journal_page_first 79
+_journal_page_last 81
+_publ_section_title
+;
+ Kristallstrukturdaten der wismutminerale atelestit, mixit und pucherit
+;
+_database_code_amcsd 0012025
+_chemical_compound_source 'Schneeberg, Saxony, Germany'
+_chemical_formula_sum 'Bi2 As O6 H'
+_cell_length_a 7.000
+_cell_length_b 7.430
+_cell_length_c 10.831
+_cell_angle_alpha 90
+_cell_angle_beta 107.08
+_cell_angle_gamma 90
+_cell_volume 538.475
+_exptl_crystal_density_diffrn      7.276
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Bi1   0.25070   0.41930   0.47330   0.01013
+Bi2   0.40620   0.83750   0.66390   0.01140
+As1   0.13190   0.57090   0.83140   0.00887
+O1   0.50200   0.58400   0.60300   0.01013
+O-H2   0.37900   0.24400   0.64600   0.01267
+O3   0.19400   0.63300   0.69800   0.01520
+O4   0.18500   0.73200   0.94700   0.02153
+O5   0.27000   0.38500   0.88900   0.01646
+O6  -0.11300   0.53200   0.77900   0.01773

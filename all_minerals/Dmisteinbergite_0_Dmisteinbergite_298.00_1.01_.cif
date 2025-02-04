@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Dmisteinbergite'
+loop_
+_publ_author_name
+'Takeuchi Y'
+'Donnay G'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 12 
+_journal_year 1959
+_journal_page_first 465
+_journal_page_last 470
+_publ_section_title
+;
+ The crystal structure of hexagonal CaAl2Si2O8
+;
+_database_code_amcsd 0009229
+_chemical_formula_sum 'Ca (Al2 Si2) O8'
+_cell_length_a 5.10
+_cell_length_b 5.10
+_cell_length_c 14.72
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 331.573
+_exptl_crystal_density_diffrn      2.787
+_symmetry_space_group_name_H-M 'P 63/m c m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,z'
+  'x,x-y,-z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  '-y,-x,1/2+z'
+  'y,x,1/2-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,z'
+  '-x+y,y,-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x,x-y,1/2+z'
+  '-x,-x+y,1/2-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,z'
+  '-y,-x,-z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,1/2+z'
+  'x-y,-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca   0.00000   0.00000   0.00000   1.00000
+Al   0.33333   0.66667   0.13750   0.50000
+Si   0.33333   0.66667   0.13750   0.50000
+O1   0.33333   0.66667   0.25000   1.00000
+O2   0.37000   0.00000   0.10000   1.00000

@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Coronadite'
+loop_
+_publ_author_name
+'Post J E'
+'Bish D L'
+_journal_name_full 'American Mineralogist'
+_journal_volume 74 
+_journal_year 1989
+_journal_page_first 913
+_journal_page_last 917
+_publ_section_title
+;
+ Rietveld refinement of the coronadite structure
+ sample from Morocco
+;
+_database_code_amcsd 0001262
+_chemical_formula_sum 'Mn2 Pb.268 O4'
+_cell_length_a 9.938
+_cell_length_b 2.8678
+_cell_length_c 9.834
+_cell_angle_alpha 90
+_cell_angle_beta 90.39
+_cell_angle_gamma 90
+_cell_volume 280.264
+_exptl_crystal_density_diffrn      5.437
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mn1   0.85200   0.00000   0.33300   1.00000
+Mn2   0.33300   0.00000   0.15600   1.00000
+Pb   0.00000   0.21400   0.00000   0.26800
+O1   0.63700   0.00000   0.29400   1.00000
+O2   0.65700   0.00000   0.05100   1.00000
+O3   0.28400   0.00000   0.32700   1.00000
+O4   0.03400   0.00000   0.32900   1.00000

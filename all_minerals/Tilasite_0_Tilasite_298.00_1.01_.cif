@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Tilasite'
+loop_
+_publ_author_name
+'Bladh K W'
+'Corbett R K'
+'McLean W J'
+'Laughon R B'
+_journal_name_full 'American Mineralogist'
+_journal_volume 57 
+_journal_year 1972
+_journal_page_first 1880
+_journal_page_last 1884
+_publ_section_title
+;
+ The crystal structure of tilasite
+;
+_database_code_amcsd 0000298
+_chemical_formula_sum 'As Ca Mg O4 F'
+_cell_length_a 6.688
+_cell_length_b 8.944
+_cell_length_c 7.570
+_cell_angle_alpha 90
+_cell_angle_beta 121.17
+_cell_angle_gamma 90
+_cell_volume 387.447
+_exptl_crystal_density_diffrn      3.811
+_symmetry_space_group_name_H-M 'C c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+As   0.00000   0.42930   0.25000   0.00532
+Ca   0.48670   0.58170   0.23920   0.00722
+Mg   0.25200   0.74700   0.50000   0.00684
+O1   0.01200   0.31100   0.07600   0.00887
+O2   0.26300   0.96700   0.62600   0.00507
+O3   0.24800   0.53700   0.38200   0.00887
+O4   0.00100   0.31600   0.42200   0.00887
+F   0.50800   0.33300   0.24700   0.00887

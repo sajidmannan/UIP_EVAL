@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Nalipoite'
+loop_
+_publ_author_name
+'Ercit T S'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 29 
+_journal_year 1991
+_journal_page_first 569
+_journal_page_last 573
+_publ_section_title
+;
+ The crystal structure of nalipoite
+;
+_database_code_amcsd 0005274
+_chemical_formula_sum 'Na Li2 P O4'
+_cell_length_a 6.884
+_cell_length_b 9.976
+_cell_length_c 4.927
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 338.361
+_exptl_crystal_density_diffrn      2.588
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,1/2+y,1/2-z'
+  '-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na   0.25000   0.88570   0.76360
+Li   0.50020   0.65410   0.79150
+P   0.25000   0.09802   0.20247
+O1   0.25000   0.11980   0.89110
+O2   0.06680   0.16230   0.32430
+O3   0.25000   0.94540   0.25780
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na 0.01030 0.02490 0.02230 0.00000 0.00000 -0.00790
+Li 0.01210 0.01630 0.01410 -0.00030 -0.00110 -0.00070
+P 0.00610 0.00810 0.00720 0.00000 0.00000 0.00050
+O1 0.01070 0.01510 0.00760 0.00000 0.00000 0.00050
+O2 0.00760 0.01140 0.01100 0.00170 0.00120 0.00030
+O3 0.01170 0.00790 0.01400 0.00000 0.00000 0.00090

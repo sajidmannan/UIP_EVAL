@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Paulmooreite'
+loop_
+_publ_author_name
+'Araki T'
+'Moore P B'
+'Brunton G D'
+_journal_name_full 'American Mineralogist'
+_journal_volume 65 
+_journal_year 1980
+_journal_page_first 340
+_journal_page_last 345
+_publ_section_title
+;
+ The crystal structure of paulmooreite, Pb2[As2O5]: dimeric arsenite groups
+;
+_database_code_amcsd 0000778
+_chemical_formula_sum 'Pb2 As2 O5'
+_cell_length_a 13.584
+_cell_length_b 5.650
+_cell_length_c 8.551
+_cell_angle_alpha 90
+_cell_angle_beta 108.78
+_cell_angle_gamma 90
+_cell_volume 621.346
+_exptl_crystal_density_diffrn      6.887
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb1   0.87944   0.34777   0.85850
+Pb2   0.19928   0.65316   0.65005
+As1   0.93649   0.87122   0.61423
+As2   0.12882   0.12912   0.88433
+O1   0.84880   0.66980   0.65180
+O2   0.86420   0.12380   0.62270
+O3   0.03160   0.89040   0.82090
+O4   0.20600   0.05300   0.75970
+O5   0.19990   0.99900   0.06980
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.01760 0.02269 0.01733 -0.00103 0.00359 -0.00171
+Pb2 0.01693 0.02170 0.02022 -0.00166 0.00538 0.00144
+As1 0.01533 0.01950 0.01727 -0.00052 0.00628 0.00132
+As2 0.01559 0.02077 0.01826 0.00191 0.00649 -0.00056
+O1 0.01852 0.01933 0.02939 -0.00261 0.00818 -0.00278
+O2 0.01726 0.02098 0.02015 0.00335 0.00459 -0.00229
+O3 0.01617 0.04224 0.01969 -0.01535 0.00116 0.00366
+O4 0.01760 0.02911 0.02660 -0.00243 0.01524 -0.00266
+O5 0.02472 0.03217 0.01441 -0.00600 0.00074 0.00067

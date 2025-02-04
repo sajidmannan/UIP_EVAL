@@ -1,0 +1,42 @@
+data_global
+_chemical_name_mineral 'Proustite'
+loop_
+_publ_author_name
+'Hocart R'
+_journal_name_full 'Comptes Rendus Hebdomadaires des Seances de l'Academie des Sciences'
+_journal_volume 205 
+_journal_year 1937
+_journal_page_first 68
+_journal_page_last 70
+_publ_section_title
+;
+ Schema structural de la proustite et de la pyrargyrite.
+ _cod_database_code 1011213
+;
+_database_code_amcsd 0018082
+_chemical_formula_sum 'As Ag3 S3'
+_cell_length_a 6.88
+_cell_length_b 6.88
+_cell_length_c 6.88
+_cell_angle_alpha 103.42
+_cell_angle_beta 103.42
+_cell_angle_gamma 103.42
+_cell_volume 293.710
+_exptl_crystal_density_diffrn      5.594
+_symmetry_space_group_name_H-M 'R 3 c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+z,1/2+y'
+  'z,x,y'
+  '1/2+y,1/2+x,1/2+z'
+  'y,z,x'
+  '1/2+z,1/2+y,1/2+x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+As1   0.08520   0.08520   0.08520
+Ag1   0.63300   0.50000   0.00000
+S1   0.80600   0.19400   0.00000

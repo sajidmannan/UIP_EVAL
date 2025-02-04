@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Uklonskovite'
+loop_
+_publ_author_name
+'Sabelli C'
+_journal_name_full 'Bulletin de Mineralogie'
+_journal_volume 108 
+_journal_year 1985
+_journal_page_first 133
+_journal_page_last 138
+_publ_section_title
+;
+ Uklonskovite, NaMg(SO4)F*2H2O: new mineralogical data and structure refinement
+;
+_database_code_amcsd 0012084
+_chemical_compound_source 'Cetine mine, Tuscany, Italy'
+_chemical_formula_sum 'Na Mg S O6 F H4'
+_cell_length_a 7.202
+_cell_length_b 7.214
+_cell_length_c 5.734
+_cell_angle_alpha 90
+_cell_angle_beta 113.23
+_cell_angle_gamma 90
+_cell_volume 273.759
+_exptl_crystal_density_diffrn      2.407
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Na   0.19600   0.25000   0.63210   0.02356
+Mg   0.00000   0.00000   0.00000   0.00988
+S   0.30690   0.75000   0.85350   0.00899
+O1   0.17630   0.58390   0.80130   0.01672
+O2   0.40670   0.75000   0.66920   0.01343
+O3   0.45720   0.75000   0.11210   0.02102
+F1   0.02070   0.25000   0.88520   0.01305
+O4w   0.25760   0.45660   0.32910   0.01418
+H1   0.34600   0.41800   0.29500   0.04433
+H2   0.29600   0.54500   0.40800   0.04433
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na 0.02285 0.03137 0.02152 0.00000 0.01413 0.00000
+Mg 0.01132 0.00844 0.01111 -0.00024 0.00565 0.00019
+S 0.00932 0.00923 0.01027 0.00000 0.00583 0.00000
+O1 0.01953 0.01476 0.02110 -0.00750 0.01378 -0.00481
+O2 0.01487 0.01186 0.01800 0.00000 0.01148 0.00000
+O3 0.01531 0.03137 0.01210 0.00000 0.00106 0.00000
+F1 0.01642 0.00817 0.01646 0.00000 0.00848 0.00000
+O4w 0.01287 0.01424 0.01491 0.00121 0.00477 -0.00250

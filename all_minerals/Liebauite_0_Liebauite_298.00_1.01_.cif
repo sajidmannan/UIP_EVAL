@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Liebauite'
+loop_
+_publ_author_name
+'Zoller M H'
+'Tillmanns E'
+'Hentschel G'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 200 
+_journal_year 1992
+_journal_page_first 115
+_journal_page_last 126
+_publ_section_title
+;
+ Liebauite, Ca3Cu5Si9O26: A new silicate mineral with 14er single chain
+;
+_database_code_amcsd 0011017
+_chemical_compound_source 'Sattelberg scoria cone, Kruft, Eifel district, Germany'
+_chemical_formula_sum 'Ca3 Cu5 Si9 O26'
+_cell_length_a 10.160
+_cell_length_b 10.001
+_cell_length_c 19.9730
+_cell_angle_alpha 90
+_cell_angle_beta 91.56
+_cell_angle_gamma 90
+_cell_volume 2028.708
+_exptl_crystal_density_diffrn      3.623
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.50000   0.22510   0.25000   0.00367
+Ca2   0.97250   0.26410   0.42970   0.00608
+Cu1   0.25000   0.25000   0.50000   0.00773
+Cu2   0.23120   0.25810   0.33910   0.00760
+Cu3   0.97040   0.01050   0.32840   0.00709
+Si1   0.99670   0.75450   0.41170   0.00532
+Si2   0.19870   0.54510   0.40660   0.00570
+Si3   0.22750   0.53480   0.69600   0.00709
+Si4   0.00000   0.72000   0.75000   0.00595
+Si5   0.28540   0.53480   0.55110   0.00317
+O1   0.09020   0.64690   0.37210   0.01077
+O2   0.91350   0.82930   0.35260   0.00621
+O3   0.95830   0.80670   0.68420   0.00304
+O4   0.91410   0.68540   0.46720   0.00950
+O5   0.18860   0.38300   0.70890   0.00697
+O6   0.15700   0.39190   0.39540   0.00823
+O7   0.37860   0.57160   0.71610   0.00836
+O8   0.18890   0.57680   0.48820   0.00304
+O9   0.19570   0.57690   0.61590   0.00646
+O10   0.12860   0.62770   0.73860   0.00747
+O11   0.34200   0.38610   0.55470   0.00481
+O12   0.59470   0.35960   0.45160   0.00887
+O13   0.15720   0.08970   0.11510   0.01140

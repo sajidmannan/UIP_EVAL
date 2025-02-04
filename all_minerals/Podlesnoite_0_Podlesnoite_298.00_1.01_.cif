@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Podlesnoite'
+loop_
+_publ_author_name
+'Zubkova N V'
+'Pushcharovsky D Y'
+'Pekov I V'
+'Rabadanov M K'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 222 
+_journal_year 2007
+_journal_page_first 474
+_journal_page_last 476
+_publ_section_title
+;
+ The crystal structure of podlesnoite, BaCa2(CO3)2F2
+;
+_database_code_amcsd 0011129
+_chemical_compound_source 'Kirovskii mine, Khibiny alkaline massif, Kola Peninsula, Russia'
+_chemical_formula_sum 'Ba Ca2 C2 O6 F2'
+_cell_length_a 12.501
+_cell_length_b 5.846
+_cell_length_c 9.443
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 690.102
+_exptl_crystal_density_diffrn      3.614
+_symmetry_space_group_name_H-M 'C m c m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,y,z'
+  '1/2-x,1/2+y,z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,-z'
+  'x,y,1/2-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ba   0.00000   0.00127   0.75000   0.01131
+Ca   0.14634   0.50000   0.50000   0.00889
+C   0.24680   0.34420   0.25000   0.01050
+O1   0.29746   0.34030   0.36728   0.01440
+O2   0.14362   0.36560   0.25000   0.01480
+F   0.00000   0.26420   0.50590   0.01450

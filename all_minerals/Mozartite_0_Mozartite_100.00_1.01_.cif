@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Mozartite'
+loop_
+_publ_author_name
+'Nyfeler D'
+'Hoffmann C'
+'Armbruster T'
+'Kunz M'
+'Libowitzky E'
+_journal_name_full 'American Mineralogist'
+_journal_volume 82 
+_journal_year 1997
+_journal_page_first 841
+_journal_page_last 848
+_publ_section_title
+;
+ Orthorhombic Jahn-Teller distortion and Si-OH in mozartite, CaMnO[SiO3OH]: A
+ single-crystal X-ray, FTIR, and structure modeling study
+ Sample: at T = 100 K
+;
+_database_code_amcsd 0001931
+_chemical_formula_sum 'Ca Mn Si H O5'
+_cell_length_a 5.837
+_cell_length_b 7.211
+_cell_length_c 8.693
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 365.894
+_exptl_crystal_density_diffrn      3.705
+_symmetry_space_group_name_H-M 'P 21 21 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.02238   0.37501   0.67430 ?
+Mn   0.74729   0.25758  -0.00353 ?
+Si   0.51040   0.63076   0.81680 ?
+H   0.03000   0.58300   0.03300   0.04000
+O1   0.48940   0.45360   0.93380 ?
+O2   0.07410   0.70060   0.06190 ?
+O3   0.27080   0.65780   0.72200 ?
+O4   0.73790   0.62170   0.70670 ?
+O5   0.00320   0.39510  -0.06010 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00400 0.00350 0.00340 0.00010 0.00020 0.00080
+Mn 0.00218 0.00282 0.00300 -0.00030 0.00040 -0.00010
+Si 0.00230 0.00270 0.00260 -0.00060 -0.00020 0.00050
+O1 0.00330 0.00400 0.00380 0.00050 0.00020 0.00010
+O2 0.00610 0.00340 0.00510 -0.00020 -0.00090 -0.00150
+O3 0.00250 0.00420 0.00340 0.00080 -0.00020 0.00080
+O4 0.00360 0.00560 0.00340 0.00110 0.00010 0.00060
+O5 0.00310 0.00380 0.00470 -0.00040 -0.00080 0.00030

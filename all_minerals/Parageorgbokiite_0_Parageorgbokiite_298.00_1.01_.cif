@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Parageorgbokiite'
+loop_
+_publ_author_name
+'Krivovichev S V'
+'Filatov S K'
+'Burns P C'
+'Vergasova L P'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 45 
+_journal_year 2007
+_journal_page_first 929
+_journal_page_last 934
+_publ_section_title
+;
+ The crystal structure of parageorgbokiite, B-Cu5O2(SeO3)2Cl2
+;
+_database_code_amcsd 0006151
+_chemical_compound_source 'Great Fissure Tolbachik eruption, Kamchatka Peninsula, Russia'
+_chemical_formula_sum 'Cu5 Se2 Cl2 O8'
+_cell_length_a 5.3982
+_cell_length_b 8.0543
+_cell_length_c 11.1277
+_cell_angle_alpha 90
+_cell_angle_beta 99.258
+_cell_angle_gamma 90
+_cell_volume 477.516
+_exptl_crystal_density_diffrn      4.691
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.52244   0.20949   0.38388   0.01360
+Cu2   0.00000   0.50000   0.50000   0.01260
+Cu3   0.47613   0.57640   0.38012   0.01160
+Se   0.13167   0.90880   0.28438   0.01080
+Cl   0.72210   0.85130   0.47423   0.01970
+O1   0.67240   0.39800   0.47290   0.01080
+O2   0.34640   0.05840   0.25990   0.01530
+O3   0.28460   0.73240   0.25110   0.01350
+O4  -0.08340   0.93110   0.15900   0.01510
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.01630 0.01450 0.01080 -0.00390 0.00440 -0.00290
+Cu2 0.00960 0.01740 0.01070 -0.00250 0.00200 -0.00100
+Cu3 0.01280 0.01330 0.00940 0.00218 0.00340 0.00120
+Se 0.01170 0.01230 0.00900 -0.00031 0.00330 0.00030
+Cl 0.02150 0.02440 0.01490 -0.00570 0.00760 -0.00160
+O1 0.01020 0.01380 0.00880 -0.00100 0.00300 -0.00050
+O2 0.01840 0.01750 0.01140 -0.00890 0.00630 -0.00450
+O3 0.01710 0.01250 0.01140 0.00510 0.00350 0.00470
+O4 0.01190 0.02210 0.01180 0.00060 0.00360 0.00510

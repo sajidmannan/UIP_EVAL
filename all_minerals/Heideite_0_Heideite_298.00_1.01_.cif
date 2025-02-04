@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Heideite'
+loop_
+_publ_author_name
+'Takahashi T'
+'Yamada O'
+_journal_name_full 'Journal of Solid State Chemistry'
+_journal_volume 7 
+_journal_year 1973
+_journal_page_first 25
+_journal_page_last 30
+_publ_section_title
+;
+ Crystallographic and magnetic properties of the Cd(OH)2
+ layer structure compound TiS2 containing extra iron
+;
+_database_code_amcsd 0013313
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Fe Ti2 S4'
+_cell_length_a 5.953
+_cell_length_b 3.437
+_cell_length_c 11.948
+_cell_angle_alpha 90
+_cell_angle_beta 90.10
+_cell_angle_gamma 90
+_cell_volume 244.461
+_exptl_crystal_density_diffrn      3.802
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe   0.00000   0.00000   0.00000
+Ti   0.00000   0.00000   0.25000
+S1   0.33333   0.00000   0.37500
+S2   0.33333   0.00000   0.87500

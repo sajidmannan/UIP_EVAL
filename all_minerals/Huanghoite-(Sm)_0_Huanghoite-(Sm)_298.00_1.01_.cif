@@ -1,0 +1,96 @@
+data_global
+_chemical_name_mineral 'Huanghoite-(Sm)'
+loop_
+_publ_author_name
+'Mercier N'
+'Leblanc M'
+_journal_name_full 'European Journal of Solid State and Inorganic Chemistry'
+_journal_volume 30 
+_journal_year 1993
+_journal_page_first 195
+_journal_page_last 205
+_publ_section_title
+;
+ Crystal growth and structures of rare earth fluorocarbonates: I.
+ Structures of BaSm(CO3)2F and Ba3La2(CO3)5F2: revision of the
+ corresponding huanghoite and cebaite type structures
+ _cod_database_code 1000470
+;
+_database_code_amcsd 0012564
+_chemical_formula_sum 'Sm Ba F O6 C2'
+_cell_length_a 5.016
+_cell_length_b 5.016
+_cell_length_c 37.94398
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 826.777
+_exptl_crystal_density_diffrn      5.142
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  'y,x,-z'
+  '2/3+y,1/3+x,1/3-z'
+  '1/3+y,2/3+x,2/3-z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-x,-x+y,-z'
+  '2/3-x,1/3-x+y,1/3-z'
+  '1/3-x,2/3-x+y,2/3-z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  'x-y,-y,-z'
+  '2/3+x-y,1/3-y,1/3-z'
+  '1/3+x-y,2/3-y,2/3-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sm1   0.00000   0.00000   0.74500
+Ba1   0.00000   0.00000   0.50000
+Ba2   0.00000   0.00000   0.00000
+F1   0.00000   0.00000   0.68510
+O1   0.18610   0.81390   0.06080
+O2   0.14790   0.85210   0.87340
+C1   0.00000   0.00000   0.39340
+C2   0.00000   0.00000   0.12560
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sm1 0.00580 0.00580 0.00650 0.00290 0.00000 0.00000
+Ba1 0.00840 0.00840 0.00930 0.00420 0.00000 0.00000
+Ba2 0.01290 0.01290 0.00660 0.00650 0.00000 0.00000
+F1 0.01050 0.01050 0.01460 0.00750 0.00040 -0.00040
+O1 0.02200 0.02200 0.00720 0.01100 0.00000 0.00000
+O2 0.01480 0.01480 0.01270 0.01110 -0.00030 0.00030
+C1 0.00750 0.00750 0.00720 0.00380 0.00000 0.00000
+C2 0.00770 0.00770 0.00810 0.00380 0.00000 0.00000

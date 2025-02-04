@@ -1,0 +1,49 @@
+data_global
+_chemical_name_mineral 'Portlandite'
+loop_
+_publ_author_name
+'Henderson D M'
+'Gutowsky H S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 47 
+_journal_year 1962
+_journal_page_first 1231
+_journal_page_last 1251
+_publ_section_title
+;
+ A nuclear magnetic resonance determination of the hydrogen positions in Ca(OH)2
+ T = -190 C
+;
+_database_code_amcsd 0000116
+_chemical_formula_sum 'Ca O2 H2'
+_cell_length_a 3.585
+_cell_length_b 3.585
+_cell_length_c 4.871
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 54.216
+_exptl_crystal_density_diffrn      2.269
+_symmetry_space_group_name_H-M 'P -3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,-x+y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+  '-x,-y,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  'x-y,x,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca   0.00000   0.00000   0.00000
+O   0.33333   0.66667   0.23300
+H   0.33333   0.66667   0.43700

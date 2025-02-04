@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Melliniite'
+loop_
+_publ_author_name
+'Pratesi G'
+'Bindi L'
+'Moggi-Cecchi V'
+_journal_name_full 'American Mineralogist'
+_journal_volume 91 
+_journal_year 2006
+_journal_page_first 451
+_journal_page_last 454
+_publ_section_title
+;
+ Icosahedral coordination of phosphorus in the crystal structure of melliniite,
+ a new phosphide mineral from the Northwest Africa 1054 acapulcoite
+;
+_database_code_amcsd 0004124
+_chemical_formula_sum '(Ni2.32 Fe1.68) P'
+_cell_length_a 6.025
+_cell_length_b 6.025
+_cell_length_c 6.025
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 218.711
+_exptl_crystal_density_diffrn      7.925
+_symmetry_space_group_name_H-M 'P 21 3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-z,-x,1/2+y'
+  '-z,1/2+x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'z,x,y'
+  '1/2+y,1/2-z,-x'
+  '1/2-y,-z,1/2+x'
+  '-y,1/2+z,1/2-x'
+  'y,z,x'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ni1   0.11684   0.20686   0.45493   0.58000   0.02900
+Fe1   0.11684   0.20686   0.45493   0.42000   0.02900
+Ni2   0.68030   0.68030   0.68030   0.58000   0.02610
+Fe2   0.68030   0.68030   0.68030   0.42000   0.02610
+P   0.06220   0.06220   0.06220   1.00000   0.02420
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ni1 0.02950 0.02890 0.02860 0.00010 -0.00020 0.00010
+Fe1 0.02950 0.02890 0.02860 0.00010 -0.00020 0.00010
+Ni2 0.02610 0.02610 0.02610 0.00040 0.00040 0.00040
+Fe2 0.02610 0.02610 0.02610 0.00040 0.00040 0.00040
+P 0.02420 0.02420 0.02420 -0.00030 -0.00030 -0.00030

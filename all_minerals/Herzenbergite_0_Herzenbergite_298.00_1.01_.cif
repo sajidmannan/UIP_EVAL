@@ -1,0 +1,43 @@
+data_global
+_chemical_name_mineral 'Herzenbergite'
+loop_
+_publ_author_name
+'Hofmann W'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 92 
+_journal_year 1935
+_journal_page_first 161
+_journal_page_last 173
+_publ_section_title
+;
+ Ergebnisse der Strukturbestimmung komplexer Sulfide. I: SnS und PbSnS2
+ _cod_database_code 1011253
+;
+_database_code_amcsd 0018115
+_chemical_formula_sum 'Sn S'
+_cell_length_a 3.98
+_cell_length_b 4.33
+_cell_length_c 11.18
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 192.669
+_exptl_crystal_density_diffrn      5.198
+_symmetry_space_group_name_H-M 'P m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sn1   0.25000   0.11500   0.11800
+S1   0.75000   0.52200   0.15000

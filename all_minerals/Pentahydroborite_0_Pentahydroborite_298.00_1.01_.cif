@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Pentahydroborite'
+loop_
+_publ_author_name
+'Kazanskaya E V'
+'Chemodina T N'
+'Egorov-Tismenko Y K'
+'Simonov M A'
+'Belov N V'
+_journal_name_full 'Soviet Physics Crystallography'
+_journal_volume 22 
+_journal_year 1977
+_journal_page_first 35
+_journal_page_last 36
+_publ_section_title
+;
+ Refined crystal structure of pentahydroborite Ca(B2O(OH)6)*(H2O)2
+;
+_database_code_amcsd 0015573
+_chemical_formula_sum 'Ca B2 O9 H10'
+_cell_length_a 7.845
+_cell_length_b 6.525
+_cell_length_c 8.124
+_cell_angle_alpha 111.62
+_cell_angle_beta 111.19
+_cell_angle_gamma 73.44
+_cell_volume 354.887
+_exptl_crystal_density_diffrn      2.019
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.00030   0.40340   0.23460 ?
+B1   0.68100   0.37700   0.84700 ?
+B2   0.00300   0.15300   0.79800 ?
+O4   0.85430   0.35020   0.80840 ?
+O1   0.05890   0.06550   0.30950 ?
+O2   0.11550   0.14300   0.98540 ?
+O3   0.11430   0.20100   0.70370 ?
+O5   0.71800   0.29890   0.00880 ?
+O6   0.53780   0.25930   0.68730 ?
+O7   0.40500   0.37980   0.11640 ?
+O8   0.79250   0.49120   0.44490 ?
+O9   0.59000   0.13990   0.35300 ?
+H1   0.08900   0.07800   0.43600   0.10132
+H2   0.16600   0.02200   0.98900   0.15198
+H3   0.76400   0.90400   0.28200   0.21531
+H4   0.61400   0.27400   0.05300   0.10132
+H5   0.75600   0.35500   0.42100   0.11399
+H6   0.70000   0.60300   0.40000   0.11399
+H7   0.31100   0.32400   0.05300   0.06333
+H8   0.47000   0.87300   0.30100   0.10132
+H9   0.56700   0.18600   0.47700   0.06333
+H10   0.53000   0.23900   0.27700   0.05066
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01406 0.00773 0.01039 -0.00215 0.00405 0.00291
+B1 0.01140 0.01140 0.01140 -0.00253 0.00127 0.00000
+B2 0.01267 0.01140 0.00760 -0.00253 0.00127 0.00000
+O4 0.01267 0.01013 0.02280 0.00127 0.00633 0.00633
+O1 0.01773 0.01013 0.01773 0.00025 0.00127 0.00633
+O2 0.01647 0.01773 0.01267 -0.00380 0.00127 0.00633
+O3 0.01520 0.01646 0.01773 -0.00507 0.00633 0.00507
+O5 0.01520 0.01646 0.01013 0.00380 0.00127 0.00760
+O6 0.01140 0.01900 0.01393 -0.00253 0.00000 0.00253
+O7 0.01013 0.01266 0.02280 0.00253 0.00507 0.00507
+O8 0.01140 0.02153 0.01520 -0.00253 0.00000 0.00633
+O9 0.02913 0.02406 0.02660 0.00253 0.01013 0.01013

@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Heteromorphite'
+loop_
+_publ_author_name
+'Edenharter A'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 151 
+_journal_year 1980
+_journal_page_first 193
+_journal_page_last 202
+_publ_section_title
+;
+ Die kristallstruktur von heteromorphit, Pb7Sb8S19
+;
+_database_code_amcsd 0010822
+_chemical_formula_sum 'Pb7 Sb8 S19'
+_cell_length_a 13.628
+_cell_length_b 11.943
+_cell_length_c 21.285
+_cell_angle_alpha 90
+_cell_angle_beta 90.92
+_cell_angle_gamma 90
+_cell_volume 3463.883
+_exptl_crystal_density_diffrn      5.817
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.50000   0.00300   0.25000 ?
+Pb2   0.35040   0.27860   0.42620 ?
+Pb3   0.08080   0.17400   0.37050 ?
+Pb4   0.19640   0.06980   0.18740 ?
+Sbl   0.37560   0.39530   0.00780 ?
+Sb2   0.39160  -0.00840   0.05520 ?
+Sb3   0.15330   0.38250   0.10440 ?
+Sb4   0.41530   0.31180   0.17780 ?
+S1   0.50000   0.45120   0.25000   0.02052
+S2   0.17810   0.38900   0.35920   0.02090
+S3   0.08140   0.27200   0.18990   0.02698
+S4   0.22770   0.10710   0.47510   0.01646
+S5   0.28700   0.45600   0.17770   0.01469
+S6   0.28240   0.16640   0.08160   0.02482
+S7   0.35100   0.18700   0.25330   0.02596
+S8   0.04220  -0.00080   0.08440   0.02280
+S9   0.01020   0.27570   0.47400   0.02508
+S10   0.45320   0.04370   0.37830   0.02634
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.04327 0.03107 0.02983 0.00000 0.04701 0.00000
+Pb2 0.03951 0.03324 0.06654 0.00412 0.02791 -0.01288
+Pb3 0.03857 0.03179 0.05048 -0.00165 0.02351 0.00386
+Pb4 0.03104 0.02601 0.02295 0.00495 0.03232 0.00000
+Sbl 0.01975 0.01517 0.01836 0.00000 0.02791 0.00386
+Sb2 0.02634 0.02890 0.02295 -0.00660 0.03379 0.00515
+Sb3 0.02446 0.02240 0.01377 0.00412 0.02791 -0.00258
+Sb4 0.02258 0.02096 0.01377 -0.00082 0.02204 -0.00644

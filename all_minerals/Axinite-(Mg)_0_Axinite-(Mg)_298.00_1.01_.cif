@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Axinite-(Mg)'
+loop_
+_publ_author_name
+'Andreozzi G B'
+'Lucchesi S'
+'Graziani G'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 12 
+_journal_year 2000
+_journal_page_first 1185
+_journal_page_last 1194
+_publ_section_title
+;
+ Structural study of magnesioaxinite and its crystal-chemical relations
+ with axinite-group minerals
+;
+_database_code_amcsd 0006850
+_chemical_formula_sum 'Si4 B Al2 Mg.96 Mn.035 V.015 Cr.005 Ca1.975 O16 H.95'
+_cell_length_a 7.1381
+_cell_length_b 9.1626
+_cell_length_c 8.9421
+_cell_angle_alpha 91.903
+_cell_angle_beta 98.105
+_cell_angle_gamma 77.468
+_cell_volume 565.206
+_exptl_crystal_density_diffrn      3.170
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Si1   0.21090   0.44980   0.23102   1.00000   0.00400
+Si2   0.21846   0.27405   0.52188   1.00000   0.00330
+Si3   0.69967   0.25808   0.01122   1.00000   0.00410
+Si4   0.64224   0.01769   0.23078   1.00000   0.00370
+B   0.46270   0.63470   0.28590   1.00000   0.00490
+Al1   0.05319   0.79946   0.25516   1.00000   0.00370
+Al2   0.35128   0.93645   0.42062   1.00000   0.00400
+Mg   0.76596   0.59547   0.11837   0.96000   0.00710
+Mn   0.76596   0.59547   0.11837   0.02000   0.00710
+V   0.76596   0.59547   0.11837   0.01500   0.00710
+Cr   0.76596   0.59547   0.11837   0.00500   0.00710
+Ca1   0.74552   0.34737   0.39304   1.00000   0.00740
+Ca2   0.18237   0.10280   0.08373   0.97500   0.00820
+Mn2   0.18237   0.10280   0.08373   0.01500   0.00820
+O1   0.05080   0.60240   0.19240   1.00000   0.00520
+O2   0.23420   0.34280   0.08930   1.00000   0.00690
+O3   0.41900   0.48670   0.31150   1.00000   0.00530
+O4   0.13870   0.36740   0.36550   1.00000   0.00910
+O5   0.02070   0.24180   0.56180   1.00000   0.00510
+O6   0.32290   0.38020   0.64620   1.00000   0.00500
+O7   0.38170   0.12680   0.49680   1.00000   0.00470
+O8   0.53330   0.34220   0.87670   1.00000   0.00500
+O9   0.87730   0.15630   0.93280   1.00000   0.00500
+O10   0.76860   0.37270   0.13550   1.00000   0.00710
+O11   0.60910   0.13400   0.08880   1.00000   0.00850
+O12   0.43470   0.98250   0.24300   1.00000   0.00490
+O13   0.72200   0.09860   0.38470   1.00000   0.00480
+O14   0.79290   0.86950   0.17870   1.00000   0.00610
+O15   0.32550   0.74580   0.35500   1.00000   0.00410
+O16   0.09580   0.99550   0.32170   1.00000   0.00470
+H   0.98900   0.96100   0.61900   0.95000   0.00700

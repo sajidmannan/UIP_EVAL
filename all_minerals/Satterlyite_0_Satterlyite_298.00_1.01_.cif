@@ -1,0 +1,86 @@
+data_global
+_chemical_name_mineral 'Satterlyite'
+loop_
+_publ_author_name
+'Kolitsch U'
+'Andrut M'
+'Giester G'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 14 
+_journal_year 2002
+_journal_page_first 127
+_journal_page_last 133
+_publ_section_title
+;
+ Satterlyite, (Fe,Mg)12(PO3OH)(PO4)5(OH,O)6: crystal structure
+ and infrared absorption spectra
+ Note: z-coordinate of O6 altered by author, August 2003.
+;
+_database_code_amcsd 0006926
+_chemical_formula_sum '(Fe1.544 Mg.456) P O5 H'
+_cell_length_a 11.355
+_cell_length_b 11.355
+_cell_length_c 5.0394
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 562.709
+_exptl_crystal_density_diffrn      3.706
+_symmetry_space_group_name_H-M 'P 3 1 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x-y,-y,z'
+  '-y,x-y,z'
+  'y,x,z'
+  '-x+y,-x,z'
+  '-x,-x+y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+FeM1   0.32918   0.85077   0.01101   0.83800   0.01032
+MgM1   0.32918   0.85077   0.01101   0.16200   0.01032
+FeM2   0.17508   0.85376   0.50440   0.70600   0.00870
+MgM2   0.17508   0.85376   0.50440   0.29400   0.00870
+P1   0.00000   0.00000   0.27825   1.00000   0.00745
+P2   0.33333   0.66667   0.52733   1.00000   0.00671
+P3   0.34138   0.34138   0.97775   1.00000   0.00676
+O1   0.87239   0.87239   0.36970   1.00000   0.01920
+O2   0.27631   0.75462   0.63550   1.00000   0.01207
+O3   0.26833   0.26833   0.72030   1.00000   0.01190
+O4   0.12718   0.75025   0.14270   1.00000   0.01200
+O5   0.47330   0.47330   0.90510   1.00000   0.01340
+O6   0.33333   0.66667   0.21870   1.00000   0.01620
+O-h1   0.62619   0.62619   0.32500   1.00000   0.01120
+O-h2   0.72336   0.72336   0.81620   1.00000   0.01160
+O-h3   0.00000   0.00000  -0.03050   1.00000   0.03970
+H1   0.56300   0.56300   0.41600   1.00000   0.02400
+H2   0.80500   0.80500   0.90400   1.00000   0.02100
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+FeM1 0.00807 0.01038 0.00916 0.00211 0.00059 -0.00229
+MgM1 0.00807 0.01038 0.00916 0.00211 0.00059 -0.00229
+FeM2 0.00898 0.00790 0.00909 0.00413 -0.00001 0.00038
+MgM2 0.00898 0.00790 0.00909 0.00413 -0.00001 0.00038
+P1 0.00690 0.00690 0.00850 0.00345 0.00000 0.00000
+P2 0.00744 0.00744 0.00520 0.00260 0.00000 0.00000
+P3 0.00686 0.00686 0.00680 0.00362 -0.00074 -0.00074
+O1 0.00900 0.00900 0.03770 0.00290 0.00580 0.00580
+O2 0.01520 0.01300 0.01260 0.01050 -0.00100 -0.00130
+O3 0.01370 0.01370 0.01180 0.00960 -0.00530 -0.00530
+O4 0.00850 0.01500 0.00940 0.00350 -0.00180 -0.00160
+O5 0.00950 0.00950 0.01700 0.00150 0.00040 0.00040
+O6 0.02130 0.02130 0.00600 0.01065 0.00000 0.00000
+O-h1 0.01210 0.01210 0.00820 0.00520 -0.00020 -0.00020
+O-h2 0.01270 0.01270 0.01000 0.00690 -0.00280 -0.00280
+O-h3 0.05490 0.05490 0.00950 0.02745 0.00000 0.00000

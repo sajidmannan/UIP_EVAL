@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Merwinite'
+loop_
+_publ_author_name
+'Moore P B'
+'Araki T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 57 
+_journal_year 1972
+_journal_page_first 1355
+_journal_page_last 1374
+_publ_section_title
+;
+ Atomic arrangement of merwinite, Ca3Mg[SiO4]2, an unusual dense-packed
+ structure of geophysical interest
+;
+_database_code_amcsd 0000294
+_chemical_formula_sum 'Ca3 Mg Si2 O8'
+_cell_length_a 13.254
+_cell_length_b 5.293
+_cell_length_c 9.328
+_cell_angle_alpha 90
+_cell_angle_beta 91.90
+_cell_angle_gamma 90
+_cell_volume 654.031
+_exptl_crystal_density_diffrn      3.338
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.25630   0.17890   0.22340   0.00887
+Ca2   0.08110   0.22710  -0.07530   0.00836
+Ca3   0.09780   0.73330   0.42540   0.00925
+Mg   0.00430   0.25660   0.25350   0.00532
+Si1   0.13260   0.22930   0.60080   0.00241
+Si2   0.14120   0.72800   0.09310   0.00228
+O1   0.07400   0.21230   0.44500   0.01317
+O2   0.06320   0.41930   0.69370   0.01216
+O3   0.12530  -0.04750   0.67730   0.00963
+O4   0.24140   0.36180   0.59400   0.01153
+O5   0.07680   0.70640  -0.05910   0.01102
+O6   0.25480   0.81300   0.06830   0.01039
+O7   0.12660   0.47260   0.18530   0.00937
+O8   0.08320  -0.04240   0.17510   0.01064

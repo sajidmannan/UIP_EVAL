@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Parakeldyshite'
+loop_
+_publ_author_name
+'Pekov I V'
+'Zubkova N V'
+'Pushcharovsky D Y'
+'Kolitsch U'
+'Tillmanns E'
+_journal_name_full 'Crystallography Reports'
+_journal_volume 52 
+_journal_year 2007
+_journal_page_first 1066
+_journal_page_last 1071
+_publ_section_title
+;
+ Refined crystal structure of parakeldyshite and genetic crystal
+ chemistry of zirconium minerals with [Si2O7] diorthogroups
+;
+_database_code_amcsd 0018674
+_chemical_compound_source 'Alluaiv Mountain (Lovozero), Kola Peninsula, Russia'
+_chemical_formula_sum 'Na1.934 H.066 Zr Si2 O7'
+_cell_length_a 6.617
+_cell_length_b 8.813
+_cell_length_c 5.426
+_cell_angle_alpha 87.26
+_cell_angle_beta 85.68
+_cell_angle_gamma 71.75
+_cell_volume 299.553
+_exptl_crystal_density_diffrn      3.369
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na1   0.87690   0.09573  -0.25739   0.81900   0.02090
+H1   0.87690   0.09573  -0.25739   0.06600   0.02090
+Na1*   0.82700   0.06240  -0.26820   0.08500   0.02090
+Na1*   0.75900   0.00400  -0.27400   0.03000   0.02090
+Na2   0.34251   0.50132   0.23243   1.00000   0.01722
+Zr   0.28962   0.27062  -0.22147   1.00000   0.00530
+Si1   0.64397   0.14776   0.22433   1.00000   0.00560
+Si2   0.93730   0.33444   0.31565   1.00000   0.00551
+O1   0.29140   0.03947  -0.16584   1.00000   0.01355
+O2   0.87893   0.16677   0.27825   1.00000   0.01047
+O3   0.49007   0.20905   0.46593   1.00000   0.01444
+O4   0.56307   0.25335  -0.02375   1.00000   0.00894
+O5   0.00766   0.31950   0.59858   1.00000   0.00951
+O6   0.12482   0.33736   0.11279   1.00000   0.01042
+O7   0.27715   0.51311  -0.28980   1.00000   0.00902

@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Quadratite'
+loop_
+_publ_author_name
+'Bindi L'
+'Spry P G'
+'Bonazzi P'
+'Makovicky E'
+'Balic-Zunic T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 98 
+_journal_year 2013
+_journal_page_first 242
+_journal_page_last 247
+_publ_section_title
+;
+ Quadratite, AgCdAsS3:Chemical composition, crystal structure and OD character
+;
+_database_code_amcsd 0019742
+_chemical_compound_source 'Lengenbach, Binntal, Switzerland'
+_chemical_formula_sum 'Cd1.58 Ag1.994 Pb.426 As2 S6'
+_cell_length_a 5.5229
+_cell_length_b 5.5229
+_cell_length_c 33.399
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1018.750
+_exptl_crystal_density_diffrn      5.367
+_symmetry_space_group_name_H-M 'P 43 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'y,x,1/4-z'
+  '-y,x,3/4+z'
+  '-x,y,-z'
+  '-x,-y,1/2+z'
+  '-y,-x,3/4-z'
+  'y,-x,1/4+z'
+  'x,-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+CdM1   0.24290   0.24290   0.12500   0.58000   0.02370
+AgM1   0.24290   0.24290   0.12500   0.42000   0.02370
+CdM2   0.73820   0.73820   0.12500   1.00000   0.02350
+AgM3   0.74800   0.23600   0.03370   0.78700   0.02400
+PbM3*   0.74000   0.24200   0.04170   0.21300   0.02400
+As   0.25590   0.74430   0.04947   1.00000   0.02080
+S1   0.22200   0.73640   0.11861   1.00000   0.02010
+S2   0.66460   0.72490   0.04740   1.00000   0.02540
+S3   0.23340   0.16200   0.04691   1.00000   0.02080
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+CdM1 0.02460 0.02460 0.02200 0.00100 -0.00010 0.00010
+AgM1 0.02460 0.02460 0.02200 0.00100 -0.00010 0.00010
+CdM2 0.02270 0.02270 0.02490 -0.00100 -0.00030 0.00030
+AgM3 0.02470 0.02860 0.01900 -0.00120 -0.00100 0.00300
+PbM3' 0.02470 0.02860 0.01900 -0.00120 -0.00100 0.00300
+As 0.02060 0.02120 0.02050 -0.00100 -0.00070 0.00010
+S1 0.02400 0.01800 0.01900 0.00200 0.00300 0.00200
+S2 0.02800 0.02200 0.02600 0.00200 0.00400 -0.00100
+S3 0.01600 0.03300 0.01400 0.00200 0.00300 0.00100

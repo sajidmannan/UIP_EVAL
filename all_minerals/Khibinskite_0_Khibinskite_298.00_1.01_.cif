@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Khibinskite'
+loop_
+_publ_author_name
+'Chernov A N'
+'Maksimov B A'
+'Ilyukhin V V'
+'Belov N V'
+_journal_name_full 'Soviet Physics Doklady'
+_journal_volume 15 
+_journal_year 1971
+_journal_page_first 711
+_journal_page_last 713
+_publ_section_title
+;
+ Crystalline structure of monoclinic modification of K,Zr-diorthosilicate
+ (K2ZrSi2O7)
+;
+_database_code_amcsd 0015597
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'K2 Zr Si2 O7'
+_cell_length_a 9.54
+_cell_length_b 14.26
+_cell_length_c 5.60
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 116.517
+_cell_volume 681.684
+_exptl_crystal_density_diffrn      3.289
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2-z'
+  '-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K1   0.03500   0.42600   0.26400
+K2   0.48200   0.59200   0.26000
+Zr   0.23700   0.23200   0.25300
+Si1   0.17200   0.36900   0.74400
+Si2   0.33600   0.11400   0.74100
+O1   0.00400   0.62900   0.26400
+O2   0.30900   0.49200   0.79500
+O3   0.47600   0.31600   0.23200
+O4   0.21700   0.34200   0.46400
+O5   0.18500   0.29600   0.93500
+O6   0.24500   0.11100   0.00700
+O7   0.26500   0.14800   0.54000

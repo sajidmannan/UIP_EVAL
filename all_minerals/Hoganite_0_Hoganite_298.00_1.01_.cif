@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Hoganite'
+loop_
+_publ_author_name
+'Meester P'
+'Fletcher S R'
+'Skapski A C'
+_journal_name_full 'Dalton Transactions'
+_journal_volume 1973 
+_journal_year 1973
+_journal_page_first 2575
+_journal_page_last 2578
+_publ_section_title
+;
+ Refined crystal structure of tetra-mu-acetato-bisaquodicopper (II)
+;
+_database_code_amcsd 0012426
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Cu C4 H8 O5'
+_cell_length_a 13.168
+_cell_length_b 8.564
+_cell_length_c 13.858
+_cell_angle_alpha 90
+_cell_angle_beta 117.02
+_cell_angle_gamma 90
+_cell_volume 1392.197
+_exptl_crystal_density_diffrn      1.905
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu   0.45004   0.08401   0.04496 ?
+C1   0.68240  -0.02140   0.18040 ?
+C2   0.78370  -0.03800   0.28880 ?
+C3   0.43320  -0.24770   0.05070 ?
+C4   0.39610  -0.39630   0.08360 ?
+H1   0.76700  -0.04400   0.35700   0.01900
+H2   0.84300  -0.08800   0.29200   0.01900
+H3   0.81500   0.06900   0.31200   0.01900
+H4   0.41500  -0.38500   0.16200   0.01900
+H5   0.43900  -0.48100   0.06500   0.01900
+H6   0.31300  -0.40400   0.04800   0.01900
+H7   0.39000   0.16800   0.19500   0.01900
+H8   0.31800   0.27300   0.10800   0.01900
+O1   0.68360  -0.08810   0.10060 ?
+O2   0.60000   0.06030   0.17590 ?
+O3   0.49220  -0.26470  -0.00030 ?
+O4   0.40540  -0.12010   0.07530 ?
+O-h5   0.37570   0.20730   0.13300 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.01903 0.02560 0.01807 0.00102 0.01174 0.00021
+C1 0.02440 0.03233 0.02239 -0.00051 0.01247 0.00268
+C2 0.03207 0.07022 0.02625 0.01374 0.00587 -0.00536
+C3 0.02440 0.03084 0.02702 -0.00560 0.01100 0.00536
+C4 0.04253 0.03567 0.04710 -0.00967 0.02421 0.01339
+O1 0.01952 0.03864 0.02007 0.00458 0.01027 -0.00107
+O2 0.02231 0.03827 0.01853 0.00560 0.00880 -0.00321
+O3 0.04043 0.02564 0.04015 -0.00305 0.02788 0.00161
+O4 0.03207 0.02824 0.03861 -0.00102 0.02421 0.00696
+O-h5 0.04531 0.04347 0.03011 0.02087 0.03008 0.01125

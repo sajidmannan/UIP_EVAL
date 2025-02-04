@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Anglesite'
+loop_
+_publ_author_name
+'Miyake M'
+'Minato I'
+'Morikawa H'
+'Iwai S I'
+_journal_name_full 'American Mineralogist'
+_journal_volume 63 
+_journal_year 1978
+_journal_page_first 506
+_journal_page_last 510
+_publ_section_title
+;
+ Crystal structure and sulphate force constants of barite, celesite, and
+ anglesite
+;
+_database_code_amcsd 0000665
+_chemical_formula_sum 'Pb S O4'
+_cell_length_a 6.959
+_cell_length_b 8.482
+_cell_length_c 5.398
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 318.624
+_exptl_crystal_density_diffrn      6.322
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Pb   0.16670   0.18790   0.25000
+S   0.18420   0.43670   0.75000
+O1   0.09600   0.59200   0.75000
+O2   0.04300   0.30600   0.75000
+O3   0.30900   0.41800   0.97400
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb 0.01766 0.01421 0.02450 0.00120 0.00000 0.00000
+S 0.00859 0.00911 0.01033 -0.00090 0.00000 0.00000
+O1 0.01963 0.01458 0.03690 0.00897 0.00000 0.00000
+O2 0.01227 0.01458 0.03986 -0.00598 0.00000 0.00000
+O3 0.01717 0.02187 0.01181 -0.00299 -0.00190 -0.00232

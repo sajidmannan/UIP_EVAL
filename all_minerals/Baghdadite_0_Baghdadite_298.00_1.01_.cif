@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Baghdadite'
+loop_
+_publ_author_name
+'Plaisier J R'
+'Jansen J'
+'de Graaff R A G'
+'Ijdo D J W'
+_journal_name_full 'Journal of Solid State Chemistry'
+_journal_volume 115 
+_journal_year 1995
+_journal_page_first 464
+_journal_page_last 468
+_publ_section_title
+;
+ Structure determination of Ca3HfSi2O9 and Ca3ZrSi2O9 from powder diffraction
+;
+_database_code_amcsd 0013849
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca3 Zr Si2 O9'
+_cell_length_a 7.3603
+_cell_length_b 10.1766
+_cell_length_c 10.4514
+_cell_angle_alpha 90
+_cell_angle_beta 90.875
+_cell_angle_gamma 90
+_cell_volume 782.748
+_exptl_crystal_density_diffrn      3.493
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.62470   0.80700   0.59940   0.00899
+Ca2   0.11980   0.82560   0.58840   0.00899
+Ca3   0.63010   0.41930   0.61550   0.00899
+Zr   0.12450   0.06290   0.11480   0.00899
+Si1   0.83400   0.62400   0.81890   0.00899
+Si2   0.40000   0.63500   0.80740   0.00899
+O1   0.61760   0.60580   0.77570   0.00899
+O2   0.08250  -0.00330   0.75410   0.00899
+O3   0.13910   0.37940   0.03100   0.00899
+O4   0.10690   0.26340   0.74320   0.00899
+O5   0.35570   0.73560   0.22530   0.00899
+O6   0.31190   0.49900   0.76030   0.00899
+O7   0.37910   0.66360   0.95660   0.00899
+O8   0.09760   0.61130   0.50560   0.00899
+O9   0.65960  -0.10900  -0.01170   0.00899

@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Rutile'
+loop_
+_publ_author_name
+'Swope R J'
+'Smyth J R'
+'Larson A C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 80 
+_journal_year 1995
+_journal_page_first 448
+_journal_page_last 453
+_publ_section_title
+;
+ H in rutile-type compounds: I. Single-crystal neutron and X-ray diffraction
+ study of H in rutile
+ Sample: neutron; natural, T = 24 K
+;
+_database_code_amcsd 0001735
+_chemical_formula_sum 'Ti.96 Nb.011 Cr.012 Al.011 Fe.008 O2 H.108'
+_cell_length_a 4.587
+_cell_length_b 4.587
+_cell_length_c 2.954
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 62.154
+_exptl_crystal_density_diffrn      4.299
+_symmetry_space_group_name_H-M 'P 42/m n m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '1/2-y,1/2+x,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'y,x,z'
+  '-y,-x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2+y,1/2-x,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ti   0.00000   0.00000   0.00000   0.96000 ?
+Nb   0.00000   0.00000   0.00000   0.01100 ?
+Cr   0.00000   0.00000   0.00000   0.01200 ?
+Al   0.00000   0.00000   0.00000   0.01100 ?
+Fe   0.00000   0.00000   0.00000   0.00800 ?
+O   0.30450   0.30450   0.00000   1.00000 ?
+H   0.42000   0.50000   0.00000   0.02700   0.45000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ti 0.00060 0.00060 0.00050 -0.00090 0.00000 0.00000
+Nb 0.00060 0.00060 0.00050 -0.00090 0.00000 0.00000
+Cr 0.00060 0.00060 0.00050 -0.00090 0.00000 0.00000
+Al 0.00060 0.00060 0.00050 -0.00090 0.00000 0.00000
+Fe 0.00060 0.00060 0.00050 -0.00090 0.00000 0.00000
+O 0.00280 0.00280 0.00300 -0.00150 0.00000 0.00000

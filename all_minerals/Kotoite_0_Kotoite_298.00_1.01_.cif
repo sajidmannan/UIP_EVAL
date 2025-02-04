@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Kotoite'
+loop_
+_publ_author_name
+'Effenberger H'
+'Pertlik F'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 166 
+_journal_year 1984
+_journal_page_first 129
+_journal_page_last 140
+_publ_section_title
+;
+ Verfeinerung der kristallstrukturen der isotypen verbindungen
+ M3(BO3)2 mit M=Mg, Co und Ni (strukturtyp: kotoit)
+;
+_database_code_amcsd 0010864
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Mg3 B2 O6'
+_cell_length_a 5.398
+_cell_length_b 8.416
+_cell_length_c 4.497
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 204.297
+_exptl_crystal_density_diffrn      3.097
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  'x,-y,z'
+  '-x,y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+MgM1   0.00000   0.00000   0.00000   0.00633
+MgM2   0.00000   0.31280   0.50000   0.00583
+B   0.25460   0.00000   0.54530   0.00532
+O1   0.32220   0.00000   0.25020   0.00519
+O2   0.20450   0.13870   0.70290   0.00608
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+MgM1 0.00487 0.00682 0.00738 0.00000 0.00111 0.00000
+MgM2 0.00561 0.00466 0.00727 0.00000 0.00049 0.00000
+B 0.00074 0.00682 0.00830 0.00000 -0.00234 0.00000
+O1 0.00384 0.00466 0.00686 0.00000 -0.00086 0.00000
+O2 0.00605 0.00431 0.00820 0.00023 0.00061 -0.00038

@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Deerite'
+loop_
+_publ_author_name
+'Fleet M E'
+_journal_name_full 'American Mineralogist'
+_journal_volume 62 
+_journal_year 1977
+_journal_page_first 990
+_journal_page_last 998
+_publ_section_title
+;
+ The crystal structure of deerite
+ Note: sample is from a riebeckite-deerite-garnet schist
+ near Panoche, San Benito County, California, USA
+;
+_database_code_amcsd 0000599
+_chemical_formula_sum 'Fe9 Si6 O25 H5'
+_cell_length_a 10.786
+_cell_length_b 18.880
+_cell_length_c 9.564
+_cell_angle_alpha 90
+_cell_angle_beta 107.45
+_cell_angle_gamma 90
+_cell_volume 1857.979
+_exptl_crystal_density_diffrn      3.847
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Fe1   0.32090   0.17560   0.02380   0.01393
+Fe2   0.32090   0.17560   0.35720   0.01393
+Fe3   0.32090   0.17560   0.69050   0.01393
+Fe4   0.16690   0.30420   0.13880   0.01393
+Fe5   0.16690   0.30420   0.47220   0.01393
+Fe6   0.16690   0.30420   0.80550   0.01393
+Fe7   0.04430   0.42900   0.26540   0.01267
+Fe8   0.04430   0.42900   0.59870   0.01267
+Fe9   0.04430   0.42900   0.93210   0.01267
+Si1   0.25800   0.53250   0.17000   0.01773
+Si2   0.25800   0.53250   0.83600   0.01773
+Si3   0.36200   0.41560   0.37100   0.01393
+Si4   0.36200   0.41560   0.70500   0.01393
+Si5   0.48600   0.30570   0.24500   0.02026
+Si6   0.48600   0.30570   0.91100   0.02026
+O1   0.25300   0.11800   0.16400   0.01520
+O-H2   0.25300   0.11800   0.49700   0.01520
+O3   0.25300   0.11800   0.83000   0.01520
+O4   0.13200   0.23000   0.29800   0.01520
+O-H5   0.13200   0.23000   0.63100   0.01520
+O6   0.13200   0.23000   0.96400   0.01520
+O7   0.49200   0.13500   0.08000   0.01393
+O8   0.49200   0.13500   0.41400   0.01393
+O9   0.49200   0.13500   0.74700   0.01393
+O10   0.35600   0.25000   0.20300   0.02406
+O-H11   0.35600   0.25000   0.53600   0.02406
+O12   0.35600   0.25000   0.87000   0.02406
+O13   0.22200   0.37400   0.32300   0.01393
+O14   0.22200   0.37400   0.65600   0.01393
+O-H15   0.22200   0.37400   0.99000   0.01393
+O16   0.11000   0.49800   0.12200   0.01267
+O-H17   0.11000   0.49800   0.45500   0.01267
+O18   0.11000   0.49800   0.78800   0.01267
+O19   0.47100   0.34300   0.08300 ?
+O20   0.47700   0.37500   0.34600 ?
+O21   0.46600   0.36800   0.80100 ?
+O22   0.41400   0.43200   0.55100 ?
+O23   0.35400   0.49100   0.77500 ?
+O24   0.35600   0.49300   0.30300 ?
+O25   0.32100   0.51600   0.02300 ?

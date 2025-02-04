@@ -1,0 +1,49 @@
+data_global
+_chemical_name_mineral 'Urusovite'
+loop_
+_publ_author_name
+'Krivovichev S V'
+'Molchanov A V'
+'Filatov S K'
+_journal_name_full 'Crystallography Reports'
+_journal_volume 45 
+_journal_year 2000
+_journal_page_first 723
+_journal_page_last 727
+_publ_section_title
+;
+ Crystal structure of urusovite Cu(AlAsO5): a new type of an aluminoarsenate
+ tetrahedral polyanion
+;
+_database_code_amcsd 0012367
+_chemical_compound_source 'Kamchatka peninsula, Russia'
+_chemical_formula_sum 'Cu Al As O5'
+_cell_length_a 7.335
+_cell_length_b 10.255
+_cell_length_c 5.599
+_cell_angle_alpha 90
+_cell_angle_beta 99.79
+_cell_angle_gamma 90
+_cell_volume 415.026
+_exptl_crystal_density_diffrn      3.928
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu   0.46180   0.14033   0.90950   0.01020
+Al   0.14550   0.17700   0.43550   0.00800
+As   0.72570   0.10839   0.42610   0.00820
+O1   0.62310   0.04070   0.15960   0.01300
+O2   0.90410   0.19960   0.37450   0.01230
+O3   0.57070   0.19460   0.54700   0.01100
+O4   0.23540   0.22230   0.73280   0.01010
+O5   0.19840   0.01360   0.38440   0.01300

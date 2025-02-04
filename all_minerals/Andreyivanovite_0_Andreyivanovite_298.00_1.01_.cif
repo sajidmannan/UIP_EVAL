@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Andreyivanovite'
+loop_
+_publ_author_name
+'Kumar S'
+'Krishnamurthy A'
+'Srivastava B K'
+'Das A'
+'Paranjpe S K'
+_journal_name_full 'Pramana - Journal of Physics'
+_journal_volume 63 
+_journal_year 2004
+_journal_page_first 199
+_journal_page_last 205
+_publ_section_title
+;
+ Magnetization and neutron diffraction studies on FeCrP
+;
+_database_code_amcsd 0015325
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Fe Cr P'
+_cell_length_a 5.833
+_cell_length_b 3.569
+_cell_length_c 6.658
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 138.606
+_exptl_crystal_density_diffrn      6.652
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe   0.14480   0.25000   0.56130
+Cr   0.02720   0.25000   0.17150
+P   0.76670   0.25000   0.62370

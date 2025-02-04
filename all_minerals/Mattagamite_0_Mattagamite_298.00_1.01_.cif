@@ -1,0 +1,42 @@
+data_global
+_chemical_name_mineral 'Mattagamite'
+loop_
+_publ_author_name
+'Tengner S'
+_journal_name_full 'Zeitschrift fur Anorganische und Allgemeine Chemie'
+_journal_volume 239 
+_journal_year 1938
+_journal_page_first 126
+_journal_page_last 132
+_publ_section_title
+;
+ Uber diselenide und ditelluride von eisen, kobalt und nickel
+;
+_database_code_amcsd 0015752
+_chemical_formula_sum 'Co Te2'
+_cell_length_a 3.882
+_cell_length_b 5.301
+_cell_length_c 6.298
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 129.603
+_exptl_crystal_density_diffrn      8.050
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,y,z'
+  'x,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Co   0.00000   0.00000   0.00000
+Te   0.00000   0.22000   0.36000

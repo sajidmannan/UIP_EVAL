@@ -1,0 +1,82 @@
+data_global
+_chemical_name_mineral 'Markhininite'
+loop_
+_publ_author_name
+'Siidra O I'
+'Vergasova L P'
+'Krivovichev S V'
+'Kretser Y L'
+'Zaitsev A N'
+'Filatov S K'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 78 
+_journal_year 2014
+_journal_page_first 1687
+_journal_page_last 1698
+_publ_section_title
+;
+ Unique thallium mineralization in the fumaroles of Tolbachik volcano, Kamchatka
+ Peninsula, Russia. I. Markhininite, TlBi(SO4)2
+;
+_database_code_amcsd 0020610
+_chemical_compound_source 'Tolbachik volcano, Kamchatka Peninsula, Russia'
+_chemical_formula_sum 'Tl Bi S2 O8'
+_cell_length_a 7.378
+_cell_length_b 10.657
+_cell_length_c 10.657
+_cell_angle_alpha 61.31
+_cell_angle_beta 70.964
+_cell_angle_gamma 70.964
+_cell_volume 680.177
+_exptl_crystal_density_diffrn      5.913
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Tl1   0.00000   0.50000   0.50000   0.02760
+Tl2   0.50000   0.00000   0.50000   0.02440
+Tl3   0.50000   0.50000   0.00000   0.02800
+Tl4   0.00000   0.00000   0.00000   0.02440
+Bi1  -0.03010   0.28040   0.24990   0.01700
+Bi2   0.46960  -0.21970   0.25010   0.01760
+S1   0.04300  -0.10800   0.38800   0.01300
+S2   0.45100   0.11600   0.11400   0.00700
+S3  -0.46000   0.39200   0.38400   0.01200
+S4  -0.05800   0.61900   0.11300   0.01600
+O1   0.21600  -0.09400   0.41600   0.01200
+O2  -0.28600   0.39500   0.40900   0.00900
+O3  -0.16100   0.54100   0.09000   0.01300
+O4   0.33500   0.05300   0.08700   0.00700
+O5   0.55700   0.19900  -0.01600   0.02900
+O6   0.33200   0.20000   0.19700   0.01800
+O7  -0.18300   0.72100   0.18000   0.01000
+O8  -0.57500   0.53100   0.30800   0.01100
+O9  -0.07300   0.05500   0.31000   0.01600
+O10   0.11200  -0.19500   0.29200   0.01500
+O11   0.59200   0.01500   0.19100   0.01400
+O12  -0.39600   0.32000   0.30000   0.03600
+O13  -0.57600   0.32700   0.50400   0.03800
+O14  -0.08700  -0.19100   0.53800   0.01100
+O15  -0.05800   0.28100   0.03200   0.01600
+O16   0.08300   0.48400   0.20900   0.02200
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl1 0.03400 0.02800 0.02700 -0.00600 -0.00800 -0.01600
+Tl2 0.01100 0.03000 0.03500 -0.00500 -0.00500 -0.01500
+Tl3 0.03600 0.02500 0.02700 -0.00600 -0.01200 -0.00900
+Tl4 0.01200 0.02500 0.03500 -0.00400 -0.01000 -0.00900
+Bi1 0.01400 0.01900 0.02100 -0.00310 -0.00680 -0.00900
+Bi2 0.01500 0.02000 0.02100 -0.00440 -0.00580 -0.01000

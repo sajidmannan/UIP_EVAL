@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Onoratoite'
+loop_
+_publ_author_name
+'Menchetti S'
+'Sabelli C'
+'Trosti-Ferroni R'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 40 
+_journal_year 1984
+_journal_page_first 1506
+_journal_page_last 1510
+_publ_section_title
+;
+ The structures of onoratoite, Sb8O11Cl2 and Sb8O11Cl2*6H2O
+ Note: anisoB's from ICSD, corrected
+;
+_database_code_amcsd 0009996
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Sb4 O5.27 Cl'
+_cell_length_a 19.047
+_cell_length_b 4.0530
+_cell_length_c 10.318
+_cell_angle_alpha 90
+_cell_angle_beta 110.25
+_cell_angle_gamma 90
+_cell_volume 747.292
+_exptl_crystal_density_diffrn      5.393
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Sb1   0.27181   0.00000   0.17370   1.00000   0.02964
+Sb2  -0.00472   0.50000   0.30050   1.00000   0.02571
+Sb3   0.08770   0.00000  -0.01030   1.00000   0.02166
+Sb4   0.18592   0.50000   0.35510   1.00000   0.02102
+O1   0.22900   0.50000   0.20200   0.84000   0.04661
+O2  -0.03500   0.00000   0.21900   0.89000   0.05775
+O3   0.07400   0.50000  -0.10100   0.72000   0.04015
+O4   0.19800   0.00000   0.28400   0.82000   0.05433
+O5   0.19200   0.00000  -0.01200   1.00000   0.01912
+O6   0.08200   0.50000   0.24000   1.00000   0.02698
+Cl   0.11580   0.00000   0.51990   1.00000   0.04914
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb1 0.01294 0.04594 0.02516 0.00000 0.00088 0.00000
+Sb2 0.02588 0.02688 0.02943 0.00000 0.01665 0.00000
+Sb3 0.02265 0.01606 0.03228 0.00000 0.01665 0.00000
+Sb4 0.02265 0.01606 0.02991 0.00000 0.01753 0.00000
+O1 0.06471 0.04577 0.02374 0.00000 0.00964 0.00000
+O2 0.03397 0.10818 0.03038 0.00000 0.01052 0.00000
+O3 0.03883 0.05909 0.02753 0.00000 0.01753 0.00000
+O4 0.04044 0.00225 0.12485 0.00000 0.03330 0.00000
+O5 0.02588 0.00940 0.01899 0.00000 0.00351 0.00000
+O6 0.03397 0.03162 0.02469 0.00000 0.02191 0.00000
+Cl 0.07118 0.04228 0.04985 0.00000 0.04031 0.00000

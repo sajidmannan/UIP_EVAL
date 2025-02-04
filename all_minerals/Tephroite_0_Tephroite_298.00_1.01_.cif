@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Tephroite'
+loop_
+_publ_author_name
+'Francis C A'
+'Ribbe P H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 65 
+_journal_year 1980
+_journal_page_first 1263
+_journal_page_last 1269
+_publ_section_title
+;
+ The forsterite-tephroite series: I. Crystal structure refinements
+ Sample: Te 91 olivine
+;
+_database_code_amcsd 0000802
+_chemical_compound_source 'Madagascar'
+_chemical_formula_sum 'Mn1.83 Mg.17 Si O4'
+_cell_length_a 4.879
+_cell_length_b 10.589
+_cell_length_c 6.234
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 322.072
+_exptl_crystal_density_diffrn      4.058
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mn1   0.00000   0.00000   0.00000   0.83000
+Mg1   0.00000   0.00000   0.00000   0.17000
+Mn2   0.98770   0.28010   0.25000   1.00000
+Si   0.42650   0.09510   0.25000   1.00000
+O1   0.75740   0.09140   0.25000   1.00000
+O2   0.21620   0.45250   0.25000   1.00000
+O3   0.28750   0.16250   0.04010   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn1 0.00699 0.01250 0.00945 0.00000 -0.00108 -0.00234
+Mg1 0.00699 0.01250 0.00945 0.00000 -0.00108 -0.00234
+Mn2 0.00808 0.00778 0.00886 0.00026 0.00000 0.00000
+Si 0.00651 0.00795 0.00886 0.00026 0.00000 0.00000
+O1 0.00350 0.01420 0.01319 0.00026 0.00000 0.00000
+O2 0.00687 0.00795 0.01103 -0.00052 0.00000 0.00000
+O3 0.00904 0.01079 0.00965 0.00052 0.00000 0.00134

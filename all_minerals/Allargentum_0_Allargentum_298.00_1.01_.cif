@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Allargentum'
+loop_
+_publ_author_name
+'Petruk W'
+'Cabri L J'
+'Harris D C'
+'Stewart J M'
+'Clark L A'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 10 
+_journal_year 1970
+_journal_page_first 163
+_journal_page_last 172
+_publ_section_title
+;
+ Allargentum, redefined
+;
+_database_code_amcsd 0005089
+_chemical_compound_source 'Hi-Ho mine, Cobalt, Ontario, Canada'
+_chemical_formula_sum '(Ag.865 Sb.134 Hg.001)'
+_cell_length_a 2.952
+_cell_length_b 2.952
+_cell_length_c 4.773
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 36.021
+_exptl_crystal_density_diffrn     10.125
+_symmetry_space_group_name_H-M 'P 63/m m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x,-x+y,-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+  'x-y,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ag   0.33333   0.66667   0.25000   0.86500
+Sb   0.33333   0.66667   0.25000   0.13400
+Hg   0.33333   0.66667   0.25000   0.00100

@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Malachite'
+loop_
+_publ_author_name
+'Susse P'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 22 
+_journal_year 1967
+_journal_page_first 146
+_journal_page_last 151
+_publ_section_title
+;
+ Verfeinerung der kristallstruktur des malachits, Cu2(OH)2CO3
+;
+_database_code_amcsd 0009305
+_chemical_formula_sum 'Cu2 O5 H2 C'
+_cell_length_a 9.502
+_cell_length_b 11.974
+_cell_length_c 3.240
+_cell_angle_alpha 90
+_cell_angle_beta 98.75
+_cell_angle_gamma 90
+_cell_volume 364.347
+_exptl_crystal_density_diffrn      4.031
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.49807   0.28787   0.89313   0.01370
+Cu2   0.23229   0.39321   0.38832   0.01321
+O-h1   0.09400   0.35169   0.91600   0.00481
+O-h2   0.37653   0.41610   0.86490   0.00583
+H1   0.02000   0.38000   0.71000   0.05066
+H2   0.41000   0.50000   0.86000   0.05066
+C   0.26660   0.14042   0.47100   0.00659
+O1   0.13123   0.13627   0.33810   0.00697
+O2   0.33267   0.23506   0.44460   0.00671
+O3   0.33414   0.05557   0.62890   0.00811

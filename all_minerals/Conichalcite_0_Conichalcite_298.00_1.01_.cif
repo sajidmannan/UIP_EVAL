@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Conichalcite'
+loop_
+_publ_author_name
+'Qurashi M M'
+'Barnes W H'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 7 
+_journal_year 1963
+_journal_page_first 561
+_journal_page_last 577
+_publ_section_title
+;
+ The structures of the minerals of the descloizite and adelite groups:
+ IV - descloizite and conichalcite (part 2) The structure of conichalcite
+;
+_database_code_amcsd 0005080
+_chemical_formula_sum 'Ca Cu As O5 H'
+_cell_length_a 7.40
+_cell_length_b 5.84
+_cell_length_c 9.21
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 398.019
+_exptl_crystal_density_diffrn      4.331
+_symmetry_space_group_name_H-M 'P 21 21 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.11600   0.26900   0.42500   0.00253
+Cu   0.00000   0.00000   0.75000   0.01203
+As   0.36800  -0.23300   0.58000   0.00937
+O1   0.18700  -0.25600   0.70000   0.01267
+O2   0.53800  -0.17600   0.69400   0.01267
+O3   0.37800   0.50900   0.48900   0.01267
+O4   0.36800  -0.01600   0.47400   0.01267
+O-H5   0.15100   0.25000   0.68000   0.01267

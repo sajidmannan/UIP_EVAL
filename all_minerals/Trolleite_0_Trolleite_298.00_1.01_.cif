@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Trolleite'
+loop_
+_publ_author_name
+'Moore P B'
+'Araki T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 59 
+_journal_year 1974
+_journal_page_first 974
+_journal_page_last 984
+_publ_section_title
+;
+ Trolleite, Al4(OH)3[PO4]3: A very dense structure with octahedral
+ face-sharing dimers
+;
+_database_code_amcsd 0000415
+_chemical_formula_sum 'Al4 P3 O15 H3'
+_cell_length_a 18.894
+_cell_length_b 7.161
+_cell_length_c 7.162
+_cell_angle_alpha 90
+_cell_angle_beta 99.99
+_cell_angle_gamma 90
+_cell_volume 954.326
+_exptl_crystal_density_diffrn      3.089
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Al1   0.16778  -0.00654   0.32059   0.00481
+Al2   0.07570   0.27118   0.41714   0.00545
+P1   0.00000   0.88269   0.25000   0.00443
+P2   0.16844   0.36728   0.08109   0.00456
+O1   0.06458   0.01173   0.32611   0.00760
+O2   0.02064   0.76272   0.09579   0.00937
+O3   0.23738   0.46488   0.16861   0.00925
+O4   0.11114   0.50844   0.00803   0.00925
+O5   0.14191   0.24551   0.23708   0.00709
+O6   0.18216   0.23516  -0.07554   0.00950
+O-h1   0.00000   0.36428   0.25000   0.00785
+O-h2   0.16141   0.87900   0.06966   0.00671
+H1   0.00000   0.48400   0.25000 ?
+H2   0.19000   0.80900   0.07200 ?

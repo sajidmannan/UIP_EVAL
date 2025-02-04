@@ -1,0 +1,88 @@
+data_global
+_chemical_name_mineral 'Rumseyite'
+loop_
+_publ_author_name
+'Turner R W'
+'Siidra O I'
+'Krivovichev S V'
+'Stanley C J'
+'Spratt J'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 76 
+_journal_year 2012
+_journal_page_first 1247
+_journal_page_last 1255
+_publ_section_title
+;
+ Rumseyite, [Pb2OF]Cl, the first naturally occurring fluoroxychloride
+ mineral with the parent crystal structure for layered lead oxychlorides
+;
+_database_code_amcsd 0019618
+_chemical_compound_source 'Merehead quarry, Somerset, England'
+_chemical_formula_sum 'Pb2 (O F) Cl'
+_cell_length_a 4.065
+_cell_length_b 4.065
+_cell_length_c 12.631
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 208.717
+_exptl_crystal_density_diffrn      7.715
+_symmetry_space_group_name_H-M 'I 4/m m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,x,-z'
+  '1/2+y,1/2+x,1/2-z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-y,x,z'
+  '1/2-y,1/2+x,1/2+z'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,-x,-z'
+  '1/2-y,1/2-x,1/2-z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'y,-x,z'
+  '1/2+y,1/2-x,1/2+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb   0.00000   0.00000   0.14690   1.00000   0.06100
+OF   0.50000   0.00000   0.25000   0.50000   0.04900
+FO   0.50000   0.00000   0.25000   0.50000   0.04900
+Cl   0.50000   0.50000   0.00000   1.00000   0.05600
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb 0.06500 0.06500 0.05200 0.00000 0.00000 0.00000
+OF 0.04900 0.04900 0.05000 0.00000 0.00000 0.00000
+FO 0.04900 0.04900 0.05000 0.00000 0.00000 0.00000
+Cl 0.06200 0.06200 0.04300 0.00000 0.00000 0.00000

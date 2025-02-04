@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Tantalaeschynite-(Tb)'
+loop_
+_publ_author_name
+'Thorogood G J'
+'Avdeev M'
+'Kennedy B J'
+_journal_name_full 'Solid State Sciences'
+_journal_volume 12 
+_journal_year 2010
+_journal_page_first 1263
+_journal_page_last 1269
+_publ_section_title
+;
+ Structural studies of the aeschynite-euxenite transformation in
+ the series Ln(TiTa)O6 Ln = lanthanide
+;
+_database_code_amcsd 0018927
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Tb (Ta Ti) O6'
+_cell_length_a 10.977
+_cell_length_b 7.414
+_cell_length_c 5.2380
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 426.287
+_exptl_crystal_density_diffrn      7.538
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Tb   0.45960   0.75000   0.03270   1.00000   0.02520
+Ta   0.64260   0.50680   0.45790   0.50000   0.00760
+Ti   0.64260   0.50680   0.45790   0.50000   0.00760
+O1   0.47460   0.45760   0.27210   1.00000   0.01900
+O2   0.28780   0.93750   0.88150   1.00000   0.01292
+O3   0.35090   0.75000   0.44460   1.00000   0.01216
+O4   0.62300   0.75000   0.32740   1.00000   0.03090

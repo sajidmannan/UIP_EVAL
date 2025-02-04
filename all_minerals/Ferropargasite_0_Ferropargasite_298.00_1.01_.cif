@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Ferropargasite'
+loop_
+_publ_author_name
+'Oberti R'
+'Ungaretti L'
+'Cannillo E'
+'Hawthorne F C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 78 
+_journal_year 1993
+_journal_page_first 746
+_journal_page_last 752
+_publ_section_title
+;
+ The mechanism of Cl incorporation in amphibole
+ Sample: Cl(0)
+;
+_database_code_amcsd 0001599
+_chemical_compound_source 'Nuptse Glacier moraine, Everest Massif, Nepal'
+_chemical_formula_sum 'Na.36 K.37 Ca1.94 Mg1.8 Fe2.76 Al2.3 Ti.06 Si6.08 O23.74 F.26 H1.74'
+_cell_length_a 9.895
+_cell_length_b 18.119
+_cell_length_c 5.332
+_cell_angle_alpha 90
+_cell_angle_beta 105.17
+_cell_angle_gamma 90
+_cell_volume 922.649
+_exptl_crystal_density_diffrn      3.314
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NaA   0.00000   0.50000   0.00000   0.10000   0.02786
+KA   0.00000   0.50000   0.00000   0.13000   0.02786
+NaAm   0.03360   0.50000   0.07340   0.05000   0.02204
+KAm   0.03360   0.50000   0.07340   0.06000   0.02204
+NaA2   0.00000   0.47140   0.00000   0.05000   0.05129
+KA2   0.00000   0.47140   0.00000   0.06000   0.05129
+Ca4   0.00000   0.28080   0.50000   0.97000   0.00950
+Na4   0.00000   0.28080   0.50000   0.03000   0.00950
+Mg1   0.00000   0.08970   0.50000   0.46000   0.00735
+Fe1   0.00000   0.08970   0.50000   0.54000   0.00735
+Mg2   0.00000   0.17800   0.00000   0.27000   0.00633
+Fe2   0.00000   0.17800   0.00000   0.51000   0.00633
+Al2   0.00000   0.17800   0.00000   0.19000   0.00633
+Ti2   0.00000   0.17800   0.00000   0.03000   0.00633
+Mg3   0.00000   0.00000   0.00000   0.34000   0.00671
+Fe3   0.00000   0.00000   0.00000   0.66000   0.00671
+Si1   0.27910   0.08600   0.30260   0.52000   0.00570
+Al1   0.27910   0.08600   0.30260   0.48000   0.00570
+Si2   0.29110   0.17320   0.81400   1.00000   0.00583
+O1   0.10510   0.09110   0.21410   1.00000   0.01001
+O2   0.11990   0.17560   0.73580   1.00000   0.00887
+F3   0.10970   0.00000   0.71200   0.13000   0.01064
+O-h3   0.10970   0.00000   0.71200   0.87000   0.01064
+O4   0.36860   0.24990   0.79240   1.00000   0.01039
+O5   0.34900   0.13920   0.10870   1.00000   0.01102
+O6   0.34260   0.11950   0.60460   1.00000   0.01153
+O7   0.33360   0.00000   0.28870   1.00000   0.01532
+H   0.15790   0.00000   0.76030   0.87000   0.01938

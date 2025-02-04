@@ -1,0 +1,112 @@
+data_global
+_chemical_name_mineral 'Galkhaite'
+loop_
+_publ_author_name
+'Chen T T'
+'Szymanski J T'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 19 
+_journal_year 1981
+_journal_page_first 571
+_journal_page_last 581
+_publ_section_title
+;
+ The structure and chemistry of galkhaite, a mercury sulfosalt containing
+ Cs and Tl
+;
+_database_code_amcsd 0005182
+_chemical_compound_source 'Getchell mine, Humboldt County, Nevada, USA'
+_chemical_formula_sum 'Hg4.224 Cu.864 Zn.528 Tl.304 Fe.03 Cs.595 (As3.932 Sb.068) S12'
+_cell_length_a 10.365
+_cell_length_b 10.365
+_cell_length_c 10.365
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1113.545
+_exptl_crystal_density_diffrn      5.271
+_symmetry_space_group_name_H-M 'I -4 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-z,x,-y'
+  '1/2-z,1/2+x,1/2-y'
+  '-y,z,-x'
+  '1/2-y,1/2+z,1/2-x'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,-z,-y'
+  '1/2+x,1/2-z,1/2-y'
+  'z,-y,-x'
+  '1/2+z,1/2-y,1/2-x'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  'x,z,y'
+  '1/2+x,1/2+z,1/2+y'
+  'z,y,x'
+  '1/2+z,1/2+y,1/2+x'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-z,-x,y'
+  '1/2-z,1/2-x,1/2+y'
+  '-y,-z,x'
+  '1/2-y,1/2-z,1/2+x'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'z,-x,-y'
+  '1/2+z,1/2-x,1/2-y'
+  'y,-z,-x'
+  '1/2+y,1/2-z,1/2-x'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,z,-y'
+  '1/2-x,1/2+z,1/2-y'
+  '-z,y,-x'
+  '1/2-z,1/2+y,1/2-x'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  '-x,-z,y'
+  '1/2-x,1/2-z,1/2+y'
+  '-z,-y,x'
+  '1/2-z,1/2-y,1/2+x'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'z,x,y'
+  '1/2+z,1/2+x,1/2+y'
+  'y,z,x'
+  '1/2+y,1/2+z,1/2+x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Hg   0.25000   0.50000   0.00000   0.70400
+Cu   0.25000   0.50000   0.00000   0.14400
+Zn   0.25000   0.50000   0.00000   0.08800
+Tl   0.25000   0.50000   0.00000   0.01400
+Fe   0.25000   0.50000   0.00000   0.00500
+Cs   0.00000   0.00000   0.00000   0.59500
+Tl   0.00000   0.00000   0.00000   0.22000
+As   0.24530   0.24530   0.24530   0.98300
+Sb   0.24530   0.24530   0.24530   0.01700
+S   0.38830   0.38830   0.16250   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg 0.06010 0.02290 0.02290 0.00000 0.00000 0.00000
+Cu 0.06010 0.02290 0.02290 0.00000 0.00000 0.00000
+Zn 0.06010 0.02290 0.02290 0.00000 0.00000 0.00000
+Tl 0.06010 0.02290 0.02290 0.00000 0.00000 0.00000
+Fe 0.06010 0.02290 0.02290 0.00000 0.00000 0.00000
+Cs 0.04820 0.04820 0.04820 0.00000 0.00000 0.00000
+Tl 0.04820 0.04820 0.04820 0.00000 0.00000 0.00000
+As 0.01950 0.01950 0.01950 -0.00260 -0.00260 -0.00260
+Sb 0.01950 0.01950 0.01950 -0.00260 -0.00260 -0.00260
+S 0.02870 0.02870 0.02320 -0.01000 0.00110 0.00110

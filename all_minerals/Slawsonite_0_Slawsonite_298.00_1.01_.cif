@@ -1,0 +1,83 @@
+data_global
+_chemical_name_mineral 'Slawsonite'
+loop_
+_publ_author_name
+'Griffen D T'
+'Ribbe P H'
+'Gibbs G V'
+_journal_name_full 'American Mineralogist'
+_journal_volume 62 
+_journal_year 1977
+_journal_page_first 31
+_journal_page_last 35
+_publ_section_title
+;
+ The structure of slawsonite, a strontium analog of paracelsian
+;
+_database_code_amcsd 0000553
+_chemical_formula_sum '(Sr.87 Ca.13) (Si2 Al2) O8'
+_cell_length_a 8.888
+_cell_length_b 9.344
+_cell_length_c 8.326
+_cell_angle_alpha 90
+_cell_angle_beta 90.33
+_cell_angle_gamma 90
+_cell_volume 691.458
+_exptl_crystal_density_diffrn      3.070
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sr   0.89020   0.41220   0.25030   0.87000
+Ca   0.89020   0.41220   0.25030   0.13000
+Si1o   0.23210   0.92490   0.93110   0.50000
+Al1o   0.23210   0.92490   0.93110   0.50000
+Si1m   0.24050   0.91990   0.56050   0.50000
+Al1m   0.24050   0.91990   0.56050   0.50000
+Si2o   0.05950   0.20060   0.94400   0.50000
+Al2o   0.05950   0.20060   0.94400   0.50000
+Si2m   0.05410   0.19440   0.57060   0.50000
+Al2m   0.05410   0.19440   0.57060   0.50000
+O1o   0.19100   0.09340   0.01000   1.00000
+O1m   0.18750   0.07400   0.49370   1.00000
+O2o   0.11920   0.36580   0.94580   1.00000
+O2m   0.12360   0.36990   0.55730   1.00000
+O3o   0.92020   0.19190   0.06990   1.00000
+O3m   0.89790   0.19230   0.43990   1.00000
+O4   0.00920   0.15450   0.76620   1.00000
+O5   0.31390   0.92520   0.74070   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sr 0.01201 0.00885 0.01018 0.00000 0.00000 0.00039
+Ca 0.01201 0.00885 0.01018 0.00000 0.00000 0.00039
+Si1o 0.00360 0.00442 0.00421 0.00042 0.00000 0.00079
+Al1o 0.00360 0.00442 0.00421 0.00042 0.00000 0.00079
+Si1m 0.00240 0.00398 0.00386 0.00000 0.00075 0.00000
+Al1m 0.00240 0.00398 0.00386 0.00000 0.00075 0.00000
+Si2o 0.00320 0.00265 0.00351 -0.00084 0.00000 0.00039
+Al2o 0.00320 0.00265 0.00351 -0.00084 0.00000 0.00039
+Si2m 0.00360 0.00310 0.00351 -0.00042 0.00037 0.00000
+Al2m 0.00360 0.00310 0.00351 -0.00042 0.00037 0.00000
+O1o 0.00840 0.00663 0.00773 0.00295 0.00112 0.00000
+O1m 0.01000 0.00442 0.00983 0.00337 0.00300 0.00197
+O2o 0.00520 0.00310 0.00773 -0.00084 -0.00262 0.00118
+O2m 0.00680 0.00531 0.00702 -0.00042 0.00412 -0.00079
+O3o 0.00520 0.00708 0.00527 -0.00084 0.00112 -0.00079
+O3m 0.00400 0.00708 0.01018 0.00000 0.00037 0.00158
+O4 0.01681 0.01194 0.00457 -0.00505 0.00000 0.00000
+O5 0.00480 0.01106 0.00597 -0.00252 0.00112 0.00079

@@ -1,0 +1,51 @@
+data_global
+_chemical_name_mineral 'Horvathite-(Y)'
+loop_
+_publ_author_name
+'Grice J D'
+'Chao G Y'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 35 
+_journal_year 1997
+_journal_page_first 743
+_journal_page_last 749
+_publ_section_title
+;
+ Horvathite-(Y), rare-earth fluorocarbonate, a new mineral
+ species from Mont Saint-Hilaire, Quebec
+;
+_database_code_amcsd 0005523
+_chemical_compound_source 'Mont Saint-Hilaire, Quebec, Canada'
+_chemical_formula_sum 'Na Y C O3 F2'
+_cell_length_a 6.959
+_cell_length_b 9.170
+_cell_length_c 6.301
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 402.092
+_exptl_crystal_density_diffrn      3.467
+_symmetry_space_group_name_H-M 'P m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Na   0.25000   0.21750   0.17110   0.02300
+Y   0.75000   0.42143  -0.01305   0.00920
+C   0.75000   0.05900   0.04010   0.01400
+O1   0.25000  -0.18560  -0.13090   0.01900
+O2   0.75000   0.45540   0.34210   0.02600
+O3   0.25000   0.05080  -0.16250   0.02200
+F   0.56070   0.63000   0.04200   0.01800

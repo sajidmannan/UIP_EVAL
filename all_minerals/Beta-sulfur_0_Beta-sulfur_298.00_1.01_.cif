@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Beta-sulfur'
+loop_
+_publ_author_name
+'David W I F'
+'Ibberson R M'
+'Cox S F J'
+'Wood P T'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 62 
+_journal_year 2006
+_journal_page_first 953
+_journal_page_last 959
+_publ_section_title
+;
+ Order-disorder transition in monoclinic sulfur: a precise structural study by
+ high-resolution neutron powder diffraction
+;
+_database_code_amcsd 0009946
+_chemical_formula_sum 'S.75'
+_cell_length_a 10.8125
+_cell_length_b 10.7232
+_cell_length_c 10.6883
+_cell_angle_alpha 90
+_cell_angle_beta 95.7460
+_cell_angle_gamma 90
+_cell_volume 1233.024
+_exptl_crystal_density_diffrn      2.073
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+S1   0.22640   0.52670   0.03640   1.00000   0.02260
+S2   0.14380   0.35470   0.01300   1.00000   0.02260
+S3   0.24790   0.25150  -0.09960   1.00000   0.02260
+S4   0.36060   0.13720   0.01560   1.00000   0.02260
+S5   0.53280   0.21900   0.03990   1.00000   0.02260
+S6   0.54680   0.30830   0.21030   1.00000   0.02260
+S7   0.51140   0.49370   0.17600   1.00000   0.02260
+S8   0.33040   0.52600   0.20800   1.00000   0.02260
+S9  -0.23980  -0.53180  -0.02180   1.00000   0.02260
+S10  -0.16010  -0.35910   0.00470   1.00000   0.02260
+S11  -0.27000  -0.25740   0.11250   1.00000   0.02260
+S12  -0.37990  -0.14420  -0.00650   1.00000   0.02260
+S13  -0.55080  -0.22790  -0.03780   1.00000   0.02260
+S14  -0.55720  -0.31730  -0.20810   1.00000   0.02260
+S15  -0.52060  -0.50250  -0.17240   1.00000   0.02260
+S16  -0.33700  -0.53240  -0.19660   1.00000   0.02260
+S17A   0.17680  -0.11260   0.08370   0.94100   0.02670
+S17B  -0.17680   0.11260  -0.08370   0.05900   0.02670
+S18A   0.04790  -0.07480   0.20690   0.94100   0.02670
+S18B  -0.04790   0.07480  -0.20690   0.05900   0.02670
+S19A   0.00420   0.11090   0.18960   0.94100   0.02670
+S19B  -0.00420  -0.11090  -0.18960   0.05900   0.02670
+S20A  -0.16010   0.12430   0.07660   0.94100   0.02670
+S20B   0.16010  -0.12430  -0.07660   0.05900   0.02670
+S21A  -0.11750   0.16910  -0.10060   0.94100   0.02670
+S21B   0.11750  -0.16910   0.10060   0.05900   0.02670
+S22A  -0.12420   0.00740  -0.20370   0.94100   0.02670
+S22B   0.12420  -0.00740   0.20370   0.05900   0.02670
+S23A   0.05500  -0.05450  -0.20680   0.94100   0.02670
+S23B  -0.05500   0.05450   0.20680   0.05900   0.02670
+S24A   0.08400  -0.19180  -0.07330   0.94100   0.02670
+S24B  -0.08400   0.19180   0.07330   0.05900   0.02670

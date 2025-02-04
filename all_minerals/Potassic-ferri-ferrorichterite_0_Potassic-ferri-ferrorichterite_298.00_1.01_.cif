@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Potassic-ferri-ferrorichterite'
+loop_
+_publ_author_name
+'Redhammer G J'
+'Roth G'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 14 
+_journal_year 2002
+_journal_page_first 105
+_journal_page_last 114
+_publ_section_title
+;
+ Crystal structure and Mossbauer spectroscopy of the synthetic amphibole
+ potassic-ferri-ferrorichterite at 298 K and low temperatures (80-110 K)
+ Sample: Ri1, T = 298 K
+;
+_database_code_amcsd 0006921
+_chemical_formula_sum 'K Ca.55 Na1.39 Fe5.06 Si8 O24 H2'
+_cell_length_a 10.1448
+_cell_length_b 18.1841
+_cell_length_c 5.2962
+_cell_angle_alpha 90
+_cell_angle_beta 104.415
+_cell_angle_gamma 90
+_cell_volume 946.253
+_exptl_crystal_density_diffrn      3.462
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+KA2/m   0.00000   0.50000   0.00000   1.00000   0.03910
+CaM4   0.00000   0.27738   0.50000   0.27500   0.01410
+NaM4   0.00000   0.27738   0.50000   0.69500   0.01410
+FeM1   0.00000   0.09184   0.50000   1.00000   0.00720
+FeM2   0.00000   0.18382   0.00000   1.00000   0.00710
+FeM3   0.00000   0.00000   0.00000   1.00000   0.00700
+FeM4   0.00000   0.27738   0.50000   0.03000   0.01410
+Si1   0.27313   0.08520   0.29382   1.00000   0.00380
+Si2   0.28545   0.17036   0.80106   1.00000   0.00430
+O1   0.11040   0.08950   0.21030   1.00000   0.00620
+O2   0.12160   0.17299   0.72730   1.00000   0.00750
+O3   0.10610   0.00000   0.70830   1.00000   0.00800
+H   0.19200   0.00000   0.76100   1.00000   0.05000
+O4   0.36430   0.24520   0.79620   1.00000   0.01000
+O5   0.34150   0.12755   0.08660   1.00000   0.00870
+O6   0.33650   0.11610   0.58710   1.00000   0.00900
+O7   0.32570   0.00000   0.29640   1.00000   0.00880

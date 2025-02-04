@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Margarosanite'
+loop_
+_publ_author_name
+'Freed R L'
+'Peacor D R'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 128 
+_journal_year 1969
+_journal_page_first 213
+_journal_page_last 228
+_publ_section_title
+;
+ Determination and refinement of the crystal structure of margarosanite,
+ PbCa2Si3O9
+;
+_database_code_amcsd 0010672
+_chemical_compound_source 'Parker Shaft, North Mine Hill, Franklin, New Jersey, USA'
+_chemical_formula_sum 'Pb Ca2 Si3 O9'
+_cell_length_a 6.768
+_cell_length_b 9.575
+_cell_length_c 6.718
+_cell_angle_alpha 110.36
+_cell_angle_beta 102.98
+_cell_angle_gamma 83.02
+_cell_volume 397.275
+_exptl_crystal_density_diffrn      4.310
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb   0.08860   0.15820   0.28650   0.00722
+Ca1   0.27000   0.49510   0.76290   0.00241
+Ca2   0.44300   0.16770   0.92970   0.00545
+Si1   0.09570   0.78170   0.15900   0.00355
+Si2   0.23280   0.51490   0.28030   0.00481
+Si3   0.43820   0.79820   0.51480   0.00380
+O1   0.22740   0.74690   0.97790   0.00443
+O2   0.10920   0.12450   0.90710   0.00304
+O3   0.22990   0.87900   0.39550   0.01456
+O4   0.04690   0.62660   0.19670   0.00431
+O5   0.37320   0.43800   0.10570   0.00621
+O6   0.12380   0.40720   0.35610   0.00912
+O7   0.35690   0.63730   0.50730   0.00469
+O8   0.47950   0.09770   0.23920   0.00494
+O9   0.38850   0.23790   0.62440   0.00443

@@ -1,0 +1,85 @@
+data_global
+_chemical_name_mineral 'Graeserite'
+loop_
+_publ_author_name
+'Biagioni C'
+'Bonaccorsi E'
+'Perchiazzi N'
+'Halenius U'
+'Zaccarini F'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 84 
+_journal_year 2020
+_journal_page_first 766
+_journal_page_last 777
+_publ_section_title
+;
+ Derbylite and graeserite from the Monte Arsiccio mine, Apuan Alps, Tuscany, Italy:
+ occurrence and crystal-chemistry
+ Note: Sample G
+;
+_database_code_amcsd 0020900
+_chemical_compound_source 'Monte Arsiccio mine, Apuan Alps, Italy'
+_chemical_formula_sum '(Ti4.346 Fe2.654) As.968 Sb.032 O14 Ba.232 Pb.089'
+_cell_length_a 5.0275
+_cell_length_b 14.2668
+_cell_length_c 7.1663
+_cell_angle_alpha 90
+_cell_angle_beta 105.123
+_cell_angle_gamma 90
+_cell_volume 496.211
+_exptl_crystal_density_diffrn      4.732
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+TiM1   0.00000   0.50000   0.50000   0.83000   0.01097
+FeM1   0.00000   0.50000   0.50000   0.17000   0.01097
+TiM2  -0.50000   0.61941   0.50000   0.58400   0.00841
+FeM2  -0.50000   0.61941   0.50000   0.41600   0.00841
+TiM3  -0.37935   0.80937   0.81408   0.58700   0.00844
+FeM3  -0.37935   0.80937   0.81408   0.41300   0.00844
+As  -0.24326   0.50000   0.91447   0.48400   0.01147
+Sb  -0.24326   0.50000   0.91447   0.01600   0.01147
+O1  -0.26950   0.90220   0.66086   1.00000   0.01060
+O2  -0.26760   0.70296   0.67771   1.00000   0.01070
+O3  -0.50000   0.71360   0.00000   1.00000   0.00860
+O4  -0.50000   0.90412   0.00000   1.00000   0.01440
+O5  -0.27710   0.50000   0.64730   1.00000   0.01110
+Ba1  -0.50000   0.50000   0.00000   0.23200   0.00990
+Pb2  -0.45830   0.50000   0.93950   0.04440   0.02200
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+TiM1 0.00880 0.00870 0.01380 0.00000 0.00018 0.00000
+FeM1 0.00880 0.00870 0.01380 0.00000 0.00018 0.00000
+TiM2 0.00804 0.00897 0.00818 0.00000 0.00201 0.00000
+FeM2 0.00804 0.00897 0.00818 0.00000 0.00201 0.00000
+TiM3 0.00833 0.00952 0.00780 0.00090 0.00267 0.00185
+FeM3 0.00833 0.00952 0.00780 0.00090 0.00267 0.00185
+As 0.01850 0.00800 0.00630 0.00000 0.00049 0.00000
+Sb 0.01850 0.00800 0.00630 0.00000 0.00049 0.00000
+O1 0.01130 0.00910 0.01080 0.00010 0.00190 0.00170
+O2 0.01070 0.01160 0.00950 0.00080 0.00230 -0.00060
+O3 0.00840 0.01050 0.00720 0.00000 0.00250 0.00000
+O4 0.01680 0.00860 0.01680 0.00000 0.00280 0.00000
+O5 0.01170 0.01130 0.01170 0.00000 0.00580 0.00000

@@ -1,0 +1,85 @@
+data_global
+_chemical_name_mineral 'Schiavinatoite'
+loop_
+_publ_author_name
+'Demartin F'
+'Diella V'
+'Gramaccioli C M'
+'Pezzotta F'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 13 
+_journal_year 2001
+_journal_page_first 159
+_journal_page_last 165
+_publ_section_title
+;
+ Schiavinatoite, (Nb,Ta)BO4, the Nb analogue of behierite
+;
+_database_code_amcsd 0006854
+_chemical_formula_sum '(Nb.52 Ta.48) B O4'
+_cell_length_a 6.219
+_cell_length_b 6.219
+_cell_length_c 5.487
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 212.215
+_exptl_crystal_density_diffrn      6.572
+_symmetry_space_group_name_H-M 'I 41/a m d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,1/2-x,1/4+z'
+  '1/2-y,-x,3/4+z'
+  '1/2+y,1/2+x,1/2-z'
+  '+y,+x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '+y,-x,-z'
+  '-y,1/2+x,1/4+z'
+  '1/2-y,+x,3/4+z'
+  '1/2+x,1/2-y,1/2+z'
+  '+x,-y,+z'
+  '1/2-x,y,3/4-z'
+  '-x,1/2+y,1/4-z'
+  '1/2+x,y,3/4-z'
+  '+x,1/2+y,1/4-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,+z'
+  '1/2+y,x,3/4+z'
+  '+y,1/2+x,1/4+z'
+  '-y,-x,-z'
+  '1/2-y,1/2-x,1/2-z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2+y,-x,3/4+z'
+  '+y,1/2-x,1/4+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,1/2-y,1/4-z'
+  '1/2+x,-y,3/4-z'
+  '-x,1/2-y,1/4-z'
+  '1/2-x,-y,3/4-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NbM   0.00000   0.00000   0.00000   0.52000   0.00325
+TaM   0.00000   0.00000   0.00000   0.48000   0.00325
+B   0.00000   0.00000   0.50000   1.00000   0.00557
+O   0.00000   0.17920   0.32390   1.00000   0.00481
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+NbM 0.00328 0.00328 0.00322 0.00000 0.00000 0.00000
+TaM 0.00328 0.00328 0.00322 0.00000 0.00000 0.00000
+B 0.00600 0.00600 0.00600 0.00000 0.00000 0.00000
+O 0.00750 0.00260 0.00410 0.00000 0.00000 0.00040

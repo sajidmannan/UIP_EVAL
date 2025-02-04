@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Spiroffite'
+loop_
+_publ_author_name
+'Cooper M A'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 34 
+_journal_year 1996
+_journal_page_first 821
+_journal_page_last 826
+_publ_section_title
+;
+ The crystal structure of spiroffite
+;
+_database_code_amcsd 0005504
+_chemical_compound_source 'Moctezuma, Sonora, Mexico'
+_chemical_formula_sum 'Te3 Mn2 O8'
+_cell_length_a 12.870
+_cell_length_b 5.3813
+_cell_length_c 11.888
+_cell_angle_alpha 90
+_cell_angle_beta 98.22
+_cell_angle_gamma 90
+_cell_volume 814.873
+_exptl_crystal_density_diffrn      5.059
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Te1   0.50000   0.36091   0.25000
+Te2   0.13776   0.18589   0.05780
+Mn   0.22883   0.19870   0.35050
+O1   0.07540   0.07610   0.35320
+O2   0.38460   0.38530   0.35830
+O3   0.26130   0.01580   0.02890
+O4   0.19610   0.36120   0.18720
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te1 0.00920 0.01060 0.01050 0.00000 0.00140 0.00000
+Te2 0.00960 0.01110 0.00820 0.00170 0.00080 -0.00060
+Mn 0.01080 0.00980 0.00970 -0.00150 0.00180 -0.00060
+O1 0.01210 0.02710 0.01210 -0.00520 0.00300 -0.00300
+O2 0.01310 0.01170 0.01440 -0.00110 0.00670 -0.00290
+O3 0.01070 0.01270 0.01130 0.00130 0.00460 0.00230
+O4 0.02190 0.01260 0.00830 -0.00250 0.00130 -0.00130

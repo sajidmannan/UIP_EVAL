@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Tachyhydrite'
+loop_
+_publ_author_name
+'Leclaire A'
+'Borel M'
+'Monier J'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 36 
+_journal_year 1980
+_journal_page_first 2734
+_journal_page_last 2735
+_publ_section_title
+;
+ Structure de la tachydrite
+ _cod_database_code 1001774
+;
+_database_code_amcsd 0009719
+_chemical_formula_sum 'Ca Cl6 Mg2 O12 H24'
+_cell_length_a 8.215
+_cell_length_b 8.215
+_cell_length_c 8.215
+_cell_angle_alpha 76.04
+_cell_angle_beta 76.04
+_cell_angle_gamma 76.04
+_cell_volume 512.177
+_exptl_crystal_density_diffrn      1.678
+_symmetry_space_group_name_H-M 'R -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-z,-x,-y'
+  'y,z,x'
+  '-x,-y,-z'
+  'z,x,y'
+  '-y,-z,-x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca1   0.00000   0.00000   0.00000
+Cl1   0.27068   0.16138  -0.15443
+Mg1   0.32405   0.32405   0.32405
+O1  -0.48186   0.20142   0.45471
+O2   0.44369   0.18449   0.13688
+H1   0.50400   0.15500   0.54100
+H2  -0.38600   0.19300   0.40100
+H3   0.38800   0.17200   0.00610
+H4   0.52500   0.10400   0.13700

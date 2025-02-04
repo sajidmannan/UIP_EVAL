@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Kochkarite'
+loop_
+_publ_author_name
+'Talybov A G'
+'Vainshtein B K'
+_journal_name_full 'Soviet Physics Crystallography'
+_journal_volume 6 
+_journal_year 1962
+_journal_page_first 432
+_journal_page_last 438
+_publ_section_title
+;
+ An electron diffraction study of the structure of PbBi4Te7
+ Loality: synthetic
+;
+_database_code_amcsd 0015543
+_chemical_formula_sum 'Bi3 Te5.25 Pb.75'
+_cell_length_a 4.50
+_cell_length_b 4.50
+_cell_length_c 17.600
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 308.651
+_exptl_crystal_density_diffrn      7.813
+_symmetry_space_group_name_H-M 'P -3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,-x+y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+  '-x,-y,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  'x-y,x,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Bi1   0.00000   0.00000   0.00000   1.00000
+Te2   0.33333   0.66667   0.11000   1.00000
+Te1   0.00000   0.00000   0.33333   0.81250
+Pb1   0.00000   0.00000   0.33333   0.18750
+Te3   0.33333   0.66667   0.44400   0.81250
+Pb2   0.33333   0.66667   0.44400   0.18750
+Bi2   0.33333   0.66667   0.77800   1.00000

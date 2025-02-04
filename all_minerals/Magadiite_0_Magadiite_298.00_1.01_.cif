@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Magadiite'
+loop_
+_publ_author_name
+'Garces J M'
+'Rocke S C'
+'Crowder C E'
+'Hasha D L'
+_journal_name_full 'Clays and Clay Minerals'
+_journal_volume 36 
+_journal_year 1988
+_journal_page_first 409
+_journal_page_last 418
+_publ_section_title
+;
+ Hypothetical structures of magadiite and sodium octosilicate and structural
+ relationships between the layered alkali metal silicates and the mordenite- and
+ pentasil-group zeolites
+ Note: hypothetical model structure
+ Note: setting changed from left- to right-handed
+;
+_database_code_amcsd 0012231
+_chemical_formula_sum 'Si6 O13'
+_cell_length_a 27.5
+_cell_length_b 7.52
+_cell_length_c 9.20
+_cell_angle_alpha 90
+_cell_angle_beta 101
+_cell_angle_gamma 90
+_cell_volume 1867.605
+_exptl_crystal_density_diffrn      1.339
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Si1   0.21126   0.29551   0.84561
+Si2   0.20801   0.28739   0.35290
+Si3   0.12449   0.00000   0.73781
+Si4   0.12371   0.00000   0.37788
+O1   0.16201   0.16926   0.80020
+O2   0.15677   0.17826   0.35159
+O3   0.25739   0.30479   0.75460
+O4   0.11734   0.00000   0.55363
+O5   0.20147   0.50000   0.32162
+O6   0.19115   0.50000   0.85903
+O7   0.25000   0.25000   0.00000
+O8   0.25000   0.25000   0.50000
+O9   0.06741   0.00000   0.77744
+O10   0.06851   0.00000   0.27024

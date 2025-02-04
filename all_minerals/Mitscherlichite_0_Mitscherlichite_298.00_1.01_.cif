@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Mitscherlichite'
+loop_
+_publ_author_name
+'Chrobak L'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 88 
+_journal_year 1934
+_journal_page_first 35
+_journal_page_last 47
+_publ_section_title
+;
+ Quantitative spectrometric studies of ammonium and of potassium cupric chloride
+ dihydrate (NH4)2CuCl4*2H2O and K2CuCl4*2H2O
+;
+_database_code_amcsd 0010516
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Cu K2 O2 Cl4 H4'
+_cell_length_a 7.45
+_cell_length_b 7.45
+_cell_length_c 7.88
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 437.360
+_exptl_crystal_density_diffrn      2.427
+_symmetry_space_group_name_H-M 'P 42/m n m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '1/2-y,1/2+x,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'y,x,z'
+  '-y,-x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2+y,1/2-x,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu   0.00000   0.00000   0.00000
+K   0.00000   0.50000   0.25000
+O   0.00000   0.00000   0.24800
+Cl1   0.22000   0.22000   0.00000
+Cl2   0.22000   0.22000   0.50000
+H   0.07600   0.07600   0.32200

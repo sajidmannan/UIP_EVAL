@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Viitaniemiite'
+loop_
+_publ_author_name
+'Pajunen A'
+'Lahti S I'
+_journal_name_full 'American Mineralogist'
+_journal_volume 69 
+_journal_year 1984
+_journal_page_first 961
+_journal_page_last 966
+_publ_section_title
+;
+ The crystal structure of viitaniemiite
+;
+_database_code_amcsd 0000961
+_chemical_compound_source 'Viitaniemi pegmatite, Orivesi, southern Finland'
+_chemical_formula_sum 'Ca.592 Mn.401 Al Na P F2 O5 H'
+_cell_length_a 5.457
+_cell_length_b 7.151
+_cell_length_c 6.836
+_cell_angle_alpha 90
+_cell_angle_beta 109.36
+_cell_angle_gamma 90
+_cell_volume 251.677
+_exptl_crystal_density_diffrn      3.242
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Ca   0.50000   0.00000   0.50000   0.59200
+Mn   0.50000   0.00000   0.50000   0.40100
+Al   0.00000   0.00000   0.00000   1.00000
+Na   0.46750   0.25000  -0.04630   1.00000
+P  -0.03660   0.25000   0.36830   1.00000
+F   0.34680   0.00300   0.15470   1.00000
+O1   0.24560   0.25000   0.51600   1.00000
+O2  -0.23360   0.25000   0.48600   1.00000
+O3  -0.08500   0.07550   0.23000   1.00000
+O4   0.02390   0.25000  -0.08150   1.00000
+H  -0.00500   0.25000  -0.20100   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01720 0.00990 0.00940 -0.00110 0.00480 -0.00090
+Mn 0.01720 0.00990 0.00940 -0.00110 0.00480 -0.00090
+Al 0.01250 0.00760 0.00680 -0.00060 0.00290 -0.00030
+Na 0.02750 0.02350 0.03870 0.00000 0.02980 0.00000
+P 0.01170 0.01020 0.00660 0.00000 0.00410 0.00000
+F 0.01370 0.01600 0.01540 -0.00010 0.00080 0.00310
+O1 0.01330 0.03700 0.01360 0.00000 0.00460 0.00000
+O2 0.01510 0.01880 0.00800 0.00000 0.00670 0.00000
+O3 0.04010 0.00830 0.01680 -0.00460 0.01940 -0.00100
+O4 0.01910 0.00760 0.00630 0.00000 0.00520 0.00000

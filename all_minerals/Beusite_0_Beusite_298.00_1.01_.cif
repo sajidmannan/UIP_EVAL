@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Beusite'
+loop_
+_publ_author_name
+'Steele I M'
+'Olsen E'
+'Pluth J J'
+'Davis A M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 76 
+_journal_year 1991
+_journal_page_first 1985
+_journal_page_last 1989
+_publ_section_title
+;
+ Occurrence and crystal structure of Ca-free beusite in the El Sampal IIIA iron
+ meteorite
+;
+_database_code_amcsd 0001437
+_chemical_formula_sum 'P2 (Mn1.5 Fe1.5) O8'
+_cell_length_a 8.757
+_cell_length_b 11.381
+_cell_length_c 6.136
+_cell_angle_alpha 90
+_cell_angle_beta 99.09
+_cell_angle_gamma 90
+_cell_volume 603.855
+_exptl_crystal_density_diffrn      3.917
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+P1   0.09110   0.13720   0.39320   1.00000
+P2   0.60650   0.08780   0.80700   1.00000
+Mn1   0.94570   0.11650   0.84410   0.50000
+Fe1   0.94570   0.11650   0.84410   0.50000
+Mn2   0.72180   0.07990   0.32970   0.50000
+Fe2   0.72180   0.07990   0.32970   0.50000
+Mn3   0.36390   0.19180   0.12600   0.50000
+Fe3   0.36390   0.19180   0.12600   0.50000
+O1   0.07600   0.06750   0.17660   1.00000
+O2   0.48180   0.17830   0.83030   1.00000
+O3   0.94020   0.20310   0.40670   1.00000
+O4   0.70010   0.12500   0.62810   1.00000
+O5   0.22040   0.22680   0.37910   1.00000
+O6   0.72760   0.08440   0.01590   1.00000
+O7   0.12990   0.06270   0.60040   1.00000
+O8   0.53350  -0.03430   0.75880   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P1 0.01270 0.01130 0.00850 -0.00060 0.00120 0.00030
+P2 0.01340 0.01340 0.00740 0.00010 0.00210 0.00020
+Mn1 0.02150 0.01410 0.02080 0.00000 -0.00190 -0.00190
+Fe1 0.02150 0.01410 0.02080 0.00000 -0.00190 -0.00190
+Mn2 0.02060 0.02590 0.00570 0.00690 0.00180 0.00010
+Fe2 0.02060 0.02590 0.00570 0.00690 0.00180 0.00010
+Mn3 0.01730 0.01430 0.01000 0.00210 0.00090 0.00030
+Fe3 0.01730 0.01430 0.01000 0.00210 0.00090 0.00030
+O1 0.01800 0.01500 0.01000 0.00300 0.00100 -0.00200
+O2 0.01800 0.01800 0.01300 0.00600 0.00200 0.00200
+O3 0.01700 0.01500 0.01800 0.00300 0.00400 -0.00100
+O4 0.01500 0.01900 0.01100 -0.00300 0.00400 0.00200
+O5 0.01800 0.02500 0.01400 -0.00900 0.00300 -0.00200
+O6 0.00700 0.02100 0.01200 0.00100 0.00100 0.00000
+O7 0.02100 0.01600 0.01100 -0.00200 -0.00200 0.00400
+O8 0.01800 0.01200 0.01500 -0.00300 0.00200 -0.00100

@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Roubaultite'
+loop_
+_publ_author_name
+'Ginderow D'
+'Cesbron F'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 41 
+_journal_year 1985
+_journal_page_first 654
+_journal_page_last 657
+_publ_section_title
+;
+ Structure de la roubaultite, Cu2(UO2)3(CO3)2O2(OH)2(H2O)4
+ Note: anisoB's from ICSD
+;
+_database_code_amcsd 0010005
+_chemical_compound_source 'Shinkolobwe, Province du Shaba, Zaire'
+_chemical_formula_sum 'Cu2 U3 C2 O20 H10'
+_cell_length_a 7.767
+_cell_length_b 6.924
+_cell_length_c 7.850
+_cell_angle_alpha 92.16
+_cell_angle_beta 90.89
+_cell_angle_gamma 93.48
+_cell_volume 421.018
+_exptl_crystal_density_diffrn      4.714
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu   0.49940   0.26040   0.49290   0.01393
+U1   0.00000   0.00000   0.00000   0.01026
+U2   0.13770   0.51790   0.19470   0.00887
+C   0.23050   0.02840   0.31340   0.01267
+O1   0.18840  -0.00060   0.86490   0.02406
+O2   0.33320   0.53750   0.07210   0.02280
+O3  -0.04770   0.50100   0.32410   0.02153
+O4   0.16590  -0.13140   0.24800   0.02280
+O5   0.00300   0.31430   0.99770   0.01900
+O6   0.18390   0.17890   0.24060   0.02786
+O7   0.34110   0.03450   0.44090   0.01520
+O8   0.32190   0.54120   0.43910   0.01393
+O9   0.40750   0.27890   0.72610   0.02280
+O10   0.42100   0.74700   0.74760   0.02406
+H1   0.23500   0.44800   0.50300   0.04179
+H2   0.35400   0.20800   0.77900   0.03673
+H3   0.48100   0.33300   0.81200   0.01900
+H4   0.40300   0.66300   0.80000   0.02786
+H5   0.32100   0.83100   0.73900   0.04939
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.01918 0.01111 0.01060 -0.00461 -0.00370 -0.00329
+U1 0.01522 0.00532 0.01028 -0.00054 -0.00431 -0.00137
+U2 0.01248 0.00628 0.00779 -0.00054 -0.00400 -0.00137
+C 0.01765 0.00846 0.01340 -0.00353 -0.00893 -0.00604
+O1 0.03074 0.01667 0.02462 -0.00407 0.00339 -0.00192
+O2 0.01492 0.03624 0.01621 0.00081 -0.00062 -0.00686
+O3 0.01918 0.03020 0.01621 -0.00136 0.00277 -0.00027
+O4 0.03988 0.00000 0.02805 -0.00488 -0.01417 -0.00247
+O5 0.02679 0.01740 0.01589 -0.01410 -0.00585 -0.00192
+O6 0.04079 0.01474 0.02649 0.00380 -0.02618 -0.00220
+O7 0.01583 0.01377 0.01714 -0.00434 -0.01201 -0.00027
+O8 0.01157 0.02005 0.01028 -0.00542 0.00000 0.00000
+O9 0.02800 0.02609 0.01371 -0.01139 0.00000 -0.00521
+O10 0.03196 0.02392 0.01652 -0.00054 -0.00092 -0.00027

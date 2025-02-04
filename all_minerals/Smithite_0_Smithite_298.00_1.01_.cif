@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Smithite'
+loop_
+_publ_author_name
+'Hellner E'
+'Burzlaff H'
+_journal_name_full 'Naturwissenschaften'
+_journal_volume 51 
+_journal_year 1964
+_journal_page_first 35
+_journal_page_last 36
+_publ_section_title
+;
+ Die struktur des smithits AgAsS2
+;
+_database_code_amcsd 0014690
+_chemical_compound_source 'Lengenbach quarry, Binnatal, Switzerland'
+_chemical_formula_sum 'Ag As S2'
+_cell_length_a 17.23
+_cell_length_b 7.78
+_cell_length_c 15.19
+_cell_angle_alpha 90
+_cell_angle_beta 101.20
+_cell_angle_gamma 90
+_cell_volume 1997.431
+_exptl_crystal_density_diffrn      4.927
+_symmetry_space_group_name_H-M 'A m m 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ag1   0.09080   0.11950   0.35610   0.03952
+Ag2   0.41890   0.62010   0.43250   0.04914
+Ag3   0.25000   0.38770   0.50000   0.04281
+Ag4   0.25000   0.87400   0.50000   0.03926
+As1   0.26610   0.36360   0.25300   0.01292
+As2   0.42160   0.12310   0.17280   0.01317
+As3   0.41430   0.12430   0.40790   0.01343
+S1   0.10130   0.91150   0.49850   0.01900
+S2   0.08630   0.41410   0.42990   0.01773
+S3   0.22080   0.67360   0.12670   0.01646
+S4   0.28600   0.16450   0.14270   0.01646
+S5   0.38750   0.46840   0.28330   0.02026
+S6   0.07250   0.44500   0.20720   0.01646

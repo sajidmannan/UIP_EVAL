@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Perrierite-(La)'
+loop_
+_publ_author_name
+'Calvo C'
+'Faggiani R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 59 
+_journal_year 1974
+_journal_page_first 1277
+_journal_page_last 1285
+_publ_section_title
+;
+ A re-investigation of the crystal structures of chevkinite and perrierite
+;
+_database_code_amcsd 0000435
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'La4 Si4 Mg2 Ti3 O22'
+_cell_length_a 13.818
+_cell_length_b 5.677
+_cell_length_c 11.787
+_cell_angle_alpha 90
+_cell_angle_beta 113.85
+_cell_angle_gamma 90
+_cell_volume 845.672
+_exptl_crystal_density_diffrn      4.760
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+La1   0.23756   0.01980   0.26687   1.00000   0.00780
+La2   0.04897   0.02650   0.74320   1.00000   0.00870
+Si1   0.41230  -0.00010   0.73220   1.00000   0.00570
+Si2   0.16240   0.00270   0.54890   1.00000   0.00690
+Mg   0.00000   0.50000   0.50000   1.00000   0.00470
+Ti1  -0.00390   0.23850   0.00040   0.61600   0.01050
+Mg1  -0.00390   0.23850   0.00040   0.38400   0.01050
+Ti2   0.27490   0.00710   0.01700   0.88400   0.00680
+Mg2   0.27490   0.00710   0.01700   0.11600   0.00680
+O1   0.07940  -0.25970   0.18640   1.00000   0.00910
+O11   0.06520   0.25560   0.18580   1.00000   0.01030
+O2   0.28990   0.26060   0.12290   1.00000   0.01280
+O21   0.28750  -0.24010   0.12250   1.00000   0.01050
+O3   0.37360  -0.25110   0.40580   1.00000   0.01230
+O31   0.39200   0.28620   0.40660   1.00000   0.01390
+O4   0.09570   0.00770   0.98940   1.00000   0.01140
+O5   0.40670  -0.00410   0.00890   1.00000   0.01100
+O6   0.49320   0.03280   0.66670   1.00000   0.01500
+O7   0.28840  -0.03370   0.63660   1.00000   0.01760
+O8   0.13840  -0.00360   0.40420   1.00000   0.01150

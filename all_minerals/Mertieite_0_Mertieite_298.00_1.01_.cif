@@ -1,0 +1,91 @@
+data_global
+_chemical_name_mineral 'Mertieite'
+loop_
+_publ_author_name
+'Marsh R E'
+_journal_name_full 'Acta Crystallographica, Section A'
+_journal_volume 50 
+_journal_year 1994
+_journal_page_first 450
+_journal_page_last 455
+_publ_section_title
+;
+ The centrosymmetric - noncentrosymmetric ambiguity: some more examples
+;
+_database_code_amcsd 0009331
+_chemical_formula_sum 'Pd8 Sb3'
+_cell_length_a 7.6152
+_cell_length_b 7.6152
+_cell_length_c 43.032
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 2161.149
+_exptl_crystal_density_diffrn     11.218
+_symmetry_space_group_name_H-M 'R -3 c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,1/2+z'
+  '2/3+x,1/3+x-y,5/6+z'
+  '1/3+x,2/3+x-y,1/6+z'
+  'y,x,1/2-z'
+  '2/3+y,1/3+x,5/6-z'
+  '1/3+y,2/3+x,1/6-z'
+  '-x+y,y,1/2+z'
+  '2/3-x+y,1/3+y,5/6+z'
+  '1/3-x+y,2/3+y,1/6+z'
+  '-x,-x+y,1/2-z'
+  '2/3-x,1/3-x+y,5/6-z'
+  '1/3-x,2/3-x+y,1/6-z'
+  '-y,-x,1/2+z'
+  '2/3-y,1/3-x,5/6+z'
+  '1/3-y,2/3-x,1/6+z'
+  'x-y,-y,1/2-z'
+  '2/3+x-y,1/3-y,5/6-z'
+  '1/3+x-y,2/3-y,1/6-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pd1   0.33210   0.40280   0.05220   0.02170
+Pd2   0.34040   0.03100   0.01750   0.02080
+Pd3   0.00000   0.00000   0.21880   0.02720
+Pd4   0.00000   0.00000   0.06200   0.02280
+Sbl  -0.31890   0.00000   0.25000   0.01820
+Sb2   0.00000   0.00000   0.15700   0.01910
+Sb3   0.00000   0.00000   0.00000   0.01980
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pd1 0.01720 0.02300 0.02070 0.00690 0.00170 -0.00210
+Pd2 0.01200 0.02280 0.02620 0.00770 0.00360 0.00220
+Pd3 0.02820 0.02820 0.02510 0.01410 0.00000 0.00000
+Pd4 0.02260 0.02260 0.02310 0.01130 0.00000 0.00000
+Sbl 0.01900 0.01810 0.01720 0.00910 0.00000 0.00000
+Sb2 0.01740 0.01740 0.02250 0.00870 0.00000 0.00000
+Sb3 0.01810 0.01810 0.02320 0.00900 0.00000 0.00000

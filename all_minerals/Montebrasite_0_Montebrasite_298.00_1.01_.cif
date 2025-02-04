@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Montebrasite'
+loop_
+_publ_author_name
+'Groat L A'
+'Raudsepp M'
+'Hawthorne F C'
+'Ercit T S'
+'Sherriff B L'
+'Hartman J S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 75 
+_journal_year 1990
+_journal_page_first 992
+_journal_page_last 1008
+_publ_section_title
+;
+ The amblygonite-montebrasite series: Characterization by single-crystal
+ structure refinement, infrared spectroscopy and multinuclear MAS-NMR
+ spectroscopy
+ sample AF-47
+;
+_database_code_amcsd 0001320
+_chemical_formula_sum 'P Al O5 Li H'
+_cell_length_a 6.713
+_cell_length_b 7.708
+_cell_length_c 7.0194
+_cell_angle_alpha 91.31
+_cell_angle_beta 117.93
+_cell_angle_gamma 91.77
+_cell_volume 320.464
+_exptl_crystal_density_diffrn      3.024
+_symmetry_space_group_name_H-M 'C 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+P  -0.01605   0.34212   0.26653   0.00410
+Al1   0.00000   0.00000   0.00000   0.00480
+Al2   0.00000   0.00000   0.50000   0.00460
+O1  -0.31720   0.01540  -0.15920   0.00660
+O2   0.29810   0.05810   0.57430   0.00650
+O3   0.10130  -0.22340  -0.38970   0.00630
+O4   0.02650   0.23620   0.10350   0.00760
+O-h   0.04710   0.08900  -0.22650   0.00590
+Li   0.06960  -0.32020   0.31010   0.01720
+H   0.18300   0.12900   0.84800   0.01000

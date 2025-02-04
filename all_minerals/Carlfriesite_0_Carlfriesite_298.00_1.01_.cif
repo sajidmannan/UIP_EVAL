@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Carlfriesite'
+loop_
+_publ_author_name
+'Effenberger H'
+'Zemann J'
+'Mayer H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 63 
+_journal_year 1978
+_journal_page_first 847
+_journal_page_last 852
+_publ_section_title
+;
+ Carlfriesite: crystal structure, revision of chemical formula, and synthesis
+;
+_database_code_amcsd 0000684
+_chemical_formula_sum 'Te3 Ca O8'
+_cell_length_a 12.576
+_cell_length_b 5.662
+_cell_length_c 9.994
+_cell_angle_alpha 90
+_cell_angle_beta 115.56
+_cell_angle_gamma 90
+_cell_volume 641.982
+_exptl_crystal_density_diffrn      5.700
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Te1   0.71563   0.58751   0.85825 ?
+Te2   0.00000   0.00000   0.00000 ?
+Ca   0.00000   0.44040   0.25000 ?
+O1   0.08040   0.21830   0.66160   0.00963
+O2   0.09800   0.24410   0.11710   0.01051
+O3   0.10430   0.09280   0.40680   0.00709
+O4   0.68390   0.10420   0.40980   0.00849
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te1 0.01077 0.01087 0.00852 -0.00007 0.00453 -0.00109
+Te2 0.00672 0.00842 0.00369 -0.00078 0.00139 -0.00003
+Ca 0.00430 0.00570 0.00557 0.00000 0.00038 0.00000

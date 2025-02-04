@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Nowackiite'
+loop_
+_publ_author_name
+'Marumo F'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 124 
+_journal_year 1967
+_journal_page_first 352
+_journal_page_last 368
+_publ_section_title
+;
+ The crystal structure of nowackiite, Cu6Zn3As4S12
+;
+_database_code_amcsd 0010640
+_chemical_compound_source 'Lengenbach, Binnatal, Switzerland'
+_chemical_formula_sum '(Cu6 Zn3) As4 S12'
+_cell_length_a 13.440
+_cell_length_b 13.440
+_cell_length_c 9.17
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1434.493
+_exptl_crystal_density_diffrn      4.382
+_symmetry_space_group_name_H-M 'R 3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu   0.07410   0.29320   0.99870   0.66670   0.01127
+Zn1   0.07410   0.29320   0.99870   0.33330   0.01127
+Cu2   0.30880   0.22750   0.99200   0.66670   0.00912
+Zn2   0.30880   0.22750   0.99200   0.33330   0.00912
+Cu3   0.38950   0.55390   0.00880   0.66670   0.01836
+Zn3   0.38950   0.55390   0.00880   0.33330   0.01836
+As1   0.55330   0.16800   0.00710   1.00000   0.01064
+As2   0.00000   0.00000   0.98080   1.00000   0.00659
+S1   0.36950   0.10260   0.07920   1.00000   0.01153
+S2   0.43800   0.41500   0.07080   1.00000   0.01178
+S3   0.12510   0.16460   0.09090   1.00000   0.01368
+S4   0.20360   0.47500   0.09610   1.00000   0.01026
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.01146 0.00597 0.01342 0.00226 -0.00233 -0.00449
+Zn1 0.01146 0.00597 0.01342 0.00226 -0.00233 -0.00449
+Cu2 0.00611 0.00769 0.01074 0.00137 0.00162 -0.00049
+Zn2 0.00611 0.00769 0.01074 0.00137 0.00162 -0.00049
+Cu3 0.01421 0.01572 0.02262 0.00549 0.00184 0.00027
+Zn3 0.01421 0.01572 0.02262 0.00549 0.00184 0.00027
+As1 0.00878 0.00995 0.01074 0.00288 -0.00065 -0.00103
+As2 0.00837 0.00837 0.00315 0.00419 0.00000 0.00000
+S1 0.01132 0.01201 0.01274 0.00707 0.00119 -0.00141
+S2 0.01112 0.01036 0.01227 0.00405 0.00038 -0.00043
+S3 0.01325 0.00961 0.01896 0.00638 0.00303 0.00081
+S4 0.00618 0.01297 0.01210 0.00522 0.00168 0.00552

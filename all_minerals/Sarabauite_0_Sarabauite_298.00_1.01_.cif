@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Sarabauite'
+loop_
+_publ_author_name
+'Nakai I'
+'Nagashima K'
+'Koto K'
+'Morimoto N'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 34 
+_journal_year 1978
+_journal_page_first 3569
+_journal_page_last 3572
+_publ_section_title
+;
+ Crystal structure of oxide-chalcogenide. I.The crystal stucture of sarabauite CaSb10O10S6
+;
+_database_code_amcsd 0009650
+_chemical_compound_source 'Sarabau mine, Sarawak, Malaysia'
+_chemical_formula_sum 'Ca Sb10 O10 S6'
+_cell_length_a 25.37
+_cell_length_b 5.654
+_cell_length_c 16.87
+_cell_angle_alpha 90
+_cell_angle_beta 117.58
+_cell_angle_gamma 90
+_cell_volume 2144.885
+_exptl_crystal_density_diffrn      4.986
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.00000   0.44690   0.25000   0.01127
+Sb1   0.45169   0.49080   0.08811   0.01178
+Sb2   0.06051   0.43970   0.08433   0.01368
+Sb3   0.40195   0.39040   0.24784   0.01115
+Sb4   0.16446   0.38590   0.45181   0.01431
+Sb5   0.22746   0.10100   0.13422   0.02216
+O1   0.02416   0.32940   0.48238   0.01938
+O2   0.08414   0.25010   0.37423   0.01570
+O3   0.45493   0.14690   0.33428   0.01558
+O4   0.43880   0.27960   0.17364   0.01469
+O5   0.03093   0.11500   0.17919   0.01608
+S1   0.29545   0.47990   0.02610   0.01811
+S2   0.17228   0.42820   0.31099   0.01849
+S3   0.32441   0.26270   0.35632   0.04927
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01306 0.00372 0.01416 0.00000 0.00767 0.00000
+Sb1 0.01614 0.00541 0.01178 -0.00129 0.00920 -0.00274
+Sb2 0.01819 0.00912 0.01246 0.00142 0.01039 -0.00167
+Sb3 0.01383 0.00512 0.01223 0.00129 0.00818 -0.00034
+Sb4 0.01640 0.00766 0.01574 -0.00161 0.00954 -0.00103
+Sb5 0.02101 0.01420 0.02753 0.00187 0.01601 -0.00296
+O1 0.02408 0.01166 0.01574 0.00966 0.00715 -0.00043
+O2 0.01998 0.00648 0.01597 -0.00232 0.00886 0.00385
+O5 0.01306 0.01377 0.01982 -0.00206 0.01226 0.00000
+S1 0.01870 0.00988 0.01869 0.00052 0.00528 0.00300
+S2 0.02049 0.01636 0.01574 -0.00296 0.01175 0.00236
+S3 0.05021 0.04146 0.05324 0.02686 0.04259 0.01872

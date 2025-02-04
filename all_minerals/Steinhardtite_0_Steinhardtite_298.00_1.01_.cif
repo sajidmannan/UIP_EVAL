@@ -1,0 +1,158 @@
+data_global
+_chemical_name_mineral 'Steinhardtite'
+loop_
+_publ_author_name
+'Bindi L'
+'Yao N'
+'Lin C'
+'Hollister L S'
+'MacPherson G J'
+'Poirier G R'
+'Andronicos C L'
+'Distler V V'
+'Eddy M P'
+'Kostin A'
+'Kryachko V'
+'Steinhardt W M'
+'Yudovskaya M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 99 
+_journal_year 2014
+_journal_page_first 2433
+_journal_page_last 2436
+_publ_section_title
+;
+ Steinhardtite, a new body-centered-cubic allotropic form of aluminum from the
+ Khatyrka CV3 carbonaceous chondrite
+;
+_database_code_amcsd 0020416
+_chemical_compound_source 'Khatyrka CV3 carbonaceous chondrite, Koryak Mountains, Russia'
+_chemical_formula_sum '(Al.38 Ni.32 Fe.3)'
+_cell_length_a 3.0214
+_cell_length_b 3.0214
+_cell_length_c 3.0214
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 27.582
+_exptl_crystal_density_diffrn      5.513
+_symmetry_space_group_name_H-M 'I m -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'z,-x,y'
+  '1/2+z,1/2-x,1/2+y'
+  '-y,z,-x'
+  '1/2-y,1/2+z,1/2-x'
+  'x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '-z,x,-y'
+  '1/2-z,1/2+x,1/2-y'
+  'y,-z,x'
+  '1/2+y,1/2-z,1/2+x'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  'x,-z,-y'
+  '1/2+x,1/2-z,1/2-y'
+  '-z,y,x'
+  '1/2-z,1/2+y,1/2+x'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-x,z,y'
+  '1/2-x,1/2+z,1/2+y'
+  'z,-y,-x'
+  '1/2+z,1/2-y,1/2-x'
+  '-y,x,z'
+  '1/2-y,1/2+x,1/2+z'
+  'x,z,y'
+  '1/2+x,1/2+z,1/2+y'
+  '-z,-y,-x'
+  '1/2-z,1/2-y,1/2-x'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-x,-z,-y'
+  '1/2-x,1/2-z,1/2-y'
+  'z,y,x'
+  '1/2+z,1/2+y,1/2+x'
+  '-y,-x,-z'
+  '1/2-y,1/2-x,1/2-z'
+  'z,x,-y'
+  '1/2+z,1/2+x,1/2-y'
+  '-y,-z,x'
+  '1/2-y,1/2-z,1/2+x'
+  'x,y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-z,-x,y'
+  '1/2-z,1/2-x,1/2+y'
+  'y,z,-x'
+  '1/2+y,1/2+z,1/2-x'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  '-z,x,y'
+  '1/2-z,1/2+x,1/2+y'
+  'y,-z,-x'
+  '1/2+y,1/2-z,1/2-x'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'z,-x,-y'
+  '1/2+z,1/2-x,1/2-y'
+  '-y,z,x'
+  '1/2-y,1/2+z,1/2+x'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+  '-x,z,-y'
+  '1/2-x,1/2+z,1/2-y'
+  'z,-y,x'
+  '1/2+z,1/2-y,1/2+x'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'x,-z,y'
+  '1/2+x,1/2-z,1/2+y'
+  '-z,y,-x'
+  '1/2-z,1/2+y,1/2-x'
+  'y,-x,z'
+  '1/2+y,1/2-x,1/2+z'
+  '-x,-z,y'
+  '1/2-x,1/2-z,1/2+y'
+  'z,y,-x'
+  '1/2+z,1/2+y,1/2-x'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'x,z,-y'
+  '1/2+x,1/2+z,1/2-y'
+  '-z,-y,x'
+  '1/2-z,1/2-y,1/2+x'
+  'y,x,-z'
+  '1/2+y,1/2+x,1/2-z'
+  '-z,-x,-y'
+  '1/2-z,1/2-x,1/2-y'
+  'y,z,x'
+  '1/2+y,1/2+z,1/2+x'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+  'z,x,y'
+  '1/2+z,1/2+x,1/2+y'
+  '-y,-z,-x'
+  '1/2-y,1/2-z,1/2-x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Al   0.00000   0.00000   0.00000   0.38000   0.02470
+Ni   0.00000   0.00000   0.00000   0.32000   0.02470
+Fe   0.00000   0.00000   0.00000   0.30000   0.02470
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al 0.02470 0.02470 0.02470 0.00000 0.00000 0.00000
+Ni 0.02470 0.02470 0.02470 0.00000 0.00000 0.00000
+Fe 0.02470 0.02470 0.02470 0.00000 0.00000 0.00000

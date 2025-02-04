@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Santarosaite'
+loop_
+_publ_author_name
+'Martinez-Ripoll M'
+'Martinez-Carrera S'
+'Garcia-Blanco S'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 27 
+_journal_year 1971
+_journal_page_first 677
+_journal_page_last 681
+_publ_section_title
+;
+ The crystal structure of copper metaborate, CuB2O4
+;
+_database_code_amcsd 0009389
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Cu B2 O4'
+_cell_length_a 11.484
+_cell_length_b 11.484
+_cell_length_c 5.620
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 741.178
+_exptl_crystal_density_diffrn      4.010
+_symmetry_space_group_name_H-M 'I -4 2 d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/2-y,-x,3/4+z'
+  '-y,1/2-x,1/4+z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-x,1/2+y,1/4-z'
+  '1/2-x,+y,3/4-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  '1/2+y,x,3/4+z'
+  '+y,1/2+x,1/4+z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'x,1/2-y,1/4-z'
+  '1/2+x,-y,3/4-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.00000   0.00000   0.50000   0.00950
+Cu2   0.08150   0.25000   0.12500   0.00963
+B1   0.18380   0.14840   0.69920   0.00127
+B2  -0.00110   0.25000   0.62500   0.00127
+O1   0.15900   0.07080   0.49810   0.00253
+O2   0.25280   0.25000   0.62500   0.00253
+O3   0.25000   0.08270   0.87500   0.01115
+O4   0.07450   0.18900   0.79560   0.00253

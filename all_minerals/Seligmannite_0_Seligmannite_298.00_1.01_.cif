@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Seligmannite'
+loop_
+_publ_author_name
+'Takeuchi Y'
+'Haga N'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 130 
+_journal_year 1969
+_journal_page_first 254
+_journal_page_last 260
+_publ_section_title
+;
+ On the crystal structures of seligmannite, PbCuAsS3, and related minerals
+;
+_database_code_amcsd 0010700
+_chemical_formula_sum 'Pb Cu As S3'
+_cell_length_a 8.081
+_cell_length_b 8.747
+_cell_length_c 7.636
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 539.747
+_exptl_crystal_density_diffrn      5.438
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,1/2+z'
+  'x,y,-z'
+  '-x,1/2+y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.07620   0.00000   0.00000   0.01229
+Pb2   0.55580   0.19230   0.50000   0.00988
+Cu   0.27860   0.42870   0.24190   0.00228
+As1   0.07160   0.07730   0.50000   0.00253
+As2   0.50680   0.15700   0.00000   0.00253
+S1   0.25550   0.27610   0.00000   0.00127
+S2   0.22570   0.29600   0.50000   0.00127
+S3   0.10120   0.64750   0.23510   0.00127
+S4   0.56010   0.49700   0.26310   0.00127

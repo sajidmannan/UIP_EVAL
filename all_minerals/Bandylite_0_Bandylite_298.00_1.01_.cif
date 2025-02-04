@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Bandylite'
+loop_
+_publ_author_name
+'Li Y'
+'Burns P C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 38 
+_journal_year 2000
+_journal_page_first 713
+_journal_page_last 715
+_publ_section_title
+;
+ Refinement of the structure of bandylite
+;
+_database_code_amcsd 0005654
+_chemical_formula_sum 'Cu B O4 Cl H4'
+_cell_length_a 6.171
+_cell_length_b 6.171
+_cell_length_c 5.587
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 212.760
+_exptl_crystal_density_diffrn      2.776
+_symmetry_space_group_name_H-M 'P 4/n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'y,-x,-z'
+  '1/2-y,1/2+x,z'
+  '1/2+x,1/2+y,-z'
+  '-x,-y,z'
+  '-y,x,-z'
+  '1/2+y,1/2-x,z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu   0.00000   0.50000   0.63170   0.01390
+B   0.00000   0.00000   0.50000   0.01660
+O   0.31340   0.55400   0.65430   0.01220
+Cl   0.00000   0.50000   0.14270   0.01870
+H   0.15500   0.15000   0.75300   0.02000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.00860 0.00860 0.02450 0.00000 0.00000 0.00000
+B 0.00520 0.00520 0.03960 0.00000 0.00000 0.00000
+O 0.00780 0.01020 0.01860 -0.00080 -0.00260 -0.00320
+Cl 0.01820 0.01820 0.01950 0.00000 0.00000 0.00000

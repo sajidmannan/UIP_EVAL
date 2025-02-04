@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Schumacherite'
+loop_
+_publ_author_name
+'Walenta K'
+'Dunn P J'
+'Hentschel G'
+'Mereiter K'
+_journal_name_full 'Tschermaks Mineralogische und Petrographische Mitteilungen'
+_journal_volume 31 
+_journal_year 1983
+_journal_page_first 165
+_journal_page_last 173
+_publ_section_title
+;
+ Schumacherit, ein neues Wismutmineral von Schneeberg in Sachsen
+ Note: structure determined after the paper was published: Schumacherite,
+ Bi3O(OH)((V0.55,As0.22,P0.23)O4)2, using a triclinic reduced cell
+ instead of the non-reduced cell applied in the publication
+;
+_database_code_amcsd 0020890
+_chemical_compound_source 'Schneeberg, Sachsen, Germany'
+_chemical_formula_sum 'Bi3 V1.1 P.45 As.44 O10 H'
+_cell_length_a 6.909
+_cell_length_b 7.401
+_cell_length_c 9.399
+_cell_angle_alpha 110.72
+_cell_angle_beta 106.05
+_cell_angle_gamma 92.20
+_cell_volume 427.008
+_exptl_crystal_density_diffrn      6.929
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Bi1   0.77098   0.41322   0.52578   1.00000   0.02130
+Bi2   0.74272   0.74225   0.30028   1.00000   0.02080
+Bi3   0.79699   0.15741   0.07448   1.00000   0.02750
+V1   0.77480   0.01880   0.69590   0.65000   0.01820
+P1   0.77480   0.01880   0.69590   0.24000   0.01820
+As1   0.77480   0.01880   0.69590   0.10000   0.01820
+V2   0.30950   0.37370   0.09650   0.45000   0.01920
+P2   0.30950   0.37370   0.09650   0.21000   0.01920
+As2   0.30950   0.37370   0.09650   0.34000   0.01920
+O1X   0.90300   0.53800   0.38010   1.00000   0.02300
+O-H2   0.74200   0.15500   0.30400   1.00000   0.02600
+O3   0.95800   0.02100   0.85300   1.00000   0.02700
+O4   0.69600  -0.19900   0.55800   1.00000   0.03800
+O5   0.86300   0.16100   0.62300   1.00000   0.03100
+O6   0.59300   0.10400   0.76700   1.00000   0.02700
+O7   0.50200   0.51500   0.25730   1.00000   0.02300
+O8   0.26000   0.46600  -0.04880   1.00000   0.02100
+O9   0.38100   0.15300   0.02600   1.00000   0.02600
+O10   0.11500   0.37500   0.16800   1.00000   0.02900
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi1 0.01250 0.02920 0.02710 0.00780 0.00960 0.01330
+Bi2 0.01610 0.02440 0.02530 0.00520 0.00650 0.01310
+Bi3 0.02630 0.03190 0.02610 0.01050 0.00860 0.01210
+V1 0.01200 0.02700 0.02000 0.00440 0.00710 0.01200
+P1 0.01200 0.02700 0.02000 0.00440 0.00710 0.01200
+As1 0.01200 0.02700 0.02000 0.00440 0.00710 0.01200
+V2 0.01510 0.02400 0.02100 0.00690 0.00660 0.01010
+P2 0.01510 0.02400 0.02100 0.00690 0.00660 0.01010
+As2 0.01510 0.02400 0.02100 0.00690 0.00660 0.01010

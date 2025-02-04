@@ -1,0 +1,77 @@
+data_global
+_chemical_name_mineral 'Reinhardbraunsite'
+loop_
+_publ_author_name
+'Galuskina I O'
+'Lazic B'
+'Armbruster T'
+'Galuskin E V'
+'Gazeev V M'
+'Zadov A E'
+'Pertsev N N'
+'Jezak L'
+'Wrzalik R'
+'Gurbanov A G'
+_journal_name_full 'American Mineralogist'
+_journal_volume 94 
+_journal_year 2009
+_journal_page_first 1361
+_journal_page_last 1370
+_publ_section_title
+;
+ Kumtyubeite Ca5(SiO4)2F2 - A new calcium mineral of the humite group from
+ Northern Caucasus, Kabardino-Balkaria, Russia
+;
+_database_code_amcsd 0004984
+_chemical_compound_source 'Northern Caucasus, Kabardino-Balkaria, Russia'
+_chemical_formula_sum 'Ca5 Si2 O9.394 F.606 H1.394'
+_cell_length_a 11.4542
+_cell_length_b 5.06180
+_cell_length_c 8.89170
+_cell_angle_alpha 90
+_cell_angle_beta 108.7698
+_cell_angle_gamma 90
+_cell_volume 488.114
+_exptl_crystal_density_diffrn      2.856
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.50000   0.00000   0.50000   1.00000   0.00921
+Ca2   0.16976   0.00251   0.31087   1.00000   0.00875
+Ca3   0.38090   0.00879   0.07952   1.00000   0.00909
+Si1   0.35425   0.57435   0.29833   1.00000   0.00652
+O1   0.48447   0.70520   0.29332   1.00000   0.00870
+O2   0.24736   0.70420   0.14547   1.00000   0.00900
+O3   0.33012   0.70430   0.45581   1.00000   0.00900
+O4   0.35324   0.25400   0.29808   1.00000   0.00950
+O5   0.05050   0.23250   0.08410   0.69700   0.01240
+F5   0.06360   0.28290   0.11630   0.30300   0.01240
+H1   0.02400   0.08000   0.02500   0.50000   0.05000
+H2   0.09900   0.36000   0.15800   0.19700   0.05000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.00920 0.00780 0.00890 -0.00105 0.00059 -0.00147
+Ca2 0.00784 0.00975 0.00901 0.00078 0.00321 -0.00043
+Ca3 0.00943 0.00949 0.00827 0.00005 0.00273 0.00118
+Si1 0.00690 0.00536 0.00703 0.00015 0.00194 -0.00004
+O1 0.00650 0.00900 0.01020 -0.00050 0.00220 -0.00020
+O2 0.00890 0.00900 0.00830 -0.00040 0.00150 0.00010
+O3 0.01030 0.00900 0.00790 0.00030 0.00330 0.00000
+O4 0.00980 0.00720 0.01130 -0.00010 0.00290 -0.00020

@@ -1,0 +1,51 @@
+data_global
+_chemical_name_mineral 'Samarium'
+loop_
+_publ_author_name
+'Daane A H'
+'Rundle R E'
+'Smith H G'
+'Spedding F H'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 7 
+_journal_year 1954
+_journal_page_first 532
+_journal_page_last 535
+_publ_section_title
+;
+ The crystal structure of samarium
+ Note: sample 99% pure
+;
+_database_code_amcsd 0009181
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Sm'
+_cell_length_a 8.996
+_cell_length_b 8.996
+_cell_length_c 8.996
+_cell_angle_alpha 23.22
+_cell_angle_beta 23.22
+_cell_angle_gamma 23.22
+_cell_volume 99.346
+_exptl_crystal_density_diffrn      7.540
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-z,-y'
+  '-z,-x,-y'
+  'y,x,z'
+  'y,z,x'
+  '-z,-y,-x'
+  '-x,-y,-z'
+  'x,z,y'
+  'z,x,y'
+  '-y,-x,-z'
+  '-y,-z,-x'
+  'z,y,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Sm1   0.00000   0.00000   0.00000
+Sm2   0.22222   0.22222   0.22222

@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Hambergite'
+loop_
+_publ_author_name
+'Gatta G D'
+'McIntyre G J'
+'Bromiley G'
+'Guastoni A'
+'Nestola F'
+_journal_name_full 'American Mineralogist'
+_journal_volume 97 
+_journal_year 2012
+_journal_page_first 1891
+_journal_page_last 1897
+_publ_section_title
+;
+ A single-crystal neutron diffraction study of hambergite, Be2BO3(OH,F)
+;
+_database_code_amcsd 0019722
+_chemical_compound_source 'Anjanabonoina mine, Madagascar'
+_chemical_formula_sum 'Be2 B O3.96 H.96 F.04'
+_cell_length_a 9.762
+_cell_length_b 12.201
+_cell_length_c 4.430
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 527.640
+_exptl_crystal_density_diffrn      2.365
+_symmetry_space_group_name_H-M 'P b c a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Be1   0.00261   0.18871   0.26018   1.00000   0.00651
+Be2   0.23724   0.06757   0.27717   1.00000   0.00650
+B   0.10617   0.10704   0.77298   1.00000   0.00451
+O1   0.03760   0.18766   0.61914   1.00000   0.00697
+O2   0.10120   0.10302   0.08204   1.00000   0.00665
+O3   0.18691   0.03450   0.61701   1.00000   0.00731
+O4   0.33976   0.17302   0.29600   0.96000   0.00839
+H   0.31380   0.22280   0.45740   0.96000   0.02380
+F4   0.33976   0.17302   0.29600   0.04000   0.00839
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Be1 0.00720 0.00600 0.00630 0.00030 -0.00020 -0.00011
+Be2 0.00780 0.00590 0.00580 0.00080 0.00020 -0.00010
+B 0.00460 0.00410 0.00410 0.00150 -0.00010 0.00030
+O1 0.01010 0.00560 0.00520 0.00260 -0.00100 -0.00020
+O2 0.00810 0.00720 0.00470 0.00260 -0.00020 -0.00010
+O3 0.01000 0.00680 0.00510 0.00390 0.00090 0.00090
+O4 0.00650 0.00810 0.01060 -0.00170 0.00110 -0.00150
+H 0.02310 0.02260 0.02580 -0.00150 0.00600 -0.01080
+F4 0.00650 0.00810 0.01060 -0.00170 0.00110 -0.00150

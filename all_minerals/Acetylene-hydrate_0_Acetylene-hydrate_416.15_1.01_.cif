@@ -1,0 +1,113 @@
+data_global
+_chemical_name_mineral 'Acetylene-hydrate'
+loop_
+_publ_author_name
+'Kirchner M T'
+'Boese R'
+'Billups W E'
+'Norman L R'
+_journal_name_full 'Journal of the American Chemical Society'
+_journal_volume 126 
+_journal_year 2004
+_journal_page_first 9407
+_journal_page_last 9412
+_publ_section_title
+;
+ Gas hydrate single-crystal structure analyses
+ Sample: (C2H2)7.2(H2O)46, T = 143 K
+;
+_database_code_amcsd 0019156
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'O23 H46 C8.028'
+_cell_length_a 11.895
+_cell_length_b 11.895
+_cell_length_c 11.895
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1683.036
+_exptl_crystal_density_diffrn      1.008
+_symmetry_space_group_name_H-M 'P m -3 n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'z,-x,y'
+  '-y,z,-x'
+  'x,-y,z'
+  '-z,x,-y'
+  'y,-z,x'
+  '-x,y,-z'
+  '1/2+x,1/2-z,1/2-y'
+  '1/2-z,1/2+y,1/2+x'
+  '1/2+y,1/2-x,1/2-z'
+  '1/2-x,1/2+z,1/2+y'
+  '1/2+z,1/2-y,1/2-x'
+  '1/2-y,1/2+x,1/2+z'
+  '1/2+x,1/2+z,1/2+y'
+  '1/2-z,1/2-y,1/2-x'
+  '1/2+y,1/2+x,1/2+z'
+  '1/2-x,1/2-z,1/2-y'
+  '1/2+z,1/2+y,1/2+x'
+  '1/2-y,1/2-x,1/2-z'
+  'z,x,-y'
+  '-y,-z,x'
+  'x,y,-z'
+  '-z,-x,y'
+  'y,z,-x'
+  '-x,-y,z'
+  '-z,x,y'
+  'y,-z,-x'
+  '-x,y,z'
+  'z,-x,-y'
+  '-y,z,x'
+  'x,-y,-z'
+  '1/2-x,1/2+z,1/2-y'
+  '1/2+z,1/2-y,1/2+x'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2+x,1/2-z,1/2+y'
+  '1/2-z,1/2+y,1/2-x'
+  '1/2+y,1/2-x,1/2+z'
+  '1/2-x,1/2-z,1/2+y'
+  '1/2+z,1/2+y,1/2-x'
+  '1/2-y,1/2-x,1/2+z'
+  '1/2+x,1/2+z,1/2-y'
+  '1/2-z,1/2-y,1/2+x'
+  '1/2+y,1/2+x,1/2-z'
+  '-z,-x,-y'
+  'y,z,x'
+  '-x,-y,-z'
+  'z,x,y'
+  '-y,-z,-x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+O1   0.00000   0.30797   0.11699   1.00000   0.03580
+H1   0.00000   0.32200   0.04300   0.50000   0.05400
+H2   0.05600   0.27400   0.14600   0.50000   0.05400
+H3   0.00000   0.36700   0.15400   0.50000   0.05400
+O2   0.18388   0.18388   0.18388   1.00000   0.03590
+H4   0.22300   0.22300   0.22300   0.50000   0.05400
+H5   0.16000   0.12600   0.22000   0.50000   0.05400
+O3   0.00000   0.50000   0.25000   1.00000   0.03640
+H6   0.00000   0.44100   0.20100   0.50000   0.05500
+C1   0.00000   0.00000   0.05210   0.08000   0.05000
+C2   0.00000   0.03350   0.04000   0.05900   0.05000
+C3   0.25900   0.45120   0.00000   0.42000   0.09600
+C4   0.29820   0.50000   0.00000   0.30000   0.23000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 0.03550 0.03590 0.03590 0.00000 0.00000 -0.00010
+O2 0.03590 0.03590 0.03590 0.00010 0.00010 0.00010
+O3 0.03670 0.03670 0.03600 0.00000 0.00000 0.00000
+C3 0.07000 0.09300 0.12900 0.04100 0.00000 0.00000
+C4 0.05000 0.42000 0.21000 0.00000 0.00000 0.00000

@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Chernovite-(Y)'
+loop_
+_publ_author_name
+'Strada M'
+'Schwendimann G'
+_journal_name_full 'Gazzetta Chimica Italiana'
+_journal_volume 64 
+_journal_year 1934
+_journal_page_first 662
+_journal_page_last 674
+_publ_section_title
+;
+ La struttura cristallina di alcuni fosfati ed arseniati di metalli trivalenti.
+ II. Arseniato e fosfato di ittrio
+;
+_database_code_amcsd 0012653
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Y As O4'
+_cell_length_a 6.890
+_cell_length_b 6.890
+_cell_length_c 6.269
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 297.603
+_exptl_crystal_density_diffrn      5.085
+_symmetry_space_group_name_H-M 'I 41/a m d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,1/2-x,1/4+z'
+  '1/2-y,-x,3/4+z'
+  '1/2+y,1/2+x,1/2-z'
+  '+y,+x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '+y,-x,-z'
+  '-y,1/2+x,1/4+z'
+  '1/2-y,+x,3/4+z'
+  '1/2+x,1/2-y,1/2+z'
+  '+x,-y,+z'
+  '1/2-x,y,3/4-z'
+  '-x,1/2+y,1/4-z'
+  '1/2+x,y,3/4-z'
+  '+x,1/2+y,1/4-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,+z'
+  '1/2+y,x,3/4+z'
+  '+y,1/2+x,1/4+z'
+  '-y,-x,-z'
+  '1/2-y,1/2-x,1/2-z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2+y,-x,3/4+z'
+  '+y,1/2-x,1/4+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,1/2-y,1/4-z'
+  '1/2+x,-y,3/4-z'
+  '-x,1/2-y,1/4-z'
+  '1/2-x,-y,3/4-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Y   0.00000   0.00000   0.00000
+As   0.00000   0.00000   0.50000
+O   0.00000   0.17600   0.30100

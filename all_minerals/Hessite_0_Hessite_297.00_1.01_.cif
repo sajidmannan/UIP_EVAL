@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Hessite'
+loop_
+_publ_author_name
+'Schneider J'
+'Schulz H'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 203 
+_journal_year 1993
+_journal_page_first 1
+_journal_page_last 15
+_publ_section_title
+;
+ X-ray powder diffraction of Ag2Te at temperatures up to 1123 K
+ Note: T = 297 K
+;
+_database_code_amcsd 0011030
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ag2 Te'
+_cell_length_a 8.16160
+_cell_length_b 4.46651
+_cell_length_c 8.97335
+_cell_angle_alpha 90
+_cell_angle_beta 124.1528
+_cell_angle_gamma 90
+_cell_volume 270.700
+_exptl_crystal_density_diffrn      8.424
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ag1   0.01900   0.14960   0.37140
+Ag2   0.33270   0.84040   0.99670
+Te   0.27120   0.16010   0.24250
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ag1 0.02565 0.02021 0.01509 -0.00153 0.01220 0.00000
+Ag2 0.02242 0.04144 0.02039 0.00764 0.00457 -0.00874
+Te 0.01063 0.00707 0.01089 -0.00122 0.00534 0.00000

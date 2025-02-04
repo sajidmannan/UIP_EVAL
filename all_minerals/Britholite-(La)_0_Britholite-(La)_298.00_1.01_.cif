@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Britholite-(La)'
+loop_
+_publ_author_name
+'Hughes J M'
+'Mariano A N'
+'Drexler J W'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1992 
+_journal_year 1992
+_journal_page_first 311
+_journal_page_last 319
+_publ_section_title
+;
+ Crystal structures of synthetic Na-REE-Si oxyapatites, synthetic monoclinic britholite
+;
+_database_code_amcsd 0014862
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum '(La4.277 Na.723) Si3 O12.55 F.45'
+_cell_length_a 9.678
+_cell_length_b 9.682
+_cell_length_c 7.1631
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120.04
+_cell_volume 581.042
+_exptl_crystal_density_diffrn      5.169
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+La1a   0.33267   0.66656   0.00570   0.60700   0.00279
+Na1a   0.33267   0.66656   0.00570   0.39300   0.00279
+La1b   0.33415   0.66678   0.50020   0.74400   0.01317
+Na1b   0.33415   0.66678   0.50020   0.25600   0.01317
+La2a  -0.01493   0.23465   0.25130   0.97400   0.00579
+Na2a  -0.01493   0.23465   0.25130   0.02600   0.00579
+La2b   0.23454   0.24954   0.74840   0.97700   0.00585
+Na2b   0.23454   0.24954   0.74840   0.02300   0.00585
+La2c   0.24944   0.01482   0.25060   0.97500   0.00581
+Na2c   0.24944   0.01482   0.25060   0.02500   0.00581
+Si1   0.02890   0.62870   0.25000   1.00000   0.00443
+Si2   0.37150   0.40040   0.24800   1.00000   0.00418
+Si3   0.59970   0.97080   0.25200   1.00000   0.00469
+O1a   0.83660   0.51650   0.24500   1.00000   0.01077
+O1b   0.48210   0.32000   0.26100   1.00000   0.00975
+O1c   0.67830   0.16230   0.24300   1.00000   0.01115
+O2a   0.40680   0.87790   0.26700   1.00000   0.00887
+O2b   0.47040   0.59330   0.23800   1.00000   0.00912
+O2c   0.12300   0.53040   0.26700   1.00000   0.00925
+O3a   0.63640   0.89850   0.06180   1.00000   0.00494
+O3b   0.68110   0.92580   0.42200   1.00000   0.01267
+O3c   0.26150   0.36250   0.06300   1.00000   0.00633
+O3d   0.24430   0.31890   0.42500   1.00000   0.01140
+O3e   0.07470   0.75460   0.08300   1.00000   0.01140
+O3f   0.10170   0.73730   0.44400   1.00000   0.00684
+O  -0.00070  -0.00090   0.22500   0.55000   0.02406
+F  -0.00070  -0.00090   0.22500   0.45000   0.02406

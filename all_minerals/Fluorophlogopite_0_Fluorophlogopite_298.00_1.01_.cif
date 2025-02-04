@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Fluorophlogopite'
+loop_
+_publ_author_name
+'McCauley J W'
+'Newnham R E'
+'Gibbs G V'
+_journal_name_full 'American Mineralogist'
+_journal_volume 58 
+_journal_year 1973
+_journal_page_first 249
+_journal_page_last 254
+_publ_section_title
+;
+ Crystal structure analysis of synthetic fluorophlogopite
+;
+_database_code_amcsd 0000311
+_chemical_formula_sum 'K Mg3 (Al Si3) O10 F2'
+_cell_length_a 5.308
+_cell_length_b 9.183
+_cell_length_c 10.139
+_cell_angle_alpha 90
+_cell_angle_beta 100.07
+_cell_angle_gamma 90
+_cell_volume 486.596
+_exptl_crystal_density_diffrn      2.875
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K   0.00000   0.00000   0.00000   1.00000
+Mg1   0.00000   0.50000   0.50000   1.00000
+Mg2   0.00000   0.83060   0.50000   1.00000
+Al   0.57510   0.16630   0.22450   0.25000
+Si   0.57510   0.16630   0.22450   0.75000
+O1   0.82080   0.23470   0.16820   1.00000
+O2   0.52740   0.00000   0.16780   1.00000
+O3   0.62910   0.16610   0.38960   1.00000
+F1   0.13270   0.00000   0.40170   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.03722 0.03204 0.02625 0.00000 0.00423 0.00000
+Mg1 0.01010 0.00470 0.00252 0.00024 0.00026 0.00000
+Mg2 0.00775 0.00897 0.00707 0.00000 0.00317 0.00000
+Al 0.00969 0.00769 0.01161 0.00002 0.00159 0.00093
+Si 0.00969 0.00769 0.01161 0.00002 0.00159 0.00093
+O1 0.01605 0.03247 0.01111 -0.00088 0.00003 -0.00464
+O2 0.02408 0.01666 0.01060 0.00000 -0.00026 0.00000
+O3 0.00858 0.00769 0.00707 0.00195 0.00238 -0.00093
+F1 0.00941 0.00897 0.01616 0.00000 0.00264 0.00000

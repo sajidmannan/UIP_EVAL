@@ -1,0 +1,87 @@
+data_global
+_chemical_name_mineral 'Garrelsite'
+loop_
+_publ_author_name
+'Ghose S'
+'Wan C'
+'Ulbrich H H'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 32 
+_journal_year 1976
+_journal_page_first 824
+_journal_page_last 832
+_publ_section_title
+;
+ Structural chemistry of borosilicates. I. Garrelsite, NaBa3Si2B7O16(OH)4, a
+ silicoborate with the pentaborate [B5O12]9- polyanion
+;
+_database_code_amcsd 0009552
+_chemical_compound_source 'South Ouray, Utah'
+_chemical_formula_sum 'Na Ba3 Si2 B7 O20 H4'
+_cell_length_a 14.639
+_cell_length_b 8.466
+_cell_length_c 13.438
+_cell_angle_alpha 90
+_cell_angle_beta 114.21
+_cell_angle_gamma 90
+_cell_volume 1518.946
+_exptl_crystal_density_diffrn      3.896
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Na   0.25000  -0.25000   0.50000   0.01475
+Ba1   0.00000   0.59316   0.25000   0.00864
+Ba2   0.20878   0.06623   0.69714   0.00764
+Si   0.36481   0.10344   0.49211   0.00510
+B1   0.44136  -0.18705   0.46699   0.00627
+B2   0.15777   0.15868   0.38052   0.00579
+B3   0.08095  -0.05896   0.44539   0.00705
+B4   0.00000   0.01509   0.25000   0.00600
+O1   0.04806   0.31989   0.53726   0.00798
+O2   0.38512  -0.08553   0.51380   0.00764
+O3   0.09432  -0.14939   0.53367   0.00769
+O4   0.01130  -0.09158   0.34249   0.00773
+O5   0.35920   0.17100   0.60324   0.00754
+O6   0.14845   0.06169   0.46626   0.00797
+O7   0.23914   0.36016   0.61444   0.00708
+O8   0.09008   0.10786   0.27316   0.00660
+O-H1   0.18539  -0.30397   0.31420   0.00675
+O-H2   0.41549  -0.13809   0.35321   0.00825
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na 0.01030 0.01899 0.01484 -0.00298 0.00497 -0.00095
+Ba1 0.00722 0.00817 0.00921 0.00000 0.00207 0.00000
+Ba2 0.00885 0.00694 0.00761 -0.00115 0.00390 -0.00032
+B1 0.00668 0.00548 0.00731 -0.00029 0.00356 -0.00058
+B2 0.00578 0.00621 0.00556 -0.00017 0.00249 0.00100
+B3 0.00605 0.00679 0.00845 -0.00011 0.00307 -0.00021
+O1 0.00452 0.01009 0.00906 -0.00137 0.00240 0.00142
+O2 0.00957 0.00497 0.01050 0.00143 0.00647 0.00068
+O3 0.01084 0.00508 0.00571 -0.00269 0.00191 0.00047
+O4 0.00822 0.00643 0.00715 -0.00206 0.00174 0.00100
+O5 0.00975 0.00566 0.00822 0.00011 0.00473 -0.00116
+O6 0.00939 0.00828 0.00616 -0.00424 0.00315 0.00011
+O7 0.00397 0.01024 0.00654 0.00092 0.00166 0.00053
+O8 0.00479 0.00784 0.00654 -0.00252 0.00158 -0.00063
+O-H1 0.00551 0.00875 0.00624 -0.00040 0.00265 0.00147
+O-H2 0.01084 0.00777 0.00639 0.00069 0.00381 0.00116

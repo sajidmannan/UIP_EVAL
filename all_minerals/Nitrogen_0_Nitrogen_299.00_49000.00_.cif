@@ -1,0 +1,90 @@
+data_global
+_chemical_name_mineral 'Nitrogen'
+loop_
+_publ_author_name
+'Cromer D T'
+'Mills R L'
+'Schiferl D'
+'Schwalbe L A'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 37 
+_journal_year 1981
+_journal_page_first 8
+_journal_page_last 11
+_publ_section_title
+;
+ The structure of N2 at 49 kbar and 299 K
+ Sample: at T = 299 K and P = 4.9 GPa
+ Note: model #4
+;
+_database_code_amcsd 0009728
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'N.25'
+_cell_length_a 6.164
+_cell_length_b 6.164
+_cell_length_c 6.164
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 234.201
+_exptl_crystal_density_diffrn      1.589
+_symmetry_space_group_name_H-M 'P m -3 n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'z,-x,y'
+  '-y,z,-x'
+  'x,-y,z'
+  '-z,x,-y'
+  'y,-z,x'
+  '-x,y,-z'
+  '1/2+x,1/2-z,1/2-y'
+  '1/2-z,1/2+y,1/2+x'
+  '1/2+y,1/2-x,1/2-z'
+  '1/2-x,1/2+z,1/2+y'
+  '1/2+z,1/2-y,1/2-x'
+  '1/2-y,1/2+x,1/2+z'
+  '1/2+x,1/2+z,1/2+y'
+  '1/2-z,1/2-y,1/2-x'
+  '1/2+y,1/2+x,1/2+z'
+  '1/2-x,1/2-z,1/2-y'
+  '1/2+z,1/2+y,1/2+x'
+  '1/2-y,1/2-x,1/2-z'
+  'z,x,-y'
+  '-y,-z,x'
+  'x,y,-z'
+  '-z,-x,y'
+  'y,z,-x'
+  '-x,-y,z'
+  '-z,x,y'
+  'y,-z,-x'
+  '-x,y,z'
+  'z,-x,-y'
+  '-y,z,x'
+  'x,-y,-z'
+  '1/2-x,1/2+z,1/2-y'
+  '1/2+z,1/2-y,1/2+x'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2+x,1/2-z,1/2+y'
+  '1/2-z,1/2+y,1/2-x'
+  '1/2+y,1/2-x,1/2+z'
+  '1/2-x,1/2-z,1/2+y'
+  '1/2+z,1/2+y,1/2-x'
+  '1/2-y,1/2-x,1/2+z'
+  '1/2+x,1/2+z,1/2-y'
+  '1/2-z,1/2-y,1/2+x'
+  '1/2+y,1/2+x,1/2-z'
+  '-z,-x,-y'
+  'y,z,x'
+  '-x,-y,-z'
+  'z,x,y'
+  '-y,-z,-x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+N1   0.04200   0.04200   0.04200   0.25000   0.09246
+N2   0.23900   0.53100   0.08000   0.25000   0.06586

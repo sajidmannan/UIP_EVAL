@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Zoisite'
+loop_
+_publ_author_name
+'Dollase W A'
+_journal_name_full 'American Mineralogist'
+_journal_volume 53 
+_journal_year 1968
+_journal_page_first 1882
+_journal_page_last 1898
+_publ_section_title
+;
+ Refinement and comparison of the structures of zoisite and clinozoisite
+;
+_database_code_amcsd 0000184
+_chemical_formula_sum 'Ca2 Si3 Al3 H O13'
+_cell_length_a 16.212
+_cell_length_b 5.559
+_cell_length_c 10.036
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 904.470
+_exptl_crystal_density_diffrn      3.337
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.36670   0.25000   0.43760   0.00912
+Ca2   0.45180   0.25000   0.11500   0.01077
+Si1   0.08160   0.25000   0.10640   0.00380
+Si2   0.41040   0.75000   0.28210   0.00507
+Si3   0.16010   0.25000   0.43560   0.00760
+Al12   0.24960   0.99710   0.18990   0.00671
+Al3   0.10540   0.75000   0.30060   0.00380
+H   0.26000   0.25000   0.95000   0.00633
+O1   0.13170   0.00000   0.14510   0.00507
+O2   0.10120   0.01500   0.43000   0.00633
+O3   0.35840   0.99000   0.24520   0.00507
+O4   0.21780   0.75000   0.30100   0.00507
+O5   0.22730   0.25000   0.31200   0.00253
+O6   0.27130   0.75000   0.06000   0.00380
+O7   0.99050   0.25000   0.16400   0.00507
+O8   0.99540   0.75000   0.29500   0.00760
+O9   0.42090   0.75000   0.44300   0.00887
+O10   0.26800   0.25000   0.07400   0.00887

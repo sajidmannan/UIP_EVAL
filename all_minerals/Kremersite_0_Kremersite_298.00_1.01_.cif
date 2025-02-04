@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Kremersite'
+loop_
+_publ_author_name
+'Figgis B N'
+'Raston C L'
+'Sharma R P'
+'White A H'
+_journal_name_full 'Australian Journal of Chemistry'
+_journal_volume 31 
+_journal_year 1978
+_journal_page_first 2717
+_journal_page_last 2720
+_publ_section_title
+;
+ Crystal structure of diammonium aquapentachloroferrate(III)
+;
+_database_code_amcsd 0012057
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'N2 H10 Fe Cl5 O'
+_cell_length_a 13.706
+_cell_length_b 9.924
+_cell_length_c 7.024
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 955.393
+_exptl_crystal_density_diffrn      1.997
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+N   0.14130   0.00030   0.65980
+H2   0.19570   0.00260   0.62030
+H3   0.15540  -0.00110   0.80250
+H4   0.11050   0.08010   0.62560
+H5   0.10620  -0.06010   0.68020
+Fe   0.11630   0.25000   0.18960
+Cl1   0.10474   0.01062   0.17610
+Cl2   0.00596   0.25000   0.45310
+Cl3   0.24782   0.25000   0.39820
+Cl4   0.22316   0.25000  -0.07200
+O  -0.00340   0.25000   0.00060
+H1  -0.02560   0.17040  -0.04710

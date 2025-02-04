@@ -1,0 +1,49 @@
+data_global
+_chemical_name_mineral 'Glaukosphaerite'
+loop_
+_publ_author_name
+'Perchiazzi N'
+'Merlino S'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 18 
+_journal_year 2006
+_journal_page_first 787
+_journal_page_last 792
+_publ_section_title
+;
+ The malachite-rosasite group: crystal structures of glaukosphaerite and
+ pokrovskite
+;
+_database_code_amcsd 0007184
+_chemical_formula_sum 'Cu1.5 Ni.5 C O5 H2'
+_cell_length_a 12.0613
+_cell_length_b 9.3653
+_cell_length_c 3.1361
+_cell_angle_alpha 90
+_cell_angle_beta 98.085
+_cell_angle_gamma 90
+_cell_volume 350.726
+_exptl_crystal_density_diffrn      4.142
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+CuMe1   0.21290   0.99790   0.99100   1.00000   0.00697
+NiMe2   0.39010   0.76750   0.61120   0.50000   0.00697
+CuMe2   0.39010   0.76750   0.61120   0.50000   0.00697
+C   0.13600  -0.27160   0.59430   1.00000   0.02153
+O1   0.12840  -0.13570   0.51160   1.00000   0.01013
+O2   0.23240  -0.33540   0.61930   1.00000   0.01013
+O3   0.04730  -0.34370   0.65210   1.00000   0.01013
+O-H4   0.35040   0.90240   0.03800   1.00000   0.01013
+O-H5   0.42160   0.62410   0.11300   1.00000   0.01013

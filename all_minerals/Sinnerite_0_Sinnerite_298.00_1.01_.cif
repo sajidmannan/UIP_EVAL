@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Sinnerite'
+loop_
+_publ_author_name
+'Makovicky E'
+'Skinner B J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 60 
+_journal_year 1975
+_journal_page_first 998
+_journal_page_last 1012
+_publ_section_title
+;
+ Studies of the sulfosalts of copper. IV. Structure and twinning of sinnerite,
+ Cu6As4S9
+;
+_database_code_amcsd 0000475
+_chemical_formula_sum 'As4 Cu6 S9'
+_cell_length_a 9.064
+_cell_length_b 9.830
+_cell_length_c 9.078
+_cell_angle_alpha 90.00
+_cell_angle_beta 109.50
+_cell_angle_gamma 107.80
+_cell_volume 721.242
+_exptl_crystal_density_diffrn      4.464
+_symmetry_space_group_name_H-M 'P 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+As1   0.12300   0.01200   0.06100
+As2   0.31800   0.18000   0.40100
+As3   0.87400   0.01400   0.25900
+As4   0.15600   0.82700   0.34800
+As5   0.45100   0.59400   0.51000
+As6   0.66300   0.78900   0.86800
+As7   0.23300   0.59000   0.71400
+As8   0.54500   0.43200   0.83500
+Cu1   0.96200   0.62300   0.94300
+Cu2   0.42600   0.78800   0.09900
+Cu3   0.56900   0.17800   0.14600
+Cu4   0.30700   0.41500   0.06800
+Cu5   0.83800   0.21000   0.96000
+Cu6   0.91500   0.82200   0.61400
+Cu7   0.35600   0.98400   0.74900
+Cu8   0.06900   0.21300   0.66500
+Cu9   0.03200   0.37500   0.34700
+Cu10   0.79500   0.38600   0.56400
+Cu11   0.59800   0.96600   0.49400
+Cu12   0.72000   0.60200   0.18500
+S2   0.33200   0.19100   0.68100
+S3   0.83300   0.99400   0.53600
+S4   0.18600   0.77700   0.60300
+S6   0.65300   0.82600   0.10400
+S7   0.22200   0.59700   0.94000
+S8   0.53900   0.40100   0.09600
+S9   0.99700   0.58400   0.23700
+S10   0.42600   0.79700   0.33800
+S11   0.58800   0.16500   0.42800
+S12   0.26000   0.41600   0.34200
+S13   0.83100   0.18400   0.17400
+S14   0.90300   0.82400   0.86400
+S15   0.37600   0.96900   0.98200
+S16   0.01400   0.16900   0.88100
+S17   0.02800   0.38500   0.61500
+S18   0.79600   0.38500   0.87200
+S19   0.58200   0.95900   0.71900
+S20   0.72200   0.59500   0.48000

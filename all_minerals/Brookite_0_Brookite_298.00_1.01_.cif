@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Brookite'
+loop_
+_publ_author_name
+'Meagher E P'
+'Lager G A'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 17 
+_journal_year 1979
+_journal_page_first 77
+_journal_page_last 85
+_publ_section_title
+;
+ Polyhedral thermal expansion in the TiO2 polymorphs: Refinement
+ of the crystal structures of rutile and brookite at high temperature
+ Sample at 25 degrees C
+;
+_database_code_amcsd 0005160
+_chemical_formula_sum 'Ti O2'
+_cell_length_a 9.174
+_cell_length_b 5.449
+_cell_length_c 5.138
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 256.844
+_exptl_crystal_density_diffrn      4.131
+_symmetry_space_group_name_H-M 'P b c a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ti   0.12890   0.09720   0.86280
+O1   0.00950   0.14910   0.18350
+O2   0.23140   0.11100   0.53660
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ti 0.00554 0.00572 0.00294 0.00000 0.00024 -0.00028
+O1 0.00725 0.00677 0.00348 -0.00101 0.00167 -0.00113
+O2 0.00298 0.01143 0.00588 0.00152 0.00119 0.00184

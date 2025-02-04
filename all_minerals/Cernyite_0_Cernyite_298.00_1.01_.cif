@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Cernyite'
+loop_
+_publ_author_name
+'Szymanski J T'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 16 
+_journal_year 1978
+_journal_page_first 147
+_journal_page_last 151
+_publ_section_title
+;
+ The crystal structure of cernyite, Cu2CdSnS4, a cadmium analogue of stannite
+ Note: z-coordinate for S atom changed in order to reproduce bond lengths.
+;
+_database_code_amcsd 0005153
+_chemical_formula_sum '(Cd.37 Zn.33 Fe.29 Mn.01) Sn Cu2 S4'
+_cell_length_a 5.487
+_cell_length_b 5.487
+_cell_length_c 10.848
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 326.603
+_exptl_crystal_density_diffrn      4.616
+_symmetry_space_group_name_H-M 'I -4 2 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cd   0.00000   0.00000   0.00000   0.37000
+Zn   0.00000   0.00000   0.00000   0.33000
+Fe   0.00000   0.00000   0.00000   0.29000
+Mn   0.00000   0.00000   0.00000   0.01000
+Sn   0.50000   0.50000   0.00000   1.00000
+Cu   0.00000   0.50000   0.25000   1.00000
+S   0.75000   0.75000   0.86840   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cd 0.01590 0.01590 0.01670 0.00000 0.00000 0.00000
+Zn 0.01590 0.01590 0.01670 0.00000 0.00000 0.00000
+Fe 0.01590 0.01590 0.01670 0.00000 0.00000 0.00000
+Mn 0.01590 0.01590 0.01670 0.00000 0.00000 0.00000
+Sn 0.01190 0.01190 0.00850 0.00000 0.00000 0.00000
+Cu 0.02160 0.02160 0.01910 0.00000 0.00000 0.00000
+S 0.01570 0.01570 0.01260 0.00170 0.00220 0.00220

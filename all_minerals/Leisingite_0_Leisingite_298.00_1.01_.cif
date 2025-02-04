@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Leisingite'
+loop_
+_publ_author_name
+'Margison S M'
+'Grice J D'
+'Groat L A'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 35 
+_journal_year 1997
+_journal_page_first 759
+_journal_page_last 763
+_publ_section_title
+;
+ The crystal structure of leisingite, (Cu,Mg,Zn)2(Mg,Fe)TeO6.6H2O
+;
+_database_code_amcsd 0005525
+_chemical_formula_sum 'Te Cu2 Mg O12'
+_cell_length_a 5.316
+_cell_length_b 5.316
+_cell_length_c 9.719
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 237.860
+_exptl_crystal_density_diffrn      3.288
+_symmetry_space_group_name_H-M 'P -3 1 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x-y,-y,z'
+  'y,-x+y,-z'
+  '-y,-x,-z'
+  '-x+y,-x,z'
+  '-x,-x+y,z'
+  '-x,-y,-z'
+  '-x+y,y,-z'
+  '-y,x-y,z'
+  'y,x,z'
+  'x-y,x,-z'
+  'x,x-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Te   0.00000   0.00000   0.00000
+Cu   0.33333   0.66667   0.00000
+Mg   0.00000   0.00000   0.50000
+O1   0.30700   0.00000   0.10450
+O2   0.30700   0.00000   0.37690
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Te 0.01140 0.01140 0.06000 0.00570 0.00000 0.00000
+Cu 0.01150 0.01150 0.03000 0.00580 0.00000 0.00000
+Mg 0.01400 0.01400 0.03800 0.00710 0.00000 0.00000
+O1 0.03100 0.03200 0.06300 0.01600 -0.01700 0.00000
+O2 0.07900 0.24300 0.04500 0.12100 0.00000 0.00000

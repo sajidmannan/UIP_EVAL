@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Switzerite'
+loop_
+_publ_author_name
+'Zanazzi P F'
+'Leavens P B'
+'White J S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 71 
+_journal_year 1986
+_journal_page_first 1224
+_journal_page_last 1228
+_publ_section_title
+;
+ Crystal structure of switzerite, Mn3(PO4)2.7H2O and its relationship to
+ metaswitzerite, Mn3(PO4)2.4H2O
+;
+_database_code_amcsd 0001047
+_chemical_formula_sum 'Mn3 P2 O15 H7'
+_cell_length_a 8.528
+_cell_length_b 13.166
+_cell_length_c 11.812
+_cell_angle_alpha 90
+_cell_angle_beta 110.05
+_cell_angle_gamma 90
+_cell_volume 1245.868
+_exptl_crystal_density_diffrn      2.526
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Mn1  -0.04950   0.88310  -0.02180 ?
+Mn2   0.05610   0.61650  -0.01720 ?
+Mn3   0.58270   0.12430   0.33630 ?
+P1   0.33460   0.94420   0.16670 ?
+P2   0.18590   0.78860  -0.17460 ?
+O1   0.40130   0.00880   0.27830   0.02050
+O2  -0.06350   0.53250   0.08560   0.01360
+O3   0.84790   0.66960   0.19640   0.01830
+O4   0.64860   0.52620   0.10020   0.00940
+O5   0.08950   0.87080  -0.13740   0.01470
+O6   0.08320   0.74990  -0.29950   0.02050
+O7   0.64850   0.16510   0.17510   0.01250
+O8   0.22460   0.69970  -0.08410   0.01090
+O-H9   0.31350   0.56980   0.11740   0.01270
+O-H10  -0.04630   0.61110  -0.51910   0.04170
+O-H11  -0.27150   0.72800  -0.45740   0.04920
+O-H12  -0.29090   0.51560  -0.40360   0.04520
+O-H13  -0.15520   0.93460   0.62870   0.04100
+O-H14   0.05370   0.74770   0.09430   0.01350
+O-H15   0.43030   0.66510   0.33970   0.05680
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn1 0.00480 0.00300 0.03050 -0.00120 0.00820 -0.00030
+Mn2 0.00450 0.00190 0.03180 0.00060 0.01110 0.00070
+Mn3 0.01170 0.01010 0.03060 -0.00050 0.00940 0.00180
+P1 0.00220 0.00560 0.02690 -0.00040 0.00860 0.00180
+P2 0.00240 0.00560 0.02300 0.00020 0.00660 -0.00010

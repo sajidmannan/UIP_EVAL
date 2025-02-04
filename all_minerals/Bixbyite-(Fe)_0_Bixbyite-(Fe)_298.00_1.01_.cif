@@ -1,0 +1,102 @@
+data_global
+_chemical_name_mineral 'Bixbyite-(Fe)'
+loop_
+_publ_author_name
+'Geller S'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 27 
+_journal_year 1971
+_journal_page_first 821
+_journal_page_last 828
+_publ_section_title
+;
+ Structures of alpha-Mn203, (MnO.983Fe0.017)203 and (Mn0.37Fe0.63)2O3
+ and relation to magnetic ordering
+ Sample: (Mn0.37Fe0.63)2O3
+;
+_database_code_amcsd 0009392
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum '(Fe1.26 Mn.74) O3'
+_cell_length_a 9.4126
+_cell_length_b 9.4126
+_cell_length_c 9.4126
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 833.928
+_exptl_crystal_density_diffrn      5.066
+_symmetry_space_group_name_H-M 'I a -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/2+z,x,1/2-y'
+  '+z,1/2+x,-y'
+  '1/2+z,-x,y'
+  '+z,1/2-x,1/2+y'
+  '-z,x,1/2+y'
+  '1/2-z,1/2+x,+y'
+  '-z,-x,-y'
+  '1/2-z,1/2-x,1/2-y'
+  '1/2+y,1/2-z,-x'
+  '+y,-z,1/2-x'
+  '-y,1/2-z,x'
+  '1/2-y,-z,1/2+x'
+  '1/2-y,z,-x'
+  '-y,1/2+z,1/2-x'
+  'y,z,x'
+  '1/2+y,1/2+z,1/2+x'
+  'x,1/2-y,1/2+z'
+  '1/2+x,-y,+z'
+  '-x,y,1/2+z'
+  '1/2-x,1/2+y,+z'
+  'x,1/2+y,-z'
+  '1/2+x,+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+  '1/2-z,-x,1/2+y'
+  '-z,1/2-x,+y'
+  '1/2-z,x,-y'
+  '-z,1/2+x,1/2-y'
+  'z,-x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'z,x,y'
+  '1/2+z,1/2+x,1/2+y'
+  '1/2-y,1/2+z,x'
+  '-y,+z,1/2+x'
+  'y,1/2+z,-x'
+  '1/2+y,+z,1/2-x'
+  '1/2+y,-z,x'
+  '+y,1/2-z,1/2+x'
+  '-y,-z,-x'
+  '1/2-y,1/2-z,1/2-x'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,+y,-z'
+  'x,-y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '-x,1/2-y,z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1   0.00000   0.00000   0.00000   0.63000
+Mn1   0.00000   0.00000   0.00000   0.37000
+Fe2   0.28473   0.00000   0.25000   0.63000
+Mn2   0.28473   0.00000   0.25000   0.37000
+O   0.13527   0.13950  -0.08830   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 0.00570 0.00570 0.00570 0.00081 0.00081 0.00081
+Mn1 0.00570 0.00570 0.00570 0.00081 0.00081 0.00081
+Fe2 0.00772 0.00803 0.00718 0.00000 0.00000 -0.00162
+Mn2 0.00772 0.00803 0.00718 0.00000 0.00000 -0.00162
+O 0.00821 0.00557 0.01212 -0.00328 -0.00085 0.00224

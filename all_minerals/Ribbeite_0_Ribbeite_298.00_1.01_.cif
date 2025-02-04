@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Ribbeite'
+loop_
+_publ_author_name
+'Freed R L'
+'Rouse R C'
+'Peacor D R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 78 
+_journal_year 1993
+_journal_page_first 190
+_journal_page_last 194
+_publ_section_title
+;
+ Ribbeite, a second example of edge-sharing silicate tetrahedra in the
+ leucophoenicite group
+;
+_database_code_amcsd 0001545
+_chemical_formula_sum 'Mn5 Si2 O10 H2'
+_cell_length_a 10.732
+_cell_length_b 15.672
+_cell_length_c 4.811
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 809.171
+_exptl_crystal_density_diffrn      4.046
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mn1   0.86850   0.14501   0.49334   1.00000   0.01406
+Mn2   0.59124   0.25000   0.51449   1.00000   0.01406
+Mn3   0.64402   0.06127  -0.00408   1.00000   0.01570
+Si1   0.77790   0.25000   0.07120   1.00000   0.00697
+Si2   0.46130   0.04480   0.58350   0.50000   0.00823
+O1   0.46160   0.04320   0.26720   1.00000   0.01545
+O2   0.77780   0.25000   0.73810   1.00000   0.00925
+O3   0.91790   0.25000   0.21250   1.00000   0.00988
+O4   0.71010   0.16810   0.21230   1.00000   0.00950
+O5   0.52860   0.13730   0.73110   1.00000   0.02001
+O6   0.31090   0.04390   0.73440   1.00000   0.01735
+H1   0.55500   0.12600   0.56900   0.50000   0.02153
+H2   0.34500   0.03400   0.60000   0.50000   0.02533

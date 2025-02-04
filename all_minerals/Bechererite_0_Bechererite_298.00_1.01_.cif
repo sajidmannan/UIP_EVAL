@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Bechererite'
+loop_
+_publ_author_name
+'Giester G'
+'Rieck B'
+_journal_name_full 'American Mineralogist'
+_journal_volume 81 
+_journal_year 1996
+_journal_page_first 244
+_journal_page_last 248
+_publ_section_title
+;
+ Bechererite, (Zn,Cu)6Zn2(OH)13[(S,Si)(O,OH)4]2, a novel mineral species from the
+ Tonopah-Belmont mine, Arizonia
+ Note: U(1,2) changed for Si, S, O1, OH1 to match symmetry constraints.
+;
+_database_code_amcsd 0001776
+_chemical_formula_sum 'Zn6.938 Cu1.002 (Si S) H19 O21'
+_cell_length_a 8.319
+_cell_length_b 8.319
+_cell_length_c 7.377
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 442.133
+_exptl_crystal_density_diffrn      3.503
+_symmetry_space_group_name_H-M 'P -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'y,-x+y,-z'
+  '-x+y,-x,z'
+  '-x,-y,-z'
+  '-y,x-y,z'
+  'x-y,x,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Zn1   0.41990   0.28530  -0.00050   0.82300 ?
+Cu1   0.41990   0.28530  -0.00050   0.16700 ?
+Zn2   0.00000   0.00000   0.24470   1.00000 ?
+Si   0.33333   0.66667   0.40390   0.50000 ?
+S   0.33333   0.66667   0.40390   0.50000 ?
+H1   0.35000   0.39000   0.48000   1.00000   0.48000
+H2   0.23000   0.32000   0.26000   1.00000   0.26000
+H3   0.45000   0.10000   0.24000   1.00000   0.24000
+O1   0.33333   0.66667   0.18600   1.00000 ?
+O2   0.32800   0.48900   0.47800   1.00000 ?
+O-H1   0.00000   0.00000   0.50000   1.00000 ?
+O-h2   0.18900   0.24400   0.16400   1.00000 ?
+O-h3   0.47800   0.10400   0.12400   1.00000 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 0.01900 0.01400 0.02700 0.00900 -0.00200 0.00000
+Cu1 0.01900 0.01400 0.02700 0.00900 -0.00200 0.00000
+Zn2 0.02000 0.02000 0.01900 0.01000 0.00000 0.00000
+Si 0.03500 0.03500 0.03300 0.01750 0.00000 0.00000
+S 0.03500 0.03500 0.03300 0.01750 0.00000 0.00000
+O1 0.03300 0.03300 0.04200 0.01650 0.00000 0.00000
+O2 0.06500 0.02900 0.02900 0.03400 -0.00300 -0.00100
+O-H1 0.14900 0.14900 0.00800 0.07450 0.00000 0.00000
+O-h2 0.02500 0.03000 0.01800 0.01200 -0.00400 -0.00700
+O-h3 0.02100 0.01500 0.02200 0.00500 0.00500 0.00100

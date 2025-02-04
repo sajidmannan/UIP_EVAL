@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Usovite'
+loop_
+_publ_author_name
+'Litvin A L'
+'Petrunina A A'
+'Ostapenko S S'
+_journal_name_full 'Dopovidi Akademii Nauk Ukrainskoi RSR Seriya B-Geologichni Khimichni Ta Biologichni Nauki'
+_journal_volume 3 
+_journal_year 1980
+_journal_page_first 47
+_journal_page_last 80
+_publ_section_title
+;
+ Crystal structure of usovite
+;
+_database_code_amcsd 0012515
+_chemical_formula_sum 'Ba2 Ca Mg Al2 F14'
+_cell_length_a 13.565
+_cell_length_b 5.200
+_cell_length_c 14.577
+_cell_angle_alpha 90
+_cell_angle_beta 91.50
+_cell_angle_gamma 90
+_cell_volume 1027.880
+_exptl_crystal_density_diffrn      4.258
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ba   0.30860   0.45760   0.38200   0.00185
+Ca   0.00000   0.43760   0.25000   0.00185
+Mg   0.00000   0.50000   0.00000   0.00185
+Al   0.38440   0.49460   0.12190   0.00185
+F1   0.26020   0.45770   0.07840   0.00185
+F2   0.07870   0.18790   0.97480   0.00185
+F3   0.38710   0.21130   0.55040   0.00185
+F4   0.00580   0.06260   0.15950   0.00185
+F5   0.34070   0.30120   0.71420   0.00185
+F6   0.12580   0.28030   0.80540   0.00185
+F7   0.43440   0.05360   0.38140   0.00185

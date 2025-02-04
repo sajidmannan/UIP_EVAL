@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Bobjonesite'
+loop_
+_publ_author_name
+'Schindler M'
+'Hawthorne F C'
+'Huminicki D M C'
+'Haynes P'
+'Grice J D'
+'Evans H T'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 41 
+_journal_year 2003
+_journal_page_first 83
+_journal_page_last 90
+_publ_section_title
+;
+ Bobjonesite, VO(SO4)(H2O)3, a new mineral species from Temple Mountain,
+ Emery County, Utah, U.S.A.
+;
+_database_code_amcsd 0005827
+_chemical_compound_source 'Temple Mountain, Emery County, Utah, USA'
+_chemical_formula_sum 'V S O8 H6'
+_cell_length_a 7.3940
+_cell_length_b 7.4111
+_cell_length_c 12.0597
+_cell_angle_alpha 90
+_cell_angle_beta 106.55
+_cell_angle_gamma 90
+_cell_volume 633.466
+_exptl_crystal_density_diffrn      2.276
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+V   0.56808   0.28298  -0.12525   0.01480
+S   0.22910   0.35900  -0.01264   0.01300
+O(1)   0.44780   0.40630  -0.22600   0.03160
+O(2)   0.75770   0.10280   0.01280   0.02020
+O(3)   0.44160   0.03980  -0.16960   0.02600
+O(4)   0.76140   0.20420  -0.20810   0.02400
+O(5)   0.76270   0.45730  -0.03560   0.02600
+O(6)   0.42300   0.30120  -0.00860   0.01800
+O(7)   0.15760   0.23500   0.05960   0.02100
+O(8)   0.10730   0.35740  -0.13100   0.02500
+H(1)   0.88000   0.15200   0.05700   0.02000
+H(2)   0.80300  -0.01200  -0.00900   0.02000
+H(3)   0.35400  -0.00100  -0.12700   0.02000
+H(4)   0.91500   0.51200   0.25300   0.02000
+H(5)   0.72600   0.22600  -0.29170   0.02000
+H(6)   0.88900   0.25100  -0.17200   0.02000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V 0.01220 0.01720 0.01530 0.00090 0.00440 0.00470
+S 0.01180 0.01200 0.01580 0.00010 0.00470 0.00140
+O(1) 0.02450 0.05560 0.02900 0.01370 0.00890 0.01930
+O(2) 0.01650 0.01960 0.02290 0.00230 0.00300 -0.00430
+O(3) 0.02590 0.03400 0.02190 -0.01450 0.01220 -0.01160
+O(4) 0.01670 0.03310 0.02110 -0.00190 0.00870 -0.00190
+O(5) 0.01630 0.01700 0.04270 -0.00220 0.01210 -0.00750
+O(6) 0.01240 0.02200 0.02100 0.00380 0.00660 -0.00080
+O(7) 0.01980 0.01880 0.02200 -0.00020 0.01020 0.00240
+O(8) 0.01740 0.03780 0.01670 -0.00150 0.00450 0.00630

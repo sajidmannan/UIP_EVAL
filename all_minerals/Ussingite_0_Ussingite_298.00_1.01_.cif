@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Ussingite'
+loop_
+_publ_author_name
+'Rossi G'
+'Tazzoli V'
+'Ungaretti L'
+_journal_name_full 'American Mineralogist'
+_journal_volume 59 
+_journal_year 1974
+_journal_page_first 335
+_journal_page_last 340
+_publ_section_title
+;
+ The crystal structure of ussingite
+;
+_database_code_amcsd 0000399
+_chemical_compound_source 'Lovozero alkali massif, Russia'
+_chemical_formula_sum 'Al Si3 Na2 H O9'
+_cell_length_a 7.256
+_cell_length_b 7.686
+_cell_length_c 8.683
+_cell_angle_alpha 90.75
+_cell_angle_beta 99.75
+_cell_angle_gamma 122.48
+_cell_volume 399.436
+_exptl_crystal_density_diffrn      2.513
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al   0.24220   0.04570   0.85510
+Si1   0.24630   0.19350   0.36260
+Si2   0.32030   0.41470   0.69240
+Si3   0.70140   0.10410   0.81290
+Na1   0.17590   0.39240   0.05550
+Na2   0.82140   0.23420   0.44210
+H   0.97900   0.40500   0.76500
+O1   0.00210   0.13580   0.27920
+O2   0.14190   0.47490   0.65150
+O3   0.27670  -0.00210   0.34730
+O4   0.30100   0.29700   0.84890
+O5   0.44420   0.02240   0.79550
+O6   0.42310   0.38180   0.27680
+O7   0.79800   0.03440   0.96250
+O8   0.85800   0.35570   0.82100
+O9   0.29730   0.26040   0.54850
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al 0.00688 0.00937 0.00898 0.00431 0.00220 0.00210
+Si1 0.00658 0.00801 0.00921 0.00355 0.00169 0.00121
+Si2 0.00856 0.00847 0.00777 0.00379 0.00250 0.00186
+Si3 0.00586 0.01064 0.00889 0.00537 0.00434 0.00284
+Na1 0.02672 0.02481 0.01958 0.01665 0.00395 0.00060
+Na2 0.02791 0.02109 0.01696 0.01544 0.00549 0.00457
+O1 0.01258 0.01546 0.02224 0.00731 0.00272 -0.00029
+O2 0.01619 0.02131 0.02211 0.01170 0.00593 0.00809
+O3 0.01791 0.01491 0.01129 0.01080 0.00344 0.00207
+O4 0.01541 0.01277 0.01137 0.00709 0.00312 0.00165
+O5 0.01321 0.01959 0.02036 0.00964 0.00357 0.00212
+O6 0.01310 0.01666 0.01492 0.00494 0.00504 0.00467
+O7 0.02389 0.03018 0.01395 0.01950 0.00585 0.00789
+O8 0.01621 0.01437 0.02431 0.00540 0.00844 0.00000
+O9 0.02884 0.01974 0.01048 0.01419 0.00320 0.00179

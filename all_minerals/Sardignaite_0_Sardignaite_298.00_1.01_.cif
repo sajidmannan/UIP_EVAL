@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Sardignaite'
+loop_
+_publ_author_name
+'Orlandi P'
+'Pasero M'
+'Bigi S'
+_journal_name_full 'Mineralogy and Petrology'
+_journal_volume 100 
+_journal_year 2010
+_journal_page_first 17
+_journal_page_last 22
+_publ_section_title
+;
+ Sardignaite, a new mineral, the second known bismuth molybdate:
+ description and crystal structure
+;
+_database_code_amcsd 0017091
+_chemical_compound_source 'Su Senargiu, near Sarroch, Sardegna, Italy'
+_chemical_formula_sum 'Bi Mo2 O10'
+_cell_length_a 5.7797
+_cell_length_b 11.567
+_cell_length_c 6.3344
+_cell_angle_alpha 90
+_cell_angle_beta 113.360
+_cell_angle_gamma 90
+_cell_volume 388.767
+_exptl_crystal_density_diffrn      4.791
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Bi   0.15761   0.75000   0.26334   0.02380
+Mo   0.69260   0.59567   0.65450   0.02000
+O1   0.88600   0.61530   0.51100   0.03200
+O2   0.88600   0.61870   0.93700   0.03000
+O3   0.65600   0.43330   0.63400   0.02250
+O4   0.53100   0.75000   0.59200   0.02200
+O5   0.38100   0.75000   0.07500   0.03800
+O6   0.40000   0.57370   0.82500   0.02600
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi 0.02640 0.02170 0.02120 0.00000 0.00740 0.00000
+Mo 0.02060 0.01620 0.02010 0.00020 0.00500 -0.00090
+O1 0.03300 0.02800 0.03600 0.00100 0.01600 0.00200
+O2 0.03100 0.02600 0.02500 0.00000 0.00200 -0.00100
+O3 0.02400 0.01700 0.02300 0.00000 0.00600 -0.00100
+O4 0.02700 0.01600 0.02200 0.00000 0.00800 0.00000
+O5 0.04600 0.04600 0.03100 0.00000 0.02500 0.00000
+O6 0.03100 0.02300 0.02400 -0.00100 0.01000 -0.00100

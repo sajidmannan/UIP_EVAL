@@ -1,0 +1,87 @@
+data_global
+_chemical_name_mineral 'Ferrostalderite'
+loop_
+_publ_author_name
+'Biagioni C'
+'Bindi L'
+'Nestola F'
+'Cannon R'
+'Roth P'
+'Raber T'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 80 
+_journal_year 2016
+_journal_page_first 175
+_journal_page_last 186
+_publ_section_title
+;
+ Ferrostalderite, CuFe2TlAs2S6, a new mineral from Lengenbach, Switzerland:
+ occurrence, crystal structure, and emphasis on the role of iron in sulfosalts
+;
+_database_code_amcsd 0020619
+_chemical_compound_source 'Lengenbach quarry, Binn Valley, Wallis, Switzerland'
+_chemical_formula_sum 'Cu.75 Zn.53 Fe1.36 Ag.3 Hg.06 Tl (As1.96 Sb.04) S6'
+_cell_length_a 9.8786
+_cell_length_b 9.8786
+_cell_length_c 10.8489
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1058.709
+_exptl_crystal_density_diffrn      4.713
+_symmetry_space_group_name_H-M 'I -4 2 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,-x,z'
+  '1/2-y,1/2-x,1/2+z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  'y,x,z'
+  '1/2+y,1/2+x,1/2+z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+CuM1   0.00000   0.50000   0.25000   0.75000   0.02100
+ZnM1   0.00000   0.50000   0.25000   0.25000   0.02100
+FeM2   0.22410   0.50000   0.50000   0.68000   0.02560
+AgM2   0.22410   0.50000   0.50000   0.15000   0.02560
+ZnM2   0.22410   0.50000   0.50000   0.14000   0.02560
+HgM2   0.22410   0.50000   0.50000   0.03000   0.02560
+Tl   0.00000   0.00000   0.34889   1.00000   0.04790
+As   0.26343   0.26343   0.24860   0.98000   0.01800
+Sb   0.26343   0.26343   0.24860   0.02000   0.01800
+S1   0.10170   0.34100   0.37900   1.00000   0.02070
+S2   0.12870   0.12870   0.13000   1.00000   0.02130
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+CuM1 0.01490 0.01490 0.03330 0.00000 0.00000 0.00000
+ZnM1 0.01490 0.01490 0.03330 0.00000 0.00000 0.00000
+FeM2 0.03250 0.02220 0.02200 0.00000 0.00000 -0.00090
+AgM2 0.03250 0.02220 0.02200 0.00000 0.00000 -0.00090
+ZnM2 0.03250 0.02220 0.02200 0.00000 0.00000 -0.00090
+HgM2 0.03250 0.02220 0.02200 0.00000 0.00000 -0.00090
+Tl 0.05930 0.05930 0.02520 -0.01780 0.00000 0.00000
+As 0.01720 0.01720 0.01960 -0.00030 0.00090 0.00090
+Sb 0.01720 0.01720 0.01960 -0.00030 0.00090 0.00090
+S1 0.02000 0.02010 0.02140 0.00540 0.00210 -0.00160
+S2 0.02300 0.02300 0.01760 -0.00190 -0.00180 -0.00180

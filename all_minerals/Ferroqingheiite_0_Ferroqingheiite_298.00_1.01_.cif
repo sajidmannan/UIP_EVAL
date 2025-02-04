@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Ferroqingheiite'
+loop_
+_publ_author_name
+'Hatert F'
+'Baijot M'
+'Philippo S'
+'Wouters J'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 22 
+_journal_year 2010
+_journal_page_first 459
+_journal_page_last 467
+_publ_section_title
+;
+ Qingheiite-(Fe2+), Na2Fe2+MgAl(PO4)3, a new phosphate mineral
+ from the Sebastiao Cristino pegmatite, Minas Gerais, Brazil
+;
+_database_code_amcsd 0018317
+_chemical_compound_source 'the Sebastiao Cristino pegmatite, Minas Gerais, Brazil'
+_chemical_formula_sum 'Na2.362 Mn Fe2.958 Al1.85 Mg.928 P6 O24'
+_cell_length_a 11.910
+_cell_length_b 12.383
+_cell_length_c 6.372
+_cell_angle_alpha 90
+_cell_angle_beta 114.43
+_cell_angle_gamma 90
+_cell_volume 855.614
+_exptl_crystal_density_diffrn      3.558
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NaX(2)   0.00050  -0.01720   0.24830   0.57300   0.03170
+MnX(1a)   0.50000   0.00000   0.00000   1.00000   0.01100
+NaX(1b)   0.50000   0.00000   0.50000   0.95200   0.02060
+FeM(1)   0.00083   0.26084   0.26527   0.86800   0.00990
+NaM(1)   0.00083   0.26084   0.26527   0.13200   0.00990
+AlM(2a)   0.28215  -0.33551   0.36006   0.92500   0.00750
+FeM(2a)   0.28215  -0.33551   0.36006   0.07500   0.00750
+FeM(2b)   0.22407  -0.14767   0.62912   0.53600   0.00770
+MgM(2b)   0.22407  -0.14767   0.62912   0.46400   0.00770
+P(1)   0.00633  -0.28560   0.23900   1.00000   0.00710
+P(2a)   0.23910  -0.09798   0.11758   1.00000   0.00800
+P(2b)   0.24058   0.11455   0.64754   1.00000   0.00770
+O(1a)   0.44940  -0.28280   0.51560   1.00000   0.01090
+O(1b)   0.45500  -0.71090   0.05080   1.00000   0.01000
+O(2a)   0.11070  -0.35110   0.22000   1.00000   0.01360
+O(2b)   0.08280  -0.62770   0.74350   1.00000   0.01210
+O(3a)   0.31890  -0.32640   0.08730   1.00000   0.01170
+O(3b)   0.33950  -0.65480   0.61300   1.00000   0.01180
+O(4a)   0.12570   0.41180   0.35130   1.00000   0.01160
+O(4b)   0.11890  -0.39980   0.77630   1.00000   0.01110
+O(5a)   0.23680  -0.16760   0.31660   1.00000   0.01340
+O(5b)   0.22260  -0.81480   0.83120   1.00000   0.01110
+O(6a)   0.31690  -0.48650   0.38110   1.00000   0.01590
+O(6b)   0.32240  -0.49380   0.87760   1.00000   0.01510

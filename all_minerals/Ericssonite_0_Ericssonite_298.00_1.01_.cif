@@ -1,0 +1,86 @@
+data_global
+_chemical_name_mineral 'Ericssonite'
+loop_
+_publ_author_name
+'Matsubara S'
+_journal_name_full 'Mineralogical Journal'
+_journal_volume 10 
+_journal_year 1980
+_journal_page_first 107
+_journal_page_last 121
+_publ_section_title
+;
+ The crystal structure of orthoericssonite
+ Note: this is the orthorhombic polytype
+;
+_database_code_amcsd 0014422
+_chemical_compound_source 'Hijikuzu mine, Iwate Prefecture, Japan'
+_chemical_formula_sum '(Ba.7 Sr.3) Mn1.4 Fe1.5 Ti.1 Si2 O9'
+_cell_length_a 20.230
+_cell_length_b 6.979
+_cell_length_c 5.392
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 761.270
+_exptl_crystal_density_diffrn      4.258
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  'x,-y,z'
+  '-x,y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ba   0.22483   0.00000   0.16440   0.70000   0.00963
+Sr   0.22483   0.00000   0.16440   0.30000   0.00963
+Mn1   0.00000   0.25960   0.00000   0.70000   0.00925
+Fe12+   0.00000   0.25960   0.00000   0.30000   0.01077
+Mn2   0.00000   0.00000   0.50000   0.70000   0.00925
+Fe22+   0.00000   0.00000   0.50000   0.30000   0.00671
+Mn3   0.00000   0.50000   0.50000   0.70000   0.01077
+Fe32+   0.00000   0.50000   0.50000   0.30000   0.00671
+Fe3+   0.14291   0.50000   0.16630   0.90000   0.00519
+Ti   0.14291   0.50000   0.16630   0.10000   0.00519
+Si   0.13640   0.22620   0.66440   1.00000   0.00532
+O1   0.05070   0.00000   0.16570   1.00000   0.01545
+O2   0.15820   0.00000   0.66240   1.00000   0.01722
+O3   0.05670   0.24650   0.66170   1.00000   0.01026
+O4   0.17080   0.30870   0.91370   1.00000   0.01317
+O5   0.17220   0.30860   0.41800   1.00000   0.01241
+O6   0.05230   0.50000   0.17300   1.00000   0.00747
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ba 0.01099 0.00881 0.00910 0.00000 0.00000 0.00000
+Sr 0.01099 0.00881 0.00910 0.00000 0.00000 0.00000
+Mn1 0.01327 0.00817 0.00635 0.00000 0.00249 0.00000
+Fe12+ 0.01327 0.00817 0.00635 0.00000 0.00249 0.00000
+Mn2 0.01161 0.01063 0.00993 0.00000 0.00061 0.00000
+Fe22+ 0.01161 0.01063 0.00993 0.00000 0.00061 0.00000
+Mn3 0.00767 0.00834 0.00401 0.00000 0.00177 0.00000
+Fe32+ 0.00767 0.00834 0.00401 0.00000 0.00177 0.00000
+Fe3+ 0.00498 0.00733 0.00343 0.00000 0.00044 0.00000
+Ti 0.00498 0.00733 0.00343 0.00000 0.00044 0.00000
+Si 0.00581 0.00479 0.00546 0.00050 0.00044 -0.00046
+O1 0.01472 0.01752 0.01402 0.00000 -0.00011 0.00000
+O2 0.01348 0.00392 0.03417 0.00000 0.00028 0.00000
+O3 0.00705 0.01300 0.01069 0.00200 0.00188 0.00095
+O4 0.01016 0.02107 0.00823 0.00136 -0.00077 -0.00318
+O5 0.01057 0.01767 0.00896 0.00007 0.00188 0.00400
+O6 0.00560 0.00901 0.00772 0.00000 0.00061 0.00000

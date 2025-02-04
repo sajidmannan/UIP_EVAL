@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Davanite'
+loop_
+_publ_author_name
+'Gebert W'
+'Medenbach O'
+'Florke O W'
+_journal_name_full 'Tschermaks Mineralogische und Petrographische Mitteilungen'
+_journal_volume 31 
+_journal_year 1983
+_journal_page_first 69
+_journal_page_last 79
+_publ_section_title
+;
+ Darstellung und kristallographie von K2TiSi6O15 - isotyp mit dalyit K2ZrSi6O15
+;
+_database_code_amcsd 0015694
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'K2 Ti Si6 O15'
+_cell_length_a 7.250
+_cell_length_b 7.474
+_cell_length_c 6.909
+_cell_angle_alpha 105.59
+_cell_angle_beta 112.81
+_cell_angle_gamma 99.28
+_cell_volume 317.198
+_exptl_crystal_density_diffrn      2.799
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K   0.28620   0.18180   0.70910
+Ti   0.00000   0.00000   0.00000
+Si1   0.50530   0.68770   0.68560
+Si2   0.16640   0.63010   0.85040
+Si3   0.18850   0.74240   0.30300
+O1   0.50000   0.50000   0.50000
+O2   0.01310   0.57800   0.30540
+O3   0.09000   0.81400   0.82750
+O4   0.10110   0.91830   0.26130
+O5   0.25860   0.64360   0.11320
+O6   0.26810   0.19060   0.11820
+O7   0.36160   0.61020   0.79490
+O8   0.39310   0.81960   0.54850
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.02000 0.02600 0.02500 0.00700 0.01100 0.00200
+Ti 0.00800 0.00900 0.01000 0.00400 0.00400 0.00500
+Si1 0.00700 0.01000 0.00900 0.00400 0.00400 0.00500
+Si2 0.00900 0.01000 0.01000 0.00500 0.00600 0.00500
+Si3 0.00900 0.01000 0.01000 0.00400 0.00500 0.00500
+O1 0.02700 0.02000 0.01500 0.01400 0.01100 0.00500
+O2 0.01500 0.01400 0.01700 0.00500 0.00700 0.00500
+O3 0.02100 0.01600 0.01500 0.01300 0.01000 0.00800
+O4 0.01400 0.01400 0.01200 0.00800 0.00600 0.00700
+O5 0.01700 0.01800 0.01200 0.01100 0.00800 0.00800
+O6 0.00900 0.01800 0.01700 0.00100 0.00100 0.00800
+O7 0.01200 0.02100 0.02000 0.00800 0.01200 0.01300
+O8 0.01200 0.01200 0.01200 0.00500 0.00300 0.00600

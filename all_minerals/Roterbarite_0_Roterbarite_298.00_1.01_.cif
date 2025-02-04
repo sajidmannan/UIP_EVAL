@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Roterbarite'
+loop_
+_publ_author_name
+'Vymazalova A'
+'Cabral A R'
+'Laufek F'
+'Liebmann W'
+'Stanley C J'
+'Lehmann B'
+_journal_name_full 'Mineralogy and Petrology'
+_journal_volume 114 
+_journal_year 2020
+_journal_page_first 443
+_journal_page_last 451
+_publ_section_title
+;
+ Roterbarite, PdCuBiSe3, a new mineral species from the Roter Bar mine,
+ Harz Mountains, Germany
+;
+_database_code_amcsd 0020939
+_chemical_compound_source 'Roter Bar mine, Harz Mountains, Germany'
+_chemical_formula_sum 'Bi Pd Cu Se3'
+_cell_length_a 5.00520
+_cell_length_b 7.9921
+_cell_length_c 13.5969
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 543.904
+_exptl_crystal_density_diffrn      7.520
+_symmetry_space_group_name_H-M 'P 21 21 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Bi   0.91490   0.38200   0.13100   0.00494
+Pd   0.50180   0.13181   0.25200   0.00494
+Cu   0.96440   0.38140   0.43920   0.02026
+Se1   0.73420   0.12340   0.41070   0.00494
+Se2   0.25060   0.38410   0.29410   0.00494
+Se3   0.28260   0.13480   0.08940   0.00494

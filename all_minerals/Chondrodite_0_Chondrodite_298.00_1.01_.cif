@@ -1,0 +1,51 @@
+data_global
+_chemical_name_mineral 'Chondrodite'
+loop_
+_publ_author_name
+'Gibbs G V'
+'Ribbe P H'
+'Anderson C P'
+_journal_name_full 'American Mineralogist'
+_journal_volume 55 
+_journal_year 1970
+_journal_page_first 1182
+_journal_page_last 1194
+_publ_section_title
+;
+ The crystal structures of the humite minerals. II. Chondrodite
+;
+_database_code_amcsd 0000208
+_chemical_formula_sum 'Mg4.95 Fe.05 Si2 O8.7 (F1.3 H.7)'
+_cell_length_a 4.7284
+_cell_length_b 10.2539
+_cell_length_c 7.8404
+_cell_angle_alpha 109.059
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 359.300
+_exptl_crystal_density_diffrn      3.178
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg1   0.50000   0.00000   0.50000   0.95000   0.00621
+Fe1   0.50000   0.00000   0.50000   0.05000   0.00621
+Mg2   0.00910   0.17310   0.30550   1.00000   0.00570
+Mg3   0.49150   0.88670   0.07910   1.00000   0.00545
+Si   0.07680   0.14410   0.70380   1.00000   0.00253
+O1   0.77870   0.00090   0.29370   1.00000   0.00456
+O2   0.72800   0.24040   0.12520   1.00000   0.00507
+O3   0.22550   0.16820   0.52750   1.00000   0.00443
+O4   0.26490   0.85460   0.29430   1.00000   0.00532
+O-H   0.26560   0.05820   0.10180   0.35000   0.00633
+F   0.26560   0.05820   0.10180   0.65000   0.00633

@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Kottigite'
+loop_
+_publ_author_name
+'Hill R J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 64 
+_journal_year 1979
+_journal_page_first 376
+_journal_page_last 382
+_publ_section_title
+;
+ The crystal structure of kottigite
+;
+_database_code_amcsd 0000711
+_chemical_compound_source 'Schneeberg, Germany'
+_chemical_formula_sum 'Zn3 As2 O16 H16'
+_cell_length_a 10.241
+_cell_length_b 13.405
+_cell_length_c 4.757
+_cell_angle_alpha 90
+_cell_angle_beta 105.21
+_cell_angle_gamma 90
+_cell_volume 630.168
+_exptl_crystal_density_diffrn      3.258
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Zn1   0.00000   0.00000   0.00000 ?
+Zn2   0.00000   0.38521   0.00000 ?
+As   0.31541   0.00000   0.37440 ?
+O1   0.14980   0.00000   0.37540 ?
+O2   0.40490   0.00000   0.72260 ?
+O3   0.34320   0.10660   0.21350 ?
+O4   0.09750   0.11440   0.80810 ?
+O5   0.40000   0.22620   0.71790 ?
+H41   0.38400   0.42500   0.36400   0.02660
+H43   0.34000   0.37100   0.11900   0.05066
+H53   0.12100   0.30500   0.43600   0.02153
+H54   0.04400   0.23600   0.28900   0.00380
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Zn1 0.00891 0.01274 0.01089 0.00000 -0.00046 0.00000
+Zn2 0.01039 0.01183 0.01228 0.00000 0.00115 0.00000
+As 0.00544 0.01001 0.00715 0.00000 -0.00069 0.00000
+O1 0.00742 0.01912 0.00256 0.00000 -0.00023 0.00000
+O2 0.01583 0.01183 0.01089 0.00000 -0.00046 0.00000
+O3 0.01237 0.01001 0.01420 0.00134 0.00230 0.00156
+O4 0.01138 0.02003 0.01559 0.00000 0.00253 -0.00062
+O5 0.02078 0.02003 0.01548 0.00201 0.00138 0.00218

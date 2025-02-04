@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Guanine'
+loop_
+_publ_author_name
+'Thewalt U'
+'Bugg C E'
+'Marsh R E'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 27 
+_journal_year 1971
+_journal_page_first 2358
+_journal_page_last 2362
+_publ_section_title
+;
+ The crystal structure of guanine monohydrate
+;
+_database_code_amcsd 0009419
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'C5 H7 N5 O2'
+_cell_length_a 16.510
+_cell_length_b 11.277
+_cell_length_c 3.645
+_cell_angle_alpha 90
+_cell_angle_beta 96.8
+_cell_angle_gamma 90
+_cell_volume 673.864
+_exptl_crystal_density_diffrn      1.667
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+C2   0.36470   0.67730   0.57780   1.00000 ?
+C4   0.38870   0.48580   0.68030   1.00000 ?
+C5   0.31440   0.44940   0.49310   1.00000 ?
+C6   0.25950   0.53520   0.33270   1.00000 ?
+C8   0.37830   0.29170   0.69380   1.00000 ?
+H1   0.43700   0.82700   0.72300   1.00000   0.03166
+H2   0.35000   0.86100   0.48000   1.00000   0.03166
+H3   0.25400   0.71800   0.27400   1.00000   0.03166
+H4   0.39300   0.20500   0.74600   1.00000   0.03166
+H5   0.48300   0.38000   0.96300   1.00000   0.03166
+H6   0.59000   0.94500   0.80400   1.00000   0.03166
+H7   0.51000   0.98200   0.93300   0.50000   0.07599
+H8   0.51000   0.98200   0.57600   0.50000   0.07599
+N1   0.29010   0.65020   0.38960   1.00000 ?
+N2   0.38380   0.79230   0.58910   1.00000 ?
+N3   0.41670   0.59890   0.73500   1.00000 ?
+N7   0.30930   0.32510   0.50230   1.00000 ?
+N9   0.42840   0.38490   0.80530   1.00000 ?
+O6   0.19120   0.51870   0.15930   1.00000 ?
+O10   0.53410   0.93960   0.76680   1.00000 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C2 0.03132 0.03286 0.01772 -0.00749 -0.00060 0.00227
+C4 0.02178 0.03092 0.03212 -0.00562 -0.00812 0.00227
+C5 0.02723 0.03157 0.03152 -0.00749 -0.00391 -0.01137
+C6 0.02995 0.03801 0.03205 0.01499 -0.00150 -0.00786
+C8 0.04085 0.03801 0.02741 -0.00281 -0.00782 0.00165
+N1 0.02587 0.02577 0.01832 0.00468 -0.01804 -0.00352
+N2 0.03676 0.01933 0.06278 -0.00749 -0.05080 0.01385
+N3 0.01770 0.02448 0.01878 0.00187 -0.02675 0.01447
+N7 0.03404 0.02835 0.01659 -0.00281 -0.00782 0.00165
+N9 0.02315 0.03092 0.02860 -0.00281 -0.02946 0.00021
+O6 0.02042 0.04832 0.02442 0.00094 -0.02104 -0.01447
+O10 0.05310 0.13014 0.21170 -0.01686 0.05922 0.03474

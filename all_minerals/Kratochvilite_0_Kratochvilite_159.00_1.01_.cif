@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Kratochvilite'
+loop_
+_publ_author_name
+'Gerkin R E'
+'Lundstedt A P'
+'Reppart W J'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 40 
+_journal_year 1984
+_journal_page_first 1892
+_journal_page_last 1894
+_publ_section_title
+;
+ Structure of fluorene, C13H10, at 159 K
+ Note: T = 159 K
+;
+_database_code_amcsd 0009998
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'C13 H10'
+_cell_length_a 8.365
+_cell_length_b 18.745
+_cell_length_c 5.654
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 886.558
+_exptl_crystal_density_diffrn      1.245
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+C1   0.73270   0.31265   0.62350   0.02900
+C2   0.75110   0.38492   0.66760   0.03730
+C3   0.68050   0.43326   0.51470   0.04230
+C4   0.59320   0.41020   0.32100   0.04140
+C5   0.57470   0.33783   0.27490   0.03560
+C6   0.64520   0.28925   0.42770   0.02700
+C7   0.79710   0.25000   0.75970   0.03310
+H2   0.81400   0.40080   0.80820   0.04730
+H3   0.69000   0.48530   0.54810   0.04810
+H4   0.54440   0.44580   0.21420   0.05390
+H5   0.51480   0.32140   0.13960   0.04110
+H7A   0.91780   0.25000   0.76510   0.05110
+H7B   0.76140   0.25000   0.93480   0.04850

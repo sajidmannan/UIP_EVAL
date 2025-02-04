@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Xieite'
+loop_
+_publ_author_name
+'Ishii T'
+'Kojitani H'
+'Tsukamoto S'
+'Fujino K'
+'Mori D'
+'Inaguma Y'
+'Tsujino N'
+'Yoshino T'
+'Yamazaki D'
+'Higo Y'
+'Funakoshi K'
+'Akaogi M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 99 
+_journal_year 2014
+_journal_page_first 1788
+_journal_page_last 1797
+_publ_section_title
+;
+ High-pressure phase transitions in FeCr2O4 and structure analysis of new post-
+ spinel FeCr2O4 and Fe2Cr2O5 phases with meteoritical and petrological implications
+;
+_database_code_amcsd 0020400
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Fe Cr2 O4'
+_cell_length_a 2.88445
+_cell_length_b 9.5207
+_cell_length_c 9.7532
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 267.842
+_exptl_crystal_density_diffrn      5.551
+_symmetry_space_group_name_H-M 'C m c m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,y,z'
+  '1/2-x,1/2+y,z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,-z'
+  'x,y,1/2-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Fe   0.00000   0.11280   0.25000   0.02220
+Cr1   0.00000   0.36860   0.07140   0.00320
+O1   0.00000   0.00000   0.00000   0.00600
+O2   0.00000   0.46560   0.25000   0.00800
+O3   0.00000   0.26400   0.61090   0.00800

@@ -1,0 +1,105 @@
+data_global
+_chemical_name_mineral 'Bavenite'
+loop_
+_publ_author_name
+'Armstrong J A'
+'Friis H'
+'Lieb A'
+'Finch A A'
+'Weller M T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 95 
+_journal_year 2010
+_journal_page_first 519
+_journal_page_last 526
+_publ_section_title
+;
+ Combined single-crystal X-ray and neutron powder diffraction structure analysis
+ exemplified through full structure determinations of
+ framework and layer beryllate minerals
+;
+_database_code_amcsd 0005039
+_chemical_compound_source 'Ilimaussaq alkaline complex, South Greenland'
+_chemical_formula_sum 'Ca4 Si9 Be3 Al O28 H3'
+_cell_length_a 23.1965
+_cell_length_b 4.9741
+_cell_length_c 19.4221
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2240.955
+_exptl_crystal_density_diffrn      2.721
+_symmetry_space_group_name_H-M 'C m c m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,y,z'
+  '1/2-x,1/2+y,z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,-z'
+  'x,y,1/2-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.08223   0.25504   0.15368   1.00000   0.01166
+Si1T1   0.00000   0.77470   0.25000   1.00000   0.00910
+Be1T2   0.12430   0.82280   0.25000   1.00000   0.01079
+BeT3   0.00000   0.72130   0.10447   0.50000   0.00593
+AlT3   0.00000   0.72130   0.10447   0.25000   0.00593
+SiT3   0.00000   0.72130   0.10447   0.25000   0.00593
+SiT4   0.09395   0.50000   0.00000   0.75000   0.01079
+AlT4   0.09395   0.50000   0.00000   0.25000   0.01079
+Si3T5   0.17045   0.00000   0.00000   1.00000   0.00943
+Si4T6   0.21395   0.86270   0.14410   1.00000   0.00840
+O1   0.00000   0.57470   0.18217   1.00000   0.00885
+O2   0.00000   0.03600   0.10927   1.00000   0.01115
+O3   0.05783   0.59600   0.06927   1.00000   0.01223
+O4   0.13132   0.23780   0.03387   1.00000   0.01215
+O5   0.20858   0.87280   0.06086   1.00000   0.01121
+O6   0.23302   0.56120   0.16604   1.00000   0.01084
+O7   0.15420   0.94100   0.18013   1.00000   0.01063
+O8   0.12101   0.49630   0.25000   1.00000   0.00990
+O9   0.05790   0.95780   0.25000   1.00000   0.00924
+H1   0.34130   0.93800   0.25000   1.00000   0.01900
+H2   0.00000   0.09900   0.06900   0.50000   0.02800
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.01300 0.01670 0.00530 -0.00290 -0.00040 0.00070
+Si1T1 0.00790 0.01230 0.00710 0.00000 0.00000 0.00000
+Be1T2 0.00900 0.01700 0.00700 0.00100 0.00000 0.00000
+BeT3 0.00530 0.01020 0.00230 0.00000 0.00000 0.00030
+AlT3 0.00530 0.01020 0.00230 0.00000 0.00000 0.00030
+SiT3 0.00530 0.01020 0.00230 0.00000 0.00000 0.00030
+SiT4 0.01330 0.01370 0.00540 0.00000 0.00000 0.00000
+AlT4 0.01330 0.01370 0.00540 0.00000 0.00000 0.00000
+Si3T5 0.00920 0.01460 0.00450 0.00000 0.00000 -0.00140
+Si4T6 0.00920 0.01230 0.00370 -0.00020 0.00030 0.00020
+O1 0.00790 0.01340 0.00520 0.00000 0.00000 -0.00100
+O2 0.01100 0.01390 0.00850 0.00000 0.00000 0.00150
+O3 0.01200 0.01620 0.00850 0.00160 0.00300 -0.00070
+O4 0.01320 0.01630 0.00700 0.00160 0.00080 -0.00340
+O5 0.01230 0.01630 0.00510 0.00000 -0.00020 0.00040
+O6 0.01170 0.01300 0.00790 -0.00010 0.00220 0.00100
+O7 0.01240 0.01360 0.00580 0.00130 0.00260 0.00190
+O8 0.00940 0.01300 0.00770 0.00000 0.00000 0.00000
+O9 0.00950 0.01410 0.00410 0.00040 0.00000 0.00000

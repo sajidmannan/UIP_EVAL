@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Mellizinkalite'
+loop_
+_publ_author_name
+'Pekov I V'
+'Zubkova N V'
+'Yapaskurt V O'
+'Lykova I S'
+'Belakovskiy D I'
+'Vigasina M F'
+'Sidorov E G'
+'Britvin S N'
+'Pushcharovsky D Y'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 27 
+_journal_year 2015
+_journal_page_first 247
+_journal_page_last 253
+_publ_section_title
+;
+ New zinc and potassium chlorides from fumaroles of the Tolbachik volcano, Kamchatka,
+ Russia: mineral data and crystal chemistry. I. Mellizinkalite, K3Zn2Cl7
+;
+_database_code_amcsd 0020463
+_chemical_compound_source 'Glavnaya Tenoritovaya fumarole, Tolbachik volcano, Kamchatka, Russia'
+_chemical_formula_sum 'K2.949 Rb.03 Zn1.84 Cu.14 Mg.09 Cl6.951'
+_cell_length_a 6.7737
+_cell_length_b 10.5715
+_cell_length_c 11.0730
+_cell_angle_alpha 117.930
+_cell_angle_beta 106.909
+_cell_angle_gamma 90.389
+_cell_volume 660.609
+_exptl_crystal_density_diffrn      2.492
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+K1   0.38860   0.90510   0.77980   0.98300   0.04290
+Rb1   0.38860   0.90510   0.77980   0.01000   0.04290
+K2   0.90330   0.18830  -0.22400   0.98300   0.04750
+Rb2   0.90330   0.18830  -0.22400   0.01000   0.04750
+K3   0.13320   0.41290   0.28600   0.98300   0.05140
+Rb3   0.13320   0.41290   0.28600   0.01000   0.05140
+Zn1   0.50700   0.34275   0.01227   0.92000   0.03860
+Cu1   0.50700   0.34275   0.01227   0.07000   0.03860
+Mg1   0.50700   0.34275   0.01227   0.04500   0.03860
+Zn2   0.64580   0.73248   0.44018   0.92000   0.03330
+Cu2   0.64580   0.73248   0.44018   0.07000   0.03330
+Mg2   0.64580   0.73248   0.44018   0.04500   0.03330
+Cl1   0.67450   0.83920   0.31030   0.99300   0.04650
+Cl2   0.69500   0.49850   0.34920   0.99300   0.05020
+Cl3   0.27850   0.19950   0.02710   0.99300   0.03280
+Cl4   0.27540   0.50330   0.01050   0.99300   0.04020
+Cl5   0.74530   0.19710   0.01550   0.99300   0.03380
+Cl6   0.31410   0.73270   0.45230   0.99300   0.03940
+Cl7   0.86300   0.85860   0.67330   0.99300   0.04930

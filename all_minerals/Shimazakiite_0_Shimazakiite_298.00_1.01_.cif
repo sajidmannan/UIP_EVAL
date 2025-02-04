@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Shimazakiite'
+loop_
+_publ_author_name
+'Kusachi I'
+'Kobayashi S'
+'Takechi Y'
+'Nakamuta Y'
+'Nagase T'
+'Yokoyama K'
+'Momma K'
+'Miyawaki R'
+'Shigeoka M'
+'Matsubara S'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 77 
+_journal_year 2013
+_journal_page_first 93
+_journal_page_last 105
+_publ_section_title
+;
+ Shimazakiite-4M and shimazakiite-4O, Ca2B2O5, two polytypes of a new mineral
+ from Fuka, Okayama Prefecture, Japan
+ Note: polytype Shimazakiite-4M
+;
+_database_code_amcsd 0019798
+_chemical_compound_source 'Fuka, Okayama Prefecture, Japan'
+_chemical_formula_sum 'Ca2 B2 O5'
+_cell_length_a 3.5485
+_cell_length_b 6.352
+_cell_length_c 19.254
+_cell_angle_alpha 90
+_cell_angle_beta 92.393
+_cell_angle_gamma 90
+_cell_volume 433.608
+_exptl_crystal_density_diffrn      2.784
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.28850   0.94930   0.21050   0.00660
+Ca2   0.75330   0.19560   0.06186   0.00660
+B1   0.16900   0.46500   0.15690   0.01000
+B2   0.18900   0.25300   0.41700   0.00900
+O1   0.75800   0.80770   0.01490   0.00920
+O2   0.77100   0.89080   0.13360   0.00560
+O3   0.28500   0.26840   0.14810   0.00680
+O4   0.97200   0.54950   0.09710   0.01900
+O5   0.20300   0.57610   0.21710   0.00740
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.00830 0.00720 0.00420 0.00150 -0.00060 -0.00060
+Ca2 0.00750 0.00750 0.00460 0.00260 -0.00140 0.00020

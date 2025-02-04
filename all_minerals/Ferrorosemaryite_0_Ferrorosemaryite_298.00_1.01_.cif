@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Ferrorosemaryite'
+loop_
+_publ_author_name
+'Hatert F'
+'Lefevre P'
+'Fransolet A M'
+'Spirlet M R'
+'Rebbouh L'
+'Fontan F'
+'Keller P'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 17 
+_journal_year 2005
+_journal_page_first 749
+_journal_page_last 759
+_publ_section_title
+;
+ Ferrorosemaryite, NaFe2+Fe3+Al(PO4)3, a new phosphate
+ mineral from the Rubindi pegmatite, Rwanda
+;
+_database_code_amcsd 0007132
+_chemical_compound_source 'Rubindi pegmatite, Rwanda'
+_chemical_formula_sum 'Mn.366 Na.501 Fe3.996 Al1.846 P6 O24'
+_cell_length_a 11.838
+_cell_length_b 12.347
+_cell_length_c 6.2973
+_cell_angle_alpha 90
+_cell_angle_beta 114.353
+_cell_angle_gamma 90
+_cell_volume 838.539
+_exptl_crystal_density_diffrn      3.463
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+MnX1a   0.50000   0.00000   0.00000   0.36600   0.02670
+NaX1a   0.50000   0.00000   0.00000   0.13500   0.02670
+NaX1b   0.50000   0.00000   0.50000   0.19000   0.02600
+Fe2+M1   0.00328   0.26143   0.26174   0.66500   0.00830
+Fe3+M1   0.00328   0.26143   0.26174   0.24600   0.00830
+NaM1   0.00328   0.26143   0.26174   0.08800   0.00830
+AlM2a   0.28229  -0.34426   0.36563   0.70800   0.00600
+Fe2+M2a   0.28229  -0.34426   0.36563   0.15500   0.00600
+Fe3+M2a   0.28229  -0.34426   0.36563   0.14100   0.00600
+FeM2b   0.21847  -0.14873   0.62250   0.79100   0.00590
+AlM2b   0.21847  -0.14873   0.62250   0.21500   0.00590
+P1   0.00302  -0.28623   0.24047   1.00000   0.00680
+P2a   0.24165  -0.10219   0.12096   1.00000   0.00710
+P2b   0.24473   0.11152   0.64403   1.00000   0.00670
+O1a   0.44810  -0.28350   0.51680   1.00000   0.00950
+O1b   0.45310  -0.71190   0.04270   1.00000   0.00890
+O2a   0.10810  -0.35490   0.23160   1.00000   0.01290
+O2b   0.09360  -0.63370   0.74390   1.00000   0.01220
+O3a   0.31860  -0.33170   0.09440   1.00000   0.01010
+O3b   0.33390  -0.66120   0.61400   1.00000   0.01020
+O4a   0.12270   0.40240   0.33940   1.00000   0.01390
+O4b   0.11540  -0.39690   0.77830   1.00000   0.01370
+O5a   0.23020  -0.17210   0.31710   1.00000   0.01110
+O5b   0.22240  -0.81690   0.82740   1.00000   0.00980
+O6a   0.31220  -0.49020   0.38350   1.00000   0.01290
+O6b   0.31170  -0.49980   0.87230   1.00000   0.01230

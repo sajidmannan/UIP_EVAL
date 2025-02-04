@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Magnesiotaaffeite-2N2S'
+loop_
+_publ_author_name
+'Nuber B'
+'Schmetzer K'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1983 
+_journal_year 1983
+_journal_page_first 393
+_journal_page_last 402
+_publ_section_title
+;
+ Crystal structure of ternary Be-Mg-Al oxides: taaffeite, BeMg3Al8O16,
+ and musgravite, BeMg2Al6O12
+ Note: formerly known as taaffeite-8H
+;
+_database_code_amcsd 0014777
+_chemical_compound_source 'Miriella Village, Ratnapura, Sri Lanka'
+_chemical_formula_sum 'Mg3 Al8 Be O16'
+_cell_length_a 5.6867
+_cell_length_b 5.6867
+_cell_length_c 18.3370
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 513.546
+_exptl_crystal_density_diffrn      3.581
+_symmetry_space_group_name_H-M 'P 63 m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Mg1   0.00000   0.00000   0.00000   0.00560
+Mg2   0.00000   0.00000   0.20090   0.00220
+Mg3   0.66667   0.33333   0.26660   0.00190
+Al1   0.33333   0.66667  -0.04940   0.00490
+Al2   0.33300   0.16650  -0.13920   0.00520
+Al3   0.99760   0.49880   0.10650   0.00520
+Al4   0.33333   0.66667   0.23250   0.00500
+Be   0.66667   0.33333   0.00420   0.00520
+O1   0.00000   0.00000  -0.19170   0.00610
+O2   0.51780   0.03560  -0.20080   0.00720
+O3   0.66667   0.33333  -0.08480   0.00590
+O4   0.16220   0.32440  -0.08250   0.00570
+O5   0.33333   0.66667   0.04790   0.00440
+O6   0.37020   0.18510   0.04750   0.00480
+O7   0.66667   0.33333   0.16250   0.00620
+O8   0.18540   0.37070   0.16590   0.00530

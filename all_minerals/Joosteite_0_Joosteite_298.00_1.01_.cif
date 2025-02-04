@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Joosteite'
+loop_
+_publ_author_name
+'Keller P'
+'Lissner F'
+'Schleid T'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Abhandlungen'
+_journal_volume 184 
+_journal_year 2007
+_journal_page_first 225
+_journal_page_last 230
+_publ_section_title
+;
+ The crystal structure of joosteite, (Mn2+,Mn3+,Fe3+)2[PO4]O, from the Helikon II mine,
+ Karibib (Namibia), and its relationship to stanekite, (Fe3+,Mn2+,Fe2+,Mg)2[PO4]O
+ Note: M1 and M2 Fe/Mn occupancies not determined, below are estimates
+;
+_database_code_amcsd 0014727
+_chemical_compound_source 'Helikon II mine, Karibib, Namibia'
+_chemical_formula_sum 'Mn1.436 Fe.48 P O5'
+_cell_length_a 11.888
+_cell_length_b 6.409
+_cell_length_c 9.804
+_cell_angle_alpha 90
+_cell_angle_beta 106.17
+_cell_angle_gamma 90
+_cell_volume 717.418
+_exptl_crystal_density_diffrn      4.012
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/2-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,-y,z'
+  '+x,1/2-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+MnM1   0.20305   0.00704   0.19432   0.79300   0.03420
+FeM1   0.20305   0.00704   0.19432   0.15900   0.03420
+MnM2   0.11156   0.14042   0.45274   0.64300   0.03210
+FeM2   0.11156   0.14042   0.45274   0.32100   0.03210
+P   0.07267   0.65914   0.37803   1.00000   0.02710
+O1   0.05070   0.83580   0.47190   1.00000   0.03980
+O2   0.95930   0.60860   0.26310   1.00000   0.03260
+O3   0.16820   0.71700   0.30990   1.00000   0.04320
+O4   0.11400   0.46880   0.47300   1.00000   0.03530
+O5   0.26530   0.15590   0.37620   1.00000   0.05220
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+MnM1 0.02720 0.04550 0.02610 0.00120 0.00130 0.00300
+FeM1 0.02720 0.04550 0.02610 0.00120 0.00130 0.00300
+MnM2 0.03980 0.02620 0.02420 -0.00010 -0.00140 -0.00030
+FeM2 0.03980 0.02620 0.02420 -0.00010 -0.00140 -0.00030
+P 0.02580 0.02370 0.02550 -0.00010 0.00290 0.00040
+O1 0.05710 0.03090 0.02840 0.00170 0.00690 -0.00410
+O2 0.02980 0.03770 0.02690 -0.00130 0.00240 0.00290
+O3 0.03410 0.05190 0.04440 -0.00420 0.01240 0.00660
+O4 0.03210 0.03440 0.03680 0.00460 0.00550 0.00600
+O5 0.04990 0.05410 0.03980 0.01340 -0.00850 -0.01420

@@ -1,0 +1,84 @@
+data_global
+_chemical_name_mineral 'Minasragrite'
+loop_
+_publ_author_name
+'Tachez M'
+'Theobald F R'
+'Watson K J'
+'Mercier R'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 35 
+_journal_year 1979
+_journal_page_first 1545
+_journal_page_last 1550
+_publ_section_title
+;
+ Redetermination de la structure du sulfate de vanadyle pentahydrate VOSO4*5H2O
+ Note: anisoB's from ICSD
+;
+_database_code_amcsd 0009674
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'V S O10 H10'
+_cell_length_a 6.976
+_cell_length_b 9.716
+_cell_length_c 12.902
+_cell_angle_alpha 90
+_cell_angle_beta 110.90
+_cell_angle_gamma 90
+_cell_volume 816.945
+_exptl_crystal_density_diffrn      2.058
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+V   0.33520   0.22710   0.14750   0.01267
+S   0.01730   0.44860   0.17600   0.01545
+O1   0.42240   0.20610   0.27780   0.02698
+O2   0.24870   0.24770  -0.03180   0.02444
+O3   0.06940   0.31940   0.12810   0.01988
+O4   0.46050   0.41110   0.13990   0.02685
+O5   0.57420   0.12960   0.12630   0.02888
+O6   0.17200   0.05270   0.10480   0.02267
+O7   0.03910   0.42280   0.29120   0.03407
+O8  -0.19470   0.48210   0.10940   0.02305
+O9   0.15690   0.55790   0.17060   0.02672
+O10   0.72520   0.31410   0.46820   0.02546
+H12   0.19400   0.30300   0.42100   0.05066
+H22   0.22500   0.17600   0.44500   0.06713
+H14   0.39600   0.47300   0.14300   0.04813
+H24   0.57700   0.43200   0.13300   0.07219
+H15   0.60500   0.15000   0.07600   0.04559
+H25   0.67900   0.11100   0.18900   0.07726
+H16   0.11100   0.02100   0.14600   0.04939
+H26   0.21400  -0.01300   0.07700   0.05066
+H110   0.65400   0.27600   0.41600   0.04813
+H210   0.82700   0.26200   0.49700   0.06713
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V 0.01119 0.01387 0.01325 0.00160 0.00915 -0.00119
+S 0.01334 0.01530 0.01840 0.00545 0.01313 -0.00178
+O1 0.02754 0.03395 0.01840 0.00353 0.01313 -0.00119
+O2 0.03464 0.01961 0.01693 0.00257 0.01313 0.00415
+O3 0.01399 0.01722 0.02944 0.00160 0.01711 -0.01424
+O4 0.01936 0.01769 0.04857 -0.00642 0.03621 -0.00831
+O5 0.02238 0.03969 0.02797 0.03047 0.02547 0.02076
+O6 0.02776 0.01578 0.02944 -0.00738 0.03263 -0.00771
+O7 0.04518 0.03826 0.02355 0.04138 0.03581 0.01483
+O8 0.01312 0.02248 0.03312 0.00738 0.01512 0.01068
+O9 0.02023 0.02009 0.04048 -0.00930 0.02268 -0.01009
+O10 0.02388 0.02487 0.02576 -0.00064 0.01313 0.00178

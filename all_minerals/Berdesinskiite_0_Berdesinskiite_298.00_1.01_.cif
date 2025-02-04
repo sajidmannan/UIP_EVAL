@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Berdesinskiite'
+loop_
+_publ_author_name
+'Armbruster T'
+'Galuskin E V'
+'Reznitsky L Z'
+'Sklyarov E V'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 21 
+_journal_year 2009
+_journal_page_first 885
+_journal_page_last 891
+_publ_section_title
+;
+ X-ray structural investigation of the oxyvanite (V3O5) - berdesinskiite (V2TiO5)
+ series: V4+ substituting for octahedrally coordinated Ti4+
+ Sample: Crystal II-7-21
+;
+_database_code_amcsd 0007329
+_chemical_compound_source 'Pereval marble quarry, Sludyanka complex, south of Lake Baikal, Russia'
+_chemical_formula_sum 'V2.122 Ti.54 Cr.326 Fe.012 O5'
+_cell_length_a 10.0546
+_cell_length_b 5.0603
+_cell_length_c 7.0111
+_cell_angle_alpha 90
+_cell_angle_beta 110.845
+_cell_angle_gamma 90
+_cell_volume 333.371
+_exptl_crystal_density_diffrn      4.614
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+V4+1   0.00000   0.00000   0.00000   0.46000   0.00478
+Ti4+1   0.00000   0.00000   0.00000   0.54000   0.00478
+V3+2  -0.12770  -0.49833  -0.21575   0.83100   0.00824
+Cr3+2  -0.12770  -0.49833  -0.21575   0.16300   0.00824
+Fe3+2  -0.12770  -0.49833  -0.21575   0.00600   0.00824
+O1   0.19284   0.15500   0.15200   1.00000   0.00910
+O2   0.08118  -0.34310  -0.05671   1.00000   0.00680
+O3   0.00000   0.19260  -0.25000   1.00000   0.00690
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+V4+1 0.00507 0.00406 0.00521 0.00083 0.00184 0.00068
+Ti4+1 0.00507 0.00406 0.00521 0.00083 0.00184 0.00068
+V3+2 0.00949 0.00824 0.00850 0.00165 0.00507 0.00200
+Cr3+2 0.00949 0.00824 0.00850 0.00165 0.00507 0.00200
+Fe3+2 0.00949 0.00824 0.00850 0.00165 0.00507 0.00200
+O1 0.00680 0.00820 0.01020 -0.00020 0.00040 -0.00130
+O2 0.00850 0.00500 0.00720 -0.00070 0.00330 -0.00100
+O3 0.00780 0.00640 0.00680 0.00000 0.00320 0.00000

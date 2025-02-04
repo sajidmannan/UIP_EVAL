@@ -1,0 +1,91 @@
+data_global
+_chemical_name_mineral 'Hatrurite'
+loop_
+_publ_author_name
+'Nishi F'
+'Takeuchi Y'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 168 
+_journal_year 1984
+_journal_page_first 197
+_journal_page_last 212
+_publ_section_title
+;
+ The rhombohedral structure of tricalcium silicate at 1200 C
+ Sample: T = 1200 C
+ Note: cannot reconcile reported structure with reported bond lengths
+;
+_database_code_amcsd 0010872
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca3 Si O4.987'
+_cell_length_a 7.135
+_cell_length_b 7.135
+_cell_length_c 25.586
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1128.031
+_exptl_crystal_density_diffrn      3.022
+_symmetry_space_group_name_H-M 'R 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.48800  -0.48800  -0.00100   1.00000   0.07346
+Ca2   0.82600  -0.82600   0.11100   1.00000   0.09246
+Ca3   0.50900  -0.50900   0.22500   1.00000   0.05066
+Si1   0.00000   0.00000   0.00000   1.00000   0.03040
+Si2   0.00000   0.00000   0.21300   1.00000   0.06966
+Si3   0.00000   0.00000   0.78400   1.00000   0.03800
+O1   0.00000   0.00000   0.38500   1.00000   0.03800
+O2   0.00000   0.00000   0.50400   1.00000   0.16465
+O3   0.00000   0.00000   0.62700   1.00000   0.01267
+OU14   0.05700  -0.05700   0.05700   0.33333   0.45595
+OU15  -0.13000   0.13000   0.00700   0.33333   0.13932
+OU16   0.22300   0.14800  -0.03200   0.33333   0.13932
+OU24   0.01600  -0.01600   0.27600   0.10000   0.01267
+OU25  -0.12800   0.12800   0.19900   0.10000   0.01267
+OU26   0.24100   0.13000   0.18800   0.10000   0.01267
+OD21   0.03200  -0.03200   0.15200   0.23000   0.01267
+OD22  -0.13100   0.13100   0.21900   0.23000   0.01267
+OD23   0.23400   0.13700   0.24100   0.23000   0.01267
+OU34  -0.03200   0.03200   0.84500   0.33333   0.06333
+OU35   0.13100  -0.13100   0.77800   0.33333   0.27863
+OU36   0.13700   0.23400   0.75600   0.33333   0.27863
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.05822 0.05822 0.10944 0.03385 -0.00801 0.00801
+Ca2 0.04720 0.04720 0.16582 0.01199 0.01121 -0.01121
+Ca3 0.05358 0.05358 0.04975 0.03192 -0.00400 0.00400
+Si1 0.01915 0.01915 0.03980 0.00967 0.00000 0.00000
+Si2 0.03037 0.03037 0.12934 0.01528 0.00000 0.00000
+Si3 0.01683 0.01683 0.06965 0.00851 0.00000 0.00000

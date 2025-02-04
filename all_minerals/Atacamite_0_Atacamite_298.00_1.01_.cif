@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Atacamite'
+loop_
+_publ_author_name
+'Wells A F'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 2 
+_journal_year 1949
+_journal_page_first 175
+_journal_page_last 180
+_publ_section_title
+;
+ The crystal structure of atacamite and the crystal chemistry of
+ cupric compounds
+;
+_database_code_amcsd 0009136
+_chemical_formula_sum 'Cu2 Cl (O3 H3)'
+_cell_length_a 6.01
+_cell_length_b 9.13
+_cell_length_c 6.84
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 375.320
+_exptl_crystal_density_diffrn      3.780
+_symmetry_space_group_name_H-M 'P m n a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu1   0.00000   0.00000   0.00000
+Cu2   0.19200   0.25800   0.25000
+Cl   0.35000   0.05800   0.75000
+O-H1   0.18500   0.00000   0.25000
+O-H2   0.43000   0.29200   0.06500

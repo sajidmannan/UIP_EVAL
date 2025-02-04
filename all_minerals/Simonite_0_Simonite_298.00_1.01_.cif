@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Simonite'
+loop_
+_publ_author_name
+'Engel P'
+'Nowacki W'
+'Balic-Zunic T'
+'Scavnicar S'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 161 
+_journal_year 1982
+_journal_page_first 159
+_journal_page_last 166
+_publ_section_title
+;
+ The crystal structure of simonite, TlHgAs3S6
+;
+_database_code_amcsd 0010851
+_chemical_formula_sum 'Tl Hg As3 S6'
+_cell_length_a 5.948
+_cell_length_b 11.404
+_cell_length_c 15.979
+_cell_angle_alpha 90
+_cell_angle_beta 90.15
+_cell_angle_gamma 90
+_cell_volume 1083.868
+_exptl_crystal_density_diffrn      5.038
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Tl   0.38550   0.38393   0.31816
+Hg   0.93650   0.39814   0.09751
+As1   0.01920   0.13080   0.43200
+As2   0.39890   0.15840   0.08250
+As3   0.70250   0.13010   0.25150
+S1   0.37780   0.34190   0.12020
+S2   0.78010   0.13130   0.11310
+S3   0.39310   0.14190   0.45020
+S4   0.92790   0.32720   0.44200
+S5   0.07160   0.13940   0.28820
+S6   0.87720   0.43930   0.24300
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl 0.03513 0.03248 0.04152 -0.00412 0.00602 0.00272
+Hg 0.03423 0.03360 0.01694 0.00292 -0.00193 -0.00365
+As1 0.01792 0.01779 0.01591 -0.00103 -0.00265 -0.00092
+As2 0.01506 0.02108 0.01682 -0.00223 0.00048 0.00231
+As3 0.01721 0.01977 0.01500 0.00344 0.00024 0.00046
+S1 0.01989 0.02635 0.02328 0.00498 -0.00169 -0.00277
+S2 0.02222 0.02306 0.01940 0.00326 0.00072 0.00277
+S3 0.01936 0.02701 0.01682 0.00086 -0.00193 0.00185
+S4 0.02366 0.02240 0.01940 0.00309 -0.00144 0.00185
+S5 0.01936 0.02306 0.01682 -0.00275 -0.00144 -0.00231
+S6 0.02007 0.01911 0.01811 0.00395 0.00096 0.00000

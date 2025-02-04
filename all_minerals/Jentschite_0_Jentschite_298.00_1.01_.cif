@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Jentschite'
+loop_
+_publ_author_name
+'Berlepsch P'
+_journal_name_full 'Schweizerische Mineralogische und Petrographische Mitteilungen'
+_journal_volume 76 
+_journal_year 1996
+_journal_page_first 147
+_journal_page_last 157
+_publ_section_title
+;
+ Crystal structure and crystal chemistry of the homeotypes edenharterite
+ (TlPbAs3S6) and jentschite (TlPbAs2SbS6) from Lengenbach, Binntal (Switzerland)
+;
+_database_code_amcsd 0015411
+_chemical_compound_source 'Lengenbach quarry, Binntal, Valais, Switzerland'
+_chemical_formula_sum 'Tl Pb Sb.55 As2.45 S6'
+_cell_length_a 8.0958
+_cell_length_b 23.917
+_cell_length_c 5.8876
+_cell_angle_alpha 90
+_cell_angle_beta 108.063
+_cell_angle_gamma 90
+_cell_volume 1083.816
+_exptl_crystal_density_diffrn      5.237
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Tl   0.09640   0.06125   0.85970   1.00000   0.03440
+Pb   0.05860   0.25436   0.91450   1.00000   0.01950
+Sb  -0.46250   0.07058   0.48960   0.55000   0.01950
+As1  -0.46250   0.07058   0.48960   0.45000   0.01950
+As2  -0.31260   0.15277   0.03540   1.00000   0.01500
+As3   0.09660   0.16492   0.44500   1.00000   0.01880
+S1   0.27840   0.01220   0.39200   1.00000   0.02210
+S2   0.49080   0.08390   0.86900   1.00000   0.02440
+S3  -0.20970   0.16370   0.72830   1.00000   0.01820
+S4  -0.09760   0.09440   0.25700   1.00000   0.01840
+S5   0.27320   0.16340   0.22000   1.00000   0.01910
+S6  -0.06120   0.24260   0.30800   1.00000   0.01630
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Tl 0.03920 0.03040 0.03980 -0.00570 0.01640 0.00310
+Pb 0.02790 0.01300 0.02660 -0.00100 0.01490 0.00000
+Sb 0.02200 0.01390 0.03000 0.00400 0.00860 -0.00620
+As1 0.02200 0.01390 0.03000 0.00400 0.00860 -0.00620
+As2 0.01900 0.01000 0.02400 0.00050 0.01160 -0.02900
+As3 0.02400 0.01500 0.02200 0.00010 0.01200 0.00090
+S1 0.02200 0.01300 0.03800 -0.00200 0.00800 0.00000
+S2 0.03100 0.02700 0.03200 -0.01300 0.02000 -0.00800
+S3 0.02300 0.01400 0.02600 -0.00200 0.01400 0.00000
+S4 0.02400 0.01100 0.02900 0.00100 0.01200 0.00500
+S5 0.02100 0.01300 0.03500 -0.00100 0.01500 -0.00200
+S6 0.02500 0.00900 0.03200 -0.00100 0.01900 -0.00200

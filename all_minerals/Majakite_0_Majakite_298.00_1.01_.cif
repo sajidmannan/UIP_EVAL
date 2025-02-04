@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Majakite'
+loop_
+_publ_author_name
+'Evstigneeva T'
+'Kabalov Y'
+'Schneider J'
+_journal_name_full 'Materials Science Forum'
+_journal_volume 321 
+_journal_year 2000
+_journal_page_first 700
+_journal_page_last 705
+_publ_section_title
+;
+ Crystal structure of PdNiAs, ordered member of isomorphous series Pd2As-Ni2As
+;
+_database_code_amcsd 0014389
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Pd1.192 Ni.808 As'
+_cell_length_a 6.3165
+_cell_length_b 6.3165
+_cell_length_c 7.4278
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 256.652
+_exptl_crystal_density_diffrn      9.674
+_symmetry_space_group_name_H-M 'P -6 2 c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  '-x+y,-x,1/2-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  'x,y,1/2-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,x-y,1/2-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pd1   0.59410   0.00440   0.25000   1.00000   0.01773
+Ni2   0.25010   0.00000   0.00000   0.80800   0.00722
+Pd2   0.25010   0.00000   0.00000   0.19200   0.00722
+As1   0.33333   0.66667   0.00000   1.00000   0.01520
+As2   0.00000   0.00000   0.25000   1.00000   0.01786

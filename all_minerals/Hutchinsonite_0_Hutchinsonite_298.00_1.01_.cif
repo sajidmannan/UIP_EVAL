@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Hutchinsonite'
+loop_
+_publ_author_name
+'Takeuchi Y'
+'Ghose S'
+'Nowacki W'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 121 
+_journal_year 1965
+_journal_page_first 321
+_journal_page_last 348
+_publ_section_title
+;
+ The crystal structure of hutchinsonite, (Tl,Pb)2As5S9
+;
+_database_code_amcsd 0010621
+_chemical_compound_source 'Lengenbach, Binnatal, Valais, Switzerland'
+_chemical_formula_sum '(Pb Tl) As5 S9'
+_cell_length_a 10.81
+_cell_length_b 35.36
+_cell_length_c 8.16
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 3119.091
+_exptl_crystal_density_diffrn      4.578
+_symmetry_space_group_name_H-M 'P b c a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb1   0.35810   0.24690   0.10560   0.50000   0.02432
+Tl1   0.35810   0.24690   0.10560   0.50000   0.02432
+Pb2   0.33610   0.12230   0.63510   0.50000   0.03610
+Tl2   0.33610   0.12230   0.63510   0.50000   0.03610
+As1   0.10810   0.19480   0.70400   1.00000   0.02330
+As2   0.09940   0.18480   0.12610   1.00000   0.02533
+As3   0.43620   0.11530   0.13440   1.00000   0.02356
+As4   0.13640   0.04800   0.21510   1.00000   0.02457
+As5   0.38140   0.02880   0.95450   1.00000   0.02419
+S1   0.39340   0.18990   0.36440   1.00000   0.02305
+S2   0.40900   0.19060   0.86280   1.00000   0.02039
+S3   0.11230   0.25400   0.37040   1.00000   0.01849
+S4   0.12890   0.13770   0.32470   1.00000   0.02077
+S5   0.11280   0.14660   0.89530   1.00000   0.01963
+S6   0.38780   0.01510   0.68380   1.00000   0.02875
+S7   0.19420   0.05730   0.95210   1.00000   0.03052
+S8   0.43900   0.06720   0.32750   1.00000   0.02520
+S9   0.00860   0.07990   0.58590   1.00000   0.02153

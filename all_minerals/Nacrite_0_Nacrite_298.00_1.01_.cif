@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Nacrite'
+loop_
+_publ_author_name
+'Gruner J'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 85 
+_journal_year 1933
+_journal_page_first 345
+_journal_page_last 354
+_publ_section_title
+;
+ The crystal structure of Nacrite and a comparison of certain optical
+ properties of the caolin group with its structures
+ _cod_database_code 1011080
+;
+_database_code_amcsd 0017977
+_chemical_formula_sum 'Al2 Si2 O9'
+_cell_length_a 5.16
+_cell_length_b 8.93
+_cell_length_c 28.659990000
+_cell_angle_alpha 90
+_cell_angle_beta 91.72
+_cell_angle_gamma 90
+_cell_volume 1320.023
+_exptl_crystal_density_diffrn      2.557
+_symmetry_space_group_name_H-M 'C c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al1  -0.25000   0.33330   0.00000
+Al2  -0.25000   0.00000   0.00000
+Al3   0.08330   0.00000   0.25000
+Al4   0.08330  -0.33330   0.25000
+Si1   0.43060   0.33330   0.09380
+Si2   0.43060   0.00000   0.09400
+Si3   0.43060  -0.33330   0.34380
+Si4   0.43060   0.00000   0.34380
+O1  -0.07780   0.50000   0.03819
+O2  -0.07780  -0.16670   0.03819
+O3   0.43610   0.16670   0.11460
+O4   0.18610   0.41670   0.11460
+O5   0.18610  -0.08330   0.11460
+O6  -0.07780  -0.50000   0.28820
+O7  -0.07780   0.16670   0.28820
+O8   0.43610  -0.16670   0.36460
+O9   0.18610  -0.41670   0.36460
+O10   0.18610   0.08330   0.36460
+O11  -0.07780   0.16670   0.03819
+O12  -0.25560  -0.33330   0.21190
+O13  -0.25560   0.00000   0.21190
+O14  -0.25560   0.33330   0.21190
+O15  -0.07780  -0.16700   0.28820
+O16   0.07780  -0.33330   0.46180
+O17   0.07780   0.00000   0.46180
+O18   0.07780   0.33330   0.46180

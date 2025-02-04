@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Landauite'
+loop_
+_publ_author_name
+'Grey I E'
+'Gatehouse B M'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 16 
+_journal_year 1978
+_journal_page_first 63
+_journal_page_last 68
+_publ_section_title
+;
+ The crystal structure of landauite, Na[MnZn2(Ti,Fe)6Ti12]O38
+;
+_database_code_amcsd 0005148
+_chemical_formula_sum '(Na.7 K.15 Pb.15) Mn Zn2 Ti15.84 Fe2.16 O38'
+_cell_length_a 9.152
+_cell_length_b 9.152
+_cell_length_c 9.152
+_cell_angle_alpha 68.99
+_cell_angle_beta 68.99
+_cell_angle_gamma 68.99
+_cell_volume 644.342
+_exptl_crystal_density_diffrn      4.448
+_symmetry_space_group_name_H-M 'R -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-z,-x,-y'
+  'y,z,x'
+  '-x,-y,-z'
+  'z,x,y'
+  '-y,-z,-x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NaM0   0.00000   0.00000   0.00000   0.70000   0.02913
+KM0   0.00000   0.00000   0.00000   0.15000   0.02913
+PbM0   0.00000   0.00000   0.00000   0.15000   0.02913
+MnM1   0.50000   0.50000   0.50000   1.00000   0.00747
+ZnM2   0.31030   0.31030   0.31030   1.00000   0.01001
+TiM3   0.34930   0.12610   0.01900   0.64000   0.00646
+FeM3   0.34930   0.12610   0.01900   0.36000   0.00646
+TiM4   0.30250   0.71960   0.15030   1.00000   0.00608
+TiM5   0.47520   0.08620   0.63630   1.00000   0.00545
+O1   0.30230   0.62850   0.37780   1.00000   0.00671
+O2   0.15550   0.23750   0.93910   1.00000   0.00507
+O3   0.91820   0.45920   0.30090   1.00000   0.00545
+O4   0.14470   0.51700   0.98900   1.00000   0.00507
+O5   0.38920   0.48560   0.13640   1.00000   0.00431
+O6   0.70560   0.24200   0.07220   1.00000   0.00355
+O7   0.21380   0.21380   0.21380   1.00000   0.00165

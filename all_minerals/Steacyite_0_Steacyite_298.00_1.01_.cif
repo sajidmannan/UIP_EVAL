@@ -1,0 +1,83 @@
+data_global
+_chemical_name_mineral 'Steacyite'
+loop_
+_publ_author_name
+'Prichard P'
+'Perrault G'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 28 
+_journal_year 1972
+_journal_page_first 1994
+_journal_page_last 1999
+_publ_section_title
+;
+ Structure cristalline de l'ekanite de St-Hilaire, P.Q.
+;
+_database_code_amcsd 0018511
+_chemical_compound_source 'Mont St-Hilaire, Quebec, Canada'
+_chemical_formula_sum 'K.6 Na.9 Ca.74 Mn.2 Mg.04 Th.88 Ce.03 Pb.01 Si8 O20'
+_cell_length_a 7.58
+_cell_length_b 7.58
+_cell_length_c 14.77
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 848.631
+_exptl_crystal_density_diffrn      3.291
+_symmetry_space_group_name_H-M 'P 4/m c c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,1/2+z'
+  'y,x,1/2-z'
+  'y,-x,-z'
+  '-y,x,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x,-z'
+  'y,-x,z'
+  '-x,y,1/2+z'
+  'x,-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K   0.00000   0.00000   0.00000   0.60000
+Na   0.00000   0.50000   0.25000   0.45000
+Ca   0.00000   0.50000   0.25000   0.37000
+Mn   0.00000   0.50000   0.25000   0.10000
+Mg   0.00000   0.50000   0.25000   0.02000
+Th   0.00000   0.00000   0.25000   0.88000
+Ce   0.00000   0.00000   0.25000   0.03000
+Pb   0.00000   0.00000   0.25000   0.01000
+Si   0.26050   0.33600   0.10730   1.00000
+O1   0.23050   0.33600   0.00000   1.00000
+O2   0.45360   0.25710   0.13270   1.00000
+O3   0.10810   0.24710   0.16320   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.02474 0.02474 0.02984 0.00000 0.00000 0.00000
+Na 0.02387 0.01659 0.01879 0.00000 0.00000 0.00000
+Ca 0.02387 0.01659 0.01879 0.00000 0.00000 0.00000
+Mn 0.02387 0.01659 0.01879 0.00000 0.00000 0.00000
+Mg 0.02387 0.01659 0.01879 0.00000 0.00000 0.00000
+Th 0.01426 0.01426 0.01326 0.00000 0.00000 0.00000
+Ce 0.01426 0.01426 0.01326 0.00000 0.00000 0.00000
+Pb 0.01426 0.01426 0.01326 0.00000 0.00000 0.00000
+Si 0.01426 0.01368 0.01326 -0.00029 0.00170 0.00113
+O1 0.03755 0.03842 0.01326 0.00175 0.00000 0.00000
+O2 0.01601 0.02358 0.03094 0.00262 0.00113 0.00340
+O3 0.02096 0.01892 0.02542 -0.00087 0.00737 0.00907

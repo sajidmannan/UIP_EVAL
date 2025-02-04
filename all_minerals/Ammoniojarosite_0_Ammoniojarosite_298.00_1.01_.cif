@@ -1,0 +1,96 @@
+data_global
+_chemical_name_mineral 'Ammoniojarosite'
+loop_
+_publ_author_name
+'Basciano L C'
+'Peterson R C'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 71 
+_journal_year 2007
+_journal_page_first 427
+_journal_page_last 441
+_publ_section_title
+;
+ The crystal structure of ammoniojarosite, (NH4)Fe3(SO4)2(OH)6 and the crystal chemistry
+ of the ammoniojarosite-hydronium jarosite solid-solution series
+;
+_database_code_amcsd 0014580
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'N Fe3 S2 O14 H10'
+_cell_length_a 7.3177
+_cell_length_b 7.3177
+_cell_length_c 17.534
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 813.132
+_exptl_crystal_density_diffrn      2.939
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  'y,x,-z'
+  '2/3+y,1/3+x,1/3-z'
+  '1/3+y,2/3+x,2/3-z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-x,-x+y,-z'
+  '2/3-x,1/3-x+y,1/3-z'
+  '1/3-x,2/3-x+y,2/3-z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  'x-y,-y,-z'
+  '2/3+x-y,1/3-y,1/3-z'
+  '1/3+x-y,2/3-y,2/3-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+N   0.00000   0.00000   0.00000   1.00000   0.01000
+Fe   0.16667  -0.16667  -0.16667   1.00000   0.00600
+S   0.00000   0.00000   0.30590   1.00000   0.00600
+O1   0.00000   0.00000   0.38910   1.00000   0.00900
+O2   0.22310  -0.22310  -0.05640   1.00000   0.00900
+O3   0.12770  -0.12770   0.13710   1.00000   0.00800
+H1   0.17600  -0.17600  -0.11800   0.50000   0.02700
+H2   0.05900   0.11900   0.01800   0.50000   0.02700
+H3   0.00000   0.00000  -0.04700   0.50000   0.02700
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+N 0.01200 0.01200 0.00700 0.00600 0.00000 0.00000
+Fe 0.00500 0.00500 0.00800 0.00300 0.00000 0.00000
+S 0.00600 0.00600 0.00600 0.00300 0.00000 0.00000
+O1 0.01100 0.01100 0.00700 0.00500 0.00000 0.00000
+O2 0.01100 0.01100 0.00900 0.00800 0.00000 0.00000
+O3 0.00600 0.00600 0.01100 0.00300 0.00100 0.00100

@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Anilite'
+loop_
+_publ_author_name
+'Koto K'
+'Morimoto N'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 26 
+_journal_year 1970
+_journal_page_first 915
+_journal_page_last 924
+_publ_section_title
+;
+ The crystal structure of anilite
+;
+_database_code_amcsd 0009376
+_chemical_formula_sum 'Cu7 S4'
+_cell_length_a 7.89
+_cell_length_b 7.84
+_cell_length_c 11.01
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 681.052
+_exptl_crystal_density_diffrn      5.589
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu1   0.48320   0.75000   0.09420   0.01191
+Cu2   0.42580   0.25000   0.33350   0.00975
+Cu3   0.47900   0.75000   0.35450   0.00937
+Cu4   0.23710   0.43030   0.15530   0.01710
+Cu5   0.17700   0.47670   0.41860   0.01925
+S1   0.24600   0.25000   0.98730   0.00317
+S2   0.78500   0.25000   0.98410   0.00519
+S3   0.99880   0.99800   0.26110   0.00393

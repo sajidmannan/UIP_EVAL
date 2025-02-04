@@ -1,0 +1,53 @@
+data_global
+_chemical_name_mineral 'Buseckite'
+loop_
+_publ_author_name
+'Ma C'
+'Beckett J R'
+'Rossman G R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 97 
+_journal_year 2012
+_journal_page_first 1226
+_journal_page_last 1233
+_publ_section_title
+;
+ Buseckite, (Fe,Zn,Mn)S, a new mineral from the Zaklodzie meteorite
+;
+_database_code_amcsd 0019081
+_chemical_compound_source 'Zaklodzie, Poland'
+_chemical_formula_sum 'Fe.46 Zn.32 Mn.16 Mg.04 S'
+_cell_length_a 3.8357
+_cell_length_b 3.8357
+_cell_length_c 6.3002
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 80.274
+_exptl_crystal_density_diffrn      3.659
+_symmetry_space_group_name_H-M 'P 63 m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe   0.33333   0.66667   0.00000   0.46000
+Zn   0.33333   0.66667   0.00000   0.32000
+Mn   0.33333   0.66667   0.00000   0.16000
+Mg   0.33333   0.66667   0.00000   0.04000
+S   0.33333   0.66667   0.37500   1.00000

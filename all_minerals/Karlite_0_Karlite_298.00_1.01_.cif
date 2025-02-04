@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Karlite'
+loop_
+_publ_author_name
+'Bonazzi P'
+'Menchetti S'
+'Sabelli C'
+'Trosti-Ferroni R'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1986 
+_journal_year 1986
+_journal_page_first 253
+_journal_page_last 262
+_publ_section_title
+;
+ Karlite: crystal structure and chemical composition
+;
+_database_code_amcsd 0014800
+_chemical_compound_source 'Tauern Window, Schleigeistal, Zillertaler, Alpen, Austria'
+_chemical_formula_sum 'Mg12.1 Al.6 Fe.3 B6 O26 H8 Cl.8'
+_cell_length_a 17.6370
+_cell_length_b 17.967
+_cell_length_c 3.1040
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 983.608
+_exptl_crystal_density_diffrn      2.851
+_symmetry_space_group_name_H-M 'P 21 21 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-x,1/2+y,-z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg1   0.42590   0.19840   0.99900   0.60000   0.00671
+Al1   0.42590   0.19840   0.99900   0.30000   0.00671
+Fe2+1   0.42590   0.19840   0.99900   0.03300   0.00671
+Fe3+1   0.42590   0.19840   0.99900   0.06700   0.00671
+Mg2   0.29850   0.10890   0.49800   1.00000   0.00367
+Mg3   0.35960   0.36010   0.44700   1.00000   0.00899
+Mg4   0.12650   0.14300   0.95600   1.00000   0.00595
+Mg5   0.22950   0.43030   0.96000   1.00000   0.00608
+Mg6   0.11080   0.29290   0.47000   1.00000   0.00659
+Mg7   0.00000   0.00000   0.23000   0.90000   0.01127
+Fe7   0.00000   0.00000   0.23000   0.10000   0.01127
+B1   0.25820   0.25550   0.96800   1.00000   0.00583
+B2   0.15270   0.02450   0.58500   1.00000   0.00836
+B3   0.48690   0.32750   0.60200   1.00000   0.00646
+O2   0.30450   0.19380   0.00300   1.00000   0.01115
+O3   0.17970   0.24720   0.95400   1.00000   0.00380
+O4   0.29150   0.32710   0.95300   1.00000   0.00393
+O6   0.06430   0.18520   0.44500   1.00000   0.00659
+O8   0.08160   0.03010   0.76400   1.00000   0.00633
+O9   0.30780   0.45690   0.46400   1.00000   0.00722
+O11   0.18700   0.09180   0.47000   1.00000   0.00722
+O12   0.45560   0.39140   0.77200   1.00000   0.00861
+O13   0.43350   0.27440   0.48400   1.00000   0.00887
+O-h1   0.16080   0.39540   0.46700   1.00000   0.01001
+O-h5   0.03940   0.32280   0.99100   1.00000   0.00785
+O-h7   0.41040   0.12910   0.50400   1.00000   0.00950
+O-h10   0.31430   0.03510   0.99800   1.00000   0.00861
+H1   0.11400   0.42600   0.46000   1.00000   0.02533
+H2   0.02600   0.37800   0.97600   1.00000   0.02533
+H3   0.05800   0.58300   0.51300   1.00000   0.02533
+H4   0.13000   0.52500   0.98400   1.00000   0.02533
+Cl   0.00000   0.50000   0.94300   0.80000   0.00203

@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Quetzalcoatlite'
+loop_
+_publ_author_name
+'Burns P C'
+'Pluth J J'
+'Smith J V'
+'Eng P'
+'Steele I M'
+'Housley R M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 85 
+_journal_year 2000
+_journal_page_first 604
+_journal_page_last 607
+_publ_section_title
+;
+ Quetzalcoatlite: New octahedral-tetrahedral structure from 2x2x40 micron
+ crystal at the Advanced Photon Source-GSE-CARS Facility
+;
+_database_code_amcsd 0002428
+_chemical_formula_sum 'Te2 Zn6 Cu3 O18 Ag.24 Pb.3 Cl.84 H6'
+_cell_length_a 10.145
+_cell_length_b 10.145
+_cell_length_c 4.9925
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 444.993
+_exptl_crystal_density_diffrn      4.665
+_symmetry_space_group_name_H-M 'P -3 1 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x-y,-y,z'
+  'y,-x+y,-z'
+  '-y,-x,-z'
+  '-x+y,-x,z'
+  '-x,-x+y,z'
+  '-x,-y,-z'
+  '-x+y,y,-z'
+  '-y,x-y,z'
+  'y,x,z'
+  'x-y,x,-z'
+  'x,x-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Te   0.33333   0.66667   0.50000   1.00000   0.00950
+Zn   0.20371   0.40740   0.00000   1.00000   0.01400
+Cu   0.50000   0.00000   0.50000   1.00000   0.01800
+O   0.35080   0.51900   0.28500   1.00000   0.01430
+O-H   0.00000   0.27720   0.15800   1.00000   0.02900
+Ag   0.00000   0.00000   0.00000   0.24000   0.05940
+Pb   0.00000   0.00000   0.00000   0.30000   0.05940
+Cl   0.00000   0.00000   0.50000   0.84000   0.02110

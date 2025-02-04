@@ -1,0 +1,84 @@
+data_global
+_chemical_name_mineral 'Arseniopleite'
+loop_
+_publ_author_name
+'Tait K T'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 41 
+_journal_year 2003
+_journal_page_first 71
+_journal_page_last 77
+_publ_section_title
+;
+ Refinement of the crystal structure of arseniopleite: Confirmation of its status
+ as a valid species
+;
+_database_code_amcsd 0005825
+_chemical_formula_sum 'Ca.68 Na1.25 Pb.06 Ba.01 Mn2.21 Mg.52 Fe.27 As3 O12'
+_cell_length_a 6.8113
+_cell_length_b 13.0358
+_cell_length_c 11.3245
+_cell_angle_alpha 90
+_cell_angle_beta 100.25
+_cell_angle_gamma 90
+_cell_volume 989.464
+_exptl_crystal_density_diffrn      4.267
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/2-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,-y,z'
+  '+x,1/2-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+CaX1   0.02170   0.00131   0.51196   0.34000   0.01270
+NaX1   0.02170   0.00131   0.51196   0.16000   0.01270
+NaX2   0.25000   0.01816   0.00000   0.93000   0.02670
+PbX2   0.25000   0.01816   0.00000   0.06000   0.02670
+BaX2   0.25000   0.01816   0.00000   0.01000   0.02670
+MnM1   0.25000   0.73506   0.00000   1.00000   0.01148
+MnM2   0.08846   0.15590   0.21656   0.60500   0.01132
+MgM2   0.08846   0.15590   0.21656   0.26000   0.01132
+FeM2   0.08846   0.15590   0.21656   0.13500   0.01132
+As1   0.25000   0.28829   0.00000   1.00000   0.01037
+As2   0.10766   0.88811   0.23133   1.00000   0.00967
+O1   0.06690   0.21526   0.03833   1.00000   0.01480
+O2   0.14810   0.12546   0.39581   1.00000   0.02450
+O3   0.27710   0.83036   0.16070   1.00000   0.01430
+O4   0.19630   0.90301   0.37980   1.00000   0.01500
+O5   0.10190   0.31791   0.28168   1.00000   0.01530
+O6   0.05520   0.00113   0.16087   1.00000   0.01600
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+NaX2 0.01870 0.04470 0.01760 0.00000 0.00550 0.00000
+PbX2 0.01870 0.04470 0.01760 0.00000 0.00550 0.00000
+BaX2 0.01870 0.04470 0.01760 0.00000 0.00550 0.00000
+MnM1 0.01080 0.01190 0.01140 0.00000 0.00108 0.00000
+MnM2 0.00950 0.01300 0.01150 -0.00058 0.00176 0.00017
+MgM2 0.00950 0.01300 0.01150 0.00058 0.00176 0.00017
+FeM2 0.00950 0.01300 0.01150 0.00058 0.00176 0.00017
+As1 0.01044 0.00991 0.01185 0.00000 0.00496 0.00000
+As2 0.00892 0.01111 0.00956 0.00053 0.00322 0.00024
+O1 0.01100 0.01960 0.01480 -0.00250 0.00440 0.00180
+O2 0.04080 0.01660 0.01790 -0.01450 0.00990 -0.00520
+O3 0.01100 0.01750 0.01570 0.00070 0.00610 -0.00320
+O4 0.01920 0.01480 0.01040 0.00160 0.00110 -0.00080
+O5 0.00960 0.01910 0.01740 0.00250 0.00320 0.00130
+O6 0.01890 0.01350 0.01560 0.00360 0.00300 0.00390

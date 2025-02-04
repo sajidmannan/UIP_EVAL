@@ -1,0 +1,93 @@
+data_global
+_chemical_name_mineral 'Becquerelite'
+loop_
+_publ_author_name
+'Pagoaga M K'
+'Appleman D E'
+'Stewart J M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 72 
+_journal_year 1987
+_journal_page_first 1230
+_journal_page_last 1238
+_publ_section_title
+;
+ Crystal structures and crystal chemistry of the uranyl oxide hydrates
+ becquerelite, billietite, and protasite
+;
+_database_code_amcsd 0001132
+_chemical_compound_source 'Shaba, Zaire'
+_chemical_formula_sum 'U6 Ca O30'
+_cell_length_a 13.8378
+_cell_length_b 12.3781
+_cell_length_c 14.9238
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2556.233
+_exptl_crystal_density_diffrn      5.062
+_symmetry_space_group_name_H-M 'P n a 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,1/2+y,1/2+z'
+  '-x,1/2+y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+U1   0.08927   0.55870   0.25794 ?
+U2   0.12835   0.24670   0.24753 ?
+U3   0.09471   0.94020   0.25081 ?
+U4   0.37304   0.75000   0.27802 ?
+U5   0.34222   0.44040   0.29160 ?
+U6   0.34898   0.06900   0.28840 ?
+Ca   0.04290   0.57350   0.53410 ?
+O101u   0.05300   0.53700   0.37280   0.00400
+O102u   0.13800   0.59000   0.14140   0.00400
+O201u   0.07390   0.22500   0.36030   0.00400
+O202u   0.17470   0.26000   0.13520   0.00400
+O301u   0.06410   0.97800   0.36180   0.00400
+O302u   0.10810   0.91400   0.13680   0.00400
+O401u   0.38610   0.75600   0.39600   0.00400
+O402u   0.34880   0.76300   0.15830   0.00400
+O501u   0.34000   0.45200   0.40590   0.00400
+O502u   0.35400   0.41700   0.17360   0.00400
+O601u   0.33300   0.05000   0.40950   0.00400
+O602u   0.37500   0.09900   0.16860   0.00400
+O1h   0.01400   0.38400   0.20400   0.01500
+O2o   0.17800   0.41600   0.28700   0.01500
+O3o  -0.07200   0.58300   0.22400   0.01500
+O4h   0.05200   0.73800   0.27670   0.01500
+O5h   0.24500   0.61700   0.30400   0.01500
+O7w   0.11200   0.38900   0.51000   0.01700
+O8w  -0.12100   0.57900   0.47700   0.01700
+O9w   0.05700   0.75400   0.47550   0.01700
+O10w   0.22700   0.60700   0.50400   0.01700
+O11h   0.30900   0.24800   0.31590   0.01500
+O12h   0.01100   0.11200   0.19100   0.01500
+O13o   0.19000   0.06800   0.26200   0.01500
+O14o   0.43800   0.92300   0.26700   0.01500
+O15h   0.24700   0.87300   0.30700   0.01500
+O16w   0.30500   0.23000   0.50400   0.02000
+O17w   0.06300   0.08900   0.02500   0.02000
+O19w   0.46900   0.89400   0.51700   0.02000
+O20w   0.21300   0.87100   0.49500   0.02000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+U1 0.00660 0.00240 0.00210 -0.00110 -0.00050 -0.00130
+U2 0.00800 0.00770 0.00360 0.00050 0.00030 -0.00010
+U3 0.00410 0.01270 0.00300 -0.00150 0.00070 -0.00170
+U4 0.00610 0.00520 0.00260 -0.00060 -0.00050 -0.00270
+U5 0.00420 0.01100 0.00400 -0.00100 -0.00140 -0.00220
+U6 0.00680 0.00340 0.00280 -0.00270 0.00060 -0.00220
+Ca 0.02100 0.02200 0.00700 -0.00100 -0.00200 0.00400

@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Rankamaite'
+loop_
+_publ_author_name
+'Atencio D'
+'Contreira R R'
+'Mills S J'
+'Coutinho J M V'
+'Honorato S B'
+'Ayala A P'
+'Ellena J'
+'De Andrade M B'
+_journal_name_full 'American Mineralogist'
+_journal_volume 96 
+_journal_year 2011
+_journal_page_first 1455
+_journal_page_last 1460
+_publ_section_title
+;
+ Rankamaite from the Urubu pegmatite, Itinga, Minas Gerais,
+ Brazil: Crystal chemistry and Rietveld refinement
+ Note: Identification of OH not reported
+;
+_database_code_amcsd 0018556
+_chemical_compound_source 'Urubu pegmatite, Itinga, Minas Gerais, Brazil'
+_chemical_formula_sum 'K1.26 Na2.22 Ta9.11 Nb1.29 Al.6 O31'
+_cell_length_a 17.224
+_cell_length_b 17.687
+_cell_length_c 3.9361
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1199.097
+_exptl_crystal_density_diffrn      6.594
+_symmetry_space_group_name_H-M 'C 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+K1   0.83220   0.00000   0.50000   0.63000   0.05699
+Na2   0.49900   0.00000   0.50000   0.43000   0.05699
+Na3   0.25000   0.25000   0.50000   0.68000   0.05699
+Ta1   0.00000   0.00000   0.00000   0.71000   0.02533
+Nb1   0.00000   0.00000   0.00000   0.29000   0.02533
+Ta2   0.00000   0.67188   0.00000   0.72000   0.02533
+Nb2   0.00000   0.67188   0.00000   0.28000   0.02533
+Ta3   0.18037   0.39406   0.00000   0.85000   0.02533
+Al3   0.18037   0.39406   0.00000   0.15000   0.02533
+Ta4   0.11190   0.82225   0.00000   0.89000   0.02533
+Nb4   0.11190   0.82225   0.00000   0.11000   0.02533
+O1   0.32350   0.10610   0.50000   1.00000   0.01267
+O2   0.61650   0.67770   0.50000   1.00000   0.01267
+O3   0.13760   0.29150   0.00000   1.00000   0.01267
+O4   0.07110   0.57800   0.00000   1.00000   0.01267
+O5   0.27900   0.33770   0.00000   1.00000   0.01267
+O6   0.11030   0.94420   0.00000   1.00000   0.01267
+O7   0.00000   0.33340   0.50000   1.00000   0.01267
+O8   0.00000   0.20110   0.00000   1.00000   0.01267
+O9   0.71080   0.00000   0.00000   1.00000   0.01267
+O10   0.00000   0.00000   0.50000   1.00000   0.01267

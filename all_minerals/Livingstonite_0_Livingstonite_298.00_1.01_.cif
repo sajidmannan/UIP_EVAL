@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Livingstonite'
+loop_
+_publ_author_name
+'Niizeki N'
+'Buerger M J'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 109 
+_journal_year 1957
+_journal_page_first 129
+_journal_page_last 157
+_publ_section_title
+;
+ The crystal structure of livingstonite, HgSb4S8
+;
+_database_code_amcsd 0010580
+_chemical_compound_source 'Guerrido, Mexico'
+_chemical_formula_sum 'Hg Sb4 S8'
+_cell_length_a 30.25
+_cell_length_b 4
+_cell_length_c 21.48
+_cell_angle_alpha 90
+_cell_angle_beta 104.20
+_cell_angle_gamma 90
+_cell_volume 2519.666
+_exptl_crystal_density_diffrn      4.978
+_symmetry_space_group_name_H-M 'A m m 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,-y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,y,-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Hg1   0.00000   0.50000   0.00000   0.02001
+Hg2   0.25000   0.00000   0.00000   0.02001
+Sb1   0.12000   0.06300   0.07500   0.01381
+Sb2   0.04200   0.09500   0.21400   0.01444
+Sb3   0.13100   0.06400   0.42500   0.01191
+Sb4   0.20800   0.07800   0.28700   0.00266
+S1   0.06200   0.49300   0.09200   0.01343
+S2   0.22900   0.02800   0.18000   0.00633
+S3   0.17200   0.50600   0.03900   0.01532
+S4   0.14900   0.52100   0.22200   0.00595
+S5   0.18900   0.49400   0.40700   0.01216
+S6   0.02200   0.02100   0.31800   0.00963
+S7   0.07800   0.50700   0.46000   0.01127
+S8   0.10200   0.48300   0.27700   0.00874

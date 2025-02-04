@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Fluocerite-(La)'
+loop_
+_publ_author_name
+'Cheetham A K'
+'Fender B E F'
+'Fuess H'
+'Wright A F'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 32 
+_journal_year 1976
+_journal_page_first 94
+_journal_page_last 97
+_publ_section_title
+;
+ A powder neutron diffraction study of lanthanum and cerium trifluorides
+ Note: cell parameters taken from Zalkin et al. Inorg. Chem 5 (1966) 1466-1468
+;
+_database_code_amcsd 0009547
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'La F3'
+_cell_length_a 7.185
+_cell_length_b 7.185
+_cell_length_c 7.351
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 328.648
+_exptl_crystal_density_diffrn      5.939
+_symmetry_space_group_name_H-M 'P -3 c 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,1/2+z'
+  'y,-x+y,-z'
+  '-x,-x+y,1/2-z'
+  '-x+y,-x,z'
+  '-x+y,y,1/2+z'
+  '-x,-y,-z'
+  'y,x,1/2-z'
+  '-y,x-y,z'
+  'x,x-y,1/2+z'
+  'x-y,x,-z'
+  'x-y,-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+La   0.66090   0.00000   0.25000   0.00304
+F1   0.36670   0.05400   0.08240   0.00887
+F2   0.33333   0.66667   0.18550   0.00887
+F3   0.00000   0.00000   0.25000   0.00887

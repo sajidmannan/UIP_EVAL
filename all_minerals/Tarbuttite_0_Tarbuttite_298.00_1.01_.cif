@@ -1,0 +1,46 @@
+data_global
+_chemical_name_mineral 'Tarbuttite'
+loop_
+_publ_author_name
+'Cocco G'
+'Fanfani L'
+'Zanazzi P F'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 123 
+_journal_year 1966
+_journal_page_first 321
+_journal_page_last 329
+_publ_section_title
+;
+ The crystal structure of tarbuttite, Zn2(OH)PO4
+;
+_database_code_amcsd 0010630
+_chemical_compound_source 'Broken Hill, Rhodesia'
+_chemical_formula_sum 'Zn2 P O5 H'
+_cell_length_a 5.499
+_cell_length_b 5.654
+_cell_length_c 6.465
+_cell_angle_alpha 102.85
+_cell_angle_beta 102.77
+_cell_angle_gamma 86.83
+_cell_volume 191.120
+_exptl_crystal_density_diffrn      4.218
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Zn1   0.38660   0.24810   0.49230   0.00215
+Zn2   0.02780   0.73840   0.18970   0.00063
+P   0.83870   0.25000   0.27350   0.00253
+O1   0.77240   0.99170   0.14820   0.00228
+O2   0.93570   0.38670   0.12870   0.00152
+O3   0.60340   0.38170   0.33380   0.00279
+O4   0.97220   0.74580   0.50830   0.00317
+O-H   0.36610   0.88500   0.29900   0.00177

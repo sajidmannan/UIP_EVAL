@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Brucite'
+loop_
+_publ_author_name
+'Parise J B'
+'Leinenweber K'
+'Weidner D J'
+'Tan K'
+'Von Dreele R B'
+_journal_name_full 'American Mineralogist'
+_journal_volume 79 
+_journal_year 1994
+_journal_page_first 193
+_journal_page_last 196
+_publ_section_title
+;
+ Pressure-induced H bonding: Neutron diffraction study of brucite, Mg(OD)2, to
+ 9.3 GPa
+ P = 0.4 GPa
+;
+_database_code_amcsd 0001637
+_chemical_formula_sum 'Mg O2 D1.998'
+_cell_length_a 3.1382
+_cell_length_b 3.1382
+_cell_length_c 4.713
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 40.197
+_exptl_crystal_density_diffrn      2.492
+_symmetry_space_group_name_H-M 'P -3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,-x+y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+  '-x,-y,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  'x-y,x,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg   0.00000   0.00000   0.00000   1.00000   0.00500
+O   0.33333   0.66667   0.21400   1.00000   0.00500
+D   0.36700   0.73400   0.41200   0.33300   0.01700

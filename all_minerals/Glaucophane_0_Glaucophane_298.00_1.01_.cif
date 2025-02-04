@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Glaucophane'
+loop_
+_publ_author_name
+'Papike J J'
+'Clark J R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 53 
+_journal_year 1968
+_journal_page_first 1156
+_journal_page_last 1173
+_publ_section_title
+;
+ The crystal structure and cation distribution of glaucophane
+;
+_database_code_amcsd 0000182
+_chemical_formula_sum 'Mg2.39 Fe.79 Al1.82 (Na1.96 Ca.04) Si8 O24 H2'
+_cell_length_a 9.541
+_cell_length_b 17.740
+_cell_length_c 5.295
+_cell_angle_alpha 90
+_cell_angle_beta 103.67
+_cell_angle_gamma 90
+_cell_volume 870.831
+_exptl_crystal_density_diffrn      3.084
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg1   0.00000   0.09080   0.50000   0.84000   0.00481
+Fe1   0.00000   0.09080   0.50000   0.16000   0.00481
+Al2   0.00000   0.18070   0.00000   0.91000   0.00329
+Fe2   0.00000   0.18070   0.00000   0.09000   0.00329
+Mg3   0.00000   0.00000   0.00000   0.71000   0.00304
+Fe3   0.00000   0.00000   0.00000   0.29000   0.00304
+Na4   0.00000   0.27720   0.50000   0.98000   0.01013
+Ca4   0.00000   0.27720   0.50000   0.02000   0.01013
+Si1   0.28310   0.08710   0.29310   1.00000   0.00393
+Si2   0.29200   0.17300   0.80870   1.00000   0.00367
+O1   0.10920   0.09270   0.20370   1.00000   0.00633
+O2   0.11770   0.17140   0.74800   1.00000   0.00633
+O-H3   0.11260   0.00000   0.70880   1.00000   0.00823
+O4   0.36790   0.25290   0.80580   1.00000   0.00773
+O5   0.35480   0.13180   0.08930   1.00000   0.00811
+O6   0.34070   0.12240   0.58140   1.00000   0.00861
+O7   0.33170   0.00000   0.30180   1.00000   0.00836

@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Chromatite'
+loop_
+_publ_author_name
+'Clouse J'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 83 
+_journal_year 1932
+_journal_page_first 161
+_journal_page_last 171
+_publ_section_title
+;
+ Investigations on the X-Ray Crystal Structures of Ca Cr O4, Ca Cr O4 *
+ H2 O and Ca Cr O4 * (H2 O)2
+ _cod_database_code 1010939
+;
+_database_code_amcsd 0017660
+_chemical_formula_sum 'Ca Cr O4'
+_cell_length_a 7.25
+_cell_length_b 7.25
+_cell_length_c 6.34
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 333.246
+_exptl_crystal_density_diffrn      3.111
+_symmetry_space_group_name_H-M 'I 41/a m d'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-y,1/2-x,1/4+z'
+  '1/2-y,-x,3/4+z'
+  '1/2+y,1/2+x,1/2-z'
+  '+y,+x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '+y,-x,-z'
+  '-y,1/2+x,1/4+z'
+  '1/2-y,+x,3/4+z'
+  '1/2+x,1/2-y,1/2+z'
+  '+x,-y,+z'
+  '1/2-x,y,3/4-z'
+  '-x,1/2+y,1/4-z'
+  '1/2+x,y,3/4-z'
+  '+x,1/2+y,1/4-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,+z'
+  '1/2+y,x,3/4+z'
+  '+y,1/2+x,1/4+z'
+  '-y,-x,-z'
+  '1/2-y,1/2-x,1/2-z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2+y,-x,3/4+z'
+  '+y,1/2-x,1/4+z'
+  '-x,y,z'
+  '1/2-x,1/2+y,1/2+z'
+  'x,1/2-y,1/4-z'
+  '1/2+x,-y,3/4-z'
+  '-x,1/2-y,1/4-z'
+  '1/2-x,-y,3/4-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca1   0.00000   0.00000   0.00000
+Cr1   0.00000   0.00000   0.50000
+O1   0.00000   0.17000   0.34000

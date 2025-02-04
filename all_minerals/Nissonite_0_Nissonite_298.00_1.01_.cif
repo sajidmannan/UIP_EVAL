@@ -1,0 +1,77 @@
+data_global
+_chemical_name_mineral 'Nissonite'
+loop_
+_publ_author_name
+'Groat L A'
+'Hawthorne F C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 75 
+_journal_year 1990
+_journal_page_first 1170
+_journal_page_last 1175
+_publ_section_title
+;
+ The crystal structure of nissonite
+;
+_database_code_amcsd 0001329
+_chemical_formula_sum 'Cu2 P2 Mg2 O15 H12'
+_cell_length_a 22.523
+_cell_length_b 5.015
+_cell_length_c 10.506
+_cell_angle_alpha 90
+_cell_angle_beta 99.62
+_cell_angle_gamma 90
+_cell_volume 1169.995
+_exptl_crystal_density_diffrn      2.780
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Cu   0.24534   0.15410   0.36677 ?
+P   0.34370   0.17680   0.22640 ?
+Mg   0.12260   0.15470   0.46730 ?
+O1   0.36310   0.10300   0.37020 ?
+O2   0.27700   0.29600   0.21610 ?
+O3   0.38460   0.38800   0.18330 ?
+O4   0.34050  -0.07200   0.14470 ?
+O-h   0.21360   0.05500   0.52110   0.00700
+OW1   0.08660  -0.13800   0.57900 ?
+OW2   0.03590   0.28800   0.41320 ?
+OW3   0.50000   0.20100   0.25000 ?
+H   0.24500   0.00000   0.57800   0.01500
+HW1a   0.10500   0.00000   0.59800   0.01500
+HW1b   0.05700   0.01500   0.63900   0.01500
+HW2a   0.02300   0.43400   0.35500   0.01500
+HW2b   0.00000   0.23700   0.41500   0.01500
+HW3   0.46000   0.26800   0.22700   0.01500
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.08600 0.13100 0.05500 -0.02300 -0.03300 -0.01600
+P 0.06100 0.11500 0.05600 0.01300 -0.04300 0.00200
+Mg 0.04900 0.10800 0.04400 -0.01000 -0.04000 -0.00100
+O1 0.17700 0.16700 0.05900 0.05900 -0.06300 0.01300
+O2 0.05800 0.12300 0.08800 0.03400 -0.02300 0.00500
+O3 0.08300 0.12900 0.12200 -0.00500 -0.01900 0.03500
+O4 0.08500 0.16900 0.12300 0.00800 -0.03800 -0.03600
+OW1 0.12700 0.17600 0.13100 -0.04700 -0.04700 -0.00800
+OW2 0.05900 0.35500 0.26300 0.00000 -0.05500 0.00000
+OW3 0.09000 0.29200 0.38800 0.00000 -0.13400 0.00000

@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Semseyite'
+loop_
+_publ_author_name
+'Kohatsu J J'
+'Wuensch B J'
+_journal_name_full 'American Mineralogist'
+_journal_volume 59 
+_journal_year 1974
+_journal_page_first 1127
+_journal_page_last 1127
+_publ_section_title
+;
+ Semseyite (Pb9Sb8S21) and the crystal chemistry of the plagionite group,
+ Pb3+2nSb8S15+2n
+ Note: structure from ICSD
+;
+_database_code_amcsd 0000427
+_chemical_formula_sum 'Pb9 Sb8 S21'
+_cell_length_a 13.603
+_cell_length_b 11.936
+_cell_length_c 24.453
+_cell_angle_alpha 90
+_cell_angle_beta 106.047
+_cell_angle_gamma 90
+_cell_volume 3815.619
+_exptl_crystal_density_diffrn      6.114
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.50000   0.95570   0.25000 ?
+Pb2   0.22760   0.01430   0.30680 ?
+Pb3   0.26830   0.22750   0.09270 ?
+Pb4   0.02260   0.11510   0.14260 ?
+Pb5   0.24980   0.05270   0.48210 ?
+Sb1   0.50670   0.33280   0.47400 ?
+Sb2   0.48410   0.94200   0.42450 ?
+Sb3   0.22320   0.32300   0.37930 ?
+Sb4   0.45220   0.25860   0.31600 ?
+S1   0.00000   0.89550   0.25000   0.01887
+S2   0.32120   0.40360   0.31740   0.01570
+S3   0.11060   0.49690   0.36980   0.01203
+S4   0.36750   0.11450   0.40130   0.01418
+S5   0.38100   0.55150   0.45240   0.01431
+S6   0.37140   0.44210   0.10200   0.01697
+S7   0.12350   0.33830   0.15240   0.01621
+S8   0.11120   0.22210   0.30330   0.01469
+S9   0.35710   0.13350   0.24400   0.01900
+S10   0.09580   0.21290   0.45570   0.01710
+S11   0.36620   0.17340   0.00170   0.01469
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.02528 0.00873 0.02266 0.00000 -0.00311 0.00000
+Pb2 0.01602 0.00794 0.01679 0.00213 0.00311 -0.00099
+Pb3 0.01593 0.00765 0.01791 -0.00119 0.00514 0.00000
+Pb4 0.01636 0.00758 0.02070 0.00079 0.00591 0.00199
+Pb5 0.02182 0.01638 0.01958 0.00174 0.00560 -0.00085
+Sb1 0.01472 0.00217 0.01763 0.00142 0.00514 -0.00014
+Sb2 0.01238 0.00202 0.01930 -0.00079 0.00591 0.00043
+Sb3 0.01524 0.00152 0.01455 0.00174 0.00576 0.00412
+Sb4 0.01472 0.01176 0.01595 0.00087 0.00638 -0.00256

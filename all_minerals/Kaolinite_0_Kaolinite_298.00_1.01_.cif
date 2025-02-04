@@ -1,0 +1,50 @@
+data_global
+_chemical_name_mineral 'Kaolinite'
+loop_
+_publ_author_name
+'Gruner W'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 83 
+_journal_year 1932
+_journal_page_first 75
+_journal_page_last 88
+_publ_section_title
+;
+ The crystal structure of kaolinite
+ _cod_database_code 1011045
+;
+_database_code_amcsd 0017947
+_chemical_formula_sum 'Al2 Si2 O9'
+_cell_length_a 5.148
+_cell_length_b 8.92
+_cell_length_c 14.535
+_cell_angle_alpha 90
+_cell_angle_beta 100.2
+_cell_angle_gamma 90
+_cell_volume 656.901
+_exptl_crystal_density_diffrn      2.570
+_symmetry_space_group_name_H-M 'C c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Al1   0.25000  -0.16700   0.00000
+Al2   0.25000   0.16700   0.00000
+Si1   0.00800   0.50000   0.18800
+Si2   0.00800   0.16700   0.18800
+O1  -0.04600   0.50000   0.07600
+O2  -0.04600   0.16700   0.07600
+O3  -0.04600  -0.16700   0.07600
+O4   0.03300   0.33300   0.22900
+O5   0.28300  -0.41700   0.22900
+O6   0.28300   0.08300   0.22900
+O7   0.04600   0.00000   0.42400
+O8  -0.45400   0.16700   0.42400
+O9   0.04600   0.33300   0.42400

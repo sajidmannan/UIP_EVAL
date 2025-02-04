@@ -1,0 +1,70 @@
+data_global
+_chemical_name_mineral 'Kapellasite'
+loop_
+_publ_author_name
+'Krause W'
+'Bernhardt H J'
+'Braithwaite R S W'
+'Kolitsch U'
+'Pritchard R'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 70 
+_journal_year 2006
+_journal_page_first 329
+_journal_page_last 340
+_publ_section_title
+;
+ Kapellasite, Cu3Zn(OH)6Cl2, a new mineral from Lavrion, Greece, and its
+ crystal structure
+;
+_database_code_amcsd 0014577
+_chemical_compound_source 'Lavrion, Greece'
+_chemical_formula_sum 'Cu3 Zn Cl2.18 O5.82 H5.82'
+_cell_length_a 6.300
+_cell_length_b 6.300
+_cell_length_c 5.733
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 197.058
+_exptl_crystal_density_diffrn      3.643
+_symmetry_space_group_name_H-M 'P -3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,-x+y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+  '-x,-y,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  'x-y,x,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu   0.50000   0.00000   0.50000   1.00000   0.01650
+Zn   0.00000   0.00000   0.50000   1.00000   0.01760
+Cl1   0.33333   0.66667   0.13730   1.00000   0.02510
+Cl2   0.35440   0.17720   0.34540   0.03000   0.01610
+O-H2   0.35440   0.17720   0.34540   0.97000   0.01610
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.01300 0.01530 0.02210 0.00760 0.00060 0.00120
+Zn 0.01340 0.01340 0.02590 0.00670 0.00000 0.00000
+Cl1 0.02760 0.02760 0.02000 0.01380 0.00000 0.00000
+Cl2 0.01790 0.01550 0.01580 0.00900 -0.00120 0.00060
+O-H2 0.01790 0.01550 0.01580 0.00900 -0.00120 0.00060

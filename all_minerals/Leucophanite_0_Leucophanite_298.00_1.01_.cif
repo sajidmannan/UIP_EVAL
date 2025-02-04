@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Leucophanite'
+loop_
+_publ_author_name
+'Grice J D'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 27 
+_journal_year 1989
+_journal_page_first 193
+_journal_page_last 197
+_publ_section_title
+;
+ Refinement of the crystal structure of leucophanite
+;
+_database_code_amcsd 0005227
+_chemical_formula_sum 'Na Ca Be Si2 O6 F'
+_cell_length_a 7.401
+_cell_length_b 7.412
+_cell_length_c 9.990
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 548.014
+_exptl_crystal_density_diffrn      2.948
+_symmetry_space_group_name_H-M 'P 21 21 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na   0.10210   0.67820   0.24650
+Ca   0.07880   0.64620   0.75990
+Be   0.12000   0.35920   0.53070
+Si1   0.10000   0.35800   0.02410
+Si2   0.23710   0.99170   0.99940
+O1   0.09120   0.35480   0.86450
+O2   0.14830   0.15800   0.08950
+O3   0.09860   0.91360   0.41110
+O4   0.08000   0.91290   0.90300
+O5   0.17690   0.16260   0.59350
+O6   0.25530   0.50760   0.58920
+F   0.12160   0.35260   0.37290
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Na 0.01800 0.02500 0.01710 0.00520 0.00450 -0.00640
+Ca 0.01160 0.00890 0.00910 0.00210 0.00060 0.00250
+Be 0.00300 0.00040 0.00490 0.00000 0.00000 0.00000
+Si1 0.00660 0.00730 0.00910 0.00000 0.00000 -0.00020
+Si2 0.00680 0.00690 0.00980 0.00030 -0.00110 -0.00050
+O1 0.01290 0.00960 0.00900 0.00110 0.00170 0.00030
+O2 0.01240 0.00670 0.01100 0.00090 0.00130 0.00010
+O3 0.00770 0.01160 0.01090 -0.00090 0.00080 0.00000
+O4 0.00650 0.01140 0.01160 -0.00080 -0.00150 -0.00290
+O5 0.01150 0.00660 0.01100 0.00100 0.00310 -0.00140
+O6 0.00990 0.01040 0.01010 -0.00060 0.00280 0.00200
+F 0.01620 0.01910 0.01230 -0.00030 0.00010 -0.00180

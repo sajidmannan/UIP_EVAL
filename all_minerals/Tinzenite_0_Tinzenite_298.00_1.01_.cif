@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Tinzenite'
+loop_
+_publ_author_name
+'Belokoneva E L'
+'Goryunova A N'
+'Pletnev P A'
+'Spiridonov E M'
+_journal_name_full 'Crystallography Reports'
+_journal_volume 46 
+_journal_year 2001
+_journal_page_first 30
+_journal_page_last 32
+_publ_section_title
+;
+ Crystal structure of high-manganese tinzenite from the Falotta deposit
+ in Switzerland
+;
+_database_code_amcsd 0012369
+_chemical_compound_source 'Falotta deposit, Switzerland'
+_chemical_formula_sum 'Ca1.42 Mn1.46 Mg.03 Fe.21 Al1.88 Si4 B O16 H'
+_cell_length_a 7.154
+_cell_length_b 9.126
+_cell_length_c 8.949
+_cell_angle_alpha 91.88
+_cell_angle_beta 98.80
+_cell_angle_gamma 77.05
+_cell_volume 562.694
+_exptl_crystal_density_diffrn      3.426
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.74863   0.34796   0.39567   0.92500   0.01001
+Mn1   0.74863   0.34796   0.39567   0.07500   0.01001
+Ca2   0.18243   0.09821   0.08194   0.49500   0.00969
+Mn2   0.18243   0.09821   0.08194   0.50500   0.00969
+Mn   0.76444   0.59653   0.10811   0.88000   0.00964
+Mg   0.76444   0.59653   0.10811   0.03000   0.00964
+Fe2+   0.76444   0.59653   0.10811   0.09000   0.00964
+Al1   0.05050   0.80208   0.25116   0.90000   0.00646
+Fe3+1   0.05050   0.80208   0.25116   0.10000   0.00646
+Al2   0.35010   0.93754   0.41979   0.98000   0.00633
+Fe3+2   0.35010   0.93754   0.41979   0.02000   0.00633
+Si1   0.21060   0.44713   0.23749   1.00000   0.00608
+Si2   0.21960   0.27535   0.52642   1.00000   0.00532
+Si3   0.70660   0.25565   0.01412   1.00000   0.00621
+Si4   0.63760   0.02065   0.22794   1.00000   0.00583
+B   0.45940   0.63340   0.28530   1.00000   0.00583
+O1   0.05890   0.60290   0.18600   1.00000   0.00798
+O2   0.22960   0.32880   0.10400   1.00000   0.01191
+O3   0.42030   0.48410   0.31300   1.00000   0.00849
+O4   0.13200   0.37960   0.37680   1.00000   0.01127
+O5   0.02400   0.24080   0.56690   1.00000   0.00836
+O6   0.32870   0.37900   0.64950   1.00000   0.00735
+O7   0.38150   0.12790   0.49680   1.00000   0.00722
+O8   0.54500   0.34550   0.87890   1.00000   0.00760
+O9   0.88450   0.14980   0.93940   1.00000   0.00861
+O10   0.77520   0.36740   0.14100   1.00000   0.01064
+O11   0.60380   0.13820   0.08770   1.00000   0.01191
+O12   0.43020   0.98490   0.23940   1.00000   0.00925
+O13   0.72020   0.09810   0.38410   1.00000   0.00747
+O14   0.78830   0.87330   0.17290   1.00000   0.00899
+O15   0.32350   0.74680   0.35330   1.00000   0.00697
+O-H16   0.09360   0.99850   0.32050   1.00000   0.00798

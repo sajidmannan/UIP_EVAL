@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Jeremejevite'
+loop_
+_publ_author_name
+'Rodellas C'
+'Garcia-Blanco S'
+'Vegas A'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 165 
+_journal_year 1983
+_journal_page_first 255
+_journal_page_last 260
+_publ_section_title
+;
+ Crystal structure refinement of jeremejevite (Al6B5F3O15)
+;
+_database_code_amcsd 0010860
+_chemical_compound_source 'Cape Cross, Namibia'
+_chemical_formula_sum 'Al6 B5 F3 O15'
+_cell_length_a 8.556
+_cell_length_b 8.556
+_cell_length_c 8.175
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 518.275
+_exptl_crystal_density_diffrn      3.287
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Al   0.35261   0.01544   0.07532   0.00380
+B1   0.23322   0.00232   0.75000   0.00480
+B2   0.66667   0.33333  -0.05402   0.00470
+F   0.50014   0.11314   0.25000   0.00560
+O1   0.28512   0.19661   0.10135   0.00460
+O2   0.56079   0.15000  -0.05455   0.00450
+O3   0.30286   0.18636   0.75000   0.00500

@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Hagendorfite'
+loop_
+_publ_author_name
+'Redhammer G J'
+'Tippelt G'
+'Bernroider M'
+'Lottermoser W'
+'Amthauer G'
+'Roth G'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 17 
+_journal_year 2005
+_journal_page_first 915
+_journal_page_last 932
+_publ_section_title
+;
+ Hagendorfite (Na,Ca)MnFe2(PO4)3 from type locality Hagendorf (Bavaria, Germany):
+ Crystal structure determination and 57Fe Mossbauer spectroscopy
+ Note: alluaudite structure
+ Sample: T = 100 K
+;
+_database_code_amcsd 0007137
+_chemical_compound_source 'Hagendorf, Bavaria, Germany'
+_chemical_formula_sum 'Na1.83 Ca.17 Mn Fe2 P3 O12'
+_cell_length_a 11.9492
+_cell_length_b 12.5548
+_cell_length_c 6.4966
+_cell_angle_alpha 90
+_cell_angle_beta 114.816
+_cell_angle_gamma 90
+_cell_volume 884.623
+_exptl_crystal_density_diffrn      3.757
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NaA1   0.50000   0.00000   0.00000   0.83000   0.04810
+CaA1   0.50000   0.00000   0.00000   0.17000   0.04810
+NaA2*   0.00000  -0.01920   0.25000   1.00000   0.02410
+MnM1   0.00000   0.26720   0.25000   1.00000   0.01040
+FeM2   0.27900   0.65800   0.36500   1.00000   0.00940
+P1   0.00000  -0.28850   0.25000   1.00000   0.01030
+P2   0.23440  -0.10800   0.12730   1.00000   0.01090
+O1   0.45570   0.71800   0.53710   1.00000   0.01220
+O2   0.09860   0.63530   0.24190   1.00000   0.01920
+O3   0.33610   0.66470   0.10280   1.00000   0.01500
+O4   0.12820   0.40350   0.31990   1.00000   0.01700
+O5   0.22330   0.82380   0.31430   1.00000   0.01520
+O6   0.32840   0.50010   0.38560   1.00000   0.01620

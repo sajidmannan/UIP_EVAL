@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Claringbullite'
+loop_
+_publ_author_name
+'Burns P C'
+'Cooper M A'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 33 
+_journal_year 1995
+_journal_page_first 633
+_journal_page_last 639
+_publ_section_title
+;
+ Claringbullite: A Cu oxysalt with Cu in trigonal-prismatic coordination
+;
+_database_code_amcsd 0005432
+_chemical_formula_sum 'Cu3.99 H6.71 Cl1.29 O6.71'
+_cell_length_a 6.6733
+_cell_length_b 6.6733
+_cell_length_c 9.185
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 354.235
+_exptl_crystal_density_diffrn      3.876
+_symmetry_space_group_name_H-M 'P 63/m m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x,-x+y,-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+  'x-y,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu1   0.50000   0.00000   0.00000   1.00000 ?
+Cu2   0.37110   0.74220   0.75000   0.33000 ?
+H   0.12500   0.87500   0.86800   1.00000   0.02000
+Cl1   0.66667   0.33333   0.75000   1.00000 ?
+O-H2   0.00000   0.00000   0.75000   0.71000 ?
+Cl2   0.00000   0.00000   0.75000   0.29000 ?
+O1   0.20170   0.79830   0.90820   1.00000 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu1 0.00910 0.00880 0.02560 0.00440 -0.00300 -0.00610
+Cu2 0.00860 0.01240 0.00540 0.00620 0.00000 0.00000
+Cl1 0.02350 0.02350 0.02470 0.01180 0.00000 0.00000
+O-H2 0.03960 0.03960 0.05150 0.01980 0.00000 0.00000
+Cl2 0.03960 0.03960 0.05150 0.01980 0.00000 0.00000
+O1 0.00840 0.00840 0.01380 0.00340 -0.00170 0.00170

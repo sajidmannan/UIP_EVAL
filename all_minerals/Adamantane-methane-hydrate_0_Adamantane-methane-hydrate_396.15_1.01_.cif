@@ -1,0 +1,102 @@
+data_global
+_chemical_name_mineral 'Adamantane-methane-hydrate'
+loop_
+_publ_author_name
+'Kirchner M T'
+'Boese R'
+'Billups W E'
+'Norman L R'
+_journal_name_full 'Journal of the American Chemical Society'
+_journal_volume 126 
+_journal_year 2004
+_journal_page_first 9407
+_journal_page_last 9412
+_publ_section_title
+;
+ Gas hydrate single-crystal structure analyses
+ Sample: C10H16(CH4)5(H2O)34, T = 123 K
+;
+_database_code_amcsd 0019152
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'O34 H100.424 C15.916'
+_cell_length_a 12.3304
+_cell_length_b 12.3304
+_cell_length_c 9.9206
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1306.240
+_exptl_crystal_density_diffrn      1.063
+_symmetry_space_group_name_H-M 'P 6/m m m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,z'
+  'x,x-y,-z'
+  '-x+y,-x,-z'
+  'x-y,x,z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,z'
+  '-x+y,y,-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'x,x-y,z'
+  '-x,-x+y,-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,z'
+  '-y,-x,-z'
+  '-y,x-y,-z'
+  'y,-x+y,z'
+  '-x+y,y,z'
+  'x-y,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+O1   0.33333   0.66667   0.13820   1.00000   0.02800
+H1   0.33333   0.66667   0.06300   0.50000   0.04200
+H2   0.29900   0.59700   0.15900   0.50000   0.04200
+O2   0.13016   0.26030   0.00000   1.00000   0.02810
+H3   0.05900   0.22300   0.00000   0.50000   0.04200
+H4   0.15300   0.30700   0.06300   0.50000   0.04200
+O3   0.00000   0.38760   0.35997   1.00000   0.02720
+H5   0.00000   0.45200   0.35900   0.50000   0.04100
+H6   0.05800   0.39400   0.33300   0.50000   0.04100
+H7   0.00000   0.38100   0.44600   0.50000   0.04100
+O4   0.20945   0.41890   0.22274   1.00000   0.02790
+H8   0.24300   0.48600   0.20400   0.50000   0.04200
+H9   0.14800   0.40600   0.26800   0.50000   0.04200
+H10   0.18800   0.37600   0.16100   0.50000   0.04200
+C1   0.50000   0.50000   0.00000   0.92000   0.04500
+H11   0.51980   0.57390   0.05820   0.35000   0.06800
+C2   0.33333   0.66667   0.50000   0.87200   0.05800
+H12   0.40060   0.73380   0.55640   0.29100   0.08600
+C3   0.07140   0.14290   0.50000   0.84000   0.08300
+H13   0.11650   0.23310   0.50000   0.84000   0.12500
+C4   0.00000   0.00000   0.30100   0.48000   0.09200
+C5   0.06190   0.12370   0.36200   0.45100   0.12200
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+O1 0.02630 0.02630 0.03100 0.01310 0.00000 0.00000
+O2 0.02550 0.02710 0.03220 0.01350 0.00000 0.00000
+O3 0.02610 0.02590 0.02980 0.01300 0.00000 -0.00180
+O4 0.02580 0.02660 0.03160 0.01330 0.00010 0.00010
+C1 0.04900 0.04900 0.04200 0.02700 0.00000 0.00000
+C2 0.06300 0.06300 0.04600 0.03170 0.00000 0.00000
+C3 0.04800 0.04100 0.15800 0.02040 0.00000 0.00000
+C4 0.06000 0.06000 0.16000 0.03000 0.00000 0.00000
+C5 0.11500 0.08400 0.15700 0.04200 -0.01800 -0.03700

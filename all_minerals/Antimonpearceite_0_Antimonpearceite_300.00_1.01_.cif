@@ -1,0 +1,87 @@
+data_global
+_chemical_name_mineral 'Antimonpearceite'
+loop_
+_publ_author_name
+'Evain M'
+'Bindi L'
+'Menchetti S'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 62 
+_journal_year 2006
+_journal_page_first 768
+_journal_page_last 774
+_publ_section_title
+;
+ Structure and phase transition of the Se-rich variety of antimonpearceite,
+ [(Ag,Cu)6(Sb,As)2(S,Se)7]-[Ag9Cu(S,Se)2Se2]
+ Sample: T = 300 K
+;
+_database_code_amcsd 0009942
+_chemical_compound_source 'De Lamar mine, Idaho, USA'
+_chemical_formula_sum '(Sb1.66 As.34) Ag16.08 Cu1.84 S8.34 Se2.66'
+_cell_length_a 7.5950
+_cell_length_b 7.5950
+_cell_length_c 12.0731
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 603.122
+_exptl_crystal_density_diffrn      7.039
+_symmetry_space_group_name_H-M 'P -3 m 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-y,-x,z'
+  'y,-x+y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  '-x+y,y,z'
+  '-x,-y,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x,x-y,z'
+  'x-y,x,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Sb   0.33333   0.66667   0.40561   0.83000   0.02348
+As   0.33333   0.66667   0.40561   0.17000   0.02348
+Ag1a   0.28510   0.14260   0.38990   0.68000   0.05260
+Ag1b   0.35100   0.17530   0.36290   0.25000   0.07300
+Cu1b   0.35100   0.17530   0.36290   0.07000   0.07300
+Ag2   0.24580   0.36490   0.11900   0.29600   0.16300
+Ag3   0.35280   0.31280   0.11870   0.45400   0.15700
+Cu   0.00000   0.00000   0.00000   1.00000   0.03130
+S1   0.00000   0.00000   0.18217   0.83000   0.03120
+Se1   0.00000   0.00000   0.18217   0.17000   0.03120
+S2   0.01460   0.50730   0.30757   1.00000   0.03810
+S3   0.00000   0.00000   0.50000   0.68000   0.11700
+Se3   0.00000   0.00000   0.50000   0.32000   0.11700
+Se   0.66667   0.33333   0.01780   1.00000   0.04660
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sb 0.02430 0.02430 0.02190 0.01213 0.00000 0.00000
+As 0.02430 0.02430 0.02190 0.01213 0.00000 0.00000
+Ag1a 0.05880 0.05010 0.05180 0.02940 0.00330 0.00170
+Ag1b 0.10500 0.05140 0.08000 0.05270 0.05000 0.02500
+Cu1b 0.10500 0.05140 0.08000 0.05270 0.05000 0.02500
+Ag2 0.26700 0.03790 0.05490 -0.01900 -0.05000 0.00440
+Ag3 0.07900 0.28900 0.06900 0.06600 0.00460 -0.02100
+Cu 0.03870 0.03870 0.01660 0.01930 0.00000 0.00000
+S1 0.03660 0.03660 0.02050 0.01830 0.00000 0.00000
+Se1 0.03660 0.03660 0.02050 0.01830 0.00000 0.00000
+S2 0.02140 0.03870 0.04850 0.01070 -0.00360 -0.00180
+S3 0.15200 0.15200 0.04700 0.07600 0.00000 0.00000
+Se3 0.15200 0.15200 0.04700 0.07600 0.00000 0.00000
+Se 0.04550 0.04550 0.04870 0.02270 0.00000 0.00000

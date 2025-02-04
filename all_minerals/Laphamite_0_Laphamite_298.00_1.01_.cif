@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Laphamite'
+loop_
+_publ_author_name
+'Bindi L'
+'Bonazzi P'
+'Spry P G'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 46 
+_journal_year 2008
+_journal_page_first 269
+_journal_page_last 274
+_publ_section_title
+;
+ Effects of sulfur-for-selenium substitution on the structure of laphamite, As2(Se,S)3
+ Sample: LAP1
+;
+_database_code_amcsd 0006181
+_chemical_compound_source 'Western Middle Anthracite field, Northumberland County, Pennsylvania'
+_chemical_formula_sum 'As2.08 Se2.28 S.64'
+_cell_length_a 11.891
+_cell_length_b 9.742
+_cell_length_c 4.274
+_cell_angle_alpha 90
+_cell_angle_beta 90.03
+_cell_angle_gamma 90
+_cell_volume 495.109
+_exptl_crystal_density_diffrn      4.781
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+As1   0.26670   0.19510   0.87750   1.00000   0.02600
+As2   0.48950   0.32390   0.37350   1.00000   0.02450
+SeX1   0.40320   0.11920   0.52090   0.62000   0.02960
+SX1   0.40320   0.11920   0.52090   0.36000   0.02960
+AsX1   0.40320   0.11920   0.52090   0.02000   0.02960
+SeX2   0.34720   0.40920   0.02100   0.78000   0.02760
+SX2   0.34720   0.40920   0.02100   0.19000   0.02760
+AsX2   0.34720   0.40920   0.02100   0.03000   0.02760
+SeX3   0.12320   0.30000   0.55010   0.88000   0.02560
+SX3   0.12320   0.30000   0.55010   0.09000   0.02560
+AsX3   0.12320   0.30000   0.55010   0.03000   0.02560
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 0.01810 0.03610 0.02370 -0.00160 -0.00250 0.00350
+As2 0.01690 0.03450 0.02210 -0.00080 -0.00010 -0.00090
+SeX1 0.02080 0.03800 0.03000 0.00060 -0.00030 0.00010
+SX1 0.02080 0.03800 0.03000 0.00060 -0.00030 0.00010
+AsX1 0.02080 0.03800 0.03000 0.00060 -0.00030 0.00010
+SeX2 0.02080 0.03600 0.02610 0.00180 -0.00330 0.00130
+SX2 0.02080 0.03600 0.02610 0.00180 -0.00330 0.00130
+AsX2 0.02080 0.03600 0.02610 0.00180 -0.00330 0.00130
+SeX3 0.01560 0.03900 0.02250 0.00100 -0.00320 0.00070
+SX3 0.01560 0.03900 0.02250 0.00100 -0.00320 0.00070
+AsX3 0.01560 0.03900 0.02250 0.00100 -0.00320 0.00070

@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Arsentsumebite'
+loop_
+_publ_author_name
+'Zubkova N V'
+'Pushcharovsky D Y'
+'Giester G'
+'Tillmanns E'
+'Pekov I V'
+'Kleimenov D A'
+_journal_name_full 'Mineralogy and Petrology'
+_journal_volume 75 
+_journal_year 2002
+_journal_page_first 79
+_journal_page_last 88
+_publ_section_title
+;
+ The crystal structure of arsentsumebite, Pb2Cu[(As,S)O4]2(OH)
+;
+_database_code_amcsd 0014646
+_chemical_compound_source 'oxidation zone of the Berezovskoye gold deposit, Middle Urals, Russia'
+_chemical_formula_sum 'Pb2 Cu (As S) (O9 H)'
+_cell_length_a 7.804
+_cell_length_b 5.890
+_cell_length_c 8.964
+_cell_angle_alpha 90
+_cell_angle_beta 112.29
+_cell_angle_gamma 90
+_cell_volume 381.246
+_exptl_crystal_density_diffrn      6.359
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pb1   0.71630   0.25000   0.24120   1.00000   0.04306
+Pb2   0.29870   0.25000   0.38690   1.00000   0.03546
+Cu   0.00000   0.00000   0.00000   1.00000   0.01900
+As1   0.55840   0.25000  -0.17150   0.63000   0.01267
+S1   0.55840   0.25000  -0.17150   0.37000   0.01267
+As2  -0.04490   0.25000  -0.35020   0.37000   0.01520
+S2  -0.04490   0.25000  -0.35020   0.63000   0.01520
+O-H1   0.17070   0.25000   0.08110   1.00000   0.01140
+O2  -0.24130   0.25000  -0.46820   1.00000   0.03673
+O3   0.09280   0.25000   0.55630   1.00000   0.06079
+O4   0.43360   0.25000   0.93460   1.00000   0.04813
+O5   0.77540   0.25000  -0.05430   1.00000   0.02660
+O6  -0.00020   0.03020  -0.24100   1.00000   0.03293
+O7   0.50990   0.02520  -0.28750   1.00000   0.03166

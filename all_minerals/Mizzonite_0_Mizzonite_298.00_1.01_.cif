@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Mizzonite'
+loop_
+_publ_author_name
+'Papike J J'
+'Stephenson N C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 51 
+_journal_year 1966
+_journal_page_first 1014
+_journal_page_last 1027
+_publ_section_title
+;
+ The crystal structure of mizzonite, a calcium- and carbonate-rich scapolite
+;
+_database_code_amcsd 0000148
+_chemical_formula_sum '(Ca2.68 Na.76 K.44 Mg.12) (Si6.68 Al5.32) O27.09 (C.83 S.15 Cl.02)'
+_cell_length_a 12.169
+_cell_length_b 12.169
+_cell_length_c 7.569
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1120.852
+_exptl_crystal_density_diffrn      2.741
+_symmetry_space_group_name_H-M 'I 4/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-y,x,z'
+  '1/2-y,1/2+x,1/2+z'
+  'x,y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'y,-x,z'
+  '1/2+y,1/2-x,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca   0.14280   0.21700   0.00000   0.67000   0.01431
+Na   0.14280   0.21700   0.00000   0.19000   0.01431
+K   0.14280   0.21700   0.00000   0.11000   0.01431
+Mg   0.14280   0.21700   0.00000   0.03000   0.01431
+Si1   0.33910   0.40840   0.00000   0.71000  -0.00101
+Al1   0.33910   0.40840   0.00000   0.29000  -0.00101
+Si2   0.33930   0.08660   0.20690   0.48000   0.00038
+Al2   0.33930   0.08660   0.20690   0.52000   0.00038
+O1   0.45810   0.34800   0.00000   1.00000   0.00735
+O2   0.31200   0.12800   0.00000   1.00000   0.01102
+O3   0.05100   0.34890   0.20810   1.00000   0.01064
+O4   0.23320   0.13540   0.32630   1.00000   0.01001
+C   0.00000   0.00000   0.00000   0.83000   0.02280
+O-C1   0.00000   0.00000   0.00000   0.83000   0.02280
+O-C2   0.00000   0.00000   0.00000   0.83000   0.02280
+O-C3   0.00000   0.00000   0.00000   0.83000   0.02280
+S   0.00000   0.00000   0.00000   0.15000   0.02280
+O-S1   0.00000   0.00000   0.00000   0.15000   0.02280
+O-S2   0.00000   0.00000   0.00000   0.15000   0.02280
+O-S3   0.00000   0.00000   0.00000   0.15000   0.02280
+O-S4   0.00000   0.00000   0.00000   0.15000   0.02280
+Cl   0.00000   0.00000   0.00000   0.02000   0.02280

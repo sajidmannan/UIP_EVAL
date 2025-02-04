@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Wohlerite'
+loop_
+_publ_author_name
+'Bellezza M'
+'Merlino S'
+'Perchiazzi N'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 50 
+_journal_year 2012
+_journal_page_first 531
+_journal_page_last 548
+_publ_section_title
+;
+ Distinct domains in "guarinite" from Monte Somma, Italy:
+ Crystal structures and crystal chemistry
+ Note: "Guarinite" Domain II
+;
+_database_code_amcsd 0019217
+_chemical_compound_source 'Monte Somma syenite, Italy'
+_chemical_formula_sum 'Ca4.25 Nb.57 Zr1.43 Fe.18 Na1.57 Si4 O17 F'
+_cell_length_a 10.836
+_cell_length_b 10.270
+_cell_length_c 7.296
+_cell_angle_alpha 90
+_cell_angle_beta 109.13
+_cell_angle_gamma 90
+_cell_volume 767.103
+_exptl_crystal_density_diffrn      3.477
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca(1)   0.34690   0.29650   0.55260   1.00000   0.01900
+Nb   0.12990   0.05210   0.18970   0.57000   0.01400
+ZrNb   0.12990   0.05210   0.18970   0.43000   0.01400
+Zr   0.34270   0.28680   0.05350   1.00000   0.01200
+Ca(2)   0.14600   0.68170   0.19860   0.82000   0.01200
+Fe(2)   0.14600   0.68170   0.19860   0.18000   0.01200
+Ca(3)   0.36930   0.91040   0.05540   1.00000   0.01700
+Ca(4)   0.15310   0.68030   0.69950   1.00000   0.01400
+Na(1)   0.12160   0.06750   0.69090   0.77000   0.02100
+Ca(1)   0.12160   0.06750   0.69090   0.23000   0.02100
+Na(2)   0.36810   0.91420   0.55140   0.80000   0.02000
+Ca(2)   0.36810   0.91420   0.55140   0.20000   0.02000
+Si(1)   0.08080   0.37130   0.19800   1.00000   0.01200
+Si(2)   0.07240   0.36320   0.63580   1.00000   0.01200
+Si(3)   0.43740   0.61120   0.56250   1.00000   0.01200
+Si(4)   0.43190   0.61070   0.12310   1.00000   0.01200
+O(1)   0.00650   0.23600   0.11640   1.00000   0.01900
+O(2)  -0.01810   0.23860   0.62130   1.00000   0.01600
+O(3)   0.00780   0.49980   0.09120   1.00000   0.02400
+O(4)   0.01690   0.49690   0.69440   1.00000   0.02200
+O(5)   0.23240   0.36990   0.20700   1.00000   0.02000
+O(6)   0.22110   0.33230   0.77540   1.00000   0.01700
+O(7)   0.48710   0.46900   0.64860   1.00000   0.01900
+O(8)   0.46070   0.46030   0.07720   1.00000   0.01900
+O(9)   0.47440   0.23410   0.32010   1.00000   0.01600
+O(10)   0.46640   0.21480   0.91480   1.00000   0.01800
+O(11)   0.28520   0.63710   0.51560   1.00000   0.02300
+O(12)   0.28550   0.66690   0.01970   1.00000   0.01900
+O(13)   0.24610   0.11320   0.03650   1.00000   0.02300
+O(14)   0.22830   0.11350   0.45030   1.00000   0.02500
+F(15)   0.23820   0.88660   0.74450   1.00000   0.01800
+O(16)   0.21780   0.88800   0.22730   1.00000   0.01800
+O(17)   0.08650   0.38860   0.42410   1.00000   0.02800
+O(18)   0.52680   0.12140   0.64040   1.00000   0.02200

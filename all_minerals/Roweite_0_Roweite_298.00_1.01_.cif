@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Roweite'
+loop_
+_publ_author_name
+'Moore P B'
+'Araki T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 59 
+_journal_year 1974
+_journal_page_first 60
+_journal_page_last 65
+_publ_section_title
+;
+ Roweite, Ca2Mn2(OH)4[B4O7(OH)2]: Its atomic arrangement
+;
+_database_code_amcsd 0000393
+_chemical_formula_sum 'Ca2 Mn2 B4 (O13 H6)'
+_cell_length_a 9.057
+_cell_length_b 13.357
+_cell_length_c 8.289
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1002.756
+_exptl_crystal_density_diffrn      2.963
+_symmetry_space_group_name_H-M 'P b a m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  'x,y,-z'
+  '-x,-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.23330   0.13170   0.24450   0.01102
+Mn1   0.00000   0.00000   0.00000   0.01305
+Mn2   0.50000   0.00000   0.00000   0.01646
+Mn3   0.48030   0.24680   0.00000   0.01317
+B1   0.20970   0.30030   0.50000   0.01444
+B2   0.23310   0.47530   0.50000   0.00722
+B3   0.37170   0.37930   0.29290   0.00937
+O-H1   0.11430   0.20910   0.50000   0.01760
+O-H2   0.16110   0.57190   0.50000   0.01102
+O3   0.12870   0.39110   0.50000   0.00861
+O4   0.30920   0.29240   0.35500   0.01684
+O5   0.32870   0.46950   0.35330   0.01469
+O6   0.47240   0.37400   0.16950   0.01102
+O-H7   0.23830   0.02150   0.00000   0.01343
+O-H8   0.22900   0.23730   0.00000   0.01583
+O-H9   0.48620   0.12290   0.16420   0.01444

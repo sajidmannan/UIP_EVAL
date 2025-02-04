@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Beaverite-(Cu)'
+loop_
+_publ_author_name
+'Breidenstein B'
+'Schluter J'
+'Gebhard G'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1992 
+_journal_year 1992
+_journal_page_first 213
+_journal_page_last 220
+_publ_section_title
+;
+ On beaverite: new occurrence, chemical data and crystal structure
+;
+_database_code_amcsd 0014861
+_chemical_compound_source 'Grand Reef mine, Graham County, Arizona, USA'
+_chemical_formula_sum 'Pb Fe3 S2 O14 H6'
+_cell_length_a 7.205
+_cell_length_b 7.205
+_cell_length_c 16.994
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 764.001
+_exptl_crystal_density_diffrn      4.362
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  'y,x,-z'
+  '2/3+y,1/3+x,1/3-z'
+  '1/3+y,2/3+x,2/3-z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-x,-x+y,-z'
+  '2/3-x,1/3-x+y,1/3-z'
+  '1/3-x,2/3-x+y,2/3-z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  'x-y,-y,-z'
+  '2/3+x-y,1/3-y,1/3-z'
+  '1/3+x-y,2/3-y,2/3-z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb   0.00000   0.00000   0.00000   0.04433
+Fe   0.50000   0.00000   0.50000   0.04433
+S   0.00000   0.00000   0.31560   0.01900
+O1   0.00000   0.00000   0.40020   0.01267
+O2   0.22200  -0.22200  -0.05000   0.01267
+O-H   0.12290  -0.12290   0.13670   0.01267

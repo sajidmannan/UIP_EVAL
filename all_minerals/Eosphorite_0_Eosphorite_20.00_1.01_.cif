@@ -1,0 +1,87 @@
+data_global
+_chemical_name_mineral 'Eosphorite'
+loop_
+_publ_author_name
+'Diego Gatta G'
+'Nenert G'
+'Vignola P'
+_journal_name_full 'American Mineralogist'
+_journal_volume 98 
+_journal_year 2013
+_journal_page_first 1297
+_journal_page_last 1301
+_publ_section_title
+;
+ Coexisting hydroxyl groups and H2O molecules in minerals:
+ A single-crystal neutron diffraction study of eosphorite, MnAlPO4(OH)2*H2O
+ Note: T = 20 K
+;
+_database_code_amcsd 0019910
+_chemical_compound_source 'Chamachhu, Skarda district, Baltistan, Pakistan'
+_chemical_formula_sum '(Mn.943 Fe.056) Al P O7 H3.994'
+_cell_length_a 6.9263
+_cell_length_b 10.4356
+_cell_length_c 13.5234
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 977.473
+_exptl_crystal_density_diffrn      3.112
+_symmetry_space_group_name_H-M 'C m c 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,1/2-y,1/2+z'
+  '1/2+x,-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,+y,1/2-z'
+  '-x,y,z'
+  '1/2-x,1/2+y,z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,-z'
+  'x,1/2+y,1/2-z'
+  '1/2+x,+y,1/2-z'
+  '-x,1/2-y,1/2+z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mn   0.25000   0.13423   0.25000   0.94350   0.00630
+Fe   0.25000   0.13423   0.25000   0.05650   0.00630
+Al   0.25000   0.25000   0.00000   1.00000   0.00640
+P   0.00000   0.37739   0.33377   1.00000   0.00496
+O1   0.00000   0.26580   0.25871   1.00000   0.00642
+O2   0.00000   0.00716   0.21941   1.00000   0.00573
+O3   0.00000   0.25178   0.04931   1.00000   0.00591
+O4   0.18076   0.11057   0.40962   1.00000   0.00629
+O5   0.31912   0.13209   0.60046   1.00000   0.00612
+H1   0.23517   0.02445   0.42046   0.99000   0.01920
+H2   0.02866   0.10127   0.41045   0.50700   0.01650
+H3   0.00000   0.28409   0.11668   1.00000   0.02350
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn 0.00320 0.00550 0.01030 0.00000 -0.00150 0.00000
+Fe 0.00320 0.00550 0.01030 0.00000 -0.00150 0.00000
+Al 0.00330 0.00910 0.00660 -0.00120 0.00090 -0.00280
+P 0.00327 0.00610 0.00560 0.00000 0.00000 0.00080
+O1 0.00713 0.00630 0.00580 0.00000 0.00000 -0.00070
+O2 0.00510 0.00590 0.00620 0.00000 0.00000 -0.00110
+O3 0.00374 0.00760 0.00650 0.00000 0.00000 0.00040
+O4 0.00515 0.00690 0.00687 0.00042 -0.00012 -0.00024
+O5 0.00431 0.00760 0.00647 0.00030 -0.00048 0.00134
+H1 0.02130 0.01390 0.02250 0.00460 -0.00070 0.00230
+H2 0.00920 0.01950 0.02070 -0.00220 0.00040 -0.00050
+H3 0.01810 0.03490 0.01760 0.00000 0.00000 -0.00730

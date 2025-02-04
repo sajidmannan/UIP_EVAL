@@ -1,0 +1,83 @@
+data_global
+_chemical_name_mineral 'Pseudowollastonite'
+loop_
+_publ_author_name
+'Yang H'
+'Prewitt C T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 84 
+_journal_year 1999
+_journal_page_first 929
+_journal_page_last 932
+_publ_section_title
+;
+ On the crystal structure of pseudowollastonite (CaSiO3)
+;
+_database_code_amcsd 0002247
+_chemical_formula_sum 'Ca Si O3'
+_cell_length_a 6.8394
+_cell_length_b 11.8704
+_cell_length_c 19.6313
+_cell_angle_alpha 90
+_cell_angle_beta 90.667
+_cell_angle_gamma 90
+_cell_volume 1593.687
+_exptl_crystal_density_diffrn      2.905
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ca1   0.00000   0.00000   0.00000
+Ca2   0.00000   0.34259   0.25000
+Ca3   0.00000   0.32910   0.75000
+Ca4   0.00000   0.00462   0.75000
+Ca5   0.01127   0.33571   0.00047
+Si1   0.29298   0.03898   0.37507
+Si2   0.09283   0.17035   0.12790
+Si3   0.29798   0.29716   0.37784
+O1   0.34734   0.34508   0.45190
+O2   0.15484   0.48810   0.19713
+O3   0.19052   0.17222   0.20205
+O4   0.05651   0.28096   0.37492
+O5   0.20071   0.17028   0.05692
+O6   0.05217   0.05793   0.37380
+O7   0.35429   0.35084   0.30682
+O8   0.15804   0.48546   0.05278
+O9   0.38933   0.16744   0.37627
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.01163 0.00878 0.00625 0.00411 0.00136 0.00118
+Ca2 0.01035 0.00664 0.00586 0.00000 0.00170 0.00000
+Ca3 0.00599 0.01442 0.00586 0.00000 -0.00007 0.00000
+Ca4 0.00896 0.00678 0.00527 0.00000 0.00054 0.00000
+Ca5 0.00735 0.00878 0.00547 -0.00136 0.00075 -0.00059
+Si1 0.00616 0.00543 0.00351 0.00078 0.00048 -0.00012
+Si2 0.00462 0.00700 0.00371 -0.00004 0.00048 0.00012
+Si3 0.00616 0.00550 0.00371 -0.00086 0.00041 -0.00012
+O1 0.01296 0.01085 0.00586 -0.00251 -0.00068 -0.00177
+O2 0.01452 0.01149 0.00605 -0.00271 0.00150 0.00236
+O3 0.00941 0.01471 0.00586 0.00086 -0.00177 -0.00047
+O4 0.00656 0.00714 0.01230 0.00016 -0.00027 -0.00059
+O5 0.01019 0.01813 0.00722 0.00066 0.00360 0.00094
+O6 0.00675 0.00700 0.01288 0.00008 0.00000 0.00024
+O7 0.01652 0.01135 0.00722 -0.00341 0.00245 0.00248
+O8 0.01405 0.01171 0.00625 -0.00276 -0.00027 -0.00272
+O9 0.00690 0.00707 0.01288 -0.00008 0.00048 -0.00035

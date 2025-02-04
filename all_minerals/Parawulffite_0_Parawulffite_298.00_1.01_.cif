@@ -1,0 +1,89 @@
+data_global
+_chemical_name_mineral 'Parawulffite'
+loop_
+_publ_author_name
+'Pekov I V'
+'Zubkova N V'
+'Yapaskurt V O'
+'Belakovskiy D I'
+'Chukanov N V'
+'Lykova I S'
+'Savelyev D P'
+'Sidorov E G'
+'Pushcharovsky D Y'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 52 
+_journal_year 2014
+_journal_page_first 699
+_journal_page_last 716
+_publ_section_title
+;
+ Wulffite, K3NaCu4O2(SO4)4, and parawulffite, K5Na3Cu8O4(SO4)8, two new minerals
+ from fumarole sublimates of the Tolbachik volcano, Kamchatka, Russia
+;
+_database_code_amcsd 0020468
+_chemical_compound_source 'Tolbachik volcano, Kamchatka, Russia'
+_chemical_formula_sum 'Na2.95 K4.75 Rb.25 Cs.14 Cu7.95 Zn.04 S8 O36'
+_cell_length_a 13.9043
+_cell_length_b 4.9765
+_cell_length_c 23.5855
+_cell_angle_alpha 90
+_cell_angle_beta 90.209
+_cell_angle_gamma 90
+_cell_volume 1631.982
+_exptl_crystal_density_diffrn      3.325
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na1   0.74450   0.74230   0.85080   0.98333   0.01600
+Na2   0.00000   0.85700   0.25000   0.98333   0.02900
+K1   0.50000   0.79410   0.25000   0.95000   0.02500
+Rb1   0.50000   0.79410   0.25000   0.05000   0.02500
+Cs1   0.50000   0.79410   0.25000   0.02800   0.02500
+K2   0.38750   0.25650   0.54630   0.95000   0.06600
+Rb2   0.38750   0.25650   0.54630   0.05000   0.06600
+Cs2   0.38750   0.25650   0.54630   0.02800   0.06600
+K3   0.92560   0.78420   0.43560   0.95000   0.08500
+Rb3   0.92560   0.78420   0.43560   0.05000   0.08500
+Cs3   0.92560   0.78420   0.43560   0.02800   0.08500
+Cu1   0.21500   0.22810   0.41922   0.99375   0.01610
+Zn1   0.21500   0.22810   0.41922   0.00500   0.01610
+Cu2   0.28352   0.27300   0.30366   0.99375   0.01040
+Zn2   0.28352   0.27300   0.30366   0.00500   0.01040
+Cu3   0.35119   0.72360   0.38614   0.99375   0.01140
+Zn3   0.35119   0.72360   0.38614   0.00500   0.01140
+Cu4   0.15409   0.78400   0.34538   0.99375   0.00990
+Zn4   0.15409   0.78400   0.34538   0.00500   0.00990
+S1   0.25280   0.76700   0.22320   1.00000   0.01140
+S2   0.22720   0.74290   0.49830   1.00000   0.01320
+S3   0.48620   0.23840   0.37600   1.00000   0.01080
+S4   0.01340   0.30170   0.35440   1.00000   0.01050
+O1   0.25200   0.73700   0.16290   1.00000   0.01400
+O2   0.29560   0.03600   0.23530   1.00000   0.01100
+O3   0.31740   0.56500   0.24920   1.00000   0.01700
+O4   0.15810   0.73900   0.24930   1.00000   0.01400
+O5   0.16230   0.90100   0.46250   1.00000   0.01300
+O6   0.32570   0.80400   0.48290   1.00000   0.02300
+O7   0.21000   0.81300   0.55770   1.00000   0.01400
+O8   0.20940   0.44900   0.48950   1.00000   0.01400
+O9   0.45670   0.29200   0.31890   1.00000   0.01900
+O10   0.03510   0.27100   0.41630   1.00000   0.01800
+O11   0.91520   0.23200   0.34080   1.00000   0.03000
+O12   0.58520   0.28200   0.38680   1.00000   0.02000
+O13   0.42980   0.40100   0.41610   1.00000   0.02000
+O14   0.26500   0.00000   0.35920   1.00000   0.00900
+O15   0.24130   0.50300   0.36670   1.00000   0.00200
+O16   0.46830   0.94300   0.39100   1.00000   0.01400
+O17   0.03020   0.58400   0.33670   1.00000   0.01000
+O18   0.08150   0.12100   0.32230   1.00000   0.01900

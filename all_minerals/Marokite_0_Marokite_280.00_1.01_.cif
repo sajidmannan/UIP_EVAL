@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Marokite'
+loop_
+_publ_author_name
+'Zouari S'
+'Ranno L'
+'Cheikh-Rouhou A'
+'Isnard O'
+'Pernet M'
+'Wolfers P'
+'Strobel P'
+_journal_name_full 'Journal of Alloys and Compounds'
+_journal_volume 353 
+_journal_year 2003
+_journal_page_first 5
+_journal_page_last 11
+_publ_section_title
+;
+ New model for the magnetic structure of the marokite-type oxide CaMn2O4
+ Sample: T = 280 K
+;
+_database_code_amcsd 0012829
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca Mn2 O4'
+_cell_length_a 3.1492
+_cell_length_b 9.98
+_cell_length_c 9.66
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 303.604
+_exptl_crystal_density_diffrn      4.681
+_symmetry_space_group_name_H-M 'P b c m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,1/2+y,z'
+  'x,1/2-y,-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.68500   0.15000   0.75000   0.01393
+Mn   0.20800   0.11300   0.06700   0.01178
+O1   0.59900   0.25000   0.00000   0.01051
+O2   0.19000   0.18600   0.25000   0.01469
+O3   0.79500   0.97370   0.10850   0.00899

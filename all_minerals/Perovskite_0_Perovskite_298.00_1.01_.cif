@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Perovskite'
+loop_
+_publ_author_name
+'Yamanaka T'
+'Hirai M'
+'Komatsu Y'
+_journal_name_full 'American Mineralogist'
+_journal_volume 87 
+_journal_year 2002
+_journal_page_first 1183
+_journal_page_last 1189
+_publ_section_title
+;
+ Structure change of Ca1-xSrxTiO3 perovskite with composition and pressure
+ Sample: CaTiO3, x = 0.0
+;
+_database_code_amcsd 0002890
+_chemical_formula_sum 'Ca Ti O3'
+_cell_length_a 5.4043
+_cell_length_b 5.4224
+_cell_length_c 7.6510
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 224.207
+_exptl_crystal_density_diffrn      4.028
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.99160   0.01230   0.25000   0.00785
+Ti   0.50000   0.00000   0.00000   0.00570
+O1   0.05860   0.46870   0.25000   0.01520
+O2   0.71300   0.28800   0.03710   0.01646

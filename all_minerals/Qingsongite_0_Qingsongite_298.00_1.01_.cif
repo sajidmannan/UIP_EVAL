@@ -1,0 +1,140 @@
+data_global
+_chemical_name_mineral 'Qingsongite'
+loop_
+_publ_author_name
+'Dobrzhinetskaya L F'
+'Wirth R'
+'Yang J'
+'Green H W'
+'Hutcheon I D'
+'Weber P K'
+'Grew E S'
+_journal_name_full 'American Mineralogist'
+_journal_volume 99 
+_journal_year 2014
+_journal_page_first 764
+_journal_page_last 772
+_publ_section_title
+;
+ Qingsongite, natural cubic boron nitride: The first boron mineral
+ from the Earth's mantle
+;
+_database_code_amcsd 0020032
+_chemical_compound_source 'deposit 31, Luobusa ophiolite, Yarlung Zangbu suture, southern Tibet'
+_chemical_formula_sum 'B1.1 N.9'
+_cell_length_a 3.61
+_cell_length_b 3.61
+_cell_length_c 3.61
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 47.046
+_exptl_crystal_density_diffrn      3.459
+_symmetry_space_group_name_H-M 'F -4 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2+z'
+  '1/2+x,1/2+y,z'
+  '-z,x,-y'
+  '-z,1/2+x,1/2-y'
+  '1/2-z,x,1/2-y'
+  '1/2-z,1/2+x,-y'
+  '-y,z,-x'
+  '-y,1/2+z,1/2-x'
+  '1/2-y,z,1/2-x'
+  '1/2-y,1/2+z,-x'
+  '-x,y,-z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,y,1/2-z'
+  '1/2-x,1/2+y,-z'
+  'x,-z,-y'
+  'x,1/2-z,1/2-y'
+  '1/2+x,-z,1/2-y'
+  '1/2+x,1/2-z,-y'
+  'z,-y,-x'
+  'z,1/2-y,1/2-x'
+  '1/2+z,-y,1/2-x'
+  '1/2+z,1/2-y,-x'
+  'y,-x,-z'
+  'y,1/2-x,1/2-z'
+  '1/2+y,-x,1/2-z'
+  '1/2+y,1/2-x,-z'
+  'x,z,y'
+  'x,1/2+z,1/2+y'
+  '1/2+x,z,1/2+y'
+  '1/2+x,1/2+z,y'
+  'z,y,x'
+  'z,1/2+y,1/2+x'
+  '1/2+z,y,1/2+x'
+  '1/2+z,1/2+y,x'
+  'y,x,z'
+  'y,1/2+x,1/2+z'
+  '1/2+y,x,1/2+z'
+  '1/2+y,1/2+x,z'
+  '-z,-x,y'
+  '-z,1/2-x,1/2+y'
+  '1/2-z,-x,1/2+y'
+  '1/2-z,1/2-x,y'
+  '-y,-z,x'
+  '-y,1/2-z,1/2+x'
+  '1/2-y,-z,1/2+x'
+  '1/2-y,1/2-z,x'
+  '-x,-y,z'
+  '-x,1/2-y,1/2+z'
+  '1/2-x,-y,1/2+z'
+  '1/2-x,1/2-y,z'
+  'z,-x,-y'
+  'z,1/2-x,1/2-y'
+  '1/2+z,-x,1/2-y'
+  '1/2+z,1/2-x,-y'
+  'y,-z,-x'
+  'y,1/2-z,1/2-x'
+  '1/2+y,-z,1/2-x'
+  '1/2+y,1/2-z,-x'
+  'x,-y,-z'
+  'x,1/2-y,1/2-z'
+  '1/2+x,-y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '-x,z,-y'
+  '-x,1/2+z,1/2-y'
+  '1/2-x,z,1/2-y'
+  '1/2-x,1/2+z,-y'
+  '-z,y,-x'
+  '-z,1/2+y,1/2-x'
+  '1/2-z,y,1/2-x'
+  '1/2-z,1/2+y,-x'
+  '-y,x,-z'
+  '-y,1/2+x,1/2-z'
+  '1/2-y,x,1/2-z'
+  '1/2-y,1/2+x,-z'
+  '-x,-z,y'
+  '-x,1/2-z,1/2+y'
+  '1/2-x,-z,1/2+y'
+  '1/2-x,1/2-z,y'
+  '-z,-y,x'
+  '-z,1/2-y,1/2+x'
+  '1/2-z,-y,1/2+x'
+  '1/2-z,1/2-y,x'
+  '-y,-x,z'
+  '-y,1/2-x,1/2+z'
+  '1/2-y,-x,1/2+z'
+  '1/2-y,1/2-x,z'
+  'z,x,y'
+  'z,1/2+x,1/2+y'
+  '1/2+z,x,1/2+y'
+  '1/2+z,1/2+x,y'
+  'y,z,x'
+  'y,1/2+z,1/2+x'
+  '1/2+y,z,1/2+x'
+  '1/2+y,1/2+z,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+B   0.00000   0.00000   0.00000   1.00000
+N   0.25000   0.25000   0.25000   0.90000
+B   0.25000   0.25000   0.25000   0.10000

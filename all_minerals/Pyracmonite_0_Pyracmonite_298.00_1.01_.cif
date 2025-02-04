@@ -1,0 +1,86 @@
+data_global
+_chemical_name_mineral 'Pyracmonite'
+loop_
+_publ_author_name
+'Demartin F'
+'Gramaccioli C M'
+'Campostrini I'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 48 
+_journal_year 2010
+_journal_page_first 307
+_journal_page_last 313
+_publ_section_title
+;
+ Pyracmonite, (NH4)3Fe(SO4)3, a new ammonium iron sulfate
+ from La Fossa crater, Vulcano, Aeolian Islands, Italy
+;
+_database_code_amcsd 0006332
+_chemical_compound_source 'La Fossa crater, Vulcano, Aeolian Islands, Italy'
+_chemical_formula_sum '(N2.601 K.399) H10.404 (Fe.893 Al.107) S3 O12'
+_cell_length_a 15.2171
+_cell_length_b 15.2171
+_cell_length_c 8.9323
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1791.256
+_exptl_crystal_density_diffrn      2.244
+_symmetry_space_group_name_H-M 'R 3 c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,1/2+z'
+  '2/3+x,1/3+x-y,5/6+z'
+  '1/3+x,2/3+x-y,1/6+z'
+  '-y,-x,1/2+z'
+  '2/3-y,1/3-x,5/6+z'
+  '1/3-y,2/3-x,1/6+z'
+  '-x+y,y,1/2+z'
+  '2/3-x+y,1/3+y,5/6+z'
+  '1/3-x+y,2/3+y,1/6+z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+N   0.07773   0.30174   0.24189   0.86700   0.03220
+K   0.07773   0.30174   0.24189   0.13300   0.03220
+H1   0.03100   0.30700   0.26400   0.86700   0.05900
+H2   0.11300   0.34200   0.16900   0.86700   0.04700
+H3   0.06600   0.24400   0.20700   0.86700   0.07700
+H4   0.11200   0.33200   0.32300   0.86700   0.09100
+Fe   0.00000   0.00000   0.13800   0.89300   0.01631
+Al   0.00000   0.00000   0.13800   0.10700   0.01631
+S   0.16913   0.14291   0.38360   1.00000   0.02027
+O1   0.11980   0.09340   0.52150   1.00000   0.05850
+O2   0.09084   0.11849   0.26680   1.00000   0.02990
+O3   0.22180   0.25160   0.40720   1.00000   0.06930
+O4   0.23840   0.11280   0.33390   1.00000   0.07300
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+N 0.03150 0.03240 0.03300 0.01630 -0.00110 0.00480
+K 0.03150 0.03240 0.03300 0.01630 -0.00110 0.00480
+Fe 0.01909 0.01909 0.01070 0.00954 0.00000 0.00000
+Al 0.01909 0.01909 0.01070 0.00954 0.00000 0.00000
+S 0.01528 0.02044 0.01890 0.00431 0.00060 -0.00210
+O1 0.03900 0.08030 0.01840 0.00130 0.00430 0.01800
+O2 0.03840 0.02520 0.02160 0.01260 -0.00950 -0.00340
+O3 0.07320 0.02380 0.06850 -0.00750 -0.03240 -0.01600
+O4 0.05130 0.12380 0.07210 0.06500 -0.02660 -0.05140

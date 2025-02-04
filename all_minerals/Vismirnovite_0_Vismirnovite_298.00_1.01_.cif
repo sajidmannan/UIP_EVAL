@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Vismirnovite'
+loop_
+_publ_author_name
+'Cohen-Addad C'
+_journal_name_full 'Bulletin de la Societe Francaise de Mineralogie et de Cristallographie'
+_journal_volume 90 
+_journal_year 1967
+_journal_page_first 32
+_journal_page_last 35
+_publ_section_title
+;
+ Etude des hydroxystannates CaSn(OH)6 et ZnSn(OH)6 par
+ diffraction des rayons X et resonance magnetique nucleaire
+;
+_database_code_amcsd 0012122
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Zn Sn (O6 H6)'
+_cell_length_a 7.80
+_cell_length_b 7.80
+_cell_length_c 7.80
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 474.552
+_exptl_crystal_density_diffrn      4.005
+_symmetry_space_group_name_H-M 'P n -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+z,1/2+x,-y'
+  '1/2+z,-x,1/2+y'
+  '-z,1/2+x,1/2+y'
+  '-z,-x,-y'
+  'y,1/2-z,1/2-x'
+  '1/2-y,1/2-z,x'
+  '1/2-y,z,1/2-x'
+  'y,z,x'
+  '1/2+x,-y,1/2+z'
+  '-x,1/2+y,1/2+z'
+  '1/2+x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-z,1/2-x,y'
+  '1/2-z,x,1/2-y'
+  'z,1/2-x,1/2-y'
+  'z,x,y'
+  '-y,1/2+z,1/2+x'
+  '1/2+y,1/2+z,-x'
+  '1/2+y,-z,1/2+x'
+  '-y,-z,-x'
+  '1/2-x,y,1/2-z'
+  'x,1/2-y,1/2-z'
+  '1/2-x,1/2-y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Zn   0.00000   0.00000   0.00000   0.01646
+Sn   0.50000   0.50000   0.50000   0.01140
+O-H  -0.07000   0.07000   0.26300   0.02913

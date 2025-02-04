@@ -1,0 +1,67 @@
+data_global
+_chemical_name_mineral 'Colquiriite'
+loop_
+_publ_author_name
+'Bolotina N B'
+'Maksimov B A'
+'Simonov V I'
+'Derzhavin S I'
+'Uvarova T V'
+'Apollonov V V'
+_journal_name_full 'Crystallography Reports'
+_journal_volume 38 
+_journal_year 1993
+_journal_page_first 446
+_journal_page_last 450
+_publ_section_title
+;
+ Atomic structure and spectral properties of LiCaAlF6:Cr3+ single crystals
+;
+_database_code_amcsd 0012340
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca Li Al F6'
+_cell_length_a 5.007
+_cell_length_b 5.007
+_cell_length_c 9.642
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 209.340
+_exptl_crystal_density_diffrn      2.982
+_symmetry_space_group_name_H-M 'P -3 1 c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x-y,-y,1/2+z'
+  'y,-x+y,-z'
+  '-y,-x,1/2-z'
+  '-x+y,-x,z'
+  '-x,-x+y,1/2+z'
+  '-x,-y,-z'
+  '-x+y,y,1/2-z'
+  '-y,x-y,z'
+  'y,x,1/2+z'
+  'x-y,x,-z'
+  'x,x-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.00000   0.00000   0.00000   0.00775
+Li   0.33333   0.66667   0.25000   0.01684
+Al   0.66667   0.33333   0.25000   0.00655
+F   0.37690   0.03110   0.14340   0.01173
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00890 0.00890 0.00130 0.00450 0.00000 0.00000
+Li 0.01430 0.01430 0.00490 0.00720 0.00000 0.00000
+Al 0.00660 0.00660 0.00150 0.00330 0.00000 0.00000
+F 0.01170 0.01000 0.00260 0.00400 -0.00230 -0.00070

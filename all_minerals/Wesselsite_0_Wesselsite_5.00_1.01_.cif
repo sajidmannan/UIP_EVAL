@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Wesselsite'
+loop_
+_publ_author_name
+'Knight K S'
+'Henderson C M B'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 19 
+_journal_year 2007
+_journal_page_first 189
+_journal_page_last 200
+_publ_section_title
+;
+ Structural basis for the anomalous low-temperature thermal expansion
+ behavior of the gillespite-structured phase Ba0.5Sr0.5CuSi4O10
+ Sample: T = 5 K
+;
+_database_code_amcsd 0007207
+_chemical_formula_sum '(Ba.5 Sr.5) Cu Si4 O10'
+_cell_length_a 7.39675
+_cell_length_b 7.39675
+_cell_length_c 15.8465
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 866.992
+_exptl_crystal_density_diffrn      3.435
+_symmetry_space_group_name_H-M 'P 4/n c c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2-y,1/2-x,1/2+z'
+  '1/2+y,1/2+x,1/2-z'
+  '1/2+y,-x,-z'
+  '1/2-y,x,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,1/2+x,-z'
+  'y,1/2-x,z'
+  '1/2-x,y,1/2+z'
+  '1/2+x,-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ba   0.25000   0.75000   0.00000   0.50000   0.02530
+Sr   0.25000   0.75000   0.00000   0.50000   0.02530
+Cu   0.25000   0.25000   0.09138   1.00000   0.04590
+Si   0.51230   0.93350   0.15175   1.00000   0.02570
+O1   0.45440   0.98420   0.24590   0.50000   0.05580
+O2   0.71780  -0.00020   0.13313   1.00000   0.05550
+O3   0.37360   0.02340   0.08813   1.00000   0.06680

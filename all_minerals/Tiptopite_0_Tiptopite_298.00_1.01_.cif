@@ -1,0 +1,77 @@
+data_global
+_chemical_name_mineral 'Tiptopite'
+loop_
+_publ_author_name
+'Peacor D R'
+'Rouse R C'
+'Ahn J-H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 72 
+_journal_year 1987
+_journal_page_first 816
+_journal_page_last 820
+_publ_section_title
+;
+ Crystal structure of tiptopite, a framework beryllophosphate isotypic with basic
+ cancrinite
+ Note: U(1,2) for OH5 has been altered to match symmetry constraints.
+;
+_database_code_amcsd 0001111
+_chemical_formula_sum 'P3 Be3 O15.01 K Li1.44 Na.84 Ca.36 H3.01'
+_cell_length_a 11.655
+_cell_length_b 11.655
+_cell_length_c 4.692
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 551.967
+_exptl_crystal_density_diffrn      2.683
+_symmetry_space_group_name_H-M 'P 63'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x-y,x,1/2+z'
+  '-y,x-y,z'
+  '-x,-y,1/2+z'
+  '-x+y,-x,z'
+  'y,-x+y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+P   0.08510   0.41670   0.75000   1.00000 ?
+Be   0.33800   0.41800   0.74600   1.00000 ?
+O1   0.19020   0.38430   0.65180   1.00000 ?
+O2   0.13780   0.56470   0.70270   1.00000 ?
+O3   0.05470   0.38010   0.06880   1.00000 ?
+O4   0.33020   0.37410   0.08620   1.00000 ?
+K1   0.33333   0.66667   0.25300   1.00000 ?
+Li2   0.22070   0.11370   0.74860   0.48000 ?
+Na2   0.22070   0.11370   0.74860   0.28000 ?
+Ca2   0.22070   0.11370   0.74860   0.12000 ?
+O-H5   0.00000   0.00000   0.25300   1.00000 ?
+O-H6   0.06400   0.13000   0.37800   0.25000   0.02000
+O-H7   0.06600   0.13000   0.09700   0.25000   0.02000
+O-H8   0.16800   0.32200   0.23600   0.17000   0.02000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+P 0.00900 0.01100 0.00700 0.00600 0.00700 0.00600
+Be 0.00700 0.01200 0.00900 0.00300 -0.00300 -0.01700
+O1 0.01600 0.01200 0.01700 0.00600 0.00300 0.00100
+O2 0.01500 0.01100 0.00900 0.00500 -0.00400 -0.00800
+O3 0.01800 0.02200 0.00800 0.00900 0.00600 0.00000
+O4 0.01300 0.01600 0.00900 0.01000 -0.00200 -0.00400
+K1 0.04400 0.04400 0.01900 0.02200 0.00000 0.00000
+Li2 0.05100 0.03600 0.03600 0.02600 0.00300 -0.01000
+Na2 0.05100 0.03600 0.03600 0.02600 0.00300 -0.01000
+Ca2 0.05100 0.03600 0.03600 0.02600 0.00300 -0.01000
+O-H5 0.00900 0.00900 0.09000 0.00450 0.00000 0.00000

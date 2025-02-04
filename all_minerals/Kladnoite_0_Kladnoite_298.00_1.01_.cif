@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Kladnoite'
+loop_
+_publ_author_name
+'Matzat E'
+_journal_name_full 'Acta Crystallographica, Section B'
+_journal_volume 28 
+_journal_year 1972
+_journal_page_first 415
+_journal_page_last 418
+_publ_section_title
+;
+ Die kristallstruktur des phtalimids (kladnoit)
+;
+_database_code_amcsd 0009427
+_chemical_formula_sum 'C8 N O2 H5'
+_cell_length_a 22.83
+_cell_length_b 7.651
+_cell_length_c 3.810
+_cell_angle_alpha 90
+_cell_angle_beta 91.36
+_cell_angle_gamma 90
+_cell_volume 665.314
+_exptl_crystal_density_diffrn      1.469
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+C1   0.09080   0.51830   0.21180 ?
+C2   0.14140   0.61860   0.22370 ?
+C3   0.19360   0.55390   0.36770 ?
+C4   0.19740   0.38550   0.50550 ?
+C5   0.14690   0.28610   0.49120 ?
+C6   0.09500   0.35080   0.34830 ?
+C7   0.13600   0.10590   0.61880 ?
+C8   0.04970   0.21270   0.38010 ?
+N9   0.07710   0.07260   0.54150 ?
+O10   0.16910   0.00550   0.76740 ?
+O11  -0.00170   0.21740   0.28510 ?
+H12   0.05100   0.56300   0.09100   0.03800
+H13   0.13900   0.75400   0.12000   0.03800
+H14   0.23100   0.63300   0.36500   0.03800
+H15   0.23400   0.33600   0.63000   0.03800
+H16   0.05600  -0.02800   0.58000   0.03800
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+C1 0.05278 0.03915 0.04403 0.00442 -0.00220 0.00679
+C2 0.06861 0.03618 0.04917 -0.00619 0.00308 0.00458
+C3 0.05278 0.04567 0.04792 -0.01415 0.00088 0.00089
+C4 0.03958 0.04478 0.04373 -0.00442 -0.00220 -0.00162
+C5 0.03695 0.03618 0.03469 0.00000 0.00044 0.00030
+C6 0.03695 0.03588 0.03594 -0.00177 0.00044 0.00369
+C7 0.03958 0.04122 0.03991 0.00531 -0.00264 0.00531
+C8 0.03958 0.04004 0.04719 0.00088 -0.00264 0.00812
+N9 0.03958 0.03855 0.05865 0.00000 -0.00484 0.01535
+O10 0.04750 0.04804 0.07710 0.00442 -0.01585 0.01949
+O11 0.03167 0.05338 0.08739 -0.00265 -0.01189 0.02215

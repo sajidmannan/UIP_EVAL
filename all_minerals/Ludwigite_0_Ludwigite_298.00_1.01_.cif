@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Ludwigite'
+loop_
+_publ_author_name
+'Irwin M B'
+'Peterson R C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 37 
+_journal_year 1999
+_journal_page_first 939
+_journal_page_last 943
+_publ_section_title
+;
+ The crystal structure of ludwigite
+;
+_database_code_amcsd 0005628
+_chemical_compound_source 'Crestmore quarry, California, USA'
+_chemical_formula_sum 'Mg1.707 Fe1.214 Al.08 B O5'
+_cell_length_a 9.2411
+_cell_length_b 12.2948
+_cell_length_c 3.0213
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 343.272
+_exptl_crystal_density_diffrn      3.913
+_symmetry_space_group_name_H-M 'P b a m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  'x,y,-z'
+  '-x,-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg1   0.00000   0.00000   0.00000   0.99000   0.00570
+Fe1   0.00000   0.00000   0.00000   0.01000   0.00570
+Mg2   0.50000   0.00000   0.50000   0.44300   0.00700
+Fe2   0.50000   0.00000   0.50000   0.55700   0.00700
+Mg3   0.00230   0.27980   0.00000   0.99000   0.00520
+Fe3   0.00230   0.27980   0.00000   0.01000   0.00520
+Al4   0.23990   0.11450   0.50000   0.08000   0.00490
+Fe4   0.23990   0.11450   0.50000   0.92000   0.00490
+B   0.27430   0.36000   0.50000   1.00000   0.00560
+O1   0.85020   0.04340   0.50000   1.00000   0.00690
+O2   0.38410   0.07720   0.00000   1.00000   0.00720
+O3   0.62530   0.14240   0.50000   1.00000   0.00720
+O4   0.10920   0.14240   0.00000   1.00000   0.00640
+O5   0.85080   0.23730   0.50000   1.00000   0.00750
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mg1 0.00530 0.00540 0.00650 -0.00080 0.00000 0.00000
+Fe1 0.00530 0.00540 0.00650 -0.00080 0.00000 0.00000
+Mg2 0.00950 0.00430 0.00650 -0.00040 0.00000 0.00000
+Fe2 0.00950 0.00430 0.00650 -0.00040 0.00000 0.00000
+Mg3 0.00570 0.00400 0.00580 0.00050 0.00000 0.00000
+Fe3 0.00570 0.00400 0.00580 0.00050 0.00000 0.00000
+Al4 0.00480 0.00500 0.00490 -0.00100 0.00000 0.00000
+Fe4 0.00480 0.00500 0.00490 -0.00100 0.00000 0.00000
+B 0.00620 0.00490 0.00570 0.00060 0.00000 0.00000
+O1 0.00630 0.00540 0.00900 -0.00070 0.00000 0.00000
+O2 0.00670 0.00570 0.00950 0.00060 0.00000 0.00000
+O3 0.00600 0.00640 0.00910 0.00030 0.00000 0.00000
+O4 0.00630 0.00530 0.00770 0.00010 0.00000 0.00000
+O5 0.00810 0.00480 0.00880 0.00040 0.00000 0.00000

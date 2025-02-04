@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Jagueite'
+loop_
+_publ_author_name
+'Topa D'
+'Makovicky E'
+'Balic-Zunic T'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 44 
+_journal_year 2006
+_journal_page_first 497
+_journal_page_last 505
+_publ_section_title
+;
+ The crystal structures of jagueite, Cu2Pd3Se4, and chrisstanleyite, Ag2Pd3Se4
+;
+_database_code_amcsd 0006089
+_chemical_compound_source 'El Chire, La Rioja, Argentina'
+_chemical_formula_sum '(Cu1.9 Ag.1) Pd3 Se4'
+_cell_length_a 5.672
+_cell_length_b 9.909
+_cell_length_c 6.264
+_cell_angle_alpha 90
+_cell_angle_beta 115.40
+_cell_angle_gamma 90
+_cell_volume 318.029
+_exptl_crystal_density_diffrn      8.006
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cu   0.61830   0.19290  -0.01720   0.95000   0.02780
+Ag   0.61830   0.19290  -0.01720   0.05000   0.02780
+Pd1   0.00000   0.00000   0.00000   1.00000   0.01680
+Pd2   0.25850   0.12700   0.50010   1.00000   0.01840
+Se1   0.46850   0.05460   0.24180   1.00000   0.01850
+Se2   0.01590   0.18600   0.73620   1.00000   0.01850
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cu 0.02000 0.02490 0.03700 -0.00230 0.01040 -0.00390
+Ag 0.02000 0.02490 0.03700 -0.00230 0.01040 -0.00390
+Pd1 0.01360 0.01690 0.01840 -0.00120 0.00550 0.00010
+Pd2 0.01690 0.01790 0.01790 0.00140 0.00520 0.00050
+Se1 0.01440 0.02010 0.01970 0.00180 0.00620 0.00050
+Se2 0.01930 0.01710 0.01880 -0.00220 0.00780 -0.00010

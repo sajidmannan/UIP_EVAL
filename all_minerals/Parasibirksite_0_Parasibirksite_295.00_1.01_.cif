@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Parasibirksite'
+loop_
+_publ_author_name
+'Sun W'
+'Huang Y-X'
+'Li Z'
+'Pan Y'
+'Mi J-X'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 49 
+_journal_year 2011
+_journal_page_first 823
+_journal_page_last 834
+_publ_section_title
+;
+ Hydrothermal synthesis and single-crystal X-ray structure refinement of
+ three borates: sibirskite, parasibirskite and priceite
+ Note: T = 295 K
+;
+_database_code_amcsd 0018464
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca H B O3'
+_cell_length_a 6.6994
+_cell_length_b 5.4269
+_cell_length_c 3.5534
+_cell_angle_alpha 90
+_cell_angle_beta 93.048
+_cell_angle_gamma 90
+_cell_volume 129.008
+_exptl_crystal_density_diffrn      2.572
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca(1)   0.35260   0.25000   0.24837   1.00000 ?
+H(1)  -0.03000   0.86300   0.97400   0.50000   0.04800
+B(1)   0.22510   0.75000   0.77040   1.00000 ?
+O(1)   0.02360   0.75000   0.87240   1.00000 ?
+O(2)   0.31880   0.53180   0.73670   1.00000 ?
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca(1) 0.01150 0.00720 0.00940 0.00000 0.00105 0.00000
+B(1) 0.00920 0.01120 0.00880 0.00000 -0.00020 0.00000
+O(1) 0.01150 0.02930 0.03220 0.00000 0.00740 0.00000
+O(2) 0.01980 0.00850 0.01190 -0.00020 0.00260 -0.00030

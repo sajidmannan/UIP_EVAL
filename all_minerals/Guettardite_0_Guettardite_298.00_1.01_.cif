@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Guettardite'
+loop_
+_publ_author_name
+'Makovicky E'
+'Topa D'
+'Tajjedin H'
+'Rastad E'
+'Yaghubpur A'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 50 
+_journal_year 2012
+_journal_page_first 253
+_journal_page_last 265
+_publ_section_title
+;
+ The crystal structure of guettardite, PbAsSbS4,
+ and the twinnite-guettardite problem
+;
+_database_code_amcsd 0019213
+_chemical_compound_source 'Barika Au-Ag deposit in the Azarbaijan Province, western Iran'
+_chemical_formula_sum 'Pb As Sb S4'
+_cell_length_a 8.527
+_cell_length_b 7.971
+_cell_length_c 20.102
+_cell_angle_alpha 90
+_cell_angle_beta 101.814
+_cell_angle_gamma 90
+_cell_volume 1337.365
+_exptl_crystal_density_diffrn      5.286
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.51740   0.09260   0.79750   0.03600
+Pb2   0.02430   0.08540   0.80270   0.05000
+As1   0.35860   0.17080   0.99400   0.02200
+As2   0.80670   0.00630   0.36810   0.02300
+Sb1   0.91160   0.19510   0.02560   0.02500
+Sb2   0.65970   0.01960   0.61320   0.02800
+S1   0.14030   0.00940   0.07640   0.02000
+S2   0.70430   0.04160   0.08400   0.02400
+S3   0.54400   0.19330   0.44190   0.03200
+S4   0.41480   0.16750   0.65740   0.01900
+S5   0.15060   0.15840   0.45310   0.03400
+S6   0.26900   0.14140   0.28170   0.02100
+S7   0.99970   0.16580   0.65970   0.02200
+S8   0.75580   0.15490   0.26860   0.02400
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.03600 0.03600 0.03400 0.01000 0.00200 0.00600
+Pb2 0.04900 0.06600 0.03900 0.02800 0.02000 0.02000
+As1 0.01900 0.01600 0.03100 0.00200 0.00100 0.00700
+As2 0.02100 0.02400 0.02300 0.00300 0.00100 0.00200
+Sb1 0.02900 0.01800 0.02800 0.00200 0.00600 0.00100
+Sb2 0.03800 0.01700 0.02700 0.00200 0.00400 0.00040
+S1 0.02200 0.01500 0.02300 0.00700 0.00500 0.00900
+S2 0.03500 0.01700 0.02300 0.00300 0.01300 0.00600
+S3 0.03500 0.02000 0.04400 0.00200 0.01500 0.01200
+S4 0.01800 0.01800 0.02200 0.00900 0.00400 0.00700
+S5 0.03000 0.01500 0.06800 0.00200 0.02300 0.01600
+S6 0.02500 0.01900 0.02000 0.00500 0.00700 0.00600
+S7 0.02900 0.01900 0.01800 0.00000 0.00600 0.01200
+S8 0.02700 0.01700 0.03000 0.00500 0.01000 0.00100

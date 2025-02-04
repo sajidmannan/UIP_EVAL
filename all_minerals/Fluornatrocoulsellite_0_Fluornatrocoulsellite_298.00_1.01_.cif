@@ -1,0 +1,74 @@
+data_global
+_chemical_name_mineral 'Fluornatrocoulsellite'
+loop_
+_publ_author_name
+'Mumme W G'
+'Grey I E'
+'Birch W D'
+'Pring A'
+'Bougerol C'
+'Wilson N C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 95 
+_journal_year 2010
+_journal_page_first 736
+_journal_page_last 740
+_publ_section_title
+;
+ Coulsellite, CaNa3AlMg3F14, a rhombohedral pyrochlore with 1:3 ordering
+ in both A and B sites, from the Cleveland mine, Tasmania, Australia
+;
+_database_code_amcsd 0020643
+_chemical_compound_source 'Cleveland tin mine, Luina, western Tasmania'
+_chemical_formula_sum 'Ca Na3 Al Mg3 F14'
+_cell_length_a 7.1756
+_cell_length_b 7.1756
+_cell_length_c 7.1756
+_cell_angle_alpha 59.867
+_cell_angle_beta 59.867
+_cell_angle_gamma 59.867
+_cell_volume 260.464
+_exptl_crystal_density_diffrn      3.028
+_symmetry_space_group_name_H-M 'R -3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-z,-y'
+  '-z,-x,-y'
+  'y,x,z'
+  'y,z,x'
+  '-z,-y,-x'
+  '-x,-y,-z'
+  'x,z,y'
+  'z,x,y'
+  '-y,-x,-z'
+  '-y,-z,-x'
+  'z,y,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.00000   0.00000   0.00000   0.01290
+Na   0.50000   0.00000   0.00000   0.01940
+Al   0.50000   0.50000   0.50000   0.00680
+Mg   0.50000   0.50000   0.00000   0.00670
+F1   0.17100   0.17100   0.57780   0.01180
+F2   0.43710   0.43710   0.80070   0.01240
+F3   0.12460   0.12460   0.12460   0.01170
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01370 0.01370 0.01370 -0.00510 -0.00510 -0.00510
+Na 0.00980 0.02510 0.02510 -0.00390 -0.00390 -0.01340
+Al 0.00710 0.00710 0.00710 -0.00260 -0.00260 -0.00260
+Mg 0.00680 0.00680 0.00560 -0.00230 -0.00170 -0.00170
+F1 0.00940 0.00940 0.01450 -0.00060 -0.00450 -0.00450
+F2 0.01540 0.01540 0.00860 -0.00550 -0.00450 -0.00450
+F3 0.01160 0.01160 0.01160 -0.00380 -0.00380 -0.00380

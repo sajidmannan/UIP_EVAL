@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Fersmite'
+loop_
+_publ_author_name
+'Cummings J P'
+'Simonsen S H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 55 
+_journal_year 1970
+_journal_page_first 90
+_journal_page_last 97
+_publ_section_title
+;
+ The crystal structure of calcium niobate (CaNb2O6)
+;
+_database_code_amcsd 0000196
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca Nb2 O6'
+_cell_length_a 14.926
+_cell_length_b 5.752
+_cell_length_c 5.204
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 446.786
+_exptl_crystal_density_diffrn      4.785
+_symmetry_space_group_name_H-M 'P b c n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca   0.00000   0.22440   0.75000 ?
+Nb   0.16530   0.31660   0.29870 ?
+O1   0.08930   0.09970   0.40400   0.01898
+O2   0.10030   0.42800   0.00560   0.02334
+O3   0.25760   0.13510   0.12660   0.00587
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.00542 0.00394 0.00388 0.00000 -0.00134 0.00000
+Nb 0.00023 0.00164 0.00455 0.00017 0.00043 0.00045

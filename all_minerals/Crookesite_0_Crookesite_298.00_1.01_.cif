@@ -1,0 +1,59 @@
+data_global
+_chemical_name_mineral 'Crookesite'
+loop_
+_publ_author_name
+'Eriksson L'
+'Werner P E'
+'Berger R'
+'Meerschaut A'
+_journal_name_full 'Journal of Solid State Chemistry'
+_journal_volume 90 
+_journal_year 1991
+_journal_page_first 61
+_journal_page_last 68
+_publ_section_title
+;
+ Structure refinement of TlCu7Se4 from X-ray powder profile data
+ Sample: GH
+ Note: Cell parameters are an average of Table 1 values
+;
+_database_code_amcsd 0013691
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Tl Cu7 Se4'
+_cell_length_a 10.4500
+_cell_length_b 10.4500
+_cell_length_c 3.9708
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 433.621
+_exptl_crystal_density_diffrn      7.391
+_symmetry_space_group_name_H-M 'I 4/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'y,-x,-z'
+  '1/2+y,1/2-x,1/2-z'
+  '-y,x,z'
+  '1/2-y,1/2+x,1/2+z'
+  'x,y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+  '-y,x,-z'
+  '1/2-y,1/2+x,1/2-z'
+  'y,-x,z'
+  '1/2+y,1/2-x,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Tl   0.00000   0.00000   0.00000   1.00000
+Cu1   0.02240   0.36670   0.00000   1.00000
+Cu2   0.32130   0.21870   0.00000   0.75000
+Se   0.24530   0.43200   0.00000   1.00000

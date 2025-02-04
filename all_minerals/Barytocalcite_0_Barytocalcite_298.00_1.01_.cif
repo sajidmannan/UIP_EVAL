@@ -1,0 +1,44 @@
+data_global
+_chemical_name_mineral 'Barytocalcite'
+loop_
+_publ_author_name
+'Alm K F'
+_journal_name_full 'Arkiv for Mineralogi och Geologi'
+_journal_volume 2 
+_journal_year 1960
+_journal_page_first 399
+_journal_page_last 410
+_publ_section_title
+;
+ The crystal structure of barytocalcite BaCa(CO3)2
+;
+_database_code_amcsd 0012045
+_chemical_formula_sum 'Ba Ca C2 O6'
+_cell_length_a 8.15
+_cell_length_b 5.22
+_cell_length_c 6.58
+_cell_angle_alpha 90
+_cell_angle_beta 106.13
+_cell_angle_gamma 90
+_cell_volume 268.913
+_exptl_crystal_density_diffrn      3.673
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Ba   0.14200   0.25000   0.28300
+Ca   0.38300   0.73400   0.80000
+C1   0.08300   0.20500   0.77000
+C2   0.35800   0.74000   0.29900
+O1   0.01200   0.15000   0.89300
+O2   0.10500   0.44400   0.69700
+O3   0.13300   0.02000   0.63900
+O4   0.28700   0.68000   0.42200
+O5   0.37900   0.97400   0.22600
+O6   0.40700   0.55000   0.16800

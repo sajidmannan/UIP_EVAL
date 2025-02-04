@@ -1,0 +1,58 @@
+data_global
+_chemical_name_mineral 'Iseite'
+loop_
+_publ_author_name
+'Nishio-Hamane D'
+'Tomita N'
+'Minakawa T'
+'Inaba S'
+_journal_name_full 'Journal of Mineralogical and Petrological Sciences'
+_journal_volume 108 
+_journal_year 2013
+_journal_page_first 37
+_journal_page_last 41
+_publ_section_title
+;
+ Iseite, Mn2Mo3O8, a new mineral from Ise, Mie Prefecture, Japan
+;
+_database_code_amcsd 0020450
+_chemical_compound_source 'Shobu area, Ise City, Mie Prefecture, Japan'
+_chemical_formula_sum '(Mn1.8 Fe.2) Mo3 O8'
+_cell_length_a 5.8052
+_cell_length_b 5.8052
+_cell_length_c 10.2277
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 298.499
+_exptl_crystal_density_diffrn      5.851
+_symmetry_space_group_name_H-M 'P 63 m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mn1   0.33333   0.66667   0.95470   0.90000
+Fe2   0.33333   0.66667   0.95470   0.10000
+Mn3   0.33333   0.66667   0.52030   0.90000
+Fe4   0.33333   0.66667   0.52030   0.10000
+Mo1   0.14630  -0.14630   0.25000   1.00000
+O1   0.00000   0.00000   0.40000   1.00000
+O2   0.33333   0.66667   0.14200   1.00000
+O3   0.47900  -0.47900   0.37100   1.00000
+O4   0.16300  -0.16300   0.64000   1.00000

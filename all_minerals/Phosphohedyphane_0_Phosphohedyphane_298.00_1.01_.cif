@@ -1,0 +1,76 @@
+data_global
+_chemical_name_mineral 'Phosphohedyphane'
+loop_
+_publ_author_name
+'Kampf A R'
+'Steele I M'
+'Jenkins R A'
+_journal_name_full 'American Mineralogist'
+_journal_volume 91 
+_journal_year 2006
+_journal_page_first 1909
+_journal_page_last 1917
+_publ_section_title
+;
+ Phosphohedyphane, Ca2Pb3(PO4)3Cl, the phosphate analogue of hedyphane:
+ Description and crystal structure
+;
+_database_code_amcsd 0004255
+_chemical_compound_source 'Capitana mine, Copiapo, Atacama Province, Chile'
+_chemical_formula_sum 'Ca1.838 Pb3.162 (P2.721 As.279) O12 Cl'
+_cell_length_a 9.857
+_cell_length_b 9.857
+_cell_length_c 7.130
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 599.943
+_exptl_crystal_density_diffrn      5.876
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.33333   0.66667   0.00680   0.91900   0.01400
+Pb1   0.33333   0.66667   0.00680   0.08100   0.01400
+Pb2   0.25740   0.00830   0.25000   1.00000   0.01500
+P   0.41920   0.38680   0.25000   0.90700   0.01000
+As   0.41920   0.38680   0.25000   0.09300   0.01000
+O1   0.36770   0.50990   0.25000   1.00000   0.01600
+O2   0.60290   0.46810   0.25000   1.00000   0.01700
+O3   0.36400   0.28010   0.07610   1.00000   0.02600
+Cl   0.00000   0.00000   0.00000   1.00000   0.01700
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.01400 0.01400 0.01500 0.00700 0.00000 0.00000
+Pb1 0.01400 0.01400 0.01500 0.00700 0.00000 0.00000
+Pb2 0.01000 0.01300 0.02000 0.00500 0.00000 0.00000
+P 0.00800 0.00700 0.01400 0.00400 0.00000 0.00000
+As 0.00800 0.00700 0.01400 0.00400 0.00000 0.00000
+O1 0.01500 0.01200 0.02500 0.01000 0.00000 0.00000
+O2 0.00500 0.00700 0.03800 0.00200 0.00000 0.00000
+O3 0.03700 0.02500 0.02500 0.02200 -0.02000 -0.01300
+Cl 0.01500 0.01500 0.01900 0.00800 0.00000 0.00000

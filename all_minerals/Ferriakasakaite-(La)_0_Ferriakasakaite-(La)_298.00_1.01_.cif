@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Ferriakasakaite-(La)'
+loop_
+_publ_author_name
+'Nagashima M'
+'Nishio-Hamane D'
+'Tomita N'
+'Minakawa T'
+'Inaba S'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 79 
+_journal_year 2015
+_journal_page_first 735
+_journal_page_last 753
+_publ_section_title
+;
+ Ferriakasakaite-(La) and ferriandrosite-(La): new epidote-supergroup minerals
+ from Ise, Mie Prefecture, Japan
+;
+_database_code_amcsd 0020382
+_chemical_compound_source 'Shobu area, Ise City, Mie Prefecture, Japan'
+_chemical_formula_sum 'Ca.59 Mn.96 La.48 Ce.2 Pr.07 Nd.18 Gd.02 Fe.89 V.34 Al1.14 Ti.06 Mg.07 Si3 O13 H'
+_cell_length_a 8.8733
+_cell_length_b 5.7415
+_cell_length_c 10.0805
+_cell_angle_alpha 90
+_cell_angle_beta 113.845
+_cell_angle_gamma 90
+_cell_volume 469.725
+_exptl_crystal_density_diffrn      4.282
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.76007   0.75000   0.15183   0.54000   0.01300
+Mn1   0.76007   0.75000   0.15183   0.46000   0.01300
+La1   0.59357   0.75000   0.42829   0.48000   0.01063
+Ce1   0.59357   0.75000   0.42829   0.20000   0.01063
+Pr1   0.59357   0.75000   0.42829   0.07000   0.01063
+Nd1   0.59357   0.75000   0.42829   0.18000   0.01063
+Gd1   0.59357   0.75000   0.42829   0.02000   0.01063
+Ca2   0.59357   0.75000   0.42829   0.05000   0.01063
+Fe3+1   0.00000   0.00000   0.00000   0.42000   0.00920
+V1   0.00000   0.00000   0.00000   0.34000   0.00920
+Al1   0.00000   0.00000   0.00000   0.18000   0.00920
+Ti1   0.00000   0.00000   0.00000   0.06000   0.00920
+Al2   0.00000   0.00000   0.50000   0.96000   0.00780
+Fe3+2   0.00000   0.00000   0.50000   0.04000   0.00780
+Mn3   0.31095   0.25000   0.20996   0.50000   0.01170
+Fe2+3   0.31095   0.25000   0.20996   0.43000   0.01170
+Mg3   0.31095   0.25000   0.20996   0.07000   0.01170
+Si1   0.34513   0.75000   0.03451   1.00000   0.00900
+Si2   0.69200   0.25000   0.28134   1.00000   0.00920
+Si3   0.19090   0.75000   0.32433   1.00000   0.00830
+O1   0.24030   0.98950   0.02310   1.00000   0.01430
+O2   0.31540   0.97110   0.36330   1.00000   0.01190
+O3   0.80150   0.01210   0.33200   1.00000   0.01280
+O4   0.05800   0.25000   0.13710   1.00000   0.01310
+O5   0.04950   0.75000   0.15600   1.00000   0.01230
+O6   0.07760   0.75000   0.41920   1.00000   0.01160
+O7   0.51360   0.75000   0.17590   1.00000   0.01420
+O8   0.55230   0.25000   0.34330   1.00000   0.01910
+O9   0.60420   0.25000   0.10370   1.00000   0.01640
+O10   0.09020   0.25000   0.43160   1.00000   0.01190
+H10   0.05800   0.25000   0.32650   1.00000   0.05000

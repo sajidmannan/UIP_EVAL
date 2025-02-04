@@ -1,0 +1,82 @@
+data_global
+_chemical_name_mineral 'Chromium-dravite'
+loop_
+_publ_author_name
+'Bosi F'
+'Lucchesi S'
+'Reznitskii L'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 16 
+_journal_year 2004
+_journal_page_first 345
+_journal_page_last 352
+_publ_section_title
+;
+ Crystal chemistry of the dravite-chromdravite series
+ Note: Tourmaline TMt3b
+;
+_database_code_amcsd 0007057
+_chemical_compound_source 'Sludyanka crystalline complex, Lake Baikal, Russia'
+_chemical_formula_sum 'Na.88 Ca.073 K.017 Cr4.347 Mg2.244 V.354 Fe.051 Zn.021 Ti.003 Al2.1 Si5.886 B3 O30.618 F.381 H3.009'
+_cell_length_a 16.0539
+_cell_length_b 16.0539
+_cell_length_c 7.3247
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1634.864
+_exptl_crystal_density_diffrn      3.295
+_symmetry_space_group_name_H-M 'R 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'x,x-y,z'
+  '2/3+x,1/3+x-y,1/3+z'
+  '1/3+x,2/3+x-y,2/3+z'
+  '-y,-x,z'
+  '2/3-y,1/3-x,1/3+z'
+  '1/3-y,2/3-x,2/3+z'
+  '-x+y,y,z'
+  '2/3-x+y,1/3+y,1/3+z'
+  '1/3-x+y,2/3+y,2/3+z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NaX   0.00000   0.00000   0.22550   0.88000   0.01710
+CaX   0.00000   0.00000   0.22550   0.07300   0.01710
+KX   0.00000   0.00000   0.22550   0.01700   0.01710
+CrY   0.12335   0.06168   0.63774   0.71100   0.00408
+MgY   0.12335   0.06168   0.63774   0.14600   0.00408
+V3+Y   0.12335   0.06168   0.63774   0.11800   0.00408
+Fe2+Y   0.12335   0.06168   0.63774   0.01700   0.00408
+ZnY   0.12335   0.06168   0.63774   0.00700   0.00408
+Ti4+Y   0.12335   0.06168   0.63774   0.00100   0.00408
+CrZ   0.29779   0.26179   0.60896   0.36900   0.00450
+AlZ   0.29779   0.26179   0.60896   0.33100   0.00450
+MgZ   0.29779   0.26179   0.60896   0.30100   0.00450
+SiT   0.19001   0.18832   0.00000   0.98100   0.00410
+AlT   0.19001   0.18832   0.00000   0.01900   0.00410
+B   0.10977   0.21954   0.45430   1.00000   0.00450
+O1W   0.00000   0.00000   0.76520   0.60900   0.00540
+F1W   0.00000   0.00000   0.76520   0.38100   0.00540
+O-H1W   0.00000   0.00000   0.76520   0.00900   0.00540
+O2   0.06021   0.12042   0.48910   1.00000   0.00590
+O3V   0.25640   0.12820   0.50980   1.00000   0.00880
+O4   0.09250   0.18500   0.07170   1.00000   0.00900
+O5   0.18240   0.09120   0.09130   1.00000   0.00860
+O6   0.19138   0.18214   0.78020   1.00000   0.00630
+O7   0.28320   0.28263   0.07370   1.00000   0.00810
+O8   0.20739   0.26778   0.43770   1.00000   0.00930
+H3V   0.25900   0.12950   0.39000   1.00000   0.14000

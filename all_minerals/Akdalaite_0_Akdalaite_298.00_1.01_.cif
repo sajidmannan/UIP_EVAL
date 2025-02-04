@@ -1,0 +1,55 @@
+data_global
+_chemical_name_mineral 'Akdalaite'
+loop_
+_publ_author_name
+'Yamaguchi G'
+'Okumiya M'
+'Ono S'
+_journal_name_full 'Bulletin of the Chemical Society of Japan'
+_journal_volume 42 
+_journal_year 1969
+_journal_page_first 2247
+_journal_page_last 2249
+_publ_section_title
+;
+ Refinement of the structure of tohdite 5Al2O3*H2O
+;
+_database_code_amcsd 0012146
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Al5 O8'
+_cell_length_a 5.575
+_cell_length_b 5.575
+_cell_length_c 8.761
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 235.816
+_exptl_crystal_density_diffrn      3.703
+_symmetry_space_group_name_H-M 'P 63 m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Al1   0.16470   0.32940   0.37080   0.00583
+Al2   0.66667   0.33333   0.15330   0.00583
+Al3   0.33333   0.66667   0.06110   0.00583
+O1   0.00000   0.00000   0.00000   0.00583
+O2   0.50980   0.01960   0.01430   0.00583
+O3   0.82910   0.65820   0.26660   0.00583
+O4   0.33333   0.66667   0.26380   0.00583

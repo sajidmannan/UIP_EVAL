@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Hastingsite'
+loop_
+_publ_author_name
+'Makino K'
+'Tomita K'
+_journal_name_full 'American Mineralogist'
+_journal_volume 74 
+_journal_year 1989
+_journal_page_first 1097
+_journal_page_last 1105
+_publ_section_title
+;
+ Cation distribution in the octahedral sites of hornblendes
+ sample O-H from Obira, Japan
+;
+_database_code_amcsd 0001269
+_chemical_formula_sum 'Si6.32 Al1.68 (Mg.55 Fe4.45) Ca2 Na3.96 O24 H2'
+_cell_length_a 9.967
+_cell_length_b 18.269
+_cell_length_c 5.347
+_cell_angle_alpha 90
+_cell_angle_beta 104.97
+_cell_angle_gamma 90
+_cell_volume 940.576
+_exptl_crystal_density_diffrn      3.679
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Si1   0.27740   0.08460   0.29580   0.58000   0.00570
+Al1   0.27740   0.08460   0.29580   0.42000   0.00570
+Si2   0.29150   0.17170   0.80890   1.00000   0.00659
+Mg1   0.00000   0.09150   0.50000   0.06000   0.00671
+Fe1   0.00000   0.09150   0.50000   0.94000   0.00671
+Mg2   0.00000   0.17870   0.00000   0.15000   0.00469
+Fe2   0.00000   0.17870   0.00000   0.85000   0.00469
+Mg3   0.00000   0.00000   0.00000   0.13000   0.00481
+Fe3   0.00000   0.00000   0.00000   0.87000   0.00481
+Ca4   0.00000   0.28060   0.50000   1.00000   0.01153
+NaAm   0.03650   0.50000   0.04720   0.99000   0.02204
+NaA2   0.00000   0.47560   0.00000   0.99000   0.02444
+O1   0.10480   0.08960   0.21160   1.00000   0.00697
+O2   0.12270   0.17630   0.72970   1.00000   0.00963
+O-H3   0.12350   0.00000   0.71400   1.00000   0.01444
+O4   0.36610   0.24780   0.78930   1.00000   0.01317
+O5   0.34420   0.13630   0.09910   1.00000   0.01330
+O6   0.33970   0.11980   0.59200   1.00000   0.01203
+O7   0.32990   0.00000   0.29280   1.00000   0.01393

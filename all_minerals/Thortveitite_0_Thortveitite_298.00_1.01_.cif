@@ -1,0 +1,68 @@
+data_global
+_chemical_name_mineral 'Thortveitite'
+loop_
+_publ_author_name
+'Bianchi R'
+'Pilati T'
+'Diella V'
+'Gamaccioli C M'
+'Mannucci G'
+_journal_name_full 'American Mineralogist'
+_journal_volume 73 
+_journal_year 1988
+_journal_page_first 601
+_journal_page_last 607
+_publ_section_title
+;
+ A re-examination of thortveitite
+ Sample 1 from Iveland
+;
+_database_code_amcsd 0001160
+_chemical_formula_sum '(Sc1.12 Y.88) (Si1.96 Al.04) O7'
+_cell_length_a 6.650
+_cell_length_b 8.616
+_cell_length_c 4.686
+_cell_angle_alpha 90
+_cell_angle_beta 102.20
+_cell_angle_gamma 90
+_cell_volume 262.427
+_exptl_crystal_density_diffrn      3.755
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Sc   0.00000   0.30503   0.50000   0.56000
+Y   0.00000   0.30503   0.50000   0.44000
+Si   0.22108   0.00000  -0.08762   0.98000
+Al   0.22108   0.00000  -0.08762   0.02000
+O1   0.00000   0.00000   0.00000   1.00000
+O2   0.38654   0.00000   0.22171   1.00000
+O3   0.23655   0.15499  -0.28174   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Sc 0.00740 0.00820 0.00820 0.00000 0.00030 0.00000
+Y 0.00740 0.00820 0.00820 0.00000 0.00030 0.00000
+Si 0.00790 0.00860 0.00560 0.00000 -0.00070 0.00000
+Al 0.00790 0.00860 0.00560 0.00000 -0.00070 0.00000
+O1 0.00750 0.07770 0.04260 0.00000 0.00830 0.00000
+O2 0.00950 0.01060 0.00620 0.00000 -0.00160 0.00000
+O3 0.02620 0.00860 0.00950 0.00230 0.00220 0.00210

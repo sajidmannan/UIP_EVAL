@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Algodonite'
+loop_
+_publ_author_name
+'Heyding R D'
+'Despault G J G'
+_journal_name_full 'Canadian Journal of Chemistry'
+_journal_volume 38 
+_journal_year 1960
+_journal_page_first 2477
+_journal_page_last 2481
+_publ_section_title
+;
+ The copper/arsenic system and the copper arsenide minerals
+;
+_database_code_amcsd 0018469
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum '(Cu.889 As.111)'
+_cell_length_a 2.588
+_cell_length_b 2.588
+_cell_length_c 4.226
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 24.513
+_exptl_crystal_density_diffrn      8.781
+_symmetry_space_group_name_H-M 'P 63/m m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  'y,x,-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x,-x+y,-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+  'x-y,-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Cu   0.33333   0.66667   0.25000   0.88900
+As   0.33333   0.66667   0.25000   0.11100

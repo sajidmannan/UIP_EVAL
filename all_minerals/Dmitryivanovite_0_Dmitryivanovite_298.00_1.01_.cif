@@ -1,0 +1,54 @@
+data_global
+_chemical_name_mineral 'Dmitryivanovite'
+loop_
+_publ_author_name
+'Lazic B'
+'Kahlenberg V'
+'Konzett J'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 222 
+_journal_year 2007
+_journal_page_first 690
+_journal_page_last 695
+_publ_section_title
+;
+ Structural studies on a stuffed framework high pressure polymorph of CaAl2O4
+;
+_database_code_amcsd 0011130
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca Al2 O4'
+_cell_length_a 7.97187
+_cell_length_b 8.62844
+_cell_length_c 10.26276
+_cell_angle_alpha 90
+_cell_angle_beta 94.801
+_cell_angle_gamma 90
+_cell_volume 703.445
+_exptl_crystal_density_diffrn      2.985
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ca1   0.53370   0.24310   0.35350   0.00215
+Ca2  -0.00510   0.21540   0.37310   0.00215
+Al1   0.29370   0.39470   0.11840   0.00253
+Al2   0.69510   0.40480   0.10910   0.00253
+Al3   0.82210   0.55660   0.36120   0.00253
+Al4   0.22360   0.56050   0.36660   0.00253
+O1   0.34920   0.43410   0.28260   0.01051
+O2   0.73260   0.42580   0.46540   0.01051
+O3   0.15290   0.24430   0.07320   0.01051
+O4   0.48860   0.34090   0.06770   0.01051
+O5   0.21840   0.56270   0.03830   0.01051
+O6   0.71530   0.57450   0.20500   0.01051
+O7   0.76750   0.24410   0.20510   0.01051
+O8   0.02220   0.48510   0.33050   0.01051

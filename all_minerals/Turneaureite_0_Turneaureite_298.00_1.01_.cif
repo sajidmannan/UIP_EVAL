@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Turneaureite'
+loop_
+_publ_author_name
+'Wardojo T A'
+'Hwu S-J'
+_journal_name_full 'Acta Crystallographica, Section C'
+_journal_volume 52 
+_journal_year 1996
+_journal_page_first 2959
+_journal_page_last 2960
+_publ_section_title
+;
+ Chlorapatite: Ca5(AsO4)3Cl
+ Note: anisotropic temperature factors taken from ICSD
+;
+_database_code_amcsd 0010311
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca5 As3 O12 Cl'
+_cell_length_a 10.076
+_cell_length_b 10.076
+_cell_length_c 6.807
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 598.498
+_exptl_crystal_density_diffrn      3.621
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.33333   0.66667   0.00500   1.00000   0.01110
+Ca2   0.26988   0.24976   0.25000   1.00000   0.01050
+As   0.40949   0.03079   0.25000   1.00000   0.00680
+O1   0.15590   0.50810   0.25000   1.00000   0.01440
+O2   0.53470   0.39660   0.25000   1.00000   0.01160
+O3   0.35110   0.08920   0.05350   1.00000   0.01740
+Cl   0.00000   0.00000   0.12630   0.50000   0.02180
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca1 0.01270 0.01270 0.00800 0.00630 0.00000 0.00000
+Ca2 0.00910 0.01130 0.01030 0.00460 0.00000 0.00000
+As 0.00660 0.00510 0.00850 0.00270 0.00000 0.00000
+O1 0.00560 0.01300 0.01600 -0.00230 0.00000 0.00000
+O2 0.00690 0.00540 0.01960 0.00080 0.00000 0.00000
+O3 0.02660 0.01480 0.01620 0.01440 -0.01120 -0.00400
+Cl 0.01320 0.01320 0.03900 0.00660 0.00000 0.00000

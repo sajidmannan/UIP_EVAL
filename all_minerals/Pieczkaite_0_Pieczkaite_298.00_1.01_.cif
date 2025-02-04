@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Pieczkaite'
+loop_
+_publ_author_name
+'Tait K'
+'Ball N A'
+'Hawthorne F C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 100 
+_journal_year 2015
+_journal_page_first 1047
+_journal_page_last 1052
+_publ_section_title
+;
+ Pieczkaite, ideally Mn5(PO4)3Cl, a new apatite-supergroup mineral from Cross Lake,
+ Manitoba, Canada: Description and crystal structure
+;
+_database_code_amcsd 0020469
+_chemical_compound_source 'Cross Lake, Manitoba, Canada'
+_chemical_formula_sum 'Mn3.41 Ca1.39 Fe.26 P3 O12.28 Cl.72 H.28'
+_cell_length_a 9.504
+_cell_length_b 9.504
+_cell_length_c 6.347
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 496.492
+_exptl_crystal_density_diffrn      3.831
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mn1   0.33333   0.66667  -0.00600   0.54500   0.01370
+Ca1   0.33333   0.66667  -0.00600   0.42500   0.01370
+Fe1   0.33333   0.66667  -0.00600   0.06000   0.01370
+Mn2   0.72910   0.75320   0.25000   0.77333   0.02250
+Fe2   0.72910   0.75320   0.25000   0.04667   0.02250
+Ca2   0.72910   0.75320   0.25000   0.18000   0.02250
+P1   0.59550   0.97250   0.25000   1.00000   0.01430
+O1   0.64860   0.15270   0.25000   1.00000   0.01860
+O2   0.40810   0.86750   0.25000   1.00000   0.02260
+O3   0.65650   0.92190   0.05640   1.00000   0.02430
+Cl1   0.00000   0.00000   0.21790   0.36000   0.02100
+O-H1   0.00000   0.00000   0.21790   0.14000   0.02100
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn1 0.00920 0.00920 0.02030 0.00460 0.00000 0.00000
+Ca1 0.00920 0.00920 0.02030 0.00460 0.00000 0.00000
+Fe1 0.00920 0.00920 0.02030 0.00460 0.00000 0.00000
+Mn2 0.03000 0.01860 0.02270 0.01480 0.00000 0.00000
+Fe2 0.03000 0.01860 0.02270 0.01480 0.00000 0.00000
+Ca2 0.03000 0.01860 0.02270 0.01480 0.00000 0.00000
+P1 0.00900 0.00660 0.02670 0.00340 0.00000 0.00000
+O1 0.01800 0.00700 0.02700 0.00300 0.00000 0.00000
+O2 0.00600 0.00900 0.05000 0.00200 0.00000 0.00000
+O3 0.02900 0.02100 0.02900 0.01800 0.00100 -0.00100

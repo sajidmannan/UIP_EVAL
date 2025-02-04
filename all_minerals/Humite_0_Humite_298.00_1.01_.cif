@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Humite'
+loop_
+_publ_author_name
+'Ribbe P H'
+'Gibbs G V'
+_journal_name_full 'American Mineralogist'
+_journal_volume 56 
+_journal_year 1971
+_journal_page_first 1155
+_journal_page_last 1173
+_publ_section_title
+;
+ Crystal structures of the humite minerals: III. Mg/Fe ordering in humite and its
+ relation to other ferromagnesian silicates
+;
+_database_code_amcsd 0000250
+_chemical_formula_sum '(Mg6.601 Fe.399) Si3 O13 (F H)'
+_cell_length_a 4.7408
+_cell_length_b 10.2580
+_cell_length_c 20.8526
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1014.085
+_exptl_crystal_density_diffrn      3.242
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Mg1   0.00170   0.37730   0.17670   0.94300   0.00633
+Fe1   0.00170   0.37730   0.17670   0.05700   0.00633
+Mg2   0.51080   0.15400   0.25000   0.94300   0.00633
+Fe2   0.51080   0.15400   0.25000   0.05700   0.00633
+Mg3   0.00870   0.09760   0.10920   0.94300   0.00633
+Fe3   0.00870   0.09760   0.10920   0.05700   0.00633
+Mg4   0.49250   0.86650   0.02780   0.94300   0.00633
+Fe4   0.49250   0.86650   0.02780   0.05700   0.00633
+Si1   0.07520   0.96910   0.25000   1.00000   0.00342
+Si2   0.57650   0.28190   0.10590   1.00000   0.00190
+O11   0.73200   0.96790   0.25000   1.00000   0.00722
+O12   0.28160   0.32330   0.25000   1.00000   0.00684
+O13   0.21980   0.03820   0.18820   1.00000   0.00595
+O21   0.23680   0.28270   0.10480   1.00000   0.00418
+O22   0.78050   0.92640   0.10460   1.00000   0.00659
+O23   0.72250   0.21410   0.16860   1.00000   0.00621
+O24   0.72610   0.20870   0.04520   1.00000   0.00443
+F   0.26210   0.03280   0.03570   0.50000   0.00747
+O-H   0.26210   0.03280   0.03570   0.50000   0.00747

@@ -1,0 +1,51 @@
+data_global
+_chemical_name_mineral 'Hydroxylborite'
+loop_
+_publ_author_name
+'Takeuchi Y'
+_journal_name_full 'Acta Crystallographica'
+_journal_volume 3 
+_journal_year 1950
+_journal_page_first 208
+_journal_page_last 210
+_publ_section_title
+;
+ The structure of fluoborite
+;
+_database_code_amcsd 0009139
+_chemical_compound_source 'Tallgruvan, Sweden'
+_chemical_formula_sum 'Mg3 B O5.13 (F.87 H2.13)'
+_cell_length_a 9.06
+_cell_length_b 9.06
+_cell_length_c 3.06
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 217.525
+_exptl_crystal_density_diffrn      2.817
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Mg   0.38100   0.03800   0.25000   1.00000
+B   0.66667   0.33333   0.75000   1.00000
+O   0.53700   0.15600   0.75000   1.00000
+O-H   0.31000   0.21800   0.25000   0.71000
+F   0.31000   0.21800   0.25000   0.29000

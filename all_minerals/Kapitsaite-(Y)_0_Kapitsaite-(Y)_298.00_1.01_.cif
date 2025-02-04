@@ -1,0 +1,79 @@
+data_global
+_chemical_name_mineral 'Kapitsaite-(Y)'
+loop_
+_publ_author_name
+'Sokolova E V'
+'Ferraris G'
+'Ivaldi G'
+'Pautov L A'
+'Khvorov P V'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 2000 
+_journal_year 2000
+_journal_page_first 74
+_journal_page_last 84
+_publ_section_title
+;
+ Crystal structure of kapitsaite-(Y), a new borosilicate isotypic with
+ hyalotekite - Crystal chemistry of the related isomorphous series
+ Garmskii district, Northern Tajikistan
+;
+_database_code_amcsd 0014904
+_chemical_compound_source 'Dara-i-Pioz glacier, Alaiskii mountain range, Tien-Shan,'
+_chemical_formula_sum 'Ba3.68 Pb.2 K.12 (Y Ca.66 Gd.08 Dy.08 Sm.06 Nd.06 Er.06) Si8.3 B3.7 O28 F'
+_cell_length_a 11.181
+_cell_length_b 10.850
+_cell_length_c 10.252
+_cell_angle_alpha 90.64
+_cell_angle_beta 90.05
+_cell_angle_gamma 89.97
+_cell_volume 1243.631
+_exptl_crystal_density_diffrn      3.900
+_symmetry_space_group_name_H-M 'I 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,1/2-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ba1   0.17900   0.18100   0.00500   0.33000   0.01900
+Ba1A   0.20140   0.20590   0.01320   0.67000   0.01500
+Ba2   0.80230   0.20200   0.01170   0.84000   0.02100
+PbBa2A   0.83000   0.17000   0.00500   0.10000   0.00100
+KBa2A   0.83000   0.17000   0.00500   0.06000   0.00100
+YM   0.99990   0.00040   0.22720   0.50000   0.01700
+CaM   0.99990   0.00040   0.22720   0.33000   0.01700
+GdM   0.99990   0.00040   0.22720   0.04000   0.01700
+DyM   0.99990   0.00040   0.22720   0.04000   0.01700
+SmM   0.99990   0.00040   0.22720   0.03000   0.01700
+NdM   0.99990   0.00040   0.22720   0.03000   0.01700
+ErM   0.99990   0.00040   0.22720   0.03000   0.01700
+SiT   0.32000   0.50000  -0.00200   0.15000   0.01900
+BT   0.32000   0.50000  -0.00200   0.85000   0.01900
+B   0.50000   0.34500   0.03300   1.00000   0.00600
+Si1   0.19690   0.52500   0.24110   1.00000   0.01200
+Si2   0.80330   0.52590   0.24020   1.00000   0.01100
+Si3   0.00080   0.31990   0.26370   1.00000   0.01500
+Si4  -0.00020   0.72170   0.27910   1.00000   0.01300
+O1   0.87900   0.63800   0.30200   1.00000   0.02600
+O2   0.88200   0.40000   0.23300   1.00000   0.02300
+O3   0.11900   0.39900   0.22800   1.00000   0.02200
+O4   0.12000   0.63800   0.30300   1.00000   0.02500
+O5   0.23900   0.56900   0.09400   1.00000   0.01500
+O6   0.76000   0.56700   0.09300   1.00000   0.01400
+O7   0.60800   0.40800   0.07700   1.00000   0.01800
+O8   0.39200   0.40800   0.07500   1.00000   0.01000
+O9   0.50200   0.21600   0.08300   1.00000   0.01600
+O10   0.50100   0.66600   0.11300   1.00000   0.01000
+O11  -0.00100   0.78600   0.14300   1.00000   0.02000
+O12   0.99900   0.20200   0.17100   1.00000   0.00600
+O13   0.30500   0.50600   0.33900   1.00000   0.01900
+O14   0.69800   0.51000   0.34000   1.00000   0.01900
+F   0.00000   0.00000   0.00000   1.00000   0.01500

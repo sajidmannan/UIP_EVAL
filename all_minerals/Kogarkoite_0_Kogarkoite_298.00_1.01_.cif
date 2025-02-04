@@ -1,0 +1,44 @@
+data_global
+_chemical_name_mineral 'Kogarkoite'
+loop_
+_publ_author_name
+'Pabst A'
+'Sharp W N'
+_journal_name_full 'American Mineralogist'
+_journal_volume 58 
+_journal_year 1973
+_journal_page_first 116
+_journal_page_last 127
+_publ_section_title
+;
+ Kogarkoite, a new natural phase in the system Na2SO4 - NaF - NaCl
+;
+_database_code_amcsd 0000305
+_chemical_formula_sum 'Na3 S O4 F'
+_cell_length_a 4.846
+_cell_length_b 4.846
+_cell_length_c 4.846
+_cell_angle_alpha 91.80
+_cell_angle_beta 91.80
+_cell_angle_gamma 91.80
+_cell_volume 113.630
+_exptl_crystal_density_diffrn      2.689
+_symmetry_space_group_name_H-M 'R 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,z,y'
+  'z,x,y'
+  'y,x,z'
+  'y,z,x'
+  'z,y,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na   0.50000   0.50000   0.00000
+S   0.49600   0.49600   0.49600
+O1   0.31500   0.31500   0.31500
+O2   0.67100   0.67100   0.32500
+F   0.00000   0.00000   0.00000

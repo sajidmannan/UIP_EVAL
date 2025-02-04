@@ -1,0 +1,57 @@
+data_global
+_chemical_name_mineral 'Stibiocolumbite'
+loop_
+_publ_author_name
+'Zubkova N V'
+'Pushcharovsky D Y'
+'Giester G'
+'Smolin A S'
+'Tillmanns E'
+'Brandstatter F'
+'Hammer V'
+'Peretyazhko I S'
+'Sapozhnikov A N'
+'Kashaev A A'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 2002 
+_journal_year 2002
+_journal_page_first 145
+_journal_page_last 159
+_publ_section_title
+;
+ Bismutocolumbite, Bi(Nb.79Ta.21)O4, stibiocolumbite, Sb(Nb.67Ta.33)O4 and their
+ structural relation to the other ABO4 minerals with
+ stibiotantalite (SbTaO4) structure
+;
+_database_code_amcsd 0014919
+_chemical_compound_source 'Mesa Grande, California, USA'
+_chemical_formula_sum 'Sb (Nb.33 Ta.67) O4'
+_cell_length_a 5.557
+_cell_length_b 4.932
+_cell_length_c 11.808
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 323.623
+_exptl_crystal_density_diffrn      6.930
+_symmetry_space_group_name_H-M 'P n a 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,z'
+  '1/2-x,1/2+y,1/2+z'
+  '-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Sb   0.52369   0.04914   0.24729   1.00000   0.00930
+Nb   0.88867  -0.00667  -0.00157   0.33000   0.00480
+Ta   0.88867  -0.00667  -0.00157   0.67000   0.00480
+O1   0.34620   0.33130   0.15760   1.00000   0.00840
+O2   0.82420   0.83520   0.84770   1.00000   0.00810
+O3   0.08450   0.71190   0.05630   1.00000   0.01060
+O4   0.12900   0.22700  -0.04830   1.00000   0.01170

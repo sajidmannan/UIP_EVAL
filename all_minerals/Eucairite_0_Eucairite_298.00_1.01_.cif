@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Eucairite'
+loop_
+_publ_author_name
+'Frueh A J'
+'Czamanske G K'
+'Knight C'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 108 
+_journal_year 1957
+_journal_page_first 389
+_journal_page_last 396
+_publ_section_title
+;
+ The crystallography of eucairite, CuAgSe
+ Sample: orthorhombic subcell
+;
+_database_code_amcsd 0010578
+_chemical_compound_source 'Skrikerum, Sweden'
+_chemical_formula_sum 'Cu Ag Se'
+_cell_length_a 4.105
+_cell_length_b 4.07
+_cell_length_c 6.31
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 105.423
+_exptl_crystal_density_diffrn      7.887
+_symmetry_space_group_name_H-M 'P m m n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,y,z'
+  '1/2+x,-y,-z'
+  '1/2+x,1/2+y,-z'
+  '1/2-x,1/2-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cu   0.25000   0.75000   0.10500
+Ag   0.25000   0.25000   0.44900
+Se   0.25000   0.25000   0.87300

@@ -1,0 +1,48 @@
+data_global
+_chemical_name_mineral 'Protoenstatite'
+loop_
+_publ_author_name
+'Jahn S'
+'Martonak R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 94 
+_journal_year 2009
+_journal_page_first 950
+_journal_page_last 956
+_publ_section_title
+;
+ Phase behavior of protoenstatite at high pressure studied by atomistic simulations
+;
+_database_code_amcsd 0004955
+_chemical_compound_source 'theoretical structure'
+_chemical_formula_sum 'O3 Si Mg'
+_cell_length_a 9.171
+_cell_length_b 8.513
+_cell_length_c 5.254
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 410.194
+_exptl_crystal_density_diffrn      3.251
+_symmetry_space_group_name_H-M 'P b c n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,1/2+y,1/2-z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+O1   0.11810   0.09470   0.07920
+O2   0.37580   0.25190   0.06970
+O3   0.34930   0.97630   0.29280
+Si   0.29130   0.09200   0.06790
+Mg1   0.00000   0.09440   0.75000
+Mg2   0.00000   0.26660   0.25000

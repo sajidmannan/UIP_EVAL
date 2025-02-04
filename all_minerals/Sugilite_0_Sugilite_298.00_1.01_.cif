@@ -1,0 +1,86 @@
+data_global
+_chemical_name_mineral 'Sugilite'
+loop_
+_publ_author_name
+'Armbruster T'
+'Oberhansli R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 73 
+_journal_year 1988
+_journal_page_first 595
+_journal_page_last 600
+_publ_section_title
+;
+ Crystal chemistry of double-ring silicates: Structures of sugilite and
+ brannockite
+ Note: x-coordinate of Na has been corrected
+;
+_database_code_amcsd 0001157
+_chemical_formula_sum 'K (Fe1.66 Al.34) Li3 Si12 O30 Na1.96'
+_cell_length_a 10.009
+_cell_length_b 10.009
+_cell_length_c 14.006
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1215.139
+_exptl_crystal_density_diffrn      2.798
+_symmetry_space_group_name_H-M 'P 6/m c c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,-z'
+  'x-y,x,z'
+  '-y,-x,1/2+z'
+  'y,x,1/2-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'x,x-y,1/2+z'
+  '-x,-x+y,1/2-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,-z'
+  'y,-x+y,z'
+  '-x+y,y,1/2+z'
+  'x-y,-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+K   0.00000   0.00000   0.25000   1.00000
+Fe   0.33333   0.66667   0.25000   0.83000
+Al   0.33333   0.66667   0.25000   0.17000
+Li   0.50000   0.50000   0.25000   1.00000
+Si   0.23633   0.35620   0.38678   1.00000
+O1   0.13830   0.39720   0.00000   1.00000
+O2   0.22320   0.27740   0.13770   1.00000
+O3   0.16650   0.50910   0.17032   1.00000
+Na   0.33333   0.66667   0.01340   0.49000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.01640 0.01640 0.01960 0.00820 0.00000 0.00000
+Fe 0.00470 0.00470 0.00460 0.00235 0.00000 0.00000
+Al 0.00470 0.00470 0.00460 0.00235 0.00000 0.00000
+Li 0.01700 0.01700 0.01600 0.01100 0.00000 0.00000
+Si 0.00660 0.00710 0.00570 0.00360 0.00050 0.00060
+O1 0.01900 0.01900 0.00620 0.00810 0.00000 0.00000
+O2 0.01300 0.01550 0.01610 0.01040 0.00050 0.00070
+O3 0.01060 0.00910 0.01170 0.00450 -0.00130 -0.00350
+Na 0.01750 0.01750 0.02600 0.00875 0.00000 0.00000

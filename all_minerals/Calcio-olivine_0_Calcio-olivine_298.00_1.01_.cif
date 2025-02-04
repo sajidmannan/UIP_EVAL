@@ -1,0 +1,64 @@
+data_global
+_chemical_name_mineral 'Calcio-olivine'
+loop_
+_publ_author_name
+'Udagawa S'
+'Urabe K'
+'Natsume M'
+'Yano T'
+_journal_name_full 'Cement and Concrete Research'
+_journal_volume 10 
+_journal_year 1980
+_journal_page_first 139
+_journal_page_last 144
+_publ_section_title
+;
+ Refinement of the crystal structure of gamma-Ca2SiO4
+;
+_database_code_amcsd 0017745
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Ca2 Si O4'
+_cell_length_a 5.081
+_cell_length_b 11.224
+_cell_length_c 6.778
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 386.544
+_exptl_crystal_density_diffrn      2.960
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Cal   0.00000   0.00000   0.00000
+Ca2  -0.00990   0.28090   0.25000
+Si   0.42750   0.09660   0.25000
+O1  -0.25430   0.09370   0.25000
+O2   0.29740  -0.03840   0.25000
+O3   0.29850   0.16240   0.05750
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Cal 0.00706 0.01085 0.00372 -0.00116 -0.00052 -0.00154
+Ca2 0.00772 0.00702 0.00465 0.00087 0.00000 0.00000
+Si 0.00392 0.00766 0.00396 0.00578 0.00000 0.00000
+O1 0.00654 0.01213 0.00791 -0.00289 0.00000 0.00000
+O2 0.00850 0.00638 0.00954 0.00116 0.00000 0.00000
+O3 0.00798 0.01021 0.00535 0.00087 -0.00140 0.00039

@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Gagarinite-(Y)'
+loop_
+_publ_author_name
+'Hughes J M'
+'Drexler J W'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 32 
+_journal_year 1994
+_journal_page_first 563
+_journal_page_last 565
+_publ_section_title
+;
+ Refinement of the structure of gagarinite-(Y), Nax(CaxREE2-x)F6
+;
+_database_code_amcsd 0005407
+_chemical_formula_sum '(Ca.475 Y.36 Dy.05 Gd.045 Er.02 Ho.015 Sm.015 Yb.005 Nd.005 Tb.005 Ce.005) Na.3 F2.7'
+_cell_length_a 5.987
+_cell_length_b 5.987
+_cell_length_c 3.5413
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 109.929
+_exptl_crystal_density_diffrn      4.096
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca   0.66667   0.33333   0.25000   0.47500   0.01080
+Y   0.66667   0.33333   0.25000   0.36000   0.01080
+Dy   0.66667   0.33333   0.25000   0.05000   0.01080
+Gd   0.66667   0.33333   0.25000   0.04500   0.01080
+Er   0.66667   0.33333   0.25000   0.02000   0.01080
+Ho   0.66667   0.33333   0.25000   0.01500   0.01080
+Sm   0.66667   0.33333   0.25000   0.01500   0.01080
+Yb   0.66667   0.33333   0.25000   0.00500   0.01080
+Nd   0.66667   0.33333   0.25000   0.00500   0.01080
+Tb   0.66667   0.33333   0.25000   0.00500   0.01080
+Ce   0.66667   0.33333   0.25000   0.00500   0.01080
+Na   0.00000   0.00000   0.00000   0.30000   0.03080
+F   0.30890   0.39330   0.25000   0.90000   0.02770

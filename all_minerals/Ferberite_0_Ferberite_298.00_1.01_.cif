@@ -1,0 +1,45 @@
+data_global
+_chemical_name_mineral 'Ferberite'
+loop_
+_publ_author_name
+'Escobar C'
+'Cid-Dresdner H'
+'Kittl P'
+'Dumler I'
+_journal_name_full 'American Mineralogist'
+_journal_volume 56 
+_journal_year 1971
+_journal_page_first 489
+_journal_page_last 498
+_publ_section_title
+;
+ The relation between "light wolframite" and common wolframite
+ sample: light wolframite
+;
+_database_code_amcsd 0000230
+_chemical_formula_sum 'W Fe O4'
+_cell_length_a 4.753
+_cell_length_b 5.720
+_cell_length_c 4.968
+_cell_angle_alpha 90
+_cell_angle_beta 90.08
+_cell_angle_gamma 90
+_cell_volume 135.066
+_exptl_crystal_density_diffrn      7.467
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+W   0.00000   0.18080   0.25000   0.00253
+Fe   0.50000   0.32150   0.75000   0.00570
+O1   0.21670   0.10170   0.58330   0.00760
+O2   0.25830   0.39000   0.09000   0.00760

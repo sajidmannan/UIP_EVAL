@@ -1,0 +1,91 @@
+data_global
+_chemical_name_mineral 'Aluminopyracmonite'
+loop_
+_publ_author_name
+'Demartin F'
+'Castellano C'
+'Campostrini I'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 77 
+_journal_year 2013
+_journal_page_first 443
+_journal_page_last 451
+_publ_section_title
+;
+ Aluminopyracmonite, (NH4)3Al(SO4)3, a new ammonium aluminium sulfate
+ from La Fossa crater, Vulcano, Aeolian Islands, Italy
+ Note: z coordinate of Al2 has been changed from 1/6
+;
+_database_code_amcsd 0019924
+_chemical_compound_source 'La Fossa crater, Vulcano, Aeolian Islands, Italy'
+_chemical_formula_sum 'N3 H12 Al S3 O12'
+_cell_length_a 15.0324
+_cell_length_b 15.0324
+_cell_length_c 8.8776
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1737.332
+_exptl_crystal_density_diffrn      2.118
+_symmetry_space_group_name_H-M 'R -3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '2/3+x,1/3+y,1/3+z'
+  '1/3+x,2/3+y,2/3+z'
+  'y,-x+y,-z'
+  '2/3+y,1/3-x+y,1/3-z'
+  '1/3+y,2/3-x+y,2/3-z'
+  '-x+y,-x,z'
+  '2/3-x+y,1/3-x,1/3+z'
+  '1/3-x+y,2/3-x,2/3+z'
+  '-x,-y,-z'
+  '2/3-x,1/3-y,1/3-z'
+  '1/3-x,2/3-y,2/3-z'
+  '-y,x-y,z'
+  '2/3-y,1/3+x-y,1/3+z'
+  '1/3-y,2/3+x-y,2/3+z'
+  'x-y,x,-z'
+  '2/3+x-y,1/3+x,1/3-z'
+  '1/3+x-y,2/3+x,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+N1   0.26073   0.09755   0.05993   1.00000   0.02590
+H1   0.23300   0.09490   0.02100   1.00000   0.08300
+H2   0.30520   0.04050   0.06090   1.00000   0.05700
+H3   0.28120   0.13400   0.05930   1.00000   0.08000
+H4   0.22470   0.10340   0.13000   1.00000   0.06500
+Al1   0.66667   0.33333   0.33333   1.00000   0.01316
+Al2   0.66667   0.33333   0.83333   1.00000   0.01003
+S1   0.52228   0.17358   0.08077   1.00000   0.01605
+O1   0.54994   0.24610   0.04809   1.00000   0.01907
+O2a   0.41032   0.11292   0.08097   0.67300   0.02630
+O2b   0.41553   0.13008   0.12312   0.32700   0.03510
+O3a   0.55285   0.24001   0.21654   0.67300   0.02290
+O3b   0.59127   0.21516   0.21467   0.32700   0.02500
+O4a   0.57239   0.11529   0.07087   0.67300   0.02860
+O4b   0.54211   0.08949   0.02667   0.32700   0.03010
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+N1 0.02490 0.02300 0.02970 0.01190 0.00490 -0.00290
+Al1 0.01596 0.01596 0.00760 0.00798 0.00000 0.00000
+Al2 0.01000 0.01000 0.01010 0.00500 0.00000 0.00000
+S1 0.01542 0.01439 0.01444 0.00453 0.00068 0.00109
+O1 0.01730 0.01980 0.02050 0.00907 0.00340 0.00640
+O2a 0.01860 0.02130 0.02970 0.00290 0.00480 0.00250
+O2b 0.01550 0.04190 0.03540 0.00480 0.00950 0.01530
+O3a 0.02500 0.02890 0.01460 0.01340 -0.00460 -0.00540
+O3b 0.03130 0.02110 0.01460 0.00690 -0.00480 -0.00330
+O4a 0.03200 0.02240 0.03770 0.01820 0.00500 0.00560
+O4b 0.04650 0.01800 0.02840 0.01810 -0.00880 -0.00300

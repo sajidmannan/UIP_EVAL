@@ -1,0 +1,78 @@
+data_global
+_chemical_name_mineral 'Annabergite'
+loop_
+_publ_author_name
+'Wildner M'
+'Giester G'
+'Lengauer C L'
+'McCammon C A'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 8 
+_journal_year 1996
+_journal_page_first 187
+_journal_page_last 192
+_publ_section_title
+;
+ Structure and crystal chemistry of vivianite-type compounds: Crystal
+ structures of erythrite and annabergite with a Mossbauer study of erythrite
+;
+_database_code_amcsd 0006618
+_chemical_formula_sum '(Ni2.64 Mg.36) As2 O16 H16'
+_cell_length_a 10.179
+_cell_length_b 13.309
+_cell_length_c 4.725
+_cell_angle_alpha 90
+_cell_angle_beta 105.00
+_cell_angle_gamma 90
+_cell_volume 618.296
+_exptl_crystal_density_diffrn      3.146
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+NiMe1   0.00000   0.00000   0.00000   0.99000 ?
+MgMe1   0.00000   0.00000   0.00000   0.01000 ?
+NiMe2   0.00000   0.38583   0.00000   0.82500 ?
+MgMe2   0.00000   0.38583   0.00000   0.17500 ?
+As   0.31620   0.00000   0.37558   1.00000 ?
+O1   0.14910   0.00000   0.38070   1.00000 ?
+O2   0.40720   0.00000   0.72870   1.00000 ?
+O3   0.34290   0.10760   0.21040   1.00000 ?
+OW1   0.09610   0.11350   0.81260   1.00000 ?
+OW2   0.40010   0.22530   0.71830   1.00000 ?
+H11   0.11800   0.08500   0.67400   1.00000   0.02290
+H12   0.16400   0.12800   0.92400   1.00000   0.04140
+H21   0.37200   0.20500   0.54500   1.00000   0.04660
+H22   0.44600   0.27500   0.71100   1.00000   0.04570
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+NiMe1 0.01120 0.01700 0.00800 0.00000 -0.00050 0.00000
+MgMe1 0.01120 0.01700 0.00800 0.00000 -0.00050 0.00000
+NiMe2 0.01280 0.01240 0.01140 0.00000 0.00310 0.00000
+MgMe2 0.01280 0.01240 0.01140 0.00000 0.00310 0.00000
+As 0.01020 0.01220 0.00950 0.00000 0.00230 0.00000
+O1 0.01020 0.01220 0.00950 0.00000 0.00230 0.00000
+O2 0.01550 0.01450 0.01020 0.00000 -0.00030 0.00000
+O3 0.01530 0.01350 0.01470 0.00150 0.00520 -0.00020
+OW1 0.01550 0.01960 0.01530 -0.00020 0.00390 -0.00070
+OW2 0.02450 0.01800 0.01730 0.00180 0.00480 0.00240

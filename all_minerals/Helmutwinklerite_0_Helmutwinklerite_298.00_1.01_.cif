@@ -1,0 +1,51 @@
+data_global
+_chemical_name_mineral 'Helmutwinklerite'
+loop_
+_publ_author_name
+'Krause W'
+'Belendorff K'
+'Bernhardt H J'
+'McCammon C A'
+'Effenberger H'
+'Mikenda W'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 10 
+_journal_year 1998
+_journal_page_first 179
+_journal_page_last 206
+_publ_section_title
+;
+ Crystal chemistry of the tsumcorite-group minerals. New data on ferrilotharmeyerite,
+ tsumcorite, thometzekite, mounanaite, helmutwinklerite, and a redefinition of gartrellite
+;
+_database_code_amcsd 0006712
+_chemical_compound_source 'Tsumeb mine, Namibia'
+_chemical_formula_sum 'Pb Zn2 As2 (O10 H2)'
+_cell_length_a 5.606
+_cell_length_b 5.610
+_cell_length_c 7.617
+_cell_angle_alpha 70.19
+_cell_angle_beta 69.91
+_cell_angle_gamma 69.18
+_cell_volume 203.771
+_exptl_crystal_density_diffrn      5.296
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+PbMe1   0.00000   0.00000   0.00000   0.03445
+Zn1   0.00000   0.50000   0.50000   0.02305
+Zn2   0.50000   0.00000   0.50000   0.02330
+AsX   0.42101   0.42320   0.77763   0.02204
+O-H1   0.15540   0.15720   0.40590   0.03926
+O2   0.31310   0.30930   0.65090   0.02394
+O3a   0.24950   0.68310   0.25810   0.03242
+O3b   0.68420   0.24710   0.26100   0.03065
+O4   0.27860   0.28740   0.00850   0.06371

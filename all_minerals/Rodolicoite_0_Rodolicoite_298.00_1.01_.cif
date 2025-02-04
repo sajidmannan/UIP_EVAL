@@ -1,0 +1,47 @@
+data_global
+_chemical_name_mineral 'Rodolicoite'
+loop_
+_publ_author_name
+'Long G J'
+'Cheetham A K'
+'Battle P D'
+_journal_name_full 'Inorganic Chemistry'
+_journal_volume 22 
+_journal_year 1983
+_journal_page_first 3012
+_journal_page_last 3016
+_publ_section_title
+;
+ Study of the iron-phosphorus-oxygen system by Mossbauer effect,
+ neutron diffraction, magnetic susceptibility, and analytical electron
+ microscopy: some pitfalls and solutions in the analysis of a complex mixture
+;
+_database_code_amcsd 0012693
+_chemical_compound_source 'Synthetic'
+_chemical_formula_sum 'Fe P O4'
+_cell_length_a 5.036
+_cell_length_b 5.036
+_cell_length_c 11.255
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 247.199
+_exptl_crystal_density_diffrn      3.039
+_symmetry_space_group_name_H-M 'P 31 2 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'y,x,-z'
+  '-y,x-y,1/3+z'
+  '-x,-x+y,1/3-z'
+  '-x+y,-x,2/3+z'
+  'x-y,-y,2/3-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Fe   0.45500   0.00000   0.33333
+P   0.46140   0.00000   0.83333
+O1   0.42170   0.31530   0.39700
+O2   0.40810   0.26120   0.87590

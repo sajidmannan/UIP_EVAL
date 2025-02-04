@@ -1,0 +1,60 @@
+data_global
+_chemical_name_mineral 'Banalsite'
+loop_
+_publ_author_name
+'Liferovich R P'
+'Locock A J'
+'Mitchell R H'
+'Shpachenko A K'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 44 
+_journal_year 2006
+_journal_page_first 533
+_journal_page_last 546
+_publ_section_title
+;
+ The crystal structure of stronalsite and a
+ redetermination of the structure of banalsite
+;
+_database_code_amcsd 0006094
+_chemical_compound_source 'Benallt mine, Wales'
+_chemical_formula_sum 'Ba Na2 Al4 Si4 O16'
+_cell_length_a 8.5400
+_cell_length_b 10.0127
+_cell_length_c 16.7897
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1435.661
+_exptl_crystal_density_diffrn      3.052
+_symmetry_space_group_name_H-M 'I b a 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,+z'
+  '-x,y,1/2+z'
+  '1/2-x,1/2+y,+z'
+  '-x,-y,z'
+  '1/2-x,1/2-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Ba   0.00000   0.50000   0.15450   0.01120
+Na  -0.04210   0.32580  -0.09540   0.01850
+Al1   0.07060   0.18620   0.06350   0.00860
+Al2  -0.27930   0.44530   0.31110   0.00960
+Si1  -0.26520   0.55960  -0.00250   0.00760
+Si2   0.07890   0.80620   0.24620   0.00840
+O1  -0.21410   0.48460   0.40760   0.01290
+O2  -0.00560   0.20770   0.15820   0.01470
+O3  -0.07520   0.14480  -0.00510   0.01190
+O4   0.22230   0.91300   0.24920   0.01090
+O5   0.22580   0.07140   0.05480   0.01330
+O6  -0.44990   0.35380   0.31120   0.01080
+O7   0.12880   0.65530   0.27220   0.01190
+O8  -0.12181   0.65220   0.03170   0.01130

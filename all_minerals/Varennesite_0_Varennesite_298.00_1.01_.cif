@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Varennesite'
+loop_
+_publ_author_name
+'Grice J D'
+'Gault R A'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 33 
+_journal_year 1995
+_journal_page_first 1073
+_journal_page_last 1081
+_publ_section_title
+;
+ Varennesite, a new species of hydrated Na-Mn silicate with a unique
+ monophyllosilicate structure
+;
+_database_code_amcsd 0005463
+_chemical_formula_sum 'Na8 Mn2 Si10 O39 H2'
+_cell_length_a 13.447
+_cell_length_b 15.022
+_cell_length_c 17.601
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 3555.417
+_exptl_crystal_density_diffrn      2.243
+_symmetry_space_group_name_H-M 'C m c m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,y,z'
+  '1/2-x,1/2+y,z'
+  'x,-y,-z'
+  '1/2+x,1/2-y,-z'
+  'x,y,1/2-z'
+  '1/2+x,1/2+y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2-x,1/2-y,1/2+z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Na1   0.50000   0.04800   0.33720   0.00120
+Na2   0.74190   0.04380   0.33850   0.00200
+Na3   0.86890   0.00000   0.50000   0.00310
+Mn   0.62160   0.00000   0.50000   0.00100
+Si1   0.38610   0.12230   0.75000   0.00070
+Si2   0.28190   0.16370   0.59430   0.00070
+Si3   0.11350   0.29240   0.55220   0.00060
+O1   0.50000   0.15960   0.75000   0.00130
+O2   0.37880   0.01740   0.75000   0.00140
+O3   0.33260   0.17150   0.82200   0.00140
+O4   0.17930   0.22220   0.60210   0.00150
+O5   0.14590   0.27920   0.46330   0.00090
+O6   0.26760   0.06500   0.56550   0.00120
+O7   0.50000   0.24590   0.44080   0.00100
+O8   0.12620   0.39270   0.57880   0.00110
+O-H   0.50000   0.05240   0.56050   0.00210
+OW1   0.26790   0.17290   0.25000   0.00420
+OW2   0.50000   0.17580   0.25000   0.00590
+OW3   0.88780   0.11430   0.39850   0.00410
+OW4   0.00000   0.06650   0.57660   0.00300
+OW5   0.90570  -0.03220   0.25000   0.00090
+OW6   0.00000   0.15180   0.25000   0.00620

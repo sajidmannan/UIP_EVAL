@@ -1,0 +1,81 @@
+data_global
+_chemical_name_mineral 'Hemihedrite'
+loop_
+_publ_author_name
+'McLean W J'
+'Anthony J W'
+_journal_name_full 'American Mineralogist'
+_journal_volume 55 
+_journal_year 1970
+_journal_page_first 1103
+_journal_page_last 1114
+_publ_section_title
+;
+ The crystal structure of hemihedrite
+;
+_database_code_amcsd 0000205
+_chemical_formula_sum 'Pb10 Zn Cr6 Si2 O32 F2'
+_cell_length_a 9.497
+_cell_length_b 11.443
+_cell_length_c 10.841
+_cell_angle_alpha 120.50
+_cell_angle_beta 92.10
+_cell_angle_gamma 55.83
+_cell_volume 787.241
+_exptl_crystal_density_diffrn      6.445
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.25910   0.11160   0.25940 ?
+Pb2   0.26160   0.08620   0.65680 ?
+Pb3   0.93060   0.24420   0.03060 ?
+Pb4   0.73070   0.41650   0.75130 ?
+Pb5   0.31710   0.45300   0.53160 ?
+Zn   0.00000   0.50000   0.00000 ?
+Cr1   0.95910   0.07520   0.35550 ?
+Cr2   0.56420   0.17580   0.15350 ?
+Cr3   0.44700   0.32460   0.83690 ?
+Si   0.02290   0.45160   0.65940 ?
+O1   0.75350   0.21930   0.48350   0.02685
+O2   0.10790   0.07780   0.44360   0.03014
+O3   0.99400   0.11840   0.73610   0.02432
+O4   0.96770   0.11200   0.22940   0.02989
+O5   0.51010   0.14070   0.27120   0.01950
+O6   0.43180   0.19920   0.05730   0.02736
+O7   0.77720   0.00820   0.02740   0.02609
+O8   0.54050   0.35850   0.26860   0.02229
+O9   0.59900   0.29690   0.91410   0.02368
+O10   0.45590   0.39850   0.74420   0.03103
+O11   0.23850   0.48150   0.97670   0.01229
+O12   0.47940   0.13600   0.71830   0.01950
+O13   0.20890   0.30530   0.51200   0.02026
+O14   0.04210   0.38590   0.76770   0.01520
+O15   0.99310   0.37170   0.25680   0.01165
+O16   0.84750   0.47880   0.61340   0.01494
+F   0.14250   0.24880   0.93180   0.01102
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.01649 0.01513 0.01553 -0.00885 -0.00294 0.00543
+Pb2 0.01182 0.01157 0.01515 -0.00600 -0.00229 0.00645
+Pb3 0.01429 0.01335 0.01592 -0.00799 -0.00327 0.00747
+Pb4 0.02143 0.02076 0.02252 -0.01285 -0.00915 0.01493
+Pb5 0.01979 0.02106 0.01864 -0.01485 -0.00980 0.01358
+Zn 0.01402 0.01394 0.01398 -0.00885 -0.00490 0.00815
+Cr1 0.01841 0.01572 0.01748 -0.01199 -0.00555 0.00882
+Cr2 0.01292 0.01394 0.01553 -0.00657 -0.00392 0.00950
+Cr3 0.01127 0.01216 0.01553 -0.00628 -0.00261 0.00645
+Si 0.00907 0.00297 0.00388 -0.00228 0.00033 0.00136

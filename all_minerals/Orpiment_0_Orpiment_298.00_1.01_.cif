@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Orpiment'
+loop_
+_publ_author_name
+'Mullen D J E'
+'Nowacki W'
+_journal_name_full 'Zeitschrift fur Kristallographie'
+_journal_volume 136 
+_journal_year 1972
+_journal_page_first 48
+_journal_page_last 65
+_publ_section_title
+;
+ Refinement of the crystal structures of realgar, AsS and orpiment, As2S3
+;
+_database_code_amcsd 0010733
+_chemical_compound_source 'Lengenbach quarry, Binnatal, Switzerland'
+_chemical_formula_sum 'As2 S3'
+_cell_length_a 11.475
+_cell_length_b 9.577
+_cell_length_c 4.256
+_cell_angle_alpha 90
+_cell_angle_beta 90.68
+_cell_angle_gamma 90
+_cell_volume 467.685
+_exptl_crystal_density_diffrn      3.494
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+As1   0.26469   0.19171   0.86274
+As2   0.48677   0.32122   0.36072
+S1   0.40151   0.12128   0.50811
+S2   0.34738   0.39723   0.01010
+S3   0.12234   0.29354   0.55896
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+As1 0.02481 0.02941 0.02560 -0.00139 -0.00851 0.00386
+As2 0.02648 0.02769 0.02551 -0.00161 -0.00836 -0.00349
+S1 0.03075 0.02398 0.02340 0.00930 0.00049 -0.00165
+S2 0.02975 0.02797 0.02808 0.00607 -0.01633 0.00124
+S3 0.02588 0.02923 0.02532 0.00406 -0.01138 0.01136

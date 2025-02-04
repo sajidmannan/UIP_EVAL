@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Naujakasite'
+loop_
+_publ_author_name
+'Khalilov A D'
+'Dzhafarov N K'
+'Mamedov K S'
+_journal_name_full 'Doklady Akademii Nauk Azerbaidzhanskoi SSR'
+_journal_volume 33 
+_journal_year 1977
+_journal_page_first 35
+_journal_page_last 40
+_publ_section_title
+;
+ Crystal structure of naujakasite - Na6{Fe[(Si,Al)8Si4O26]}
+;
+_database_code_amcsd 0012434
+_chemical_formula_sum 'Na6 Fe Al4 Si8 O26'
+_cell_length_a 15.086
+_cell_length_b 7.993
+_cell_length_c 10.515
+_cell_angle_alpha 90
+_cell_angle_beta 113.44
+_cell_angle_gamma 90
+_cell_volume 1163.291
+_exptl_crystal_density_diffrn      2.690
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na1   0.22990   0.50000   0.44030   1.00000   0.01849
+Na2   0.34290   0.50000   0.11240   1.00000   0.02090
+Na3   0.46440   0.00000   0.16480   1.00000   0.02166
+Fe   0.00000   0.00000   0.00000   1.00000   0.01203
+Al1   0.05840   0.19550   0.34110   0.50000   0.00709
+Si1   0.05840   0.19550   0.34110   0.50000   0.00709
+Al2   0.35360   0.19900   0.34950   0.50000   0.01077
+Si2   0.35360   0.19900   0.34950   0.50000   0.01077
+Si   0.15060   0.30800   0.13130   1.00000   0.00823
+O1   0.03620   0.00000   0.27620   1.00000   0.01950
+O2   0.10660   0.31160   0.25070   1.00000   0.01456
+O3   0.13890   0.19680   0.50670   1.00000   0.01963
+O4   0.10140   0.17920   0.01050   1.00000   0.01646
+O5   0.13150   0.50000   0.06480   1.00000   0.00899
+O6   0.26770   0.29270   0.21150   1.00000   0.01330
+O7   0.32380   0.00000   0.36590   1.00000   0.02115
+O8   0.45640   0.20750   0.32260   1.00000   0.01469

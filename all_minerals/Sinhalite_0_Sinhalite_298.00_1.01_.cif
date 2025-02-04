@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Sinhalite'
+loop_
+_publ_author_name
+'Hayward C L'
+'Angel R J'
+'Ross N L'
+_journal_name_full 'European Journal of Mineralogy'
+_journal_volume 6 
+_journal_year 1994
+_journal_page_first 313
+_journal_page_last 321
+_publ_section_title
+;
+ The structural redetermination and crystal chemistry
+ of sinhalite, MgAlBO4
+;
+_database_code_amcsd 0006536
+_chemical_formula_sum 'Al1.05 Mg.92 Fe.015 B O4'
+_cell_length_a 4.3320
+_cell_length_b 9.8819
+_cell_length_c 5.6813
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 243.207
+_exptl_crystal_density_diffrn      3.450
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+AlM1   0.00000   0.00000   0.00000   1.00000   0.00507
+AlM2  -0.01468   0.27606   0.25000   0.05000   0.00519
+MgM2  -0.01468   0.27606   0.25000   0.92000   0.00519
+FeM2  -0.01468   0.27606   0.25000   0.01500   0.00519
+B   0.40850   0.08740   0.25000   1.00000   0.00545
+O1   0.74100   0.08063   0.25000   1.00000   0.00557
+O2   0.25660   0.44414   0.25000   1.00000   0.00519
+O3   0.26470   0.14876   0.03850   1.00000   0.00557
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+AlM1 0.00561 0.00510 0.00441 -0.00059 -0.00062 -0.00003
+AlM2 0.00589 0.00465 0.00507 0.00015 0.00000 0.00000
+MgM2 0.00589 0.00465 0.00507 0.00015 0.00000 0.00000
+FeM2 0.00589 0.00465 0.00507 0.00015 0.00000 0.00000
+B 0.00551 0.00495 0.00605 -0.00043 0.00000 0.00000
+O1 0.00485 0.00628 0.00540 0.00000 0.00000 0.00000
+O2 0.00589 0.00450 0.00523 -0.00022 0.00000 0.00000
+O3 0.00618 0.00524 0.00523 -0.00033 -0.00025 0.00071

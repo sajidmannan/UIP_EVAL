@@ -1,0 +1,75 @@
+data_global
+_chemical_name_mineral 'Helvine'
+loop_
+_publ_author_name
+'Hassan I'
+'Grundy H D'
+_journal_name_full 'American Mineralogist'
+_journal_volume 70 
+_journal_year 1985
+_journal_page_first 186
+_journal_page_last 192
+_publ_section_title
+;
+ The crystal structures of helvite group minerals, (MnFeZn)8(Be6Si6O24)S2
+;
+_database_code_amcsd 0000973
+_chemical_formula_sum 'Mn4 O12 Be3 Si3 S'
+_cell_length_a 8.236
+_cell_length_b 8.236
+_cell_length_c 8.236
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 558.662
+_exptl_crystal_density_diffrn      3.300
+_symmetry_space_group_name_H-M 'P -4 3 n'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-z,x,-y'
+  '-y,z,-x'
+  '-x,y,-z'
+  '1/2+x,1/2-z,1/2-y'
+  '1/2+z,1/2-y,1/2-x'
+  '1/2+y,1/2-x,1/2-z'
+  '1/2+x,1/2+z,1/2+y'
+  '1/2+z,1/2+y,1/2+x'
+  '1/2+y,1/2+x,1/2+z'
+  '-z,-x,y'
+  '-y,-z,x'
+  '-x,-y,z'
+  'z,-x,-y'
+  'y,-z,-x'
+  'x,-y,-z'
+  '1/2-x,1/2+z,1/2-y'
+  '1/2-z,1/2+y,1/2-x'
+  '1/2-y,1/2+x,1/2-z'
+  '1/2-x,1/2-z,1/2+y'
+  '1/2-z,1/2-y,1/2+x'
+  '1/2-y,1/2-x,1/2+z'
+  'z,x,y'
+  'y,z,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Mn   0.16870   0.16870   0.16870
+O   0.13930   0.14000   0.41340
+Be   0.25000   0.00000   0.50000
+Si   0.25000   0.50000   0.00000
+S   0.00000   0.00000   0.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn 0.00820 0.00820 0.00820 0.00180 0.00180 0.00180
+O 0.00770 0.00830 0.00780 0.00310 0.00120 0.00040
+Be 0.00850 0.00740 0.00740 0.00000 0.00000 0.00000
+Si 0.00500 0.00440 0.00440 0.00000 0.00000 0.00000
+S 0.01400 0.01400 0.01400 0.00000 0.00000 0.00000

@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Esseneite'
+loop_
+_publ_author_name
+'Cosca M A'
+'Peacor D R'
+_journal_name_full 'American Mineralogist'
+_journal_volume 72 
+_journal_year 1987
+_journal_page_first 148
+_journal_page_last 156
+_publ_section_title
+;
+ Chemistry and structure of esseneite (CaFeAlSiO6), a new pyroxene
+ produced by pyrometamorphism
+;
+_database_code_amcsd 0001063
+_chemical_formula_sum 'Fe.61 Al1.34 Ca.97 Si1.08 O6'
+_cell_length_a 9.79
+_cell_length_b 8.822
+_cell_length_c 5.37
+_cell_angle_alpha 90
+_cell_angle_beta 105.81
+_cell_angle_gamma 90
+_cell_volume 446.248
+_exptl_crystal_density_diffrn      3.504
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+Fe1   0.00000   0.09420   0.75000   0.58000
+Al1   0.00000   0.09420   0.75000   0.42000
+Ca2   0.00000   0.69180   0.75000   0.97000
+Fe2   0.00000   0.69180   0.75000   0.03000
+SiT   0.21170   0.40570   0.77640   0.54000
+AlT   0.21170   0.40570   0.77640   0.46000
+O1   0.38880   0.41230   0.86590   1.00000
+O2   0.13660   0.24110   0.67990   1.00000
+O3   0.14680   0.48020   0.01240   1.00000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Fe1 0.00544 0.00398 0.00778 0.00000 0.00133 0.00000
+Al1 0.00544 0.00398 0.00778 0.00000 0.00133 0.00000
+Ca2 0.01367 0.00938 0.01274 0.00000 0.00301 0.00000
+Fe2 0.01367 0.00938 0.01274 0.00000 0.00301 0.00000
+SiT 0.00315 0.00233 0.00619 -0.00072 0.00141 -0.00092
+AlT 0.00315 0.00233 0.00619 -0.00072 0.00141 -0.00092
+O1 0.01326 0.01222 0.01219 -0.00034 0.00412 0.00092
+O2 0.01762 0.01617 0.01316 -0.00114 0.00508 0.00046
+O3 0.01349 0.01301 0.01994 0.00046 0.00464 -0.00139

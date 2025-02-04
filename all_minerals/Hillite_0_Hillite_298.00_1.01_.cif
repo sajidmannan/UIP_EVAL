@@ -1,0 +1,69 @@
+data_global
+_chemical_name_mineral 'Hillite'
+loop_
+_publ_author_name
+'Yakubovich O V'
+'Massa W'
+'Liferovich R P'
+'Gavrilenko P G'
+'Bogdanova A N'
+'Tuisku P'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 41 
+_journal_year 2003
+_journal_page_first 981
+_journal_page_last 988
+_publ_section_title
+;
+ Hillite, a new member of the fairfieldite group: Its description and crystal structure
+;
+_database_code_amcsd 0005879
+_chemical_formula_sum 'Ca2 (Zn.623 Mg.377) P2 O10 H4'
+_cell_length_a 5.736
+_cell_length_b 6.767
+_cell_length_c 5.462
+_cell_angle_alpha 97.41
+_cell_angle_beta 108.59
+_cell_angle_gamma 107.19
+_cell_volume 186.049
+_exptl_crystal_density_diffrn      3.178
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca   0.30260   0.76050   0.65360   1.00000   0.01650
+Zn   0.00000   0.00000   0.00000   0.62300   0.01590
+Mg   0.00000   0.00000   0.00000   0.37700   0.01590
+P   0.33530   0.24470   0.66550   1.00000   0.01450
+O1   0.33750   0.12980   0.89470   1.00000   0.01720
+O2   0.25720   0.07020   0.40780   1.00000   0.01820
+O3   0.15630   0.37380   0.63440   1.00000   0.01730
+O4   0.62220   0.38740   0.72020   1.00000   0.01760
+O5   0.94930   0.27730   0.06920   1.00000   0.01700
+H1   0.10500   0.38000   0.11800   1.00000   0.04500
+H2   0.85700   0.31400  -0.05300   1.00000   0.04500
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ca 0.01380 0.01620 0.01750 0.00350 0.00470 0.00500
+Zn 0.01390 0.01430 0.01780 0.00400 0.00430 0.00460
+Mg 0.01390 0.01430 0.01780 0.00400 0.00430 0.00460
+P 0.01260 0.01350 0.01570 0.00320 0.00390 0.00550
+O1 0.01430 0.01820 0.01970 0.00520 0.00620 0.00850
+O2 0.01550 0.01820 0.01730 0.00440 0.00340 0.00380
+O3 0.01640 0.01630 0.01950 0.00580 0.00610 0.00670
+O4 0.01370 0.01610 0.01940 0.00250 0.00380 0.00540
+O5 0.01390 0.01520 0.01920 0.00340 0.00360 0.00680

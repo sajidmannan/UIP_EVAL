@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Eudidymite'
+loop_
+_publ_author_name
+'Ito T'
+_journal_name_full 'American Mineralogist'
+_journal_volume 32 
+_journal_year 1947
+_journal_page_first 442
+_journal_page_last 453
+_publ_section_title
+;
+ The structure of eudidymite (HNaBeSi3O8)
+ Note: this structure does not make any sense
+;
+_database_code_amcsd 0000043
+_chemical_formula_sum 'Na Be Si3 O8 H'
+_cell_length_a 12.62
+_cell_length_b 7.37
+_cell_length_c 13.99
+_cell_angle_alpha 90
+_cell_angle_beta 103.72
+_cell_angle_gamma 90
+_cell_volume 1264.073
+_exptl_crystal_density_diffrn      2.577
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Na1   0.00000   0.03000   0.25000
+Na2   0.50000   0.03000   0.25000
+Be   0.42700   0.13000   0.32000
+Si1   0.06300   0.41500   0.31200
+Si2   0.56300   0.41500   0.31200
+Si3   0.24100   0.12200   0.24300
+O1   0.05200   0.03000   0.39600
+O2   0.55200   0.03000   0.39600
+O3   0.00000   0.27500   0.25000
+O4   0.50000   0.27500   0.25000
+O5   0.16100   0.03000   0.19000
+O6   0.66100   0.03000   0.19000
+O7   0.20800   0.31500   0.37200
+O8   0.70800   0.31500   0.37200
+O-H   0.30300   0.19000   0.49400

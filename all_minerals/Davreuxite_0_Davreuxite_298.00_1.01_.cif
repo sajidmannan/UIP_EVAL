@@ -1,0 +1,80 @@
+data_global
+_chemical_name_mineral 'Davreuxite'
+loop_
+_publ_author_name
+'Sahl K'
+'Jones P G'
+'Sheldrick G M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 69 
+_journal_year 1984
+_journal_page_first 783
+_journal_page_last 787
+_publ_section_title
+;
+ The crystal structure of davreuxite, MnAl6Si4O17(OH)2
+;
+_database_code_amcsd 0000955
+_chemical_formula_sum 'Mn Si4 Al6 O19 H2'
+_cell_length_a 9.518
+_cell_length_b 5.753
+_cell_length_c 12.040
+_cell_angle_alpha 90
+_cell_angle_beta 108
+_cell_angle_gamma 90
+_cell_volume 627.008
+_exptl_crystal_density_diffrn      3.364
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Mn   0.35160   0.25000   0.63510 ?
+Si1   0.81150   0.25000   0.47960 ?
+Si2   0.49620   0.25000   0.39110 ?
+Si3   0.68230   0.25000   0.09660 ?
+Si4   0.89920   0.25000   0.85740 ?
+Al1   0.31960   0.25000   0.90320 ?
+Al2   0.09060   0.25000   0.13400 ?
+Al3   0.93870   0.99530   0.30750 ?
+Al4   0.40260   0.00080   0.15470 ?
+O1   0.98440   0.25000   0.99150   0.01500
+O2   0.47420   0.25000   0.85480   0.01000
+O3   0.52790   0.25000   0.12680   0.01100
+O4   0.72300   0.25000   0.83750   0.01000
+O-H5   0.36560   0.25000   0.45350   0.01200
+O6   0.64990   0.25000   0.49920   0.01100
+O7   0.27860   0.25000   0.15010   0.01000
+O8   0.82900   0.25000   0.20970   0.01200
+O9   0.94320   0.25000   0.60470   0.01100
+O-H10   0.05550   0.25000   0.37900   0.00900
+O11   0.17200   0.25000   0.77330   0.01000
+O12   0.82480   0.01580   0.40840   0.00900
+O13   0.68290   0.01440   0.02230   0.00900
+O14   0.05930   0.98500   0.20170   0.01000
+O15   0.49060   0.02090   0.31410   0.01100
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Mn 0.01500 0.00400 0.02600 0.00000 0.00300 0.00000
+Si1 0.00900 0.00100 0.01300 0.00000 0.00200 0.00000
+Si2 0.01100 0.00200 0.01500 0.00000 0.00400 0.00000
+Si3 0.00800 0.00100 0.01400 0.00000 0.00200 0.00000
+Si4 0.00900 0.00300 0.01400 0.00000 0.00200 0.00000
+Al1 0.01000 0.00400 0.01500 0.00000 0.00100 0.00000
+Al2 0.00900 0.00200 0.01500 0.00000 0.00100 0.00000
+Al3 0.01000 0.00000 0.01300 0.00000 0.00300 0.00000
+Al4 0.00900 0.00100 0.01400 0.00000 0.00200 0.00100

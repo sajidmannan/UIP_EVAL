@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Loparite-(Ce)'
+loop_
+_publ_author_name
+'Mitchell R H'
+'Burns P C'
+'Chakhmouradian A R'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 38 
+_journal_year 2000
+_journal_page_first 145
+_journal_page_last 152
+_publ_section_title
+;
+ The crystal structures of loparite-(Ce)
+ Sample: Loparite K
+;
+_database_code_amcsd 0005639
+_chemical_compound_source 'Khibina complex, Russia'
+_chemical_formula_sum 'Na.54 La.09 Ce.17 Pr.01 Nd.03 Ca.09 Sr.04 (Ti.76 Nb.23 Ta.01) O3'
+_cell_length_a 5.5108
+_cell_length_b 5.5084
+_cell_length_c 7.7964
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 236.665
+_exptl_crystal_density_diffrn      4.747
+_symmetry_space_group_name_H-M 'P m n 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Na  -0.00340   0.50030   0.25000   0.54000   0.01790
+La  -0.00340   0.50030   0.25000   0.09000   0.01790
+Ce  -0.00340   0.50030   0.25000   0.17000   0.01790
+Pr  -0.00340   0.50030   0.25000   0.01000   0.01790
+Nd  -0.00340   0.50030   0.25000   0.03000   0.01790
+Ca  -0.00340   0.50030   0.25000   0.09000   0.01790
+Sr  -0.00340   0.50030   0.25000   0.04000   0.01790
+Ti   0.00000   0.00000   0.00000   0.76000   0.01170
+Nb   0.00000   0.00000   0.00000   0.23000   0.01170
+Ta   0.00000   0.00000   0.00000   0.01000   0.01170
+O1   0.05080  -0.00160   0.25000   1.00000   0.03440
+O2   0.24280   0.25100  -0.01810   1.00000   0.05970
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Ti 0.00970 0.01420 0.01120 0.00190 0.00000 -0.00130
+Nb 0.00970 0.01420 0.01120 0.00190 0.00000 -0.00130
+Ta 0.00970 0.01420 0.01120 0.00190 0.00000 -0.00130
+O1 0.02420 0.06220 0.01660 -0.00330 0.00000 0.00000
+O2 0.06100 0.05300 0.06520 -0.04350 -0.00490 0.01490

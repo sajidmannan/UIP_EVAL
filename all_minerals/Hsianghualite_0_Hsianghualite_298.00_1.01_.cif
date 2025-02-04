@@ -1,0 +1,73 @@
+data_global
+_chemical_name_mineral 'Hsianghualite'
+loop_
+_publ_author_name
+'Rastsvetaeva R K'
+'Rekhlova O Y'
+'Andrianov V I'
+'Malinovskii Y A'
+_journal_name_full 'Soviet Physics Doklady'
+_journal_volume 36 
+_journal_year 1991
+_journal_page_first 11
+_journal_page_last 13
+_publ_section_title
+;
+ Crystal structure of hsianghualite
+;
+_database_code_amcsd 0015620
+_chemical_compound_source 'China'
+_chemical_formula_sum 'Li2 Ca3 Be3 Si3 O12 F2'
+_cell_length_a 12.864
+_cell_length_b 12.864
+_cell_length_c 12.864
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 2128.767
+_exptl_crystal_density_diffrn      2.967
+_symmetry_space_group_name_H-M 'I 21 3'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,1/2+z'
+  '1/2-z,-x,1/2+y'
+  '-z,1/2-x,+y'
+  '-z,1/2+x,1/2-y'
+  '1/2-z,+x,-y'
+  '1/2+z,1/2-x,-y'
+  '+z,-x,1/2-y'
+  'z,x,y'
+  '1/2+z,1/2+x,1/2+y'
+  '1/2+y,1/2-z,-x'
+  '+y,-z,1/2-x'
+  '1/2-y,-z,1/2+x'
+  '-y,1/2-z,+x'
+  '-y,1/2+z,1/2-x'
+  '1/2-y,+z,-x'
+  'y,z,x'
+  '1/2+y,1/2+z,1/2+x'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,+y,-z'
+  '1/2+x,1/2-y,-z'
+  '+x,-y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,1/2-y,+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Li1   0.47690   0.47690   0.47690   0.02406
+Li2   0.22960   0.22960   0.22960   0.03293
+Ca1   0.08630   0.00000   0.25000   0.02318
+Ca2   0.50000   0.25000   0.34450   0.02394
+Be   0.37080   0.32960   0.09350   0.02406
+Si   0.12390   0.15530   0.42030   0.02115
+O1   0.10340   0.39340   0.01210   0.02292
+O2   0.06740   0.38240   0.20770   0.02254
+O3   0.35840   0.14950   0.26200   0.02356
+O4   0.36700   0.18240   0.45730   0.02406
+F1   0.39540   0.39540   0.39540   0.02786
+F2   0.14540   0.14540   0.14540   0.02660

@@ -1,0 +1,62 @@
+data_global
+_chemical_name_mineral 'Wattersite'
+loop_
+_publ_author_name
+'Groat L A'
+'Roberts A C'
+'Le Page Y'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 33 
+_journal_year 1995
+_journal_page_first 41
+_journal_page_last 46
+_publ_section_title
+;
+ The crystal structure of wattersite, Hg4HgCrO6
+;
+_database_code_amcsd 0005429
+_chemical_compound_source 'type sample from Clear Creek mercury mine, San Benito County, California, USA'
+_chemical_formula_sum 'Hg5 Cr O6'
+_cell_length_a 11.274
+_cell_length_b 11.669
+_cell_length_c 6.603
+_cell_angle_alpha 90
+_cell_angle_beta 98.19
+_cell_angle_gamma 90
+_cell_volume 859.807
+_exptl_crystal_density_diffrn      8.891
+_symmetry_space_group_name_H-M 'C 2/c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,1/2+z'
+  '1/2+x,1/2-y,1/2+z'
+  '-x,y,1/2-z'
+  '1/2-x,1/2+y,1/2-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Hg1   0.00000   0.00000   0.00000 ?
+Hg2   0.27290   0.07744   0.29880 ?
+Hg3   0.33630   0.27667   0.20990 ?
+Cr   0.50000   0.81670   0.25000   0.01330
+O1   0.35790   0.45080   0.14580   0.02640
+O2   0.50520   0.73350   0.04510   0.01920
+O3   0.37080   0.89410   0.20490   0.02680
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Hg1 0.01000 0.01490 0.01550 -0.00090 0.00160 0.00250
+Hg2 0.03080 0.01480 0.02860 -0.00700 0.00100 0.00360
+Hg3 0.02010 0.01340 0.02330 -0.00500 -0.00070 0.00140

@@ -1,0 +1,83 @@
+data_global
+_chemical_name_mineral 'Poudretteite'
+loop_
+_publ_author_name
+'Grice J D'
+'Ercit T S'
+'Van Velthuizen J'
+'Dunn P J'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 25 
+_journal_year 1987
+_journal_page_first 763
+_journal_page_last 766
+_publ_section_title
+;
+ Poudretteite, KNa2B3Si12O30, a new member of the osumilite group from
+ Mont Saint-Hilaire, Quebec, and its crystal structure
+;
+_database_code_amcsd 0005217
+_chemical_compound_source 'Mont Saint-Hilaire, Quebec, Canada'
+_chemical_formula_sum 'K Na2 B3 Si12 O30'
+_cell_length_a 10.253
+_cell_length_b 10.253
+_cell_length_c 13.503
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 1229.314
+_exptl_crystal_density_diffrn      2.525
+_symmetry_space_group_name_H-M 'P 6/m c c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x,x-y,1/2-z'
+  '-x+y,-x,-z'
+  'x-y,x,z'
+  '-y,-x,1/2+z'
+  'y,x,1/2-z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x+y,y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  'x,x-y,1/2+z'
+  '-x,-x+y,1/2-z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  '-y,-x,1/2-z'
+  '-y,x-y,-z'
+  'y,-x+y,z'
+  '-x+y,y,1/2+z'
+  'x-y,-y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+K   0.00000   0.00000   0.25000
+Na   0.33333   0.66667   0.25000
+B   0.00000   0.50000   0.25000
+Si   0.06952   0.33761   0.11333
+O1   0.08210   0.39210   0.00000
+O2   0.18920   0.28200   0.13330
+O3   0.10040   0.47100   0.18730
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+K 0.01640 0.01640 0.02050 0.00820 0.00000 0.00000
+Na 0.01050 0.01050 0.02350 0.00520 0.00000 0.00000
+B 0.00930 0.00810 0.00700 0.00470 0.00000 0.00000
+Si 0.00620 0.00740 0.00600 0.00360 0.00020 -0.00060
+O1 0.02250 0.01560 0.00540 0.01030 0.00000 0.00000
+O2 0.01100 0.01560 0.01650 0.00910 -0.00170 -0.00330
+O3 0.00970 0.01040 0.00770 0.00510 0.00120 -0.00290

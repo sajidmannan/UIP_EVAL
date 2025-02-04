@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Metanatrolite'
+loop_
+_publ_author_name
+'Joswig W'
+'Baur W H'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1995 
+_journal_year 1995
+_journal_page_first 26
+_journal_page_last 38
+_publ_section_title
+;
+ The extreme collapse of a framework of NAT topology:
+ the crystal structure of a metanatrolite (dehydrated natrolite) at 548 K
+ Sample: T = 548 K
+;
+_database_code_amcsd 0014871
+_chemical_compound_source 'Salesl, Czech Republic'
+_chemical_formula_sum 'Si2.691 Al1.817 O10 Na1.67'
+_cell_length_a 16.277
+_cell_length_b 17.045
+_cell_length_c 6.434
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90.08
+_cell_volume 1785.057
+_exptl_crystal_density_diffrn      2.404
+_symmetry_space_group_name_H-M 'F 2 2 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2+y,1/2+z'
+  '1/2+x,y,1/2+z'
+  '1/2+x,1/2+y,z'
+  '-x,-y,z'
+  '-x,1/2-y,1/2+z'
+  '1/2-x,-y,1/2+z'
+  '1/2-x,1/2-y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Si11   0.00000   0.00000  -0.01290   0.88800   0.04170
+Si12   0.25000   0.25000   0.24330   0.90000   0.04010
+Si21   0.13708   0.23414   0.61440   0.90300   0.04100
+Si22   0.11015   0.97849   0.36090   0.89400   0.04160
+Al11   0.02695   0.10535   0.60650   0.91900   0.04480
+Al12   0.26789   0.14297   0.86100   0.89800   0.04200
+O11   0.04160   0.06950   0.85600   1.00000   0.06400
+O12   0.23780   0.17200   0.10800   1.00000   0.06100
+O21   0.04340   0.20730   0.59600   1.00000   0.05500
+O22   0.20690  -0.04250   0.35000   1.00000   0.05400
+O31   0.09130   0.06910   0.40700   1.00000   0.05800
+O32   0.14780   0.30330   0.78030   1.00000   0.06800
+O41   0.07120  -0.07610   0.54070   1.00000   0.06300
+O42   0.19240   0.16060   0.68080   1.00000   0.06900
+O51   0.07210  -0.04090   0.13690   1.00000   0.05900
+O52   0.16840   0.26440   0.38490   1.00000   0.06300
+Na1   0.06110   0.18310   0.13100   0.85000   0.10800
+Na2   0.31000   0.06830   0.33200   0.41000   0.07800
+Na21   0.28440   0.07010   0.40900   0.41000   0.08600

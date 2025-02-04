@@ -1,0 +1,65 @@
+data_global
+_chemical_name_mineral 'Borodaevite'
+loop_
+_publ_author_name
+'Ilinca G'
+'Makovicky E'
+_journal_name_full 'Neues Jahrbuch fur Mineralogie, Monatshefte'
+_journal_volume 1997 
+_journal_year 1997
+_journal_page_first 337
+_journal_page_last 353
+_publ_section_title
+;
+ Note on the definition of borodayevite [Ag5(Fe,Pb)Bi7]13(Sb,Bi)2S17
+ Note: This structure is based on a theoretical construct, (4,8L)
+;
+_database_code_amcsd 0018804
+_chemical_compound_source 'Alyaskitovoye ore deposit, Yakutia'
+_chemical_formula_sum 'Ag2.33 Bi3.67 (Sb.75 Pb.25) S8'
+_cell_length_a 13.515
+_cell_length_b 4.098
+_cell_length_c 26.000
+_cell_angle_alpha 90
+_cell_angle_beta 93.00
+_cell_angle_gamma 90
+_cell_volume 1438.023
+_exptl_crystal_density_diffrn      6.549
+_symmetry_space_group_name_H-M 'C 2/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2+y,z'
+  'x,-y,z'
+  '1/2+x,1/2-y,z'
+  '-x,y,-z'
+  '1/2-x,1/2+y,-z'
+  '-x,-y,-z'
+  '1/2-x,1/2-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+AgMl   0.44200   0.50000   0.27410   0.33000   0.02533
+BiMl   0.44200   0.50000   0.27410   0.67000   0.02533
+SbM2   0.19960   0.00000   0.17190   0.75000   0.02533
+PbM2   0.19960   0.00000   0.17190   0.25000   0.02533
+BiM3   0.16630   0.50000   0.33800   1.00000   0.02533
+AgM4   0.39260   0.00000   0.40260   1.00000   0.02533
+BiM5   0.13780   0.50000   0.03460   0.67000   0.02533
+AgM5   0.13780   0.50000   0.03460   0.33000   0.02533
+BiM6   0.42300   0.50000   0.10040   1.00000   0.02533
+AgM7   0.12830   0.00000   0.46930   0.67000   0.02533
+BiM7   0.12830   0.00000   0.46930   0.33000   0.02533
+S1   0.07600   0.50000   0.25150   1.00000   0.02533
+S2   0.34880   0.50000   0.18690   1.00000   0.02533
+S3   0.03090   0.00000   0.37030   1.00000   0.02533
+S4   0.26140   0.50000   0.44250   1.00000   0.02533
+S5   0.00000   0.00000   0.00000   1.00000   0.02533
+S6   0.06080   0.50000   0.12110   1.00000   0.02533
+S7   0.00000   0.50000   0.50000   1.00000   0.02533
+S8   0.30420   0.00000   0.31380   1.00000   0.02533
+S9   0.27800   0.00000   0.06230   1.00000   0.02533

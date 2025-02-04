@@ -1,0 +1,91 @@
+data_global
+_chemical_name_mineral 'Londonite'
+loop_
+_publ_author_name
+'Gatta G D'
+'Vignola P'
+'McIntyre G J'
+'Diella V'
+_journal_name_full 'American Mineralogist'
+_journal_volume 95 
+_journal_year 2010
+_journal_page_first 1467
+_journal_page_last 1472
+_publ_section_title
+;
+ On the crystal chemistry of londonite [(Cs,K,Rb)Al4Be5B11O28]:
+ a single-crystal neutron diffraction study at 300 and 20 K
+ Note: neutron diffraction study at T = 300 K
+;
+_database_code_amcsd 0017717
+_chemical_compound_source 'Antsongombato Gem mine, Betafo district, Madagascar'
+_chemical_formula_sum 'Cs.34 K.34 Rb.17 Al4 (Be5.32 B10.68) O28'
+_cell_length_a 7.3098
+_cell_length_b 7.3098
+_cell_length_c 7.3098
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 390.586
+_exptl_crystal_density_diffrn      3.369
+_symmetry_space_group_name_H-M 'P -4 3 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-z,x,-y'
+  '-y,z,-x'
+  '-x,y,-z'
+  'x,-z,-y'
+  'z,-y,-x'
+  'y,-x,-z'
+  'x,z,y'
+  'z,y,x'
+  'y,x,z'
+  '-z,-x,y'
+  '-y,-z,x'
+  '-x,-y,z'
+  'z,-x,-y'
+  'y,-z,-x'
+  'x,-y,-z'
+  '-x,z,-y'
+  '-z,y,-x'
+  '-y,x,-z'
+  '-x,-z,y'
+  '-z,-y,x'
+  '-y,-x,z'
+  'z,x,y'
+  'y,z,x'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Cs   0.00000   0.00000   0.00000   0.34000   0.02300
+K   0.00000   0.00000   0.00000   0.34000   0.02300
+Rb   0.00000   0.00000   0.00000   0.17000   0.02300
+Al   0.36080   0.36080   0.36080   1.00000   0.00200
+Be1   0.24835   0.50000   0.00000   0.12000   0.00280
+B1   0.24835   0.50000   0.00000   0.88000   0.00280
+Be2   0.25833   0.74167   0.25833   0.97000   0.00360
+B2   0.25833   0.74167   0.25833   0.03000   0.00360
+O1   0.38103   0.61897   0.38103   1.00000   0.00230
+O2   0.36350   0.36350   0.09976   1.00000   0.00390
+O3   0.39923   0.86485   0.13515   1.00000   0.00400
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Al 0.00200 0.00200 0.00200 -0.00010 -0.00010 -0.00010
+Be1 0.00310 0.00300 0.00220 0.00000 0.00000 -0.00020
+B1 0.00310 0.00300 0.00220 0.00000 0.00000 -0.00020
+Be2 0.00360 0.00360 0.00360 0.00010 -0.00010 0.00010
+B2 0.00360 0.00360 0.00360 0.00010 -0.00010 0.00010
+O1 0.00230 0.00230 0.00230 0.00030 -0.00030 0.00030
+O2 0.00450 0.00450 0.00270 0.00070 0.00030 0.00030
+O3 0.00460 0.00370 0.00370 -0.00040 0.00040 0.00010

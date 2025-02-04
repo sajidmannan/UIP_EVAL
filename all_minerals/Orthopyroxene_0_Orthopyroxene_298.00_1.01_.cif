@@ -1,0 +1,92 @@
+data_global
+_chemical_name_mineral 'Orthopyroxene'
+loop_
+_publ_author_name
+'Domeneghetti M C'
+'Tazzoli V'
+'Ballaran T B'
+'Molin G M'
+_journal_name_full 'American Mineralogist'
+_journal_volume 81 
+_journal_year 1996
+_journal_page_first 842
+_journal_page_last 846
+_publ_section_title
+;
+ Orthopyroxene from the Serra de Mage meteorite: A structure-refinement procedure
+ for a Pbca phase coexisting with a C2/c exsolved phase
+ Sample Opx SDM N.13, natural
+;
+_database_code_amcsd 0001805
+_chemical_formula_sum 'Si1.986 Al.028 O6 Mg1.134 Fe.795 Mn.026 Cr.004 Ti.005 Ca.036'
+_cell_length_a 18.316
+_cell_length_b 8.907
+_cell_length_c 5.218
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 851.268
+_exptl_crystal_density_diffrn      3.555
+_symmetry_space_group_name_H-M 'P b c a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,1/2+z'
+  '-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,z'
+  '1/2+x,1/2-y,-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+SiA   0.22851   0.65945   0.55200   0.99300
+AlA   0.22851   0.65945   0.55200   0.01400
+SiB   0.47401   0.33650   0.79500   0.99300
+AlB   0.47401   0.33650   0.79500   0.01400
+O1A   0.31610   0.83800   0.04400   1.00000
+O1B   0.56250   0.33700   0.79570   1.00000
+O2A   0.31110   0.50030   0.05390   1.00000
+O2B   0.43410   0.48520   0.69760   1.00000
+O3A   0.19760   0.76860   0.32430   1.00000
+O3B   0.44730   0.20220   0.59350   1.00000
+Mg1   0.37537   0.65467   0.87430   0.89700
+Fe1   0.37537   0.65467   0.87430   0.09100
+Mn1   0.37537   0.65467   0.87430   0.00300
+Cr1   0.37537   0.65467   0.87430   0.00400
+Ti1   0.37537   0.65467   0.87430   0.00500
+Mg2   0.37799   0.48326   0.36791   0.23700
+Fe2   0.37799   0.48326   0.36791   0.70400
+Mn2   0.37799   0.48326   0.36791   0.02300
+Ca2   0.37799   0.48326   0.36791   0.03600
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+SiA 0.00660 0.00630 0.00340 -0.00060 -0.00040 0.00030
+AlA 0.00660 0.00630 0.00340 -0.00060 -0.00040 0.00030
+SiB 0.00640 0.00580 0.00310 0.00020 -0.00040 -0.00010
+AlB 0.00640 0.00580 0.00310 0.00020 -0.00040 -0.00010
+O1A 0.00770 0.00860 0.00430 -0.00020 0.00030 0.00010
+O1B 0.00570 0.00880 0.00450 -0.00010 -0.00180 0.00110
+O2A 0.00980 0.00810 0.00670 -0.00160 -0.00280 0.00040
+O2B 0.01120 0.00870 0.00710 0.00170 0.00040 0.00170
+O3A 0.00960 0.01240 0.00610 0.00160 -0.00030 0.00350
+O3B 0.01050 0.01130 0.00670 -0.00060 -0.00060 -0.00300
+Mg1 0.00840 0.00710 0.00350 -0.00010 -0.00060 0.00030
+Fe1 0.00840 0.00710 0.00350 -0.00010 -0.00060 0.00030
+Mn1 0.00840 0.00710 0.00350 -0.00010 -0.00060 0.00030
+Cr1 0.00840 0.00710 0.00350 -0.00010 -0.00060 0.00030
+Ti1 0.00840 0.00710 0.00350 -0.00010 -0.00060 0.00030
+Mg2 0.01030 0.00960 0.00420 -0.00120 -0.00220 0.00000
+Fe2 0.01030 0.00960 0.00420 -0.00120 -0.00220 0.00000
+Mn2 0.01030 0.00960 0.00420 -0.00120 -0.00220 0.00000
+Ca2 0.01030 0.00960 0.00420 -0.00120 -0.00220 0.00000

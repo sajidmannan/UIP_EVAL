@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Sidpietersite'
+loop_
+_publ_author_name
+'Cooper M A'
+'Hawthorne F C'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 37 
+_journal_year 1999
+_journal_page_first 1275
+_journal_page_last 1282
+_publ_section_title
+;
+ The structure topology of sidpietersite, Pb4(SO3S)O2(OH)2,
+ a novel thiosulfate structure
+;
+_database_code_amcsd 0005630
+_chemical_formula_sum 'Pb4 S2 O7 H2'
+_cell_length_a 7.455
+_cell_length_b 6.496
+_cell_length_c 11.207
+_cell_angle_alpha 114.33
+_cell_angle_beta 89.65
+_cell_angle_gamma 88.69
+_cell_volume 494.327
+_exptl_crystal_density_diffrn      6.765
+_symmetry_space_group_name_H-M 'P -1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb1   0.12210   0.74830   0.00630   0.01910
+Pb2   0.61980   0.59320   0.31160   0.02350
+Pb3   0.10300   0.62620   0.30480   0.02330
+Pb4   0.62750   0.74870   0.02750   0.01820
+S1   0.37040   0.12530   0.31600   0.01930
+S2   0.15090   0.20400   0.42750   0.03500
+O1   0.53000   0.18500   0.39000   0.04690
+O2   0.35200   0.24600   0.22900   0.04000
+O3   0.37200  -0.12700   0.23100   0.02850
+O4   0.12800   0.47500   0.08500   0.01910
+O5   0.61500   0.45000   0.08400   0.02380
+O-H1   0.87400   0.35700   0.24500   0.02280
+O-H2   0.84100   0.79600   0.25600   0.02510
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb1 0.01590 0.01520 0.02550 0.00070 -0.00020 0.00790
+Pb2 0.01680 0.03110 0.02190 0.00030 0.00220 0.01040
+Pb3 0.01800 0.03090 0.02000 -0.00300 -0.00110 0.00940
+Pb4 0.01460 0.01550 0.02390 -0.00030 0.00160 0.00770
+S1 0.02360 0.01350 0.01810 -0.00190 -0.00260 0.00380
+S2 0.02890 0.04220 0.03140 0.00330 0.00560 0.01300
+O1 0.02620 0.05800 0.06070 0.00130 0.01420 0.02920
+O2 0.05420 0.02590 0.04380 -0.00790 0.00550 0.01800
+O3 0.03760 0.01030 0.02270 -0.00690 -0.00790 -0.00850
+O4 0.02450 0.02230 0.00570 0.00860 0.00520 0.00150
+O5 0.02500 0.01300 0.03260 0.00740 0.00310 0.00880
+O-H1 0.01980 0.03970 0.01320 0.00210 0.00410 0.01540
+O-H2 0.03400 0.03390 0.01080 -0.00950 -0.01040 0.01220

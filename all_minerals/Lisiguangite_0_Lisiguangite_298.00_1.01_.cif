@@ -1,0 +1,61 @@
+data_global
+_chemical_name_mineral 'Lisiguangite'
+loop_
+_publ_author_name
+'Yu Z'
+'Cheng F'
+'Ma H'
+_journal_name_full 'Acta Geologica Sinica'
+_journal_volume 83 
+_journal_year 2009
+_journal_page_first 238
+_journal_page_last 244
+_publ_section_title
+;
+ Lisiguangite, CuPtBiS3, a new platinum-group mineral from the Yanshan Mountains,
+ Hebei, China
+;
+_database_code_amcsd 0011980
+_chemical_compound_source 'Yanshan Mountains, Hebei, China'
+_chemical_formula_sum 'Bi Pt Cu S3'
+_cell_length_a 7.7152
+_cell_length_b 12.838
+_cell_length_c 4.9248
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 487.790
+_exptl_crystal_density_diffrn      7.677
+_symmetry_space_group_name_H-M 'P 21 21 21'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,1/2+y,1/2-z'
+  '1/2+x,1/2-y,-z'
+  '1/2-x,-y,1/2+z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Bi   0.38170   0.13060   0.91500   0.02100
+Pt   0.13110   0.24990   0.50490   0.01600
+Cu   0.39040   0.44230   0.97000   0.02900
+S1   0.13300   0.41210   0.72700   0.02600
+S2   0.38100   0.29790   0.25200   0.02400
+S3   0.13600   0.08900   0.26700   0.02800
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Bi 0.01500 0.03700 0.00900 -0.00100 0.00000 -0.00100
+Pt 0.01100 0.02800 0.00900 0.00200 0.00000 -0.00100
+Cu 0.02300 0.05100 0.01400 -0.01200 -0.00100 0.00700
+S1 0.02900 0.02800 0.02300 0.00100 0.02200 -0.00200
+S2 0.01900 0.04500 0.00800 0.01700 -0.01900 0.00600
+S3 0.02300 0.04400 0.01600 -0.00100 0.00000 0.00300

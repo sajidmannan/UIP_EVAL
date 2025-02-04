@@ -1,0 +1,66 @@
+data_global
+_chemical_name_mineral 'Atheneite'
+loop_
+_publ_author_name
+'Bindi L'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 48 
+_journal_year 2010
+_journal_page_first 1149
+_journal_page_last 1155
+_publ_section_title
+;
+ Atheneite, [Pd2][As0.75Hg0.25], from Itabira, Minas Gerais, Brazil:
+ Crystal structure and revision of the chemical formula
+;
+_database_code_amcsd 0017797
+_chemical_compound_source 'Itabira, Minas Gerais, Brazil'
+_chemical_formula_sum 'Pd6 As2.196 Hg.804'
+_cell_length_a 6.813
+_cell_length_b 6.813
+_cell_length_c 3.4892
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 140.260
+_exptl_crystal_density_diffrn     11.417
+_symmetry_space_group_name_H-M 'P -6 2 m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,z'
+  '-x+y,-x,-z'
+  'y,x,-z'
+  '-y,x-y,z'
+  'x-y,-y,z'
+  'x,y,-z'
+  '-x,-x+y,-z'
+  '-x+y,-x,z'
+  'y,x,z'
+  '-y,x-y,-z'
+  'x-y,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Pd1   0.74240   0.00000   0.00000   1.00000   0.02030
+Pd2   0.39840   0.00000   0.50000   1.00000   0.02800
+As1   0.00000   0.00000   0.50000   1.00000   0.01800
+As2   0.33333   0.66667   0.00000   0.59800   0.02900
+Hg2   0.33333   0.66667   0.00000   0.40200   0.02900
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pd1 0.01260 0.02000 0.03100 0.00990 0.00000 0.00000
+Pd2 0.02200 0.05800 0.01600 0.02900 0.00000 0.00000
+As1 0.02200 0.02200 0.01100 0.01080 0.00000 0.00000
+As2 0.00660 0.00660 0.07300 0.00330 0.00000 0.00000
+Hg2 0.00660 0.00660 0.07300 0.00330 0.00000 0.00000

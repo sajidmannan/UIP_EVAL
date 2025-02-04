@@ -1,0 +1,51 @@
+data_global
+_chemical_name_mineral 'Wurtzite-4H'
+loop_
+_publ_author_name
+'Chao G Y'
+'Gault R A'
+_journal_name_full 'The Canadian Mineralogist'
+_journal_volume 36 
+_journal_year 1998
+_journal_page_first 775
+_journal_page_last 778
+_publ_section_title
+;
+ The occurence of two rare polytypes of wurtzite, 4H and 8H,
+ at Mont Saint-Hilaire, Quebec
+;
+_database_code_amcsd 0005544
+_chemical_compound_source 'Mont Saint-Hilaire, Quebec, Canada'
+_chemical_formula_sum 'Zn S'
+_cell_length_a 3.8227
+_cell_length_b 3.8227
+_cell_length_c 12.52
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 158.444
+_exptl_crystal_density_diffrn      4.085
+_symmetry_space_group_name_H-M 'P 63 m c'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x,-x+y,1/2+z'
+  'x-y,x,1/2+z'
+  '-y,-x,z'
+  '-y,x-y,z'
+  'x-y,-y,1/2+z'
+  '-x,-y,1/2+z'
+  'x,x-y,z'
+  '-x+y,-x,z'
+  'y,x,1/2+z'
+  'y,-x+y,1/2+z'
+  '-x+y,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+Zn1   0.00000   0.00000   0.00000
+Zn2   0.33333   0.66667   0.25000
+S1   0.00000   0.00000   0.18750
+S2   0.33333   0.66667   0.43750

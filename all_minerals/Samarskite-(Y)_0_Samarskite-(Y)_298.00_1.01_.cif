@@ -1,0 +1,71 @@
+data_global
+_chemical_name_mineral 'Samarskite-(Y)'
+loop_
+_publ_author_name
+'Britvin S N'
+'Pekov I V'
+'Krzhizhanovskaya M G'
+'Agakhanov A A'
+'Ternes B'
+'Schuller W'
+'Chukanov N V'
+_journal_name_full 'Physics and Chemistry of Minerals'
+_journal_volume 46 
+_journal_year 2019
+_journal_page_first 727
+_journal_page_last 741
+_publ_section_title
+;
+ Redefinition and crystal chemistry of samarskite-(Y), YFe3+Nb2O8:
+ cation-ordered niobate structurally related to layered double tungstates
+ Sample LS, natural
+;
+_database_code_amcsd 0021078
+_chemical_compound_source 'Laacher See, Eifel, Rhineland-Palatinate, Germany'
+_chemical_formula_sum 'Y.25 La.01 Ce.03 Nd.02 Sm.01 Gd.01 Dy.04 Ho.01 Er.02 Yb.03 Th.37 U.13 Ca.03 Fe.73 Mn.18 (Nb1.84 Ti.06 Zr.06 Ta.02 W.02) O8'
+_cell_length_a 9.8020
+_cell_length_b 5.6248
+_cell_length_c 5.2073
+_cell_angle_alpha 90
+_cell_angle_beta 93.406
+_cell_angle_gamma 90
+_cell_volume 286.594
+_exptl_crystal_density_diffrn      6.185
+_symmetry_space_group_name_H-M 'P 3 1 2'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,-y,1/2+z'
+  '-x,y,1/2-z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+YA   0.00000   0.26303   0.75000   0.25000   0.00623
+LaA   0.00000   0.26303   0.75000   0.01000   0.00623
+CeA   0.00000   0.26303   0.75000   0.03000   0.00623
+NdA   0.00000   0.26303   0.75000   0.02000   0.00623
+SmA   0.00000   0.26303   0.75000   0.01000   0.00623
+GdA   0.00000   0.26303   0.75000   0.01000   0.00623
+DyA   0.00000   0.26303   0.75000   0.04000   0.00623
+HoA   0.00000   0.26303   0.75000   0.01000   0.00623
+ErA   0.00000   0.26303   0.75000   0.02000   0.00623
+YbA   0.00000   0.26303   0.75000   0.03000   0.00623
+ThA   0.00000   0.26303   0.75000   0.37000   0.00623
+U4+A   0.00000   0.26303   0.75000   0.13000   0.00623
+CaA   0.00000   0.26303   0.75000   0.03000   0.00623
+Fe3+M   0.50000   0.33655   0.75000   0.73000   0.00650
+Mn2+M   0.50000   0.33655   0.75000   0.18000   0.00650
+NbB   0.73465   0.18404   0.28544   0.92000   0.00585
+TiB   0.73465   0.18404   0.28544   0.03000   0.00585
+ZrB   0.73465   0.18404   0.28544   0.03000   0.00585
+TaB   0.73465   0.18404   0.28544   0.01000   0.00585
+WB   0.73465   0.18404   0.28544   0.01000   0.00585
+O1   0.13815   0.06430   0.47640   1.00000   0.01010
+O2   0.13102   0.40590   0.09990   1.00000   0.01060
+O3   0.63878   0.12070   0.59870   1.00000   0.01060
+O4   0.61212   0.37720   0.09880   1.00000   0.01200

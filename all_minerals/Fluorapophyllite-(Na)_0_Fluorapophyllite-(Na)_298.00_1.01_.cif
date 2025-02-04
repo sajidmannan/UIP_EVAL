@@ -1,0 +1,63 @@
+data_global
+_chemical_name_mineral 'Fluorapophyllite-(Na)'
+loop_
+_publ_author_name
+'Miura Y'
+'Kato T'
+'Rucklidge J C'
+'Matsueda H'
+_journal_name_full 'American Mineralogist'
+_journal_volume 66 
+_journal_year 1981
+_journal_page_first 410
+_journal_page_last 423
+_publ_section_title
+;
+ Natroapophyllite, a new orthorhombic sodium analog of apophyllite
+ II. Crystal structure
+;
+_database_code_amcsd 0000830
+_chemical_compound_source 'the Sampo mine, Okayama, Japan'
+_chemical_formula_sum 'Si8 Ca4 Na F O28 H16'
+_cell_length_a 8.875
+_cell_length_b 8.881
+_cell_length_c 15.79
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 1244.550
+_exptl_crystal_density_diffrn      2.378
+_symmetry_space_group_name_H-M 'P n n m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '1/2+x,1/2-y,1/2+z'
+  '1/2-x,1/2+y,1/2-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  'x,y,-z'
+  '-x,-y,z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Si1   0.22890   0.08330   0.18900   0.01418
+Si2   0.41610   0.27080   0.31080   0.01431
+Ca1   0.11430   0.24650   0.00000   0.01520
+Ca2   0.75370   0.11480   0.00000   0.01583
+Na   0.00000   0.00000   0.50000   0.03597
+F   0.00000   0.00000   0.00000   0.02368
+O1   0.36710   0.13220   0.25130   0.01722
+O2   0.08820   0.19020   0.21620   0.02064
+O21   0.30990   0.41230   0.28390   0.02014
+O3   0.26960   0.09870   0.09210   0.02216
+O31   0.40160   0.23050   0.40790   0.02102
+O4   0.22860   0.45050   0.08870   0.03103
+O41   0.55020   0.22530   0.08900   0.03420
+H1   0.47000   0.17000   0.05000   0.02026
+H11   0.17000   0.54000   0.08000   0.01773
+H2   0.16000   0.43000   0.14000   0.01013
+H21   0.56000   0.31000   0.14000   0.04053

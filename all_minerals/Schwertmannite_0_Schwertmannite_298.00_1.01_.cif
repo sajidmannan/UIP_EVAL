@@ -1,0 +1,89 @@
+data_global
+_chemical_name_mineral 'Schwertmannite'
+loop_
+_publ_author_name
+'Fernandez-Martinez A'
+'Timon V'
+'Roman-Ross G'
+'Cuello G J'
+'Daniels J E'
+'Ayora C'
+_journal_name_full 'American Mineralogist'
+_journal_volume 95 
+_journal_year 2010
+_journal_page_first 1312
+_journal_page_last 1322
+_publ_section_title
+;
+ The structure of schwertmannite, a nanocrystalline iron oxyhydroxysulfate
+ Note: Model 1, positions of sulfate groups not determined
+;
+_database_code_amcsd 0018670
+_chemical_compound_source 'Monte Romero mine (Iberian Pyrite Belt), Spain'
+_chemical_formula_sum 'Fe O2'
+_cell_length_a 10.821
+_cell_length_b 6.002
+_cell_length_c 10.514
+_cell_angle_alpha 90.0
+_cell_angle_beta 92.6
+_cell_angle_gamma 90.0
+_cell_volume 682.157
+_exptl_crystal_density_diffrn      3.421
+_symmetry_space_group_name_H-M 'P 1'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Fe   0.34500   0.00000   0.15200   0.00200
+Fe   0.14000   0.00000   0.64500   0.00200
+O   0.28800   0.00000   0.32200   0.00900
+O   0.04300   0.00000   0.33600   0.00900
+O   0.33500   0.00000   0.69000   0.00900
+O   0.32500   0.00000   0.94600   0.00900
+Fe   0.85700   0.25000   0.61100   0.00200
+Fe   0.70000   0.25000   0.09300   0.00200
+O   0.78700   0.25000   0.79600   0.00900
+O   0.54000   0.25000   0.81000   0.00900
+O   0.86100   0.25000   0.15900   0.00900
+O   0.82400   0.25000   0.41900   0.00900
+Fe   0.66900   0.00000   0.81100   0.00200
+Fe   0.86600   0.00000   0.32000   0.00200
+O   0.71100   0.00000   0.62600   0.00900
+O   0.95600   0.00000   0.61200   0.00900
+O   0.66400   0.00000   0.26000   0.00900
+O   0.67400   0.00000   0.00200   0.00900
+Fe   0.15100   0.25000   0.35200   0.00200
+Fe   0.34400   0.25000   0.84000   0.00200
+O   0.21100   0.25000   0.15200   0.00900
+O   0.45600   0.25000   0.13800   0.00900
+O   0.16500   0.25000   0.78600   0.00900
+O   0.17500   0.25000   0.52700   0.00900
+Fe   0.33700   0.50000   0.14200   0.00200
+Fe   0.14400   0.50000   0.64800   0.00200
+O   0.28800   0.50000   0.32200   0.00900
+O   0.04300   0.50000   0.33600   0.00900
+O   0.33500   0.50000   0.69000   0.00900
+O   0.32500   0.50000   0.94600   0.00900
+Fe   0.84600   0.75000   0.60600   0.00200
+Fe   0.69600   0.75000   0.09500   0.00200
+O   0.78700   0.75000   0.79600   0.00900
+O   0.54200   0.75000   0.81000   0.00900
+O   0.85700   0.75000   0.15700   0.00900
+O   0.82400   0.75000   0.41900   0.00900
+Fe   0.66600   0.50000   0.80400   0.00200
+Fe   0.86500   0.50000   0.32200   0.00200
+O   0.71100   0.50000   0.62600   0.00900
+O   0.95600   0.50000   0.61200   0.00900
+O   0.66400   0.50000   0.26000   0.00900
+O   0.67400   0.50000   0.00200   0.00900
+Fe   0.15300   0.75000   0.33800   0.00200
+Fe   0.36300   0.75000   0.83500   0.00200
+O   0.21100   0.75000   0.15000   0.00900
+O   0.45600   0.75000   0.13800   0.00900
+O   0.16500   0.75000   0.78600   0.00900
+O   0.17500   0.75000   0.52800   0.00900

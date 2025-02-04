@@ -1,0 +1,72 @@
+data_global
+_chemical_name_mineral 'Fassinaite'
+loop_
+_publ_author_name
+'Bindi L'
+'Nestola F'
+'Kolitsch U'
+'Guastoni A'
+'Zorzi F'
+_journal_name_full 'Mineralogical Magazine'
+_journal_volume 75 
+_journal_year 2011
+_journal_page_first 2721
+_journal_page_last 2732
+_publ_section_title
+;
+ Fassinaite, Pb22+(S2O3)(CO3), the first mineral with coexisting
+ thiosulphate and carbonate groups: description and crystal structure
+ Note: Sample ID FAS-01
+;
+_database_code_amcsd 0018571
+_chemical_compound_source 'Trentini mine, Mount Naro, Vicenza Province, Veneto, Italy'
+_chemical_formula_sum 'Pb2 S2 C O6'
+_cell_length_a 16.320
+_cell_length_b 8.7616
+_cell_length_c 4.5809
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 90
+_cell_volume 655.020
+_exptl_crystal_density_diffrn      5.948
+_symmetry_space_group_name_H-M 'P n m a'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  'x,1/2-y,z'
+  '-x,1/2+y,-z'
+  '1/2-x,1/2+y,1/2+z'
+  '1/2+x,1/2-y,1/2-z'
+  '1/2+x,y,1/2-z'
+  '1/2-x,-y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+Pb   0.13583   0.48701   0.58420   0.02130
+S1   0.00310   0.25000   0.06900   0.01400
+C   0.71300   0.25000   0.38700   0.01900
+O1   0.06200   0.25000   0.82800   0.02100
+O2   0.27570   0.62300   0.50100   0.02100
+O3   0.01390   0.11100   0.25100   0.02100
+O4   0.18700   0.25000   0.38800   0.02300
+S2   0.88500   0.25000   0.92900   0.02000
+loop_
+_atom_site_aniso_label
+_atom_site_aniso_U_11
+_atom_site_aniso_U_22
+_atom_site_aniso_U_33
+_atom_site_aniso_U_12
+_atom_site_aniso_U_13
+_atom_site_aniso_U_23
+Pb 0.01780 0.01970 0.02650 -0.00100 -0.00150 -0.00090
+S1 0.01500 0.01900 0.00800 0.00000 -0.00900 0.00000
+C 0.01000 0.02000 0.03000 0.00000 -0.01000 0.00000
+O1 0.00400 0.04000 0.02000 0.00000 0.00800 0.00000
+O2 0.02300 0.02800 0.01200 -0.01900 0.01200 -0.01100
+O3 0.02000 0.02100 0.02300 0.00100 -0.00800 -0.00200
+O4 0.03000 0.02000 0.02000 0.00000 -0.01000 0.00000
+S2 0.01300 0.02500 0.02000 0.00000 -0.00300 0.00000

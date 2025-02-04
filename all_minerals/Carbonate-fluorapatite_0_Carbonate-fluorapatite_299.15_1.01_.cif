@@ -1,0 +1,56 @@
+data_global
+_chemical_name_mineral 'Carbonate-fluorapatite'
+loop_
+_publ_author_name
+'Perdikatsis B'
+_journal_name_full 'Materials Science Forum'
+_journal_volume 79 
+_journal_year 1991
+_journal_page_first 809
+_journal_page_last 814
+_publ_section_title
+;
+ X-ray powder diffraction study of francolite by the Rietveld method
+ Sample: T = 26 C
+ Note: Reported structure does not reproduce reported formula or bondlengths
+;
+_database_code_amcsd 0014385
+_chemical_compound_source 'Epirus, Greece'
+_chemical_formula_sum 'Ca2.019 P1.182 O8.832 F.165'
+_cell_length_a 9.3207
+_cell_length_b 9.3207
+_cell_length_c 6.8947
+_cell_angle_alpha 90
+_cell_angle_beta 90
+_cell_angle_gamma 120
+_cell_volume 518.732
+_exptl_crystal_density_diffrn      1.677
+_symmetry_space_group_name_H-M 'P 63/m'
+loop_
+_space_group_symop_operation_xyz
+  'x,y,z'
+  '-x+y,-x,1/2-z'
+  'x-y,x,1/2+z'
+  'y,-x+y,-z'
+  '-y,x-y,z'
+  'x,y,1/2-z'
+  '-x,-y,1/2+z'
+  'x-y,x,-z'
+  '-x+y,-x,z'
+  '-y,x-y,1/2-z'
+  'y,-x+y,1/2+z'
+  '-x,-y,-z'
+loop_
+_atom_site_label
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+_atom_site_U_iso_or_equiv
+Ca1   0.33333   0.66667   0.00090   0.31800   0.01014
+Ca2   0.24030   0.99020   0.25000   0.46100   0.01071
+P   0.39920   0.37100   0.25000   0.39400   0.00800
+O1   0.32950   0.48160   0.25000   0.45100   0.00982
+O2   0.58290   0.46430   0.25000   0.49300   0.01674
+O3   0.34320   0.26010   0.06680   1.00000   0.03003
+F   0.00000   0.00000   0.25000   0.16500   0.02962
